@@ -15,7 +15,8 @@ const processingProgress = {
   status: 'idle', // idle, processing, completed, error
   error: null,
   lastUpdated: Date.now(),
-  processingHistory: []
+  processingHistory: [],
+  processedFiles: new Set() // Track unique files that have been processed
 };
 
 /**
@@ -25,6 +26,7 @@ const processingProgress = {
 function getProgress() {
   return {
     ...processingProgress,
+    processedFiles: undefined, // Don't expose the Set in the API
     uptime: process.uptime(),
     currentTime: Date.now()
   };
@@ -42,25 +44,71 @@ function updateProgress(update) {
 }
 
 /**
- * Set total files to be processed
- * @param {number} total - Total number of files
+ * Reset all progress tracking
  */
-function setTotalFiles(total) {
-  updateProgress({
-    totalFiles: total,
-    currentFileNumber: 0
+function resetProgress() {
+  Object.assign(processingProgress, {
+    currentFile: null,
+    currentFileNumber: 0,
+    totalFiles: 0,
+    totalChunks: 0,
+    processedChunks: 0,
+    startTime: null,
+    estimatedEndTime: null,
+    status: 'idle',
+    error: null,
+    lastUpdated: Date.now(),
+    processingHistory: [],
+    processedFiles: new Set()
   });
   
-  logInfo(`Set total files to process: ${total}`);
+  logInfo("Progress tracking completely reset");
 }
 
 /**
- * Increment the current file number
+ * Set total files to be processed and reset counters
+ * @param {number} total - Total number of files
  */
-function incrementCurrentFile() {
+function setTotalFiles(total) {
+  // Complete reset of all progress tracking
+  resetProgress();
+  
+  // Set the new total
   updateProgress({
-    currentFileNumber: processingProgress.currentFileNumber + 1
+    totalFiles: total
   });
+  
+  logInfo(`Set total files to process: ${total} (progress tracking reset)`);
+}
+
+/**
+ * Track a file being processed
+ * @param {string} filePath - Path of the file being processed
+ * @returns {number} - The current file number
+ */
+function trackFileProcessing(filePath) {
+  // Get the basename for consistent tracking
+  const fileName = path.basename(filePath);
+  
+  // Only increment if this is a new file
+  if (!processingProgress.processedFiles.has(fileName)) {
+    // Add to the set of processed files
+    processingProgress.processedFiles.add(fileName);
+    
+    // Increment the counter (with safety check)
+    const newFileNumber = Math.min(processingProgress.currentFileNumber + 1, processingProgress.totalFiles);
+    
+    updateProgress({
+      currentFileNumber: newFileNumber,
+      currentFile: fileName
+    });
+    
+    logInfo(`Tracking file ${newFileNumber}/${processingProgress.totalFiles}: ${fileName}`);
+    return newFileNumber;
+  }
+  
+  // If already processed, return current number
+  return processingProgress.currentFileNumber;
 }
 
 // Path to models.json
@@ -214,12 +262,11 @@ function trackRequest(modelKey, inputTokens, outputTokens) {
 async function processFile(inputPath, outputPath, prompt, model) {
   const startTime = Date.now();
 
-  // Increment the current file counter
-  incrementCurrentFile();
+  // Track this file and get the current file number
+  const fileNumber = trackFileProcessing(inputPath);
 
   // Update progress to show we're starting
   updateProgress({
-    currentFile: path.basename(inputPath),
     status: 'processing',
     startTime,
     totalChunks: 0,
@@ -235,7 +282,7 @@ async function processFile(inputPath, outputPath, prompt, model) {
     console.log(`Output: ${outputPath}`);
     console.log(`Model: ${model || 'default'}`);
     console.log(`Prompt Length: ${prompt.length} chars`);
-    console.log(`File ${processingProgress.currentFileNumber} of ${processingProgress.totalFiles}`);
+    console.log(`File ${fileNumber} of ${processingProgress.totalFiles}`);
     console.log('='.repeat(80));
 
     // Read the file content
@@ -278,12 +325,8 @@ async function processFile(inputPath, outputPath, prompt, model) {
       });
     }
 
-
-
-
     // Save the response to the output file
     await fs.writeFile(outputPath, response, 'utf8');
-
 
     const duration = Date.now() - startTime;
     console.log(`✓ File processed successfully in ${duration}ms`);
@@ -298,7 +341,7 @@ async function processFile(inputPath, outputPath, prompt, model) {
       status: 'completed',
       error: null,
       processingHistory: [
-        ...processingProgress.processingHistory,
+        ...processingProgress.processingHistory.slice(-9), // Keep only the last 9 entries
         {
           file: path.basename(inputPath),
           model: selectedModel,
@@ -330,7 +373,7 @@ async function processFile(inputPath, outputPath, prompt, model) {
       status: 'error',
       error: error.message,
       processingHistory: [
-        ...processingProgress.processingHistory,
+        ...processingProgress.processingHistory.slice(-9), // Keep only the last 9 entries
         {
           file: path.basename(inputPath),
           model: model || 'default',
@@ -341,7 +384,6 @@ async function processFile(inputPath, outputPath, prompt, model) {
         }
       ]
     });
-
 
     logError(`Error processing file ${inputPath}: ${error.message}`);
     throw new Error(`Failed to process file: ${error.message}`);
@@ -611,5 +653,6 @@ module.exports = {
   processFile,
   getModelInfo,
   getProgress,
-  setTotalFiles
+  setTotalFiles,
+  resetProgress
 };

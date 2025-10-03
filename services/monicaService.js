@@ -6,6 +6,8 @@ const { logError, logInfo } = require('../utils/logger');
 // Global progress tracking object
 const processingProgress = {
   currentFile: null,
+  currentFileNumber: 0,
+  totalFiles: 0,
   totalChunks: 0,
   processedChunks: 0,
   startTime: null,
@@ -36,6 +38,28 @@ function updateProgress(update) {
   Object.assign(processingProgress, {
     ...update,
     lastUpdated: Date.now()
+  });
+}
+
+/**
+ * Set total files to be processed
+ * @param {number} total - Total number of files
+ */
+function setTotalFiles(total) {
+  updateProgress({
+    totalFiles: total,
+    currentFileNumber: 0
+  });
+  
+  logInfo(`Set total files to process: ${total}`);
+}
+
+/**
+ * Increment the current file number
+ */
+function incrementCurrentFile() {
+  updateProgress({
+    currentFileNumber: processingProgress.currentFileNumber + 1
   });
 }
 
@@ -190,6 +214,9 @@ function trackRequest(modelKey, inputTokens, outputTokens) {
 async function processFile(inputPath, outputPath, prompt, model) {
   const startTime = Date.now();
 
+  // Increment the current file counter
+  incrementCurrentFile();
+
   // Update progress to show we're starting
   updateProgress({
     currentFile: path.basename(inputPath),
@@ -208,6 +235,7 @@ async function processFile(inputPath, outputPath, prompt, model) {
     console.log(`Output: ${outputPath}`);
     console.log(`Model: ${model || 'default'}`);
     console.log(`Prompt Length: ${prompt.length} chars`);
+    console.log(`File ${processingProgress.currentFileNumber} of ${processingProgress.totalFiles}`);
     console.log('='.repeat(80));
 
     // Read the file content
@@ -582,5 +610,6 @@ async function callMonicaApi(fileContent, prompt, model) {
 module.exports = {
   processFile,
   getModelInfo,
-  getProgress
+  getProgress,
+  setTotalFiles
 };

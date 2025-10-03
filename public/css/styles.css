@@ -1,0 +1,442 @@
+/* Base Theme Variables */
+:root {
+  --primary-color: #4f46e5;
+  --accent-color: #6366f1;
+  --bg-color: #f9fafb;
+  --text-color: #1f2937;
+  --border-color: #e5e7eb;
+  --error-color: #dc2626;
+  --success-color: #059669;
+  --download-color: #0284c7;
+  --card-bg: #ffffff;
+  --modal-overlay: rgba(0, 0, 0, 0.5);
+  --drop-zone-bg: #f3f4f6;
+  --drop-zone-border: #d1d5db;
+  --drop-zone-text: #6b7280;
+  --drop-zone-active: #dbeafe;
+  --drop-zone-active-border: #93c5fd;
+}
+
+/* Dark Theme Overrides */
+[data-theme="dark"] {
+  --primary-color: #818cf8;
+  --accent-color: #a5b4fc;
+  --bg-color: #1e1e2f;
+  --text-color: #f3f4f6;
+  --border-color: #374151;
+  --error-color: #f87171;
+  --success-color: #34d399;
+  --download-color: #38bdf8;
+  --card-bg: #2c2c3c;
+  --modal-overlay: rgba(0, 0, 0, 0.7);
+  --drop-zone-bg: #2d3748;
+  --drop-zone-border: #4a5568;
+  --drop-zone-text: #a0aec0;
+  --drop-zone-active: #3730a3;
+  --drop-zone-active-border: #6366f1;
+}
+
+/* Apply Variables */
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: 'Segoe UI', Roboto, sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.container {
+  background-color: var(--card-bg);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  border-radius: 12px;
+  padding: 2rem;
+  transition: background-color 0.3s ease;
+}
+
+
+header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+header h1 {
+  font-size: 2rem;
+  color: var(--primary-color);
+}
+
+header p {
+  font-size: 1rem;
+  color: #6b7280;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+input[type="text"],
+select,
+textarea {
+  padding: 0.75rem;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  font-size: 1rem;
+  background-color: #fff;
+  transition: border-color 0.3s ease;
+}
+
+[data-theme="dark"] input[type="text"],
+[data-theme="dark"] select,
+[data-theme="dark"] textarea {
+  background-color: #3a3a4a;
+  color: var(--text-color);
+}
+
+input[type="text"]:focus,
+select:focus,
+textarea:focus {
+  border-color: var(--accent-color);
+  outline: none;
+}
+
+button {
+  padding: 0.75rem 1.5rem;
+  background-color: var(--primary-color);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: var(--accent-color);
+}
+
+button:disabled {
+  background-color: #9ca3af;
+  cursor: not-allowed;
+}
+
+.file-list,
+.model-info,
+#errorMessage {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #6b7280;
+}
+
+#errorMessage {
+  color: var(--error-color);
+  font-weight: 600;
+}
+
+.hidden {
+  display: none;
+}
+
+.spinner {
+  width: 32px;
+  height: 32px;
+  border: 4px solid #e5e7eb;
+  border-top: 4px solid var(--primary-color);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin: auto;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#results {
+  margin-top: 2rem;
+}
+
+#results h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: var(--primary-color);
+}
+
+footer {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 0.875rem;
+  color: #9ca3af;
+}
+
+#themeToggle {
+  background: none;
+  border: 2px solid var(--border-color);
+  color: var(--text-color);
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  margin-top: 0;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  transition: all 0.3s ease;
+}
+
+#themeToggle:hover {
+  border-color: var(--accent-color);
+  color: var(--accent-color);
+}
+
+/* Prompt Management Styles */
+.prompt-controls {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.prompt-dropdown {
+  flex-grow: 1;
+}
+
+.delete-prompt-btn {
+  background-color: var(--error-color);
+}
+
+.delete-prompt-btn:hover {
+  background-color: #b91c1c;
+}
+
+.save-prompt-btn {
+  background-color: var(--success-color);
+}
+
+.save-prompt-btn:hover {
+  background-color: #047857;
+}
+
+/* Modal Styles */
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: var(--modal-overlay);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modal-content {
+  background-color: var(--card-bg);
+  padding: 2rem;
+  border-radius: 12px;
+  width: 90%;
+  max-width: 500px;
+  position: relative;
+}
+
+.close-modal {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: var(--text-color);
+}
+
+.save-btn {
+  background-color: var(--success-color);
+  width: 100%;
+}
+
+.save-btn:hover {
+  background-color: #047857;
+}
+
+/* Drag and Drop Styles */
+.drop-zone {
+  border: 2px dashed var(--drop-zone-border);
+  border-radius: 8px;
+  background-color: var(--drop-zone-bg);
+  padding: 1.5rem;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  /* Reduced height from 150px to 100px */
+  min-height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.drop-zone:hover {
+  border-color: var(--accent-color);
+}
+
+.drop-zone.active {
+  border-color: var(--drop-zone-active-border);
+  background-color: var(--drop-zone-active);
+}
+
+.drop-zone-prompt {
+  color: var(--drop-zone-text);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem; /* Reduced gap from 0.5rem to 0.25rem */
+}
+
+.drop-icon {
+  font-size: 2rem; /* Reduced size from 2.5rem to 2rem */
+  margin-bottom: 0.25rem; /* Reduced margin from 0.5rem to 0.25rem */
+}
+
+.file-input {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.file-input-label {
+  display: inline-block;
+  padding: 0.4rem 0.8rem; /* Reduced padding */
+  background-color: var(--primary-color);
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: normal;
+  margin-top: 0.25rem; /* Reduced margin from 0.5rem to 0.25rem */
+  font-size: 0.9rem; /* Slightly smaller font */
+}
+
+.file-input-label:hover {
+  background-color: var(--accent-color);
+}
+
+/* File List Styles */
+.file-list {
+  margin-top: 1rem;
+}
+
+.file-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem;
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+  background-color: var(--card-bg);
+}
+
+.file-name {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.remove-file {
+  cursor: pointer;
+  color: var(--error-color);
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 0 0.5rem;
+}
+
+.remove-file:hover {
+  color: #b91c1c;
+}
+
+/* Download All Button Styles */
+.download-all-container {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.download-all-btn {
+  background-color: var(--download-color);
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: background-color 0.3s ease;
+}
+
+.download-all-btn:hover {
+  background-color: #0369a1;
+}
+
+.download-icon {
+  font-size: 1.2rem;
+}
+
+/* Server Folder Input Section */
+.server-folder-input {
+  margin-bottom: 1.5rem;
+  padding: 1.25rem;
+  background-color: var(--drop-zone-bg);
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+  transition: all 0.3s ease;
+}
+
+.server-folder-input:hover {
+  border-color: var(--accent-color);
+}
+
+.server-folder-input label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  color: var(--text-color);
+  font-size: 1rem;
+}
+
+.server-folder-input input[type="text"] {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  font-size: 1rem;
+  font-family: 'Courier New', Consolas, monospace;
+  background-color: #fff;
+  color: var(--text-color);
+  transition: border-color 0.3s ease;
+}
+
+[data-theme="dark"] .server-folder-input input[type="text"] {
+  background-color: #3a3a4a;
+  color: var(--text-color);
+}
+
+.server-folder-input input[type="text"]:focus {
+  outline: none;
+  border-color: var(--accent-color);
+}
+
+.server-folder-input input[type="text"]::placeholder {
+  color: var(--drop-zone-text);
+  font-style: italic;
+}

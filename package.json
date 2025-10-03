@@ -1,0 +1,24 @@
+{
+  "name": "monica-file-processor",
+  "version": "1.0.0",
+  "description": "A web app that processes text files with Monica.im API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "monica",
+    "file-processor",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}

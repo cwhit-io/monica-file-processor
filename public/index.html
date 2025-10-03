@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monica File Processor</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <button id="themeToggle" class="theme-toggle">🌙 Dark Mode</button>
+            <h1>Monica Bulk File Processor</h1>
+        </header>
+        <main>
+            
+            <form id="uploadForm" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="files">Upload files or specify server folder paths:</label>
+                    
+                    <!-- Server Folder Path -->
+                    <div class="form-group">
+                    <label for="serverFolderPath">
+                        <i class="fas fa-folder"></i> Server Folder Path
+                    </label>
+                    <div style="display: flex; gap: 10px; align-items: center;">
+                        <select id="serverFolderDropdown" class="form-control" style="flex: 1;">
+                        <option value="">-- Select a folder --</option>
+                        </select>
+                        <button type="button" id="refreshFoldersBtn" class="btn btn-secondary" style="white-space: nowrap;">
+                        <i class="fas fa-sync-alt"></i> Refresh
+                        </button>
+                    </div>
+                    <small class="form-text">
+                        Select a folder from server-folders/ directory, or leave empty to upload files manually
+                    </small>
+                    
+                    <!-- Advanced: Manual path input (collapsible) -->
+                    <details style="margin-top: 10px; margin-bottom: 20px;">
+                        <summary style="cursor: pointer; color: #666; font-size: 0.9em;">
+                        <i class="fas fa-cog"></i> Advanced: Enter custom path
+                        </summary>
+                        <input
+                        type="text"
+                        id="serverFolderPath"
+                        class="form-control"
+                        placeholder="e.g., server-folders/batch1 or custom/path"
+                        style="margin-top: 10px;"
+                        />
+                        <small class="form-text">
+                        Enter a custom relative path from the project root
+                        </small>
+                    </details>
+                    </div>
+                    <div class="form-group"></div>
+
+
+    <!-- Drag and drop -->
+    <div id="dropZone" class="drop-zone">
+        <div class="drop-zone-prompt">
+            <div class="drop-icon">📄 Drag & drop files here</div>
+            <label for="files" class="file-input-label">Browse Files</label>
+        </div>
+        <input type="file" id="files" name="files" multiple accept=".txt,.md,.srt" class="file-input">
+    </div>
+    <div id="fileList" class="file-list"></div>
+</div>
+
+
+                <div class="form-group">
+                    <label for="model">Select AI Model:</label>
+                    <select id="model" name="model">
+                        <option value="">Loading models...</option>
+                    </select>
+                    <div id="modelInfo" class="model-info"></div>
+                </div>
+
+                <div class="form-group">
+                    <label for="prompt">Prompt for AI:</label>
+                    <div class="prompt-controls">
+                        <select id="savedPrompts" class="prompt-dropdown">
+                            <option value="">-- Select Saved Prompt --</option>
+                        </select>
+                        <button type="button" id="deletePromptBtn" class="delete-prompt-btn" disabled>Delete</button>
+                        <button type="button" id="openSaveModalBtn" class="save-prompt-btn">Save Current</button>
+                    </div>
+                    <textarea id="prompt" name="prompt" rows="24" placeholder="Enter your prompt here..." required></textarea>
+                </div>
+
+                <div class="form-group">
+                    <button type="submit" id="submitBtn">Process Files</button>
+                </div>
+            </form>
+
+            <div id="processingStatus" class="hidden">
+                <div class="spinner"></div>
+                <p>Processing your files. Please wait...</p>
+            </div>
+
+            <div id="results" class="hidden">
+                <h2>Processed Files</h2>
+                <div id="resultsList"></div>
+            </div>
+
+            <div id="errorMessage" class="hidden error-message"></div>
+        </main>
+
+        <!-- Save Prompt Modal -->
+        <div id="savePromptModal" class="modal hidden">
+            <div class="modal-content">
+                <span id="closeModal" class="close-modal">&times;</span>
+                <h2>Save Prompt</h2>
+                <form id="savePromptForm">
+                    <div class="form-group">
+                        <label for="promptName">Prompt Name:</label>
+                        <input type="text" id="promptName" name="promptName" placeholder="Enter a name for this prompt" required>
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" class="save-btn">Save</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <footer>
+            <p>&copy; 2025 Monica File Processor</p>
+        </footer>
+    </div>
+
+    <script src="js/main.js"></script>
+    <script src="js/theme.js"></script>
+    <script src="js/prompts.js"></script>
+    <script src="js/serverFolderHandler.js"></script>
+</body>
+</html>

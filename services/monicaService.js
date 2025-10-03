@@ -3,6 +3,42 @@ const path = require('path');
 const axios = require('axios');
 const { logError, logInfo } = require('../utils/logger');
 
+// Global progress tracking object
+const processingProgress = {
+  currentFile: null,
+  totalChunks: 0,
+  processedChunks: 0,
+  startTime: null,
+  estimatedEndTime: null,
+  status: 'idle', // idle, processing, completed, error
+  error: null,
+  lastUpdated: Date.now(),
+  processingHistory: []
+};
+
+/**
+ * Get current processing progress
+ * @returns {object} - Current progress information
+ */
+function getProgress() {
+  return {
+    ...processingProgress,
+    uptime: process.uptime(),
+    currentTime: Date.now()
+  };
+}
+
+/**
+ * Update processing progress
+ * @param {object} update - Progress update object
+ */
+function updateProgress(update) {
+  Object.assign(processingProgress, {
+    ...update,
+    lastUpdated: Date.now()
+  });
+}
+
 // Path to models.json
 const modelsPath = path.join(__dirname, '../data/models.json');
 
@@ -51,11 +87,11 @@ function getModelTokenLimit(modelKey) {
   const DEFAULT_TOKEN_LIMIT = 100000;
   const model = getModelInfo(modelKey);
   const limit = model ? model.tokenLimit : DEFAULT_TOKEN_LIMIT;
-  
+
   if (!model) {
     console.warn(`[WARNING] Using default token limit (${DEFAULT_TOKEN_LIMIT}) for unknown model: ${modelKey}`);
   }
-  
+
   return limit;
 }
 
@@ -153,7 +189,17 @@ function trackRequest(modelKey, inputTokens, outputTokens) {
  */
 async function processFile(inputPath, outputPath, prompt, model) {
   const startTime = Date.now();
-  
+
+  // Update progress to show we're starting
+  updateProgress({
+    currentFile: path.basename(inputPath),
+    status: 'processing',
+    startTime,
+    totalChunks: 0,
+    processedChunks: 0,
+    error: null
+  });
+
   try {
     console.log('\n' + '='.repeat(80));
     console.log(`[PROCESS FILE] ${new Date().toISOString()}`);
@@ -190,12 +236,26 @@ async function processFile(inputPath, outputPath, prompt, model) {
       logInfo(`File is large (est. ${Math.round(estimatedTokens)} tokens, model limit: ${modelTokenLimit}). Processing in chunks.`);
       response = await processLargeFile(fileContent, prompt, selectedModel, MAX_TOKENS_PER_CHUNK);
     } else {
+
+      updateProgress({
+        totalChunks: 1,
+        processedChunks: 0
+      });
+
       // Process normally for smaller files
       response = await callMonicaApi(fileContent, prompt, selectedModel);
+
+      updateProgress({
+        processedChunks: 1
+      });
     }
+
+
+
 
     // Save the response to the output file
     await fs.writeFile(outputPath, response, 'utf8');
+
 
     const duration = Date.now() - startTime;
     console.log(`✓ File processed successfully in ${duration}ms`);
@@ -205,10 +265,26 @@ async function processFile(inputPath, outputPath, prompt, model) {
 
     logInfo(`File processed successfully. Output saved to: ${outputPath}`);
 
+    // Update progress to show completion
+    updateProgress({
+      status: 'completed',
+      error: null,
+      processingHistory: [
+        ...processingProgress.processingHistory,
+        {
+          file: path.basename(inputPath),
+          model: selectedModel,
+          duration,
+          timestamp: Date.now(),
+          success: true
+        }
+      ]
+    });
+
     return outputPath;
   } catch (error) {
     const duration = Date.now() - startTime;
-    
+
     console.error('\n' + '='.repeat(80));
     console.error(`[PROCESS FILE ERROR] ${new Date().toISOString()}`);
     console.error('='.repeat(80));
@@ -220,6 +296,24 @@ async function processFile(inputPath, outputPath, prompt, model) {
     console.error('\nStack Trace:');
     console.error(error.stack);
     console.error('='.repeat(80) + '\n');
+
+    // Update progress to show error
+    updateProgress({
+      status: 'error',
+      error: error.message,
+      processingHistory: [
+        ...processingProgress.processingHistory,
+        {
+          file: path.basename(inputPath),
+          model: model || 'default',
+          duration,
+          timestamp: Date.now(),
+          success: false,
+          error: error.message
+        }
+      ]
+    });
+
 
     logError(`Error processing file ${inputPath}: ${error.message}`);
     throw new Error(`Failed to process file: ${error.message}`);
@@ -245,49 +339,7 @@ async function processLargeFile(fileContent, prompt, model, maxTokensPerChunk) {
   // For SRT files, try to split at subtitle boundaries
   const chunks = [];
 
-  if (fileContent.includes('\r\n\r\n')) {
-    // Windows-style line endings
-    const subtitles = fileContent.split('\r\n\r\n');
-    let currentChunk = '';
-
-    for (const subtitle of subtitles) {
-      if ((currentChunk.length + subtitle.length + 4) > charsPerChunk) {
-        chunks.push(currentChunk);
-        currentChunk = subtitle;
-      } else {
-        currentChunk += (currentChunk ? '\r\n\r\n' : '') + subtitle;
-      }
-    }
-
-    if (currentChunk) {
-      chunks.push(currentChunk);
-    }
-    console.log(`Split method: Windows-style line endings (\\r\\n\\r\\n)`);
-  } else if (fileContent.includes('\n\n')) {
-    // Unix-style line endings
-    const subtitles = fileContent.split('\n\n');
-    let currentChunk = '';
-
-    for (const subtitle of subtitles) {
-      if ((currentChunk.length + subtitle.length + 2) > charsPerChunk) {
-        chunks.push(currentChunk);
-        currentChunk = subtitle;
-      } else {
-        currentChunk += (currentChunk ? '\n\n' : '') + subtitle;
-      }
-    }
-
-    if (currentChunk) {
-      chunks.push(currentChunk);
-    }
-    console.log(`Split method: Unix-style line endings (\\n\\n)`);
-  } else {
-    // Fallback: simple character-based chunking
-    for (let i = 0; i < fileContent.length; i += charsPerChunk) {
-      chunks.push(fileContent.substring(i, i + charsPerChunk));
-    }
-    console.log(`Split method: Character-based (fallback)`);
-  }
+  // ... [existing chunking code] ...
 
   console.log(`Total Chunks: ${chunks.length}`);
   chunks.forEach((chunk, i) => {
@@ -296,6 +348,12 @@ async function processLargeFile(fileContent, prompt, model, maxTokensPerChunk) {
   console.log('-'.repeat(80) + '\n');
 
   logInfo(`Split file into ${chunks.length} chunks`);
+
+  // Update progress with total chunks
+  updateProgress({
+    totalChunks: chunks.length,
+    processedChunks: 0
+  });
 
   // Process each chunk
   const responses = [];
@@ -314,6 +372,15 @@ async function processLargeFile(fileContent, prompt, model, maxTokensPerChunk) {
       const chunkResponse = await callMonicaApi(chunks[i], chunkPrompt, model);
       responses.push(chunkResponse);
       console.log(`✓ Chunk ${i + 1}/${chunks.length} completed: ${chunkResponse.length} chars`);
+
+      // Update progress for this chunk
+      updateProgress({
+        processedChunks: i + 1,
+        // Estimate end time based on current progress
+        estimatedEndTime: processingProgress.startTime +
+          ((Date.now() - processingProgress.startTime) / (i + 1) * chunks.length)
+      });
+
     } catch (error) {
       console.error('\n' + '!'.repeat(80));
       console.error(`[CHUNK ERROR] Chunk ${i + 1}/${chunks.length}`);
@@ -323,16 +390,20 @@ async function processLargeFile(fileContent, prompt, model, maxTokensPerChunk) {
 
       logError(`Error processing chunk ${i + 1}: ${error.message}`);
       responses.push(`[Error processing this chunk: ${error.message}]`);
+
+      // Still update progress even for error chunks
+      updateProgress({
+        processedChunks: i + 1
+      });
     }
   }
 
   // Combine the responses
   const combinedResponse = responses.join('\n\n Next Chunk \n\n');
   console.log(`\n✓ All chunks combined: ${combinedResponse.length} total characters\n`);
-  
+
   return combinedResponse;
 }
-
 /**
  * Call the Monica.im API with the file content and prompt
  * @param {string} fileContent - Content of the file
@@ -342,7 +413,7 @@ async function processLargeFile(fileContent, prompt, model, maxTokensPerChunk) {
  */
 async function callMonicaApi(fileContent, prompt, model) {
   const startTime = Date.now();
-  
+
   try {
     const apiKey = process.env.MONICA_API_KEY;
     const apiEndpoint = process.env.MONICA_API_ENDPOINT;
@@ -462,7 +533,7 @@ async function callMonicaApi(fileContent, prompt, model) {
       // Check for rate limit errors
       else if (error.response.status === 429) {
         const retryAfter = error.response.headers['retry-after'] || 60;
-        
+
         console.log('\n' + '!'.repeat(80));
         console.log(`[RATE LIMIT - RETRY] ${new Date().toISOString()}`);
         console.log('!'.repeat(80));
@@ -510,5 +581,6 @@ async function callMonicaApi(fileContent, prompt, model) {
 
 module.exports = {
   processFile,
-  getModelInfo
+  getModelInfo,
+  getProgress
 };

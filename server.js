@@ -6,6 +6,8 @@ const modelRoutes = require('./routes/modelRoutes');
 const promptRoutes = require('./routes/promptRoutes');
 const { cleanup } = require('./utils/cleanup');
 const { logInfo } = require('./utils/logger');
+const progressRoutes = require('./routes/progressRoutes');
+
 
 const app = express();
 const PORT = process.env.PORT || 3003;
@@ -14,6 +16,8 @@ const PORT = process.env.PORT || 3003;
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static(path.join(__dirname, 'public')));
+app.use(progressRoutes);
+
 
 // Request logging middleware (optional but helpful)
 app.use((req, res, next) => {
@@ -43,7 +47,7 @@ app.use((req, res, next) => {
 app.use((err, req, res, next) => {
   const timestamp = new Date().toISOString();
   const statusCode = err.status || err.statusCode || 500;
-  
+
   // Console error output with details
   console.error('\n' + '='.repeat(80));
   console.error(`[ERROR] ${timestamp}`);
@@ -51,19 +55,19 @@ app.use((err, req, res, next) => {
   console.error(`Status Code: ${statusCode}`);
   console.error(`Request: ${req.method} ${req.url}`);
   console.error(`Message: ${err.message}`);
-  
+
   if (req.body && Object.keys(req.body).length > 0) {
     console.error(`Request Body:`, JSON.stringify(req.body, null, 2));
   }
-  
+
   if (req.params && Object.keys(req.params).length > 0) {
     console.error(`Request Params:`, JSON.stringify(req.params, null, 2));
   }
-  
+
   if (req.query && Object.keys(req.query).length > 0) {
     console.error(`Request Query:`, JSON.stringify(req.query, null, 2));
   }
-  
+
   console.error('\nStack Trace:');
   console.error(err.stack);
   console.error('='.repeat(80) + '\n');
@@ -116,7 +120,7 @@ setInterval(() => {
 // Graceful shutdown handler
 const gracefulShutdown = async (signal) => {
   console.log(`\n${signal} received. Starting graceful shutdown...`);
-  
+
   try {
     // Run final cleanup
     await runCleanup('shutdown');
@@ -124,7 +128,7 @@ const gracefulShutdown = async (signal) => {
   } catch (err) {
     console.error('⚠ Final cleanup failed:', err.message);
   }
-  
+
   console.log('✓ Server shut down gracefully');
   process.exit(0);
 };

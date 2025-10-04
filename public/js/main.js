@@ -14,6 +14,7 @@ const modelInfo = document.getElementById('modelInfo');
 // Global model data and results tracking
 let modelsData = [];
 let currentTimestampFolder = null;
+let isSubmitting = false;
 
 // Event Listeners
 document.addEventListener('DOMContentLoaded', () => {
@@ -221,9 +222,16 @@ function removeFile(e) {
 async function handleFormSubmit(e) {
   e.preventDefault();
 
+  if (isSubmitting) {
+    return;
+  }
+  isSubmitting = true;
+
   resultsList.innerHTML = '';
   errorMessage.classList.add('hidden');
   errorMessage.textContent = '';
+
+  submitBtn.disabled = true;
 
   const formData = new FormData();
   const prompt = document.getElementById('prompt').value.trim();
@@ -264,12 +272,12 @@ async function handleFormSubmit(e) {
   // Validate that we have at least one source
   if (!serverFolderPath && files.length === 0) {
     showError('Please upload files or specify a server folder path.');
+    isSubmitting = false;
     return;
   }
 
   processingStatus.classList.remove('hidden');
   results.classList.add('hidden');
-  submitBtn.disabled = true;
 
   try {
     const response = await fetch('/api/process-files', {
@@ -290,6 +298,7 @@ async function handleFormSubmit(e) {
   } finally {
     processingStatus.classList.add('hidden');
     submitBtn.disabled = false;
+    isSubmitting = false;
   }
 }
 

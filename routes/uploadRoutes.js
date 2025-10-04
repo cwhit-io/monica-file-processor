@@ -4,7 +4,7 @@ const multer = require('multer');
 const path = require('path');
 const fs = require('fs');
 const archiver = require('archiver');
-const { processFile, setTotalFiles } = require('../services/monicaService');
+const { processFile, setTotalFiles, cancelProcessing, getProgress } = require('../services/monicaService');
 const { ensureDirectoryExists } = require('../utils/fileUtils');
 const { logInfo, logError } = require('../utils/logger');
 // Set up multer storage
@@ -234,6 +234,17 @@ router.post('/process-files', upload.array('files'), handleMulterError, async (r
       });
       filesToProcess.push(...req.files);
     }
+    // Deduplicate files based on originalname to prevent processing the same file twice
+    const seenFiles = new Map();
+    filesToProcess = filesToProcess.filter(file => {
+      if (seenFiles.has(file.originalname)) {
+        console.log(`[DEDUPLICATION] Skipping duplicate file: ${file.originalname}`);
+        return false;
+      }
+      seenFiles.set(file.originalname, file);
+      return true;
+    });
+    console.log(`[DEDUPLICATION] After deduplication: ${filesToProcess.length} unique files`);
     // Validate we have files
     if (filesToProcess.length === 0) {
       console.error(`✗ No files to process`);
@@ -269,6 +280,13 @@ router.post('/process-files', upload.array('files'), handleMulterError, async (r
 
     // Process each file
     for (let i = 0; i < filesToProcess.length; i++) {
+      // Check if processing has been cancelled
+      const progress = getProgress();
+      if (progress.cancelled || progress.status === 'cancelled') {
+        console.log(`\n[!] Processing cancelled by user`);
+        break;
+      }
+
       const file = filesToProcess[i];
       const fileStartTime = Date.now();
       console.log(`\n[${i + 1}/${filesToProcess.length}] Processing: ${file.originalname}`);

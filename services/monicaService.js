@@ -12,11 +12,12 @@ const processingProgress = {
   processedChunks: 0,
   startTime: null,
   estimatedEndTime: null,
-  status: 'idle', // idle, processing, completed, error
+  status: 'idle', // idle, processing, completed, error, cancelled
   error: null,
   lastUpdated: Date.now(),
   processingHistory: [],
-  processedFiles: new Set() // Track unique files that have been processed
+  processedFiles: new Set(), // Track unique files that have been processed
+  cancelled: false // Flag to indicate if processing should be cancelled
 };
 
 /**
@@ -59,9 +60,10 @@ function resetProgress() {
     error: null,
     lastUpdated: Date.now(),
     processingHistory: [],
-    processedFiles: new Set()
+    processedFiles: new Set(),
+    cancelled: false
   });
-  
+
   logInfo("Progress tracking completely reset");
 }
 
@@ -72,13 +74,24 @@ function resetProgress() {
 function setTotalFiles(total) {
   // Complete reset of all progress tracking
   resetProgress();
-  
+
   // Set the new total
   updateProgress({
     totalFiles: total
   });
-  
-  logInfo(`Set total files to process: ${total} (progress tracking reset)`);
+}
+/**
+ * Cancel current processing
+ */
+function cancelProcessing() {
+  if (processingProgress.status === 'processing') {
+    updateProgress({
+      cancelled: true,
+      status: 'cancelled',
+      error: 'Processing cancelled by user'
+    });
+    logInfo("Processing cancelled by user");
+  }
 }
 
 /**
@@ -89,24 +102,24 @@ function setTotalFiles(total) {
 function trackFileProcessing(filePath) {
   // Get the basename for consistent tracking
   const fileName = path.basename(filePath);
-  
+
   // Only increment if this is a new file
   if (!processingProgress.processedFiles.has(fileName)) {
     // Add to the set of processed files
     processingProgress.processedFiles.add(fileName);
-    
+
     // Increment the counter (with safety check)
     const newFileNumber = Math.min(processingProgress.currentFileNumber + 1, processingProgress.totalFiles);
-    
+
     updateProgress({
       currentFileNumber: newFileNumber,
       currentFile: fileName
     });
-    
+
     logInfo(`Tracking file ${newFileNumber}/${processingProgress.totalFiles}: ${fileName}`);
     return newFileNumber;
   }
-  
+
   // If already processed, return current number
   return processingProgress.currentFileNumber;
 }
@@ -654,5 +667,6 @@ module.exports = {
   getModelInfo,
   getProgress,
   setTotalFiles,
-  resetProgress
+  resetProgress,
+  cancelProcessing
 };

@@ -506,4 +506,20 @@ router.get('/download-all/:folder', (req, res) => {
     });
   }
 });
+router.post('/cancel-processing', (req, res) => {
+  try {
+    cancelProcessing();
+    res.json({
+      success: true,
+      message: 'Processing cancelled'
+    });
+  } catch (error) {
+    console.error('Error cancelling processing:', error);
+    res.status(500).json({
+      success: false,
+      message: 'Failed to cancel processing',
+      error: error.message
+    });
+  }
+});
 module.exports = router;

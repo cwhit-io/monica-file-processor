@@ -103,7 +103,7 @@ async function loadServerFolders() {
     foldersList.innerHTML = '';
 
     try {
-        const response = await fetch('/api/server-folders/available');
+        const response = await fetch('/a../data/server-folders/available');
 
         if (!response.ok) {
             throw new Error('Failed to load server folders');
@@ -119,7 +119,7 @@ async function loadServerFolders() {
                 <div class="empty-state">
                     <p>📁 No folders found in server-folders/</p>
                     <p style="font-size: 12px; margin-top: 8px; color: #6b7280;">
-                        Create folders in: monica-file-processor/server-folders/
+                        Create folders in: monica-file-process../data/server-folders/
                     </p>
                 </div>
             `;
@@ -220,7 +220,7 @@ async function previewServerFolder(folderPath) {
     serverFilesList.innerHTML = '<div class="loading-state"><div class="spinner"></div><p>Loading files...</p></div>';
 
     try {
-        const response = await fetch('/api/server-folders/files', {
+        const response = await fetch('/a../data/server-folders/files', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'

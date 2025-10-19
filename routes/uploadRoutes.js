@@ -307,7 +307,7 @@ router.post('/process-files', upload.array('files'), handleMulterError, async (r
           originalName: file.originalname,
           processedName: outputFilename,
           success: true,
-          url: `/api/outputs/${outputFolderName}/${outputFilename}`,
+          url: `/a../data/outputs/${outputFolderName}/${outputFilename}`,
           duration: duration
         });
         successCount++;
@@ -378,39 +378,39 @@ router.post('/process-files', upload.array('files'), handleMulterError, async (r
   }
 });
 // GET route to serve processed files from timestamped folders
-router.get('/outputs/:folder/:filename', (req, res) => {
-  const folder = req.params.folder;
-  const filename = req.params.filename;
-  const filePath = path.join(__dirname, '../outputs', folder, filename);
-  console.log(`[FILE REQUEST] ${folder}/${filename}`);
-  if (fs.existsSync(filePath)) {
-    const stats = fs.statSync(filePath);
-    console.log(`✓ File found: ${(stats.size / 1024).toFixed(2)} KB`);
-    res.sendFile(filePath);
-  } else {
-    console.error(`✗ File not found: ${filePath}`);
-    res.status(404).json({
-      success: false,
-      message: 'File not found'
-    });
-  }
+router.get../ data / outputs /: folder /:filename', (req, res) => {
+const folder = req.params.folder;
+const filename = req.params.filename;
+const filePath = path.join(__dirname, '../outputs', folder, filename);
+console.log(`[FILE REQUEST] ${folder}/${filename}`);
+if (fs.existsSync(filePath)) {
+  const stats = fs.statSync(filePath);
+  console.log(`✓ File found: ${(stats.size / 1024).toFixed(2)} KB`);
+  res.sendFile(filePath);
+} else {
+  console.error(`✗ File not found: ${filePath}`);
+  res.status(404).json({
+    success: false,
+    message: 'File not found'
+  });
+}
 });
 // GET route to serve processed files (backward compatibility)
-router.get('/outputs/:filename', (req, res) => {
-  const filename = req.params.filename;
-  const filePath = path.join(__dirname, '../outputs', filename);
-  console.log(`[FILE REQUEST - LEGACY] ${filename}`);
-  if (fs.existsSync(filePath)) {
-    const stats = fs.statSync(filePath);
-    console.log(`✓ File found: ${(stats.size / 1024).toFixed(2)} KB`);
-    res.sendFile(filePath);
-  } else {
-    console.error(`✗ File not found: ${filePath}`);
-    res.status(404).json({
-      success: false,
-      message: 'File not found'
-    });
-  }
+router.get../ data / outputs /:filename', (req, res) => {
+const filename = req.params.filename;
+const filePath = path.join(__dirname, '../outputs', filename);
+console.log(`[FILE REQUEST - LEGACY] ${filename}`);
+if (fs.existsSync(filePath)) {
+  const stats = fs.statSync(filePath);
+  console.log(`✓ File found: ${(stats.size / 1024).toFixed(2)} KB`);
+  res.sendFile(filePath);
+} else {
+  console.error(`✗ File not found: ${filePath}`);
+  res.status(404).json({
+    success: false,
+    message: 'File not found'
+  });
+}
 });
 // GET route to download all files in a folder as a zip
 router.get('/download-all/:folder', (req, res) => {

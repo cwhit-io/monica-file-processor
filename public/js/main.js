@@ -354,7 +354,7 @@ function displayResults(resultsData) {
       }
 
       // Use the new path format that includes the timestamp folder
-      const downloadPath = result.outputPath || `/api/outputs/${result.timestampFolder}/${result.outputFile}`;
+      const downloadPath = result.outputPath || `/a../data/outputs/${result.timestampFolder}/${result.outputFile}`;
 
       resultItem.innerHTML = `
         <p><strong>${result.originalFile}</strong> was processed successfully.</p>

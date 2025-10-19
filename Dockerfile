@@ -1,42 +1,60 @@
-# Use the official Node.js runtime as base image
-FROM node:18-alpine
+# Multi-stage build for Monica File Processor
+FROM node:18-alpine as builder
 
-# Install git and curl for cloning and health checks
-RUN apk add --no-cache git curl
+# Install git for cloning
+RUN apk add --no-cache git
 
-# Set the working directory in the container
+# Set working directory
 WORKDIR /app
 
-# Clone the latest source code from GitHub
-RUN git clone https://github.com/cwhit-io/monica-file-processor.git . && \
+# Clone repository (supports branch/tag via build arg)
+ARG GITHUB_BRANCH=main
+RUN git clone -b ${GITHUB_BRANCH} --depth 1 https://github.com/cwhit-io/monica-file-processor.git . && \
     rm -rf .git
 
-# Create necessary directories
-RUN mkdir -p /app/uploads /app/outputs /app/server-folders /app/data
+# Install all dependencies (including dev dependencies for potential build steps)
+RUN npm ci
 
-# Install dependencies
-RUN npm ci --only=production
+# Production stage
+FROM node:18-alpine as production
 
-# Create a non-root user for security
+# Install curl for health checks
+RUN apk add --no-cache curl
+
+# Set working directory
+WORKDIR /app
+
+# Copy application code from builder stage
+COPY --from=builder /app/package*.json ./
+COPY --from=builder /app .
+
+# Install only production dependencies
+RUN npm ci --only=production && npm cache clean --force
+
+# Create data directory structure for persistent storage
+RUN mkdir -p /app/data/{uploads,server-folders,outputs,config}
+
+# Create non-root user
 RUN addgroup -g 1001 -S nodejs && \
-    adduser -S nextjs -u 1001
+    adduser -S appuser -u 1001 -G nodejs
 
-# Change ownership of app directory to the nodejs user
-RUN chown -R nextjs:nodejs /app
+# Set proper ownership
+RUN chown -R appuser:nodejs /app
 
-# Switch to the non-root user
-USER nextjs
+# Switch to non-root user
+USER appuser
 
-# Expose the port the app runs on
-EXPOSE 3003
-
-# Set environment variables
+# Environment variables
 ENV NODE_ENV=production
 ENV PORT=3003
+ENV DATA_DIR=/app/data
+
+# Expose port
+EXPOSE 3003
 
 # Health check
 HEALTHCHECK --interval=30s --timeout=3s --start-period=5s --retries=3 \
-  CMD curl -f http://localhost:3003/ || exit 1
+  CMD curl -f http://localhost:3003/health || exit 1
 
-# Start the application
+# Start application
 CMD ["npm", "start"]

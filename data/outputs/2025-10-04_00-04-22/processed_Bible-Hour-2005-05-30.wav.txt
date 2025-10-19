@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Opening Praise",
+      "start_time": 48,
+      "type": "music",
+      "description": "The service opens with a lively praise offering, featuring the choir singing in both English and a foreign language. This uplifting music sets a joyful tone for the gathering, inviting everyone to join in worship and focus on God's love.",
+      "keywords": ["worship", "choir", "praise", "music", "God"],
+      "performers": ["Choir"],
+      "songs": ["Opening Praise Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Phil Mortensen: Love Church",
+      "start_time": 263,
+      "type": "interview",
+      "description": "Pastor Kelly Bird interviews Phil Mortensen about the Love Church, a ministry committed to serving the needy. Phil shares the church's humble beginnings and its growth over the years, emphasizing community involvement and outreach initiatives.",
+      "keywords": ["Phil Mortensen", "Love Church", "ministry", "community", "outreach"],
+      "performers": ["Kelly Bird", "Phil Mortensen"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Dennis Kelly: Personal Journey",
+      "start_time": 891,
+      "type": "testimony",
+      "description": "Dennis Kelly shares his personal journey of overcoming illiteracy through the help of volunteers at the Love Church. He expresses gratitude for the support he received, which allowed him to learn and grow, emphasizing the importance of community in personal transformation.",
+      "keywords": ["Dennis Kelly", "testimony", "illiteracy", "community", "transformation"],
+      "performers": ["Dennis Kelly"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Shari Marcy: Impact of Love Church",
+      "start_time": 980,
+      "type": "testimony",
+      "description": "Shari Marcy shares how being part of the Love Church has changed her life as a single mother. She explains how the church provided support, helping her deepen her relationship with God and find her gifts in service.",
+      "keywords": ["Shari Marcy", "testimony", "community", "support", "transformation"],
+      "performers": ["Shari Marcy"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Understanding Marriage (1 Peter 3)",
+      "start_time": 1066,
+      "type": "sermon",
+      "description": "The sermon focuses on Peter's instructions regarding marriage. Emphasizing the importance of husbands loving their wives in understanding ways, the pastor encourages men to support and honor their partners. Practical advice is given on communication and empathy.",
+      "keywords": ["sermon", "marriage", "1 Peter", "husbands", "understanding"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["1 Peter 3:1-7"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3563,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer led by Pastor Kelly Bird, asking God for guidance in marriages and the strength to model love as exemplified by Christ. The congregation acknowledges the closing with 'Amen.'",
+      "keywords": ["prayer", "closing", "community", "guidance", "Christ"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir performs a piece to set a reflective atmosphere for the service. The performance is moving and fills the congregation with a sense of worship as they prepare for the ministry of the Word. The music resonates with the themes of faith and devotion present in the service.",
+      "keywords": ["choir", "music", "worship", "psalm", "ministry"],
+      "performers": ["Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Teo Block",
+      "start_time": 311,
+      "type": "testimony",
+      "description": "Teo Block shares his powerful testimony of faith and transformation from a life of success to a life filled with purpose in Christ. He recounts his journey through various struggles and how discovering the gospel changed his life. Teo emphasizes the importance of communication in relationships and shares heartfelt lessons learned through personal experiences.",
+      "keywords": ["testimony", "faith", "transformation", "life", "Christ"],
+      "performers": ["Teo Block"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Gentle Shepherd",
+      "start_time": 990,
+      "type": "music",
+      "description": "A soloist performs 'Gentle Shepherd,' a deeply moving song that emphasizes the need for guidance and support from the Lord. The heartfelt lyrics resonate with the congregation, reminding them of God's presence in their lives, especially in difficult times. The comforting melody uplifts the spirit and reinforces the themes of reliance on God.",
+      "keywords": ["gentle shepherd", "guidance", "support", "comfort", "worship"],
+      "performers": ["David Miller"],
+      "songs": ["Gentle Shepherd"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: What to Do Until Jesus Comes Again (Acts 1)",
+      "start_time": 1808,
+      "type": "sermon",
+      "description": "Pastor David Geroma delivers a sermon on the ascension of Jesus as recorded in Acts chapter 1. He emphasizes the significance of being witnesses for Christ, walking by faith, and waiting in hope for His return. The message encourages believers to focus on their mission in the world and to keep their eyes on the promise of Christ’s second coming.",
+      "keywords": ["sermon", "ascension", "witness", "faith", "hope", "Acts"],
+      "performers": ["Pastor David Geroma"],
+      "songs": [],
+      "scripture_references": ["Acts 1"]
+    },
+    {
+      "title": "Duo: Lead Me, O Lord, Lead Me",
+      "start_time": 1785,
+      "type": "music",
+      "description": "The men sing a duet titled 'Lead Me, O Lord, Lead Me,' which reflects a plea for divine guidance through life’s challenges. The heartfelt performance brings a sense of unity in seeking direction from God, engaging the congregation in a shared moment of worship and prayerful reflection.",
+      "keywords": ["lead me", "Lord", "guidance", "duet", "worship"],
+      "performers": ["Men's Choir"],
+      "songs": ["Lead Me, O Lord, Lead Me"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1581,
+      "type": "prayer",
+      "description": "A prayer is offered at the beginning of the service, inviting God's presence and blessing on the gathering. The prayer seeks divine guidance, clarity, and a receptive heart for all present. It sets the spiritual tone for the service ahead, emphasizing reliance on God.",
+      "keywords": ["prayer", "opening", "worship", "invocation", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3322,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer expressing gratitude and commitment to God’s Word. It encourages attendees to keep their hearts open to the teachings received during the service. The prayer reinforces the message of the day and sends the congregation forth refreshed and inspired.",
+      "keywords": ["prayer", "closing", "worship", "community", "gratitude"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

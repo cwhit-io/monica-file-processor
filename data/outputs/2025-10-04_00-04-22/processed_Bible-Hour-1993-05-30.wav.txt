@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Holy, Holy, Holy",
+      "start_time": 93,
+      "type": "music",
+      "description": "The sanctuary choir performs the hymn 'Holy, Holy, Holy.' This piece celebrates the holiness and majesty of God, setting a reverent atmosphere for the service. The lyrics reflect themes of worship and adoration towards the Trinity, resonating deeply with the congregation.",
+      "keywords": ["holy", "worship", "God", "choir", "Trinity"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Holy, Holy, Holy"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown Title]",
+      "start_time": 651,
+      "type": "music",
+      "description": "Michelle Smeckins performs an uplifting solo. The song emphasizes themes of faith and reliance on God, providing a moment of reflection and emotional engagement for the congregation. Her performance adds a personal touch to the worship experience.",
+      "keywords": ["solo", "Michelle Smeckins", "faith", "worship", "reflection"],
+      "performers": ["Michelle Smeckins"],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Deceiver (Revelation 12-14)",
+      "start_time": 1107,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a powerful sermon focused on the themes of deception as illustrated in Revelation chapters 12 to 14. The message explores the roles of Satan, the Antichrist, and their deceptive tactics, emphasizing the importance of discernment in spiritual matters. Through personal anecdotes and scripture, the pastor calls on believers to remain steadfast in faith amid widespread deception.",
+      "keywords": ["deception", "sermon", "Satan", "Revelation", "faith"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 12", "Revelation 13", "Revelation 14"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service opens with a heartfelt prayer inviting God's presence and guidance throughout the worship hour. The prayer emphasizes the importance of seeking God's direction and wisdom as the congregation gathers to study His Word.",
+      "keywords": ["prayer", "worship", "guidance", "God", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3371,
+      "type": "prayer",
+      "description": "Pastor Moore concludes the service with a prayer focused on forgiveness, personal needs, and the importance of accepting Christ as Savior. This prayer seeks to uplift and encourage those in attendance, inviting them to deepen their faith and reliance on God's grace.",
+      "keywords": ["prayer", "closure", "forgiveness", "faith", "grace"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

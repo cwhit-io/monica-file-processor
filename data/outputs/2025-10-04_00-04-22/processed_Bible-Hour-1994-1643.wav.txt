@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Special Music",
+      "start_time": 98,
+      "type": "music",
+      "description": "The sanctuary choir takes the stage, offering a performance that sets the tone for the worship service. Their uplifting rendition aims to encourage the congregation while preparing their hearts for the message to come. The music emphasizes themes of joy and fellowship integral to the Christian experience.",
+      "keywords": ["choir", "worship", "music", "fellowship", "joy"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Special Music"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Special Music",
+      "start_time": 369,
+      "type": "music",
+      "description": "A solo performance follows, providing a moment of reflection and worship through the beauty of song. The lyrics echo the themes discussed in the service and invite the congregation into deeper worship. This segment reinforces the importance of personal connection to the message of grace.",
+      "keywords": ["solo", "music", "worship", "reflection", "grace"],
+      "performers": ["Becky Woman"],
+      "songs": ["Special Music"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Special Music",
+      "start_time": 683,
+      "type": "music",
+      "description": "The sanctuary choir returns to the stage for another captivating performance. Their harmonious voices bring a spirit of joy and celebration to the service, reminding the congregation of God's grace and the joy found in worship. The music serves to enhance the overall atmosphere of the service.",
+      "keywords": ["choir", "worship", "joy", "celebration", "grace"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Special Music"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: A Goodbye from Paul (Philippians 4:20-23)",
+      "start_time": 979,
+      "type": "sermon",
+      "description": "In this final message from Philippians, the Apostle Paul expresses his heartfelt farewell to the church in Philippi. He emphasizes the themes of worship, community, and grace. Paul highlights the importance of recognizing God's ongoing work in their lives, encouraging believers to continue in fellowship and to support one another in faith.",
+      "keywords": ["Paul", "Philippians", "goodbye", "grace", "worship"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Philippians 4:20-23"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3405,
+      "type": "prayer",
+      "description": "Pastor Russell Moore leads the congregation in a closing prayer, thanking God for His provision through Christ. The prayer aims to inspire believers to carry on the message of grace and to strengthen their relationship with God. It serves as an invitation for individuals to seek a deeper connection with their faith.",
+      "keywords": ["prayer", "closing", "grace", "community", "faith"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

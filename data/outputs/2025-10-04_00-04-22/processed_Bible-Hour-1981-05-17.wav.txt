@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Come Let Us Sing of His Glory",
+      "start_time": 27,
+      "type": "music",
+      "description": "The choir, directed by Mr. Rick Holes, performs a vibrant song titled 'Come Let Us Sing of His Glory'. This joyful number uplifts the congregation with its celebratory spirit, encouraging worship and praise. It sets a welcoming tone for the service, inviting attendees to rejoice in the presence of God.",
+      "keywords": ["choir", "glory", "worship", "singing", "joy"],
+      "performers": ["Mr. Rick Holes"],
+      "songs": ["Come Let Us Sing of His Glory"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: How Firm a Foundation",
+      "start_time": 236,
+      "type": "music",
+      "description": "Stephen Maria Gardner presents a solo performance of 'How Firm a Foundation', a cherished hymn known for its powerful message of faith and reassurance. The new arrangement brings a fresh perspective to this classic song, resonating deeply with the congregation. It reinforces trust in God’s promises amidst life's uncertainties.",
+      "keywords": ["solo", "hymn", "faith", "reassurance", "trust"],
+      "performers": ["Stephen Maria Gardner"],
+      "songs": ["How Firm a Foundation"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Just As I Am",
+      "start_time": 801,
+      "type": "music",
+      "description": "Marilyn Wong leads the congregation in a beautiful medley of the invitation hymns 'Just As I Am' and 'Jesus I Come'. This selection is touching and reflective, inviting the congregation to come before God as they are. It emphasizes themes of acceptance and surrender, fostering a spirit of worship.",
+      "keywords": ["congregational", "hymns", "invitation", "acceptance", "worship"],
+      "performers": ["Marilyn Wong"],
+      "songs": ["Just As I Am", "Jesus I Come"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 990,
+      "type": "prayer",
+      "description": "Pastor David Jerrimon leads the congregation in an opening prayer asking for God's guidance and wisdom as they gather to study His Word. This solemn moment prepares the hearts of the attendees, creating a receptive atmosphere for the sermon to follow. It stresses the importance of divine insight in their spiritual journey.",
+      "keywords": ["prayer", "guidance", "wisdom", "heart", "receptive"],
+      "performers": ["Pastor David Jerrimon"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: John 15:1-5",
+      "start_time": 1006,
+      "type": "scripture",
+      "description": "The scripture reading from the Gospel of John, chapter 15, verses 1-5, unfolds the profound teaching of Jesus as the true vine. This passage is central to the upcoming sermon and lays the foundation for understanding the relationship between Christ and believers. It encapsulates the essence of spiritual vitality and fruitfulness.",
+      "keywords": ["scripture", "John", "vine", "spiritual", "fruitfulness"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["John 15:1-5"]
+    },
+    {
+      "title": "Message: I Am the True Vine (John 15:1-5)",
+      "start_time": 1014,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah's sermon delves into Jesus’ revelation as the true vine. He emphasizes the necessity of abiding in Christ for spiritual success and productivity, contrasting it with the pitfalls of a fruitless Christian life. Through various Biblical examples, he illustrates the importance of character, conduct, and spiritual reproduction in fulfilling God’s calling.",
+      "keywords": ["sermon", "true vine", "abide", "spiritual success", "fruitfulness"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["John 15:1-5"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3355,
+      "type": "prayer",
+      "description": "A closing prayer is offered by Pastor David Jeremiah, inviting all to reflect on the message shared. He prays for those who have made commitments to accept Christ and invites them to connect for further guidance. This prayer encapsulates the desire for growth in faith and encourages an ongoing relationship with God.",
+      "keywords": ["prayer", "closing", "commitment", "faith", "guidance"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

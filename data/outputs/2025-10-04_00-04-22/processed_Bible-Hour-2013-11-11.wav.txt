@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Christ is Enough",
+      "start_time": 198,
+      "type": "music",
+      "description": "The choir performs a powerful song titled 'Christ is Enough', emphasizing the sufficiency of Christ in our lives. The congregation joins in expressing their faith and reliance on Jesus through heartfelt lyrics. The theme of commitment to follow Jesus is also highlighted in this uplifting worship.",
+      "keywords": ["choir", "worship", "Christ", "enough", "faith"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Christ is Enough"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: I Have Decided to Follow Jesus",
+      "start_time": 293,
+      "type": "music",
+      "description": "The congregation energetically sings 'I Have Decided to Follow Jesus', a hymn that underscores the commitment and resolve to follow Jesus no matter the challenges. This passionate rendition encourages unity and participation from everyone in the room.",
+      "keywords": ["hymn", "congregation", "Jesus", "commitment", "worship"],
+      "performers": [],
+      "songs": ["I Have Decided to Follow Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: My Hope is Built",
+      "start_time": 496,
+      "type": "music",
+      "description": "A solo performance of 'My Hope is Built' unfolds, bringing a reflective moment in worship that focuses on Christ as our cornerstone. The heartfelt delivery resonates with the congregation, reinforcing their reliance on God through difficult times.",
+      "keywords": ["solo", "worship", "hope", "faith", "trust"],
+      "performers": ["Kelly Bird"],
+      "songs": ["My Hope is Built"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 745,
+      "type": "prayer",
+      "description": "The service commences with an uplifting opening prayer that sets the tone for the gathering. This prayer invites God's presence and asks for His guidance throughout the service, fostering an atmosphere of receptiveness and anticipation.",
+      "keywords": ["prayer", "opening", "service", "guidance", "presence"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Giving Generously (2 Corinthians 8)",
+      "start_time": 978,
+      "type": "sermon",
+      "description": "In this sermon, Kelly Bird discusses the importance of generous giving as a reflection of faith and community. He references 2 Corinthians 8, encouraging congregants to see their contributions as vital to the church's mission. Through anecdotes and scriptural insights, he emphasizes the heart attitude behind giving rather than the amount.",
+      "keywords": ["sermon", "generosity", "giving", "faith", "community"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["2 Corinthians 8:1-4"]
+    },
+    {
+      "title": "Congregational Hymn: How Great is Our God",
+      "start_time": 3312,
+      "type": "music",
+      "description": "The congregation sings 'How Great is Our God', a powerful declaration of God's greatness. This hymn encourages collective worship and celebration of God's majesty, inviting everyone to lift their voices in unison.",
+      "keywords": ["hymn", "worship", "God", "greatness", "congregation"],
+      "performers": [],
+      "songs": ["How Great is Our God"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3563,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Kelly Bird, thanking God for the message shared and the community gathered. This prayer reinforces the themes of giving and the commitment to follow Christ as a family of faith.",
+      "keywords": ["prayer", "closing", "community", "thanksgiving", "service"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

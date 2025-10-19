@@ -1,0 +1,71 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Bless the Lord, O my soul",
+      "start_time": 25,
+      "type": "music",
+      "description": "The sanctuary choir, directed by Mr. Don Kruger, performed the anthem 'Bless the Lord, O my soul.' This uplifting song emphasizes the importance of remembering God's benefits, forgiveness, and healing. The choir's harmonious voices create an atmosphere of worship and gratitude.",
+      "keywords": ["choir", "worship", "praise", "soul", "song"],
+      "performers": ["Sanctuary Choir", "Don Kruger"],
+      "songs": ["Bless the Lord, O my soul"]
+    },
+    {
+      "title": "Solo: I come to the garden alone",
+      "start_time": 320,
+      "type": "music",
+      "description": "Star Narwald delighted the congregation with a solo performance of the classic hymn 'I come to the garden alone.' This song beautifully captures the personal relationship believers have with God, illustrating moments of joy and communion in prayer.",
+      "keywords": ["solo", "hymn", "garden", "prayer", "relationship"],
+      "performers": ["Star Narwald"],
+      "songs": ["I come to the garden alone"]
+    },
+    {
+      "title": "Solo: It is well with my soul",
+      "start_time": 959,
+      "type": "music",
+      "description": "The Black Hawk Singers performed 'It is well with my soul.' This hymn resonates with themes of faith amidst trials and the peace found in God's presence. The heartfelt rendition strengthens the congregation's faith and encourages reliance on God.",
+      "keywords": ["solo", "hymn", "faith", "peace", "God"],
+      "performers": ["Black Hawk Singers"],
+      "songs": ["It is well with my soul"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1585,
+      "type": "prayer",
+      "description": "Pastor David Jeremiah leads the congregation in an opening prayer, thanking God for His Word and for the work being done through the church. He acknowledges the significance of the Scriptures in encouraging the believers and fostering spiritual growth.",
+      "keywords": ["prayer", "opening", "God", "Word", "growth"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Colossians 1:1-8",
+      "start_time": 1449,
+      "type": "scripture",
+      "description": "The Scripture reading includes selected verses from Colossians chapter one. This passage lays the foundation for understanding Paul's message to the believers in Colossae, emphasizing faith, love, and hope.",
+      "keywords": ["Colossians", "scripture", "reading", "faith", "hope"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Colossians 1:1-8"]
+    },
+    {
+      "title": "Message: The Colossians and Their Faith (Colossians 1)",
+      "start_time": 859,
+      "type": "sermon",
+      "description": "Pastor Jeremiah begins a verse-by-verse study of Colossians, focusing on the faith, love, and hope of the Colossian believers. He emphasizes the significance of having faith rooted in Christ and the importance of love among believers as a demonstration of that faith. The sermon challenges the congregation to embody these virtues in their lives.",
+      "keywords": ["sermon", "Colossians", "faith", "love", "hope"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Colossians 1"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3367,
+      "type": "prayer",
+      "description": "In the closing prayer, Pastor Jeremiah invites the congregation to reflect on the high standards set by God's Word. He prays for growth, maturity, and the realization of the importance of spiritual fruitfulness in the lives of believers.",
+      "keywords": ["prayer", "closing", "growth", "maturity", "fruitfulness"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": []
+    }
+  ]
+}
+```

@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Sing His Praise",
+      "start_time": 6,
+      "type": "music",
+      "description": "The choir performs a stirring piece directed by Don Kruger, filled with exuberant lyrics celebrating God's glory and love. This uplifting performance sets a joyful tone for the service.",
+      "keywords": ["choir", "Don Kruger", "praise", "God", "joy"],
+      "performers": ["Don Kruger"],
+      "songs": ["Sing His Praise"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: O That We Had a Thousand Voices",
+      "start_time": 267,
+      "type": "music",
+      "description": "Soloist Crystal Hall delivers a captivating rendition of ‘O That We Had a Thousand Voices,’ inviting the audience to join in the celebration of faith and unity. The heartfelt performance ignites a spirit of worship.",
+      "keywords": ["Crystal Hall", "solo", "worship", "song", "unity"],
+      "performers": ["Crystal Hall"],
+      "songs": ["O That We Had a Thousand Voices"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Be That, Believe It on Me",
+      "start_time": 917,
+      "type": "music",
+      "description": "The congregation joins in singing ‘Be That, Believe It on Me,’ a hymn rich in biblical references that reinforces themes of faith and salvation. The collective worship fills the auditorium with reverent voices.",
+      "keywords": ["hymn", "congregation", "worship", "faith", "salvation"],
+      "performers": [],
+      "songs": ["Be That, Believe It on Me"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1130,
+      "type": "prayer",
+      "description": "A prayer aimed at inviting God's presence and guidance over the service is led, encouraging the attendees to focus their hearts on the worship and teaching ahead. This introspective moment sets a respectful tone.",
+      "keywords": ["prayer", "worship", "guidance", "focus"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Timothy 6",
+      "start_time": 1489,
+      "type": "scripture",
+      "description": "A reading from 1 Timothy 6 is presented, focusing on themes of stewardship and contentment. This passage lays the groundwork for the message, reminding the congregation of the importance of godliness.",
+      "keywords": ["1 Timothy", "scripture", "reading", "stewardship", "contentment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Timothy 6"]
+    },
+    {
+      "title": "Message: Godliness and Contentment (1 Timothy 6:3-10)",
+      "start_time": 1561,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers a profound message on the relationship between godliness and contentment, citing biblical warnings against materialism. He emphasizes how true happiness derives from a life focused on God's kingdom.",
+      "keywords": ["David Jeremiah", "sermon", "godliness", "contentment", "materialism"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 6:3-10"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3379,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, seeking God's blessing on the lessons learned and the fellowship shared. It reinforces the congregation's commitment to implement the sermon in their lives.",
+      "keywords": ["closing prayer", "blessing", "commitment", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Invitation to Respond",
+      "start_time": 3392,
+      "type": "announcement",
+      "description": "Pastor David Jeremiah invites attendees to respond to the message through prayer and connection. This moment is meant to encourage personal reflection and the decision to grow in faith.",
+      "keywords": ["invitation", "response", "faith", "community"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

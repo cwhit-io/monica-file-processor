@@ -1,0 +1,96 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Upbeat Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat worship song encouraging the congregation to reflect on their spiritual adoption as sons and daughters of God. The theme of thanksgiving and praise for Jesus is introduced, inviting everyone to join in worship fully.",
+      "keywords": ["worship", "adoption", "Jesus", "thanksgiving", "praise"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Choir: There is Lord Jesus",
+      "start_time": 118,
+      "type": "music",
+      "description": "The choir leads the congregation in the song 'There is Lord Jesus', creating a reflective and worshipful atmosphere. The lyrics focus on the majesty and love of Jesus, providing a moment for spiritual connection and devotion.",
+      "keywords": ["Jesus", "worship", "choir", "majesty", "love"],
+      "performers": ["[]"],
+      "songs": ["There is Lord Jesus"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Choir: A Little Town of Bethlehem",
+      "start_time": 400,
+      "type": "music",
+      "description": "The choir presents 'A Little Town of Bethlehem', diving into the deeper meanings behind the lyrics as the congregation reflects on Christ's birth. The introduction emphasizes Bethlehem's significance, linking it to Micah's prophecy and Christ’s arrival.",
+      "keywords": ["Bethlehem", "Christmas", "prophecy", "choir", "Jesus"],
+      "performers": ["[]"],
+      "songs": ["A Little Town of Bethlehem"],
+      "scripture_references": ["Micah 5"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 837,
+      "type": "prayer",
+      "description": "The opening prayer calls upon God to abide in the hearts of the congregation, asking for His presence and guidance. It is a heartfelt petition for spiritual fruitfulness and for God to be honored in their lives.",
+      "keywords": ["prayer", "God", "abide", "presence", "guidance"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "scripture: Scripture Reading: Ephesians 1",
+      "start_time": 916,
+      "type": "scripture",
+      "description": "The scripture reading focuses on Ephesians chapter one, highlighting the Apostle Paul's insightful prayer for the church. This foundational biblical text sets the stage for deeper understanding of God’s promises and blessings.",
+      "keywords": ["Ephesians", "scripture", "Paul", "blessings", "prayer"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["Ephesians 1"]
+    },
+    {
+      "title": "Message: The Power of Prayer (Ephesians 1:15-19)",
+      "start_time": 940,
+      "type": "sermon",
+      "description": "The sermon explores the depth and significance of Paul’s prayer for the church in Ephesus. It emphasizes God's power, wisdom, and revelation, offering insight into the hope and inheritance that believers have through Christ.",
+      "keywords": ["sermon", "prayer", "Ephesians", "Paul", "wisdom"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["Ephesians 1:15-19"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3460,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, encouraging attendees to reflect on their need for prayer and support. This moment seeks to deepen their connection with God and encourage them to seek the blessings of wisdom and understanding.",
+      "keywords": ["invitation", "prayer", "support", "wisdom", "connection"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3463,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, asking for peace, comfort, and strength for congregants as they go about their week. It reflects a desire for God’s presence to continue guiding them beyond the church gathering.",
+      "keywords": ["closing", "prayer", "comfort", "strength", "guidance"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Choir: Upbeat Worship",
+      "start_time": 3481,
+      "type": "music",
+      "description": "The service concludes with vibrant and uplifting music, sending the congregation out with a spirit of joy and celebration. This final piece encourages attendees to carry the message of the service into their daily lives.",
+      "keywords": ["worship", "uplifting", "joy", "celebration", "community"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    }
+  ]
+}
+```

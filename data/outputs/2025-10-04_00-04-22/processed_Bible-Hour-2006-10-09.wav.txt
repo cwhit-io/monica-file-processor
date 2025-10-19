@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Come to Jesus",
+      "start_time": 130,
+      "type": "music",
+      "description": "The choir leads the congregation in a powerful rendition of 'Come to Jesus,' encouraging everyone to embrace Jesus as their savior and find solace in his love. The lyrics evoke a sense of hope and healing, inviting listeners to let go of their burdens and trust in Jesus. This heartfelt performance sets a tone of worship that resonates deeply with both youth and adults.",
+      "keywords": ["choir", "come to jesus", "hope", "worship", "healing"],
+      "performers": ["Choir"],
+      "songs": ["Come to Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Find Jesus",
+      "start_time": 200,
+      "type": "music",
+      "description": "The choir continues with an uplifting song 'Find Jesus,' emphasizing the importance of seeking Jesus in times of trouble. The performance is lively and engaging, encouraging the congregation to sing along and immerse themselves in the message of love and redemption. This song serves as a reminder of the faithfulness of God and his presence in our lives.",
+      "keywords": ["choir", "find jesus", "faith", "love", "redemption"],
+      "performers": ["Choir"],
+      "songs": ["Find Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Dance with Jesus",
+      "start_time": 236,
+      "type": "music",
+      "description": "The choir performs 'Dance with Jesus,' a joyous anthem filled with excitement and celebration of faith. The upbeat tempo invites the congregation to participate in an act of worship that embodies joy and freedom in Christ. As everyone joins in, the church atmosphere becomes electrified, filled with moments of laughter and communal praise.",
+      "keywords": ["choir", "dance with jesus", "joy", "celebration", "faith"],
+      "performers": ["Choir"],
+      "songs": ["Dance with Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 317,
+      "type": "prayer",
+      "description": "The service opens with a prayer led by Senior Pastor Kelly Bird, inviting God's presence into the gathering. The prayer focuses on gratitude, encouragement, and guidance for the congregation, setting a heartwarming tone for the service. It emphasizes the connection between the church community and God's plan for their lives.",
+      "keywords": ["opening prayer", "gratitude", "guidance", "community", "worship"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Kidnapped: Protecting the Next Generation (Matthew 28:18-20)",
+      "start_time": 688,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird delivers a heartfelt sermon focusing on the theme 'Kidnapped: Protecting the Next Generation,' encouraging both youth and parents to stand firm against the enemy's relentless attacks on faith. The sermon emphasizes loving guidance and support, highlighting biblical principles on discipline and respect for parental authority, urging young people to embrace God's Word early in their lives.",
+      "keywords": ["sermon", "kidnapped", "next generation", "discipline", "faith"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Matthew 28:18-20", "Proverbs 29:15", "Proverbs 3:11-12", "Ephesians 6:2-3", "Psalm 119", "Joshua 1"]
+    },
+    {
+      "title": "Choir: Spoken For",
+      "start_time": 3094,
+      "type": "music",
+      "description": "The choir performs 'Spoken For,' a moving song that encapsulates the message of belonging and divine protection. The lyrics convey profound truths about being claimed by God and the assurance of His constant presence. This powerful closing performance resonates with all ages, reminding everyone of their identity as children of God.",
+      "keywords": ["choir", "spoken for", "belonging", "protection", "identity"],
+      "performers": ["Choir"],
+      "songs": ["Spoken For"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3198,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer led by Pastor Kelly Bird, seeking God's guidance and protection over families and youth in the community. This prayer focuses on the themes of love, commitment, and the importance of prayer in the lives of individuals. It invites the congregation to carry the message of the day into their weekly lives.",
+      "keywords": ["closing prayer", "guidance", "protection", "commitment", "community"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

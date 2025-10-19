@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Medley of Songs",
+      "start_time": 138,
+      "type": "music",
+      "description": "The Sanctuary Choir performs a touching medley of songs that express God's care for His people. The uplifting melodies encourage the congregation to reflect on God's love and protection, reinforcing the central theme of reliance on God. This medley creates an atmosphere of worship and gratitude.",
+      "keywords": ["choir", "medley", "praise", "care", "God"],
+      "performers": ["Sanctuary Choir"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: He Touched Me",
+      "start_time": 623,
+      "type": "music",
+      "description": "Rick Hall's heartfelt solo performance of 'He Touched Me' resonates with the congregation, sharing a personal testimony of transformation and redemption. The song emphasizes the profound change that comes from encountering Jesus, inviting worshippers to connect with their own experiences of faith and healing.",
+      "keywords": ["Rick Hall", "solo", "testimony", "redemption", "worship"],
+      "performers": ["Rick Hall"],
+      "songs": ["He Touched Me"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 867,
+      "type": "prayer",
+      "description": "Pastor Rick Hawks leads the congregation in an opening prayer, inviting God's presence and blessing over the service. The prayer sets a reverent tone, seeking guidance and empowerment for the church's mission and acknowledging the importance of God's wisdom and love in their lives.",
+      "keywords": ["prayer", "opening", "guidance", "worship", "service"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Three Chairs (Joshua 24)",
+      "start_time": 1173,
+      "type": "sermon",
+      "description": "Pastor Bruce Wilkinson delivers a compelling message titled 'The Three Chairs' based on Joshua 24, exploring generational faith and the relationship between godly parents and their children. He challenges the audience to reflect on their commitment to God, examining the distinctions between those who are fully devoted, those who live in compromise, and those who live for themselves. The sermon emphasizes the need for a strong faith foundation in families.",
+      "keywords": ["Bruce Wilkinson", "sermon", "Joshua", "faith", "generations"],
+      "performers": ["Bruce Wilkinson"],
+      "songs": [],
+      "scripture_references": ["Joshua 24"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3514,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Rick Hawks, thanking God for the message shared and seeking His continued guidance and blessings over the church community. The prayer encapsulates the themes of reflection and commitment discussed during the sermon.",
+      "keywords": ["closing", "prayer", "thanksgiving", "worship", "community"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Bible Seminar Invitation",
+      "start_time": 3521,
+      "type": "announcement",
+      "description": "Pastor Rick Hawks invites the congregation to participate in a Walk Through the Bible Seminar scheduled for January 30th and 31st. He highlights the value of understanding the Old Testament in a structured way to enhance personal growth and spiritual development, urging everyone to consider registering.",
+      "keywords": ["announcement", "semantics", "Bible", "seminar"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

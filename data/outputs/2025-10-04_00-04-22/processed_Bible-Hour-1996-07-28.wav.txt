@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 89,
+      "type": "music",
+      "description": "The choir presents a selection that uplifts the congregation, filled with harmonious melodies and powerful lyrics. Attendees are encouraged to join in their worship through song, creating a joyful atmosphere of praise.",
+      "keywords": ["choir", "worship", "praise", "music"],
+      "performers": ["Black Hawk Baptist Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": [""]
+    },
+    {
+      "title": "scripture: Scripture Reading: [Matthew 7]",
+      "start_time": 658,
+      "type": "scripture",
+      "description": "The congregation listens attentively as the selected scripture from Matthew chapter 7 is read aloud. This reading sets the stage for the sermon, highlighting the themes of judgment and self-examination.",
+      "keywords": ["Matthew", "scripture", "reading"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 7"]
+    },
+    {
+      "title": "Message: Judge Not Lest You Be Judged (Matthew 7)",
+      "start_time": 690,
+      "type": "sermon",
+      "description": "In this sermon, the pastor expounds on the directive not to judge others, emphasizing self-reflection and compassion. Through relatable anecdotes and scripture interpretation, he urges the congregation to foster a supportive community instead of one of criticism.",
+      "keywords": ["sermon", "judgment", "compassion", "Matthew", "self-reflection"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": ["Matthew 7"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3521,
+      "type": "prayer",
+      "description": "The pastor leads the congregation in an invitation prayer, encouraging personal reflection and a call to action. This moment invites attendees to embrace compassion and understanding in their daily lives and relationships.",
+      "keywords": ["prayer", "invitation", "reflection", "community"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

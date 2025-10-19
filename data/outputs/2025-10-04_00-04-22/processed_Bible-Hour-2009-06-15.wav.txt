@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Opening Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with upbeat music, creating a celebratory atmosphere. The congregation is encouraged to join in and give praise, setting a tone of worship and gratitude as they gather together in faith. The music allows everyone to engage and feel connected from the very start.",
+      "keywords": ["worship", "celebration", "music", "praise", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 34,
+      "type": "prayer",
+      "description": "The audience participates in an opening prayer led by the speaker, focusing on God's nature as loving and redemptive. There’s an emphasis on vulnerability and the importance of being open to God's teachings during the service, particularly as they prepare to hear from Scripture.",
+      "keywords": ["prayer", "God", "worship", "heaven", "thankfulness"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Genesis 6-8",
+      "start_time": 668,
+      "type": "scripture",
+      "description": "The speaker introduces the Scripture passage from Genesis 6 to 8, focusing on the flood narrative. This serves as the foundation for the message that follows, inviting the congregation to reflect on its deeper meanings and implications for their lives.",
+      "keywords": ["Genesis", "flood", "Noah", "Scripture", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Genesis 6-8"]
+    },
+    {
+      "title": "Message: Noah’s Faith and God’s Grace (Genesis 6-8)",
+      "start_time": 681,
+      "type": "sermon",
+      "description": "The sermon focuses on Noah's relationship with God and the grace that enabled his survival during the flood. It explores themes of faith, obedience, and God’s provision while highlighting the significance of God's covenant promises. The message is a reminder of God's justice and mercy, centered on the importance of walking closely with Him amid a corrupt world.",
+      "keywords": ["Noah", "grace", "faith", "covenant", "obedience"],
+      "performers": ["Steve"],
+      "songs": [],
+      "scripture_references": ["Genesis 6-8"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3420,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that encapsulates the themes of the sermon. The speaker encourages the congregation to carry the lessons of grace, justice, and faithfulness into their lives, asking for God's guidance and presence as they depart. This prayer serves as a communal call to action based on the message shared.",
+      "keywords": ["closing", "prayer", "community", "guidance", "grace"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Great is Thy Faithfulness",
+      "start_time": 3469,
+      "type": "music",
+      "description": "The congregation comes together to sing 'Great is Thy Faithfulness,' a hymn that reflects on God’s unwavering faithfulness. The atmosphere is filled with reverence and joy as everyone participates in worshiping through song, reinforcing the message of God's promises and grace shared throughout the service.",
+      "keywords": ["hymn", "faithfulness", "worship", "congregation", "song"],
+      "performers": [],
+      "songs": ["Great is Thy Faithfulness"],
+      "scripture_references": []
+    }
+  ]
+}
+```

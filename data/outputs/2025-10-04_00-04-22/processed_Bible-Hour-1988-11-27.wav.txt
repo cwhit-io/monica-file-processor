@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Joyful, Joyful, We Adore Thee",
+      "start_time": 198,
+      "type": "music",
+      "description": "The sanctuary choir leads the congregation in singing 'Joyful, Joyful, We Adore Thee'. This uplifting hymn expresses the joy and gratitude of the believers. The congregation enthusiastically participates, contributing to a vibrant atmosphere of worship.",
+      "keywords": ["choir", "joyful", "worship", "song", "hymn"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Joyful, Joyful, We Adore Thee"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Come, We That Love the Lord",
+      "start_time": 518,
+      "type": "music",
+      "description": "The congregation joins in singing 'Come, We That Love the Lord', led by Dave and Debbie Johnson. This hymn calls for fellowship among the believers, celebrating their love for the Lord and the joy of being together in His presence.",
+      "keywords": ["congregational", "hymn", "worship", "joy", "fellowship"],
+      "performers": ["Dave Johnson", "Debbie Johnson"],
+      "songs": ["Come, We That Love the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Classical Duet: Instrumental Performance",
+      "start_time": 975,
+      "type": "music",
+      "description": "Dave and Debbie Johnson perform a classical instrumental duet. The ambiance created through their musical talent enhances the worship experience, providing a moment of reflection and appreciation for God's artistry in music.",
+      "keywords": ["instrumental", "duet", "music", "worship", "artistry"],
+      "performers": ["Dave Johnson", "Debbie Johnson"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting God's presence into the worship. It sets the tone for the gathering, focusing hearts and minds on the Lord as participants prepare for the message and music.",
+      "keywords": ["prayer", "opening", "worship", "invitation", "presence"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Worth of a Nobody (1 Corinthians 1:26-31)",
+      "start_time": 1242,
+      "type": "sermon",
+      "description": "Tim Teder delivers a poignant message titled 'The Worth of a Nobody'. He explores 1 Corinthians 1:26-31, emphasizing that God often chooses the weak and insignificant to accomplish His purposes, showcasing how nobody's value can be transformed in Christ.",
+      "keywords": ["sermon", "nobody", "value", "1 Corinthians", "God"],
+      "performers": ["Tim Teder"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 1:26-31"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3500,
+      "type": "prayer",
+      "description": "A closing prayer is offered, thanking God for His word and guidance during the service. Attendees are encouraged to reflect on the message as they depart and to carry the lessons learned into their daily lives.",
+      "keywords": ["prayer", "closing", "thanksgiving", "reflection", "service"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Something Beautiful",
+      "start_time": 3480,
+      "type": "music",
+      "description": "A solo performance of 'Something Beautiful' brings the service to a thoughtful conclusion. This piece encapsulates the message of salvation and transformation, reinforcing the themes discussed during the sermon.",
+      "keywords": ["solo", "music", "worship", "transformation", "salvation"],
+      "performers": ["Unknown"],
+      "songs": ["Something Beautiful"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Bible Hour Ministry Update",
+      "start_time": 3600,
+      "type": "announcement",
+      "description": "A brief ministry update is shared, highlighting the impact of the Bible Hour and encouraging viewers to connect and participate. The speaker expresses gratitude for the support received and calls for continued engagement with the church community.",
+      "keywords": ["announcement", "Bible Hour", "ministry", "update", "engagement"],
+      "performers": ["Ed Richard"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

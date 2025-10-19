@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Christmas Shopping",
+      "start_time": 0,
+      "type": "music",
+      "description": "The children's choir from Calvary Community Church performs a lively song about the hustle and bustle of Christmas shopping, capturing the excitement and chaos experienced during the holiday season. The choir's performance is festive and engaging, inviting the audience to embrace the holiday spirit. Their lively interpretation sets a cheerful tone for the service.",
+      "keywords": ["Christmas", "shopping", "choir", "music", "festive"],
+      "performers": ["Calvary Community Church Choir"],
+      "songs": ["Christmas Shopping"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Major Scene",
+      "start_time": 220,
+      "type": "music",
+      "description": "In this segment, the children's choir continues to perform, focusing on the nativity story with inspiring holiday music. The atmosphere is filled with joy as they recreate the major scene of Christmas, bringing the audience along on a musical journey that highlights the significance of the birth of Jesus. Their harmonious voices spread the message of love and hope central to the season.",
+      "keywords": ["nativity", "choir", "joy", "music", "Christmas"],
+      "performers": ["Calvary Community Church Choir"],
+      "songs": ["Major Scene"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Heart of Gold",
+      "start_time": 1063,
+      "type": "music",
+      "description": "A heartfelt solo performance titled 'Heart of Gold' emphasizes the importance of giving and kindness during the holiday season. The singer's emotional delivery captures the essence of generosity, encouraging listeners to reflect on their own hearts and actions. It's a reminder of the true spirit of Christmas, promoting love and compassion for others.",
+      "keywords": ["giving", "kindness", "heart", "Christmas", "compassion"],
+      "performers": ["Unknown"],
+      "songs": ["Heart of Gold"],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: The Lighthouse Mission",
+      "start_time": 1562,
+      "type": "drama",
+      "description": "In the drama segment titled 'The Lighthouse Mission,' characters gather at a community mission to celebrate Christmas. The scene showcases the spirit of helping others, emphasizing the importance of community and support during the holiday. The characters interact with warmth and humor, highlighting the joy and love that comes from reaching out to those in need.",
+      "keywords": ["community", "mission", "Christmas", "support", "love"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: What Kids Need at Christmas (Philippians 2:5-8)",
+      "start_time": 2203,
+      "type": "sermon",
+      "description": "The sermon focuses on what children truly need during the Christmas season, encouraging parents to engage deeply with their kids. The speaker emphasizes the importance of making children feel like gifts and teaching them the value of giving, gratitude, and understanding the true story of Christmas. It’s an inspiring call to action for families to prioritize love, relationship, and the message of Christ this holiday.",
+      "keywords": ["children", "Christmas", "family", "giving", "Philippians"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["Philippians 2:5-8"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer that sets the tone for the gathering. This prayer invites the presence of God into the space, asking for blessings and guidance throughout the service. It reflects a spirit of worship and reverence, inviting attendees to focus on the significance of the day's celebration.",
+      "keywords": ["prayer", "worship", "invitation", "blessing"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "A closing prayer wraps up the service, thanking God for the time spent together and asking for strength to carry the messages of hope and love into daily life. It calls on the congregation to reflect on the teachings shared and to embody the spirit of Christmas in their actions.",
+      "keywords": ["prayer", "closing", "thankfulness", "hope", "love"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

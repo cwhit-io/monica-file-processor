@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with an invitation to reflect on the significance of revival, as the speaker shares his personal experiences from a mission trip to South Sudan. The atmosphere is set for the congregation to open their hearts and minds to the messages of hope and renewal that will follow.",
+      "keywords": ["revival", "prayer", "community", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [1 Peter 4:7-11]",
+      "start_time": 20,
+      "type": "scripture",
+      "description": "The speaker invites the congregation to engage with the Word of God, specifically focusing on 1 Peter 4:7-11. This scripture serves as the foundation for the message about revival lessons learned during the mission trip.",
+      "keywords": ["1 Peter", "scripture", "revival", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Peter 4"]
+    },
+    {
+      "title": "Message: Revival Lessons from South Sudan (1 Peter 4)",
+      "start_time": 60,
+      "type": "sermon",
+      "description": "In a heartfelt message, the speaker shares insights gained during his trip to South Sudan, emphasizing the urgency of the gospel and the transformative power of God's love. He discusses the challenges faced and lessons learned, encouraging listeners to carry the spirit of revival into their own lives and communities.",
+      "keywords": ["revival", "South Sudan", "gospel", "community", "prayer"],
+      "performers": ["Kevin Carlton"],
+      "songs": [],
+      "scripture_references": ["1 Peter 4:7-11"]
+    },
+    {
+      "title": "Congregational Hymn: [Joyful, Joyful, We Adore Thee]",
+      "start_time": 1020,
+      "type": "music",
+      "description": "The congregation joins together in worship through the singing of a familiar hymn, creating a vibrant atmosphere of praise. This moment serves to unify the community in their shared faith and longing for spiritual renewal.",
+      "keywords": ["worship", "hymn", "community", "praise"],
+      "performers": ["Congregation"],
+      "songs": ["Joyful, Joyful, We Adore Thee"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [How Great Thou Art]",
+      "start_time": 1110,
+      "type": "music",
+      "description": "The choir beautifully performs 'How Great Thou Art,' leading the congregation in a powerful moment of worship. This song invites reflection on God's greatness and prompts a deep sense of awe and thanksgiving.",
+      "keywords": ["worship", "choir", "God's greatness", "thanksgiving"],
+      "performers": ["Church Choir"],
+      "songs": ["How Great Thou Art"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1260,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by the speaker, asking for God's guidance and revival in the hearts of the congregation. It's a moment of reflection and commitment to live out the lessons learned during the service.",
+      "keywords": ["prayer", "commitment", "revival"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

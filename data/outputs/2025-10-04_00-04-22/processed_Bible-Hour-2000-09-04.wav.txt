@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Leave a Light on",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir opens the service with an uplifting performance of 'Leave a Light on.' This song sets a welcoming tone, inviting the congregation to engage in the worship experience. The themes presented emphasize community, support, and the desire to reach seekers of faith.",
+      "keywords": ["choir", "leave a light on", "worship", "community", "faith"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Leave a Light on"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Gentle Music",
+      "start_time": 58,
+      "type": "music",
+      "description": "A solo performance follows, creating a reflective atmosphere. The gentle music allows the congregation to contemplate their spiritual journey. This section serves as a transition into deeper themes of spiritual longing and the quest for connection with God.",
+      "keywords": ["solo", "gentle music", "reflection", "spiritual journey", "worship"],
+      "performers": [],
+      "songs": ["Gentle Music"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: John 4",
+      "start_time": 726,
+      "type": "scripture",
+      "description": "The scripture reading from John chapter four highlights the powerful encounter between Jesus and the Samaritan woman. This passage serves as the foundation for understanding themes of thirst, longing, and salvation that will be explored during the sermon.",
+      "keywords": ["John", "woman at the well", "scripture reading", "thirst", "salvation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["John 4"]
+    },
+    {
+      "title": "Message: A Thirsty Soul (John 4)",
+      "start_time": 726,
+      "type": "sermon",
+      "description": "In a compelling sermon, the pastor discusses the story of the Samaritan woman at the well and her profound spiritual thirst. Key themes include divine appointments, the necessity of engaging with others about faith, and the transformative message of Jesus. This powerful message emphasizes the importance of recognizing our thirst for God in a world filled with distractions.",
+      "keywords": ["sermon", "thirsty soul", "Samaritan woman", "divine appointment", "faith"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["John 4"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2873,
+      "type": "prayer",
+      "description": "An invitation prayer invites those seeking spiritual fulfillment to come forward. This moment emphasizes the importance of community support in recognizing one's need for Christ and encourages congregants to take steps toward a deeper relationship with God. It fosters a sense of openness and vulnerability.",
+      "keywords": ["invitation", "prayer", "community", "spiritual fulfillment", "God"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Follow Christ",
+      "start_time": 2949,
+      "type": "music",
+      "description": "The congregation participates in singing 'Follow Christ,' reinforcing the themes of commitment and faith embodied in the sermon. This hymn encourages unity and collective response toward living a life dedicated to Christ and worshiping in spirit and truth.",
+      "keywords": ["congregational", "follow Christ", "hymn", "commitment", "unity"],
+      "performers": [],
+      "songs": ["Follow Christ"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3316,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service with a focus on gratitude and the ongoing journey of faith for the community. It encourages the congregation to carry the message of hope and connection with them as they leave and interact with the world.",
+      "keywords": ["closing prayer", "gratitude", "journey of faith", "community", "hope"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

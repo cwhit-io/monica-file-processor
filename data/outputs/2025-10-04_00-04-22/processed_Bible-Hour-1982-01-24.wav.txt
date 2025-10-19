@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: What Grace Is This?",
+      "start_time": 170,
+      "type": "music",
+      "description": "The choir performs 'What Grace Is This?' under the direction of Don Kruger, setting a tone of worship and reflection on the grace of Jesus Christ. This piece highlights the importance of grace in the Christian faith, inviting congregants to ponder its significance as they gather for worship.",
+      "keywords": ["choir", "grace", "worship", "song"],
+      "performers": ["Bible Hour Choir"],
+      "songs": ["What Grace Is This?"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: My Highest Praise",
+      "start_time": 412,
+      "type": "music",
+      "description": "David Miller delivers a heartfelt solo entitled 'My Highest Praise.' The performance emphasizes the theme of giving praise to Jesus Christ, encouraging the congregation to reflect on their own expressions of worship and gratitude toward God.",
+      "keywords": ["solo", "praise", "worship", "David Miller"],
+      "performers": ["David Miller"],
+      "songs": ["My Highest Praise"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Since I Have Been Made Right",
+      "start_time": 1087,
+      "type": "music",
+      "description": "Lenna sings 'Since I Have Been Made Right,' a song about the believer's new identity in Christ. This solo focuses on the transformative power of becoming right with God and the privilege of prayer that follows, enhancing the worship experience with deep theological themes.",
+      "keywords": ["solo", "prayer", "identity", "Lenna"],
+      "performers": ["Lenna"],
+      "songs": ["Since I Have Been Made Right"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1422,
+      "type": "prayer",
+      "description": "An opening prayer is offered, inviting God's presence into the service. The prayer sets a spiritual tone for the congregation, emphasizing the need for divine guidance as they prepare to worship and receive the message of the day.",
+      "keywords": ["prayer", "opening", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Christian Joy (Philippians 3:1-3)",
+      "start_time": 1373,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks preaches about Christian joy based on Philippians 3:1-3. He contrasts genuine Christian joy with the temporary happiness found in worldly things and emphasizes the importance of being a Christian and living in obedience to experience true joy. His message encourages believers to find freedom in their relationship with Christ.",
+      "keywords": ["joy", "Philippians", "obedience", "Christian"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Philippians 3:1-3"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3522,
+      "type": "prayer",
+      "description": "A closing prayer concludes the service, reflecting on the teachings shared and asking for God's blessing as the congregation departs. This moment helps reinforce the themes of the sermon and music, guiding congregants to carry the message into their daily lives.",
+      "keywords": ["prayer", "closing", "blessing"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Since I Have Been Made Right (Repeat)",
+      "start_time": 1095,
+      "type": "music",
+      "description": "A reprise of Lenna's heartfelt solo 'Since I Have Been Made Right' allows congregants to dwell on the message of being aligned with God's purpose. This repetition serves to deepen the impact of the initial message and instill a lasting sentiment about their relationship with Christ.",
+      "keywords": ["solo", "repeat", "identity", "Lenna"],
+      "performers": ["Lenna"],
+      "songs": ["Since I Have Been Made Right"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Bible Hour Highlights",
+      "start_time": 561,
+      "type": "announcement",
+      "description": "Pastor Rick Hawks and Don Kruger share insights about the Bible Hour's upcoming events and music segments. Their conversation encourages viewers and participants to engage with the ministry and highlights the importance of community support.",
+      "keywords": ["announcement", "Bible Hour", "community"],
+      "performers": ["Pastor Rick Hawks", "Don Kruger"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

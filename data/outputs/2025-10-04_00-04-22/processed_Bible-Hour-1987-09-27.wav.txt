@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: The Lord is My Light",
+      "start_time": 135,
+      "type": "music",
+      "description": "The sanctuary choir performs a powerful rendition of 'The Lord is My Light,' drawing inspiration from Psalm 27. The song emphasizes themes of hope and divine guidance, inviting the congregation to worship and reflect on God's presence in their lives. The choir's harmonies and emotive delivery create a spiritually uplifting atmosphere.",
+      "keywords": ["choir", "light", "praise", "worship", "Psalm 27"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["The Lord is My Light"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: How Can It Be",
+      "start_time": 420,
+      "type": "music",
+      "description": "'How Can It Be' is sung as a heartfelt congregational hymn, inviting everyone to reflect on the theme of unconditional love and grace. The congregation joins in, lifting their voices together in worship. The hymn serves as a reminder of the sacrifice of Jesus and the love that binds the community of believers.",
+      "keywords": ["hymn", "grace", "love", "worship", "congregational"],
+      "performers": [],
+      "songs": ["How Can It Be"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Lord, I Need to Feel Your Touch Again",
+      "start_time": 1487,
+      "type": "music",
+      "description": "Jim Murray shares a poignant solo titled 'Lord, I Need to Feel Your Touch Again.' The song encapsulates the yearning for a deeper connection with God amidst life's distractions. Through emotive lyrics and heartfelt performance, it resonates with the congregation's own desires for spiritual renewal and assurance.",
+      "keywords": ["solo", "renewal", "spiritual", "Murray", "touch"],
+      "performers": ["Jim Murray"],
+      "songs": ["Lord, I Need to Feel Your Touch Again"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1721,
+      "type": "prayer",
+      "description": "Following Jim Murray's touching solo, a prayer is offered to invite God's presence into the service. This heartfelt appeal acknowledges the struggles and needs of the congregation, seeking divine guidance and touch in their lives. The pastor prays for healing, encouragement, and spiritual refreshment.",
+      "keywords": ["prayer", "community", "guidance", "spiritual", "healing"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Managing Our Children Part II (Proverbs 22)",
+      "start_time": 147,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers an impactful sermon titled 'Managing Our Children Part II.' The message focuses on the critical role of discipline in child-rearing, exploring biblical principles from Proverbs. Drawing on personal anecdotes and scriptural wisdom, he emphasizes the responsibilities of parenting and the need for balancing love with correction. The sermon encourages parents to initiate dialogue about discipline with their children.",
+      "keywords": ["parenting", "discipline", "Proverbs", "children", "sermon"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Proverbs 22"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3525,
+      "type": "prayer",
+      "description": "A closing prayer wraps up the service, inviting the congregation to reflect on the messages shared. The pastor prays for strength and wisdom for the families represented, encouraging individuals to carry the lessons from the day into their personal lives. Gratitude is expressed for God's guidance and blessings.",
+      "keywords": ["closing", "prayer", "reflection", "guidance", "blessing"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Ministry Updates",
+      "start_time": 955,
+      "type": "announcement",
+      "description": "Various ministry updates are shared, focusing on upcoming events and resources available to the congregation. The pastor encourages participation in church activities and mentions an available book on forgiveness as a helpful tool for the members. Community engagement and support are highlighted.",
+      "keywords": ["updates", "events", "community", "forgiveness", "resources"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

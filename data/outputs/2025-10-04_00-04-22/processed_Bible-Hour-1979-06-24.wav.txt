@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unidentified Song]",
+      "start_time": 135,
+      "type": "music",
+      "description": "The congregation enjoys a spirited performance from the choir, directed by Mr. Don Kruger. Their song emphasizes themes of hope and the return of Christ, creating an uplifting atmosphere for the service. It serves as a reminder of the joy found in faith.",
+      "keywords": ["choir", "hope", "Christ", "faith", "music"],
+      "performers": ["Don Kruger"],
+      "songs": ["Unidentified Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Jesus is My Music]",
+      "start_time": 334,
+      "type": "music",
+      "description": "Marilyn Wong offers a soulful solo performance that reflects on the transformative power of Christ in her life. The lyrics speak to personal struggles and the joy that came from finding faith, captivating the audience with a heartfelt message about reliance on the Savior.",
+      "keywords": ["Marilyn Wong", "faith", "music", "transformation", "Jesus"],
+      "performers": ["Marilyn Wong"],
+      "songs": ["Jesus is My Music"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Go Ye Into All the World]",
+      "start_time": 1504,
+      "type": "music",
+      "description": "The Black Hawk Singers inspire the congregation with a powerful rendition of the Great Commission. This song challenges the church to spread the gospel to all corners of the earth and serves as a motivational reminder of the Christian calling to evangelize.",
+      "keywords": ["choir", "evangelism", "Great Commission", "music", "worship"],
+      "performers": ["Black Hawk Singers"],
+      "songs": ["Go Ye Into All the World"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Grace for Life and Godliness (2 Peter 1:1-11)",
+      "start_time": 1514,
+      "type": "sermon",
+      "description": "Dr. James D. Jeremiah delivers a compelling sermon based on 2 Peter Chapter 1. He discusses the importance of grace and the necessity of growth in the Christian life. Emphasizing diligence, he outlines how believers can add virtues to their faith to ensure they live fruitful lives and ultimately prepare for their future with Christ.",
+      "keywords": ["grace", "faith", "growth", "2 Peter", "sermon"],
+      "performers": ["Dr. James D. Jeremiah"],
+      "songs": [],
+      "scripture_references": ["2 Peter 1:1-11"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3156,
+      "type": "prayer",
+      "description": "Following the sermon, an invitation prayer is offered, encouraging listeners to seek a personal relationship with Jesus Christ. The prayer seeks to prepare hearts for making commitments toward faith and emphasizes the importance of acceptance and assurance of salvation.",
+      "keywords": ["prayer", "invitation", "salvation", "faith", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unidentified Song]",
+      "start_time": 3378,
+      "type": "music",
+      "description": "A closing musical piece concludes the service, providing a moment of reflection for the congregation. The music reinforces the messages of hope and faith expressed throughout the service, allowing attendees to leave with inspired hearts.",
+      "keywords": ["closing", "faith", "hope", "music"],
+      "performers": ["Ron Hackett"],
+      "songs": ["Unidentified Song"],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Grace That Is Greater",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir performs a beautiful piece emphasizing the grace of God that surpasses all our failings and weaknesses. This uplifting song inspires the congregation to reflect on the infinite mercy and strength found in faith. The music is an essential preparation for the message to follow, setting a hopeful and reverent tone.",
+      "keywords": ["grace", "choir", "music", "inspiration"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Grace That Is Greater"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: I've Been Through Enough",
+      "start_time": 140,
+      "type": "music",
+      "description": "Kathy Hawks delivers a heartfelt solo about enduring trials, emphasizing faith and trust in God's provision through difficult times. This moving performance resonates with those facing challenges, reinforcing a message of hope and reliance on divine guidance. The song beautifully complements the themes of perseverance that will be discussed in the sermon.",
+      "keywords": ["faith", "trials", "solo", "Kathy Hawks"],
+      "performers": ["Kathy Hawks"],
+      "songs": ["I've Been Through Enough"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: The Lord Is My Shepherd",
+      "start_time": 360,
+      "type": "music",
+      "description": "Tim Teder performs a solo rendition of 'The Lord Is My Shepherd,' bringing a sense of peace and comfort to the congregation. The lyrics highlight God's guiding presence and reassurance through life's adversities. This song serves as a reminder of the divine care that believers can rest in.",
+      "keywords": ["comfort", "shepherd", "solo", "Tim Teder"],
+      "performers": ["Tim Teder"],
+      "songs": ["The Lord Is My Shepherd"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1401,
+      "type": "prayer",
+      "description": "The opening prayer invites God's presence and asks for guidance and insight as the congregation prepares to delve into His word. It emphasizes the need for spiritual strength and unity among the church members as they face the challenges of life. This prayer is a poignant start to the service.",
+      "keywords": ["prayer", "guidance", "unity", "spiritual strength"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Hebrews 12",
+      "start_time": 1567,
+      "type": "scripture",
+      "description": "The pastor reads from Hebrews chapter 12, focusing on the metaphor of the Christian life as a race. This scripture sets the foundation for the sermon, encouraging believers to remain steadfast and to run with endurance. The reading is integral for understanding the themes of perseverance in the upcoming message.",
+      "keywords": ["Hebrews", "scripture", "endurance", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Hebrews 12"]
+    },
+    {
+      "title": "Message: Reviews to Quit (Hebrews 12:1-3)",
+      "start_time": 1579,
+      "type": "sermon",
+      "description": "In this impactful sermon, Pastor Rick Hawks encourages the congregation to persevere in their faith, likening the Christian journey to a marathon. He emphasizes the importance of endurance, examining the obstacles believers face and drawing on biblical examples of faithfulness. The message inspires listeners to run their race for Christ without giving up, highlighting both historical and personal applications of perseverance.",
+      "keywords": ["perseverance", "faith", "marathon", "endurance"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Hebrews 12:1-3"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3508,
+      "type": "prayer",
+      "description": "The closing prayer expresses gratitude for the message shared and seeks God's guidance as the congregation goes out into the world. It reinforces the themes of faith, perseverance, and commitment to living a life that honors God. This prayer serves as a powerful conclusion to the service.",
+      "keywords": ["closing", "gratitude", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Program Wrap-Up",
+      "start_time": 3516,
+      "type": "announcement",
+      "description": "The program concludes with a wrap-up that recaps the music and sermon. Bill VR thanks the audience for joining and encourages them to respond to faith decisions made during the service. It provides information about resources available to assist the congregation in their spiritual journey.",
+      "keywords": ["announcement", "wrap-up", "resources"],
+      "performers": ["Bill VR"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

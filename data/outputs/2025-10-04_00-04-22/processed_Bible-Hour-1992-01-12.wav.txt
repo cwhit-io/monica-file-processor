@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Handbell Choir: Westminster Chimes",
+      "start_time": 82,
+      "type": "music",
+      "description": "The Handbell Choir calls the congregation to worship with their performance of 'Westminster Chimes,' setting a reverent tone for the service. The composition features melodic ringing that resonates throughout the church, encouraging reflection and unity among attendees.",
+      "keywords": ["handbell", "worship", "music", "call to worship", "choir"],
+      "performers": ["Handbell Choir"],
+      "songs": ["Westminster Chimes"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Praise to God whose love was shown",
+      "start_time": 267,
+      "type": "music",
+      "description": "The sanctuary choir performs 'Praise to God whose love was shown,' captivating the audience with harmonious vocals that express themes of gratitude and reverence for God's love. The song serves to uplift the congregation and deepen their spiritual connection.",
+      "keywords": ["choir", "praise", "music", "worship", "God's love"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Praise to God whose love was shown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Be Our Guest",
+      "start_time": 708,
+      "type": "music",
+      "description": "Kevin Rowe delivers a beautiful solo rendition of 'Be Our Guest.' His performance engages the congregation, inviting them into a cheerful atmosphere of hospitality and celebration. The lively tune captures the essence of joy in fellowship.",
+      "keywords": ["solo", "joy", "harmony", "fellowship", "music"],
+      "performers": ["Kevin Rowe"],
+      "songs": ["Be Our Guest"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Bliss and Blisters of Singleness (1 Corinthians 7)",
+      "start_time": 951,
+      "type": "sermon",
+      "description": "Pastor Russell Moore introduces a thoughtful discussion on the theme of singleness, exploring both the joys and challenges that come with it. He examines biblical perspectives from 1 Corinthians 7, offering insights into self-control, the gift of singleness, and the church's role in supporting single individuals.",
+      "keywords": ["singleness", "sermon", "1 Corinthians", "joy", "challenges"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 7"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3421,
+      "type": "prayer",
+      "description": "The service concludes with an Invitation Prayer, inviting anyone wishing to accept Christ into their lives to join in prayer. This moment emphasizes the openness of the church to those seeking spiritual guidance and the importance of community in faith.",
+      "keywords": ["invitation", "prayer", "Christ", "community", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

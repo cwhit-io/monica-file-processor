@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Dramatic Music]",
+      "start_time": 30,
+      "type": "music",
+      "description": "The service begins with a dramatic music piece, setting the tone for the event. The music captures the attention of the audience and creates an atmosphere of anticipation.",
+      "keywords": ["dramatic", "music", "atmosphere", "tone", "anticipation"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Choir: [Gentle Piano Music]",
+      "start_time": 586,
+      "type": "music",
+      "description": "The congregation transitions to a gentle piano piece, fostering a reflective mood. This music invites worshippers to contemplate and connect with the message about to be shared.",
+      "keywords": ["gentle", "piano", "reflective", "congregation", "worship"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Message: The Role of Husbands in Marriage (Ephesians 5)",
+      "start_time": 1153,
+      "type": "sermon",
+      "description": "The sermon focuses on the biblical teachings about marriage, particularly the husbands' role according to Ephesians 5. It emphasizes sacrificial love, spiritual leadership, and nurturing within the marriage relationship, providing both practical advice and theological insights.",
+      "keywords": ["husbands", "marriage", "Ephesians", "sacrificial love", "spiritual leadership"],
+      "performers": ["Mitch", "Kelly"],
+      "songs": ["[]"],
+      "scripture_references": ["Ephesians 5:25-33"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1410,
+      "type": "prayer",
+      "description": "An opening prayer is offered, invoking God's guidance for the service. It reflects the community's desire to align their hearts with God's will as they engage in the worship.",
+      "keywords": ["prayer", "opening", "guidance", "community", "worship"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "scripture: Scripture Reading: [Ephesians 5]",
+      "start_time": 1349,
+      "type": "scripture",
+      "description": "The scripture reading from Ephesians 5 outlines God's call for husbands to love their wives as Christ loves the Church. This foundational text inspires the service's themes of love and sacrifice.",
+      "keywords": ["Ephesians", "scripture", "reading", "love", "sacrifice"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["Ephesians 5:25-33"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3499,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer, asking for strength and wisdom for husbands. It fosters unity and commitment to living out the teachings discussed throughout the service.",
+      "keywords": ["closing", "prayer", "commitment", "strength", "wisdom"],
+      "performers": ["Mitch"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    }
+  ]
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Anthem of Praise",
+      "start_time": 182,
+      "type": "music",
+      "description": "The choir leads the congregation in an uplifting anthem, expressing the greatness of God. Their performance fosters a spirit of worship, encouraging attendees to join in praising the Lord. This segment highlights the communal aspect of worship and the joy that music brings in honoring God.",
+      "keywords": ["choir", "praise", "worship", "music", "anthem"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["How Great Thou Art"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Stand Up, Stand Up for Jesus",
+      "start_time": 406,
+      "type": "music",
+      "description": "The congregation participates in singing 'Stand Up, Stand Up for Jesus,' reinforcing the theme of standing strong in faith. This moment of corporate singing fosters unity among the attendees as they declare their commitment to their beliefs. The hymn serves as a reminder of the call to action for Christians.",
+      "keywords": ["congregational", "hymn", "faith", "unity", "worship"],
+      "performers": [],
+      "songs": ["Stand Up, Stand Up for Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Crisis Pregnancy Center",
+      "start_time": 548,
+      "type": "interview",
+      "description": "Joyce McDougal, director of the Crisis Pregnancy Center, shares insights about their ministry and support for women facing crisis pregnancies. She emphasizes the importance of providing help, guidance, and biblical understanding to those in need. The conversation highlights the church's commitment to supporting life and community outreach.",
+      "keywords": ["Crisis Pregnancy Center", "support", "women", "ministry", "outreach"],
+      "performers": ["Joyce McDougal"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Let There Be Praise",
+      "start_time": 843,
+      "type": "music",
+      "description": "Marilyn Wong leads a solo performance of 'Let There Be Praise.' The song emphasizes joy and worship, encouraging the congregation to express their gratitude to God. The uplifting lyrics and melody inspire attendees to reflect on God's blessings and the importance of praise in their lives.",
+      "keywords": ["solo", "praise", "worship", "joy", "thankfulness"],
+      "performers": ["Marilyn Wong"],
+      "songs": ["Let There Be Praise"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1406,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, expressing gratitude for Jesus and asking for His presence during the service. The prayer requests guidance and healing for those in need and sets a reverent tone for worship. It invites the congregation to prepare their hearts for the message.",
+      "keywords": ["prayer", "worship", "gratitude", "healing", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Division in the Church (1 Corinthians 1)",
+      "start_time": 1576,
+      "type": "sermon",
+      "description": "Pastor Rickoff addresses division among church members, drawing from 1 Corinthians 1. He illustrates the importance of unity and the dangers of loyalty to different leaders. Using biblical examples, he emphasizes Christ as the foundation of faith, urging the congregation to foster harmony and understanding.",
+      "keywords": ["sermon", "division", "unity", "1 Corinthians", "faith"],
+      "performers": ["Pastor Rickoff"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 1:10-17"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3438,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Rickoff, inviting the congregation to seek a deeper relationship with Christ. This prayer reinforces the messages delivered during the service, encouraging personal reflection and commitment to faith. It serves as a reminder of God's love and guidance.",
+      "keywords": ["prayer", "closing", "reflection", "commitment", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Heart of Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir leads the congregation in a heartfelt worship song expressing devotion to Jesus. The lyrics center around returning to the essence of worship, focusing on surrender and love for God. This segment emphasizes a deep connection with Jesus as central to worship.",
+      "keywords": ["worship", "Jesus", "choir", "devotion", "surrender"],
+      "performers": ["Choir"],
+      "songs": ["Heart of Worship"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Here I Stand",
+      "start_time": 185,
+      "type": "music",
+      "description": "The choir performs a song that declares complete surrender to Jesus. The lyrics highlight themes of commitment and identity in Christ, expressing that the singer belongs to God. This segment reinforces the church's resolve to live for God.",
+      "keywords": ["surrender", "Jesus", "identity", "commitment", "worship"],
+      "performers": ["Choir"],
+      "songs": ["Here I Stand"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 812,
+      "type": "prayer",
+      "description": "The opening prayer invites God’s presence and guidance for the service. The pastor prays for clarity and spiritual readiness for all who gather, asking God to reveal His truth and purpose through the message that will follow. The prayer emphasizes communal worship and reliance on divine guidance.",
+      "keywords": ["prayer", "community", "guidance", "worship", "presence"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Protecting a Gospel Culture (1 Timothy 1:1-11)",
+      "start_time": 870,
+      "type": "sermon",
+      "description": "The sermon focuses on the charge given to Timothy by Paul to protect sound doctrine and promote godly behavior within the church. It further examines the relationship between doctrine and culture in a church setting, urging members to foster a gospel-centered community that emphasizes love, truth, and grace. The speaker encourages active participation in maintaining a culture that reflects the values of the gospel.",
+      "keywords": ["Timothy", "gospel", "doctrine", "Paul", "church"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 1:1-11"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3530,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service by thanking God for His guidance throughout the service. The pastor asks for empowerment as the congregation goes forth, encouraging them to live out their faith in their daily lives. This prayer emphasizes the need for divine strength as they protect and embody the gospel culture.",
+      "keywords": ["prayer", "closing", "thanksgiving", "empowerment", "faith"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Commissioning Andrea O'Shan",
+      "start_time": 3569,
+      "type": "announcement",
+      "description": "The church holds a commissioning service for Andrea O'Shan, who is heading to the mission field in Nairobi. The community gathers to support her, praying for her strength and guidance as she embarks on this journey. The announcement includes a heartfelt message of encouragement and recognition of Andrea's calling.",
+      "keywords": ["mission", "commissioning", "support", "community", "calling"],
+      "performers": ["Bill Archer"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Osifuni Mungu",
+      "start_time": 3916,
+      "type": "music",
+      "description": "The choir celebrates Andrea's commissioning with the lively song 'Osifuni Mungu,' performed in both English and Swahili. This song, which encourages exuberant praise to God, brings the congregation together in a joyful expression of worship. The upbeat music enhances the sense of community and celebration for the mission.",
+      "keywords": ["celebration", "praise", "choir", "worship", "community"],
+      "performers": ["Choir"],
+      "songs": ["Osifuni Mungu"],
+      "scripture_references": []
+    }
+  ]
+}
+```

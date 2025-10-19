@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: The Virgin Mary Had a Baby Boy",
+      "start_time": 156,
+      "type": "music",
+      "description": "The youth choir performs 'The Virgin Mary Had a Baby Boy,' celebrating the birth of Jesus with joyful praise. The song is characterized by a lively melody, uplifting the spirit of the season and drawing attention to the miraculous nature of Christ's birth.",
+      "keywords": ["choir", "Christmas", "youth", "praise", "Jesus"],
+      "performers": ["Living Christmas Tree Youth Choir"],
+      "songs": ["The Virgin Mary Had a Baby Boy"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: There Shall Never Be Another",
+      "start_time": 541,
+      "type": "music",
+      "description": "Continuing the Christmas celebration, the youth choir enchants the audience with 'There Shall Never Be Another,' reflecting on the uniqueness of Christ and His divine purpose. The performance is both powerful and moving, emphasizing the theme of the singularity of Jesus's mission.",
+      "keywords": ["choir", "Christmas", "praise", "Jesus", "unique"],
+      "performers": ["Living Christmas Tree Youth Choir"],
+      "songs": ["There Shall Never Be Another"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1021,
+      "type": "prayer",
+      "description": "Pastor Rick Hawks opens the service with a heartfelt prayer, inviting the presence of God among the congregation. He emphasizes the importance of worship during the Christmas season, setting a reverent tone for the service ahead.",
+      "keywords": ["prayer", "opening", "worship", "Christmas", "presence"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Matthew 1",
+      "start_time": 1078,
+      "type": "scripture",
+      "description": "A reading from Matthew 1 outlines the story of the angel's announcement to Mary regarding the birth of Jesus. It highlights Mary and Joseph's experiences, emphasizing the significance and divine intervention surrounding the birth of Christ.",
+      "keywords": ["scripture", "Matthew", "Angel", "Mary", "Joseph"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 1"]
+    },
+    {
+      "title": "Message: Emmanuel: God with Us (Matthew 1:18-25)",
+      "start_time": 1424,
+      "type": "sermon",
+      "description": "Dr. Martin Clark delivers a powerful sermon focusing on the theme of Emmanuel, illustrating what it means that God is with us in Jesus Christ. He elaborates on the significance of Jesus's incarnation, exploring the implications of His coming for our lives and the world.",
+      "keywords": ["sermon", "Emmanuel", "God", "incarnation", "Jesus"],
+      "performers": ["Dr. Martin Clark"],
+      "songs": [],
+      "scripture_references": ["Matthew 1:18-25"]
+    },
+    {
+      "title": "Solo: What a Beautiful Name",
+      "start_time": 1266,
+      "type": "music",
+      "description": "Dave and Peggy's rendition of 'What a Beautiful Name' resonates throughout the congregation, capturing the essence of the beauty and power of Jesus's name. Their heartfelt performance uplifts and encourages worship among the attendees.",
+      "keywords": ["solo", "worship", "Jesus", "beautiful", "name"],
+      "performers": ["Dave", "Peggy"],
+      "songs": ["What a Beautiful Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3416,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer led by Pastor Rick. He expresses gratitude for the message and music shared, asking for God's continued presence and guidance in the lives of those attending.",
+      "keywords": ["prayer", "closing", "gratitude", "God", "presence"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Outreach Ministry of the Living Christmas Tree",
+      "start_time": 534,
+      "type": "announcement",
+      "description": "Pastor Rick and Don Kruger share updates about the outreach efforts of the Living Christmas Tree. They discuss the impact of recent concerts and invite the audience to experience the ministry of the living Christmas tree during the festive season.",
+      "keywords": ["announcement", "outreach", "Christmas Tree", "concerts", "ministry"],
+      "performers": ["Pastor Rick Hawks", "Don Kruger"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [MUSIC]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a choir performance, setting the tone for worship. The uplifting melodies invite everyone to quiet their hearts and engage in the moment. Music serves as a bridge, connecting the congregation to the spiritual atmosphere of the gathering.",
+      "keywords": ["choir", "worship", "music", "songs", "gathering"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Solo: [MUSIC]",
+      "start_time": 114,
+      "type": "music",
+      "description": "During the service, a soloist performs a thoughtful piece that encourages reflection among the attendees. The song speaks of faith, drawing listeners closer to God through its heartfelt lyrics and melody. This performance serves to enhance the worship experience.",
+      "keywords": ["solo", "performance", "reflection", "lyrics", "worship"],
+      "performers": ["Lynn Rowell"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Message: Mission Possible (Mark 3:14)",
+      "start_time": 270,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a powerful message titled 'Mission Possible,' focusing on Mark 3:14. He emphasizes the simplicity of following Christ, advocating for a return to the basics of faith. The sermon draws parallels between the early apostles' mission and today's call to know Jesus and share Him with others, urging listeners to embrace their role in God's mission.",
+      "keywords": ["mission", "discipleship", "Mark 3:14", "simplicity", "faith"],
+      "performers": ["Rick Hawks"],
+      "songs": ["[]"],
+      "scripture_references": ["Mark 3"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1322,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer follows the sermon, inviting God's presence into the gathering. Pastor Rick prays for those seeking direction and encouragement, seeking divine comfort for individuals facing challenges. The prayer emphasizes the need for faith and connection with God.",
+      "keywords": ["prayer", "faith", "comfort", "guidance", "community"],
+      "performers": ["Rick Hawks"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Congregational Hymn: Oh, Four Thousand Tongues to Sing",
+      "start_time": 464,
+      "type": "music",
+      "description": "The congregation joins together in singing 'Oh, Four Thousand Tongues to Sing,' creating a powerful moment of unity and worship. This hymn celebrates the glory of God and the joy of proclaiming His name, encouraging everyone to lift their voices in unison.",
+      "keywords": ["congregational", "hymn", "worship", "unity", "praise"],
+      "performers": ["[]"],
+      "songs": ["Oh, Four Thousand Tongues to Sing"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Solo: [MUSIC]",
+      "start_time": 555,
+      "type": "music",
+      "description": "Following the congregational hymn, a soloist performs another uplifting song, inviting listeners to reflect on God’s holiness and majesty. The music enhances the worship atmosphere, prompting individual contemplation on the themes of reverence and grace.",
+      "keywords": ["solo", "worship", "reflection", "grace", "holiness"],
+      "performers": ["Jenny Clancy"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 999,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that reaffirms the sermon’s key messages. Pastor Rick petitions for the strength and courage of the congregation to embark on their own missions. This prayer serves as a personal commitment to living out one’s faith.",
+      "keywords": ["closing", "commitment", "faith", "community", "mission"],
+      "performers": ["Rick Hawks"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Choir: [MUSIC]",
+      "start_time": 1137,
+      "type": "music",
+      "description": "The choir returns to close the service with a final uplifting song, reinforcing the themes of worship and fellowship. The joyful melodies leave the congregation with a sense of fulfillment and encouragement to carry their faith into their daily lives.",
+      "keywords": ["choir", "worship", "joy", "fellowship", "faith"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    }
+  ]
+}
+```

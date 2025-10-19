@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unidentified Song]",
+      "start_time": 89,
+      "type": "music",
+      "description": "The choir engages the congregation in powerful and uplifting worship through song, setting a tone of reverence and praise for the service ahead. The music resonates with the themes of worship, drawing the congregation into a collective experience of devotion and gratitude.",
+      "keywords": ["worship", "choir", "praise", "song", "spirituality"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["[Unidentified Song]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Essence of Worship (John 4)",
+      "start_time": 456,
+      "type": "sermon",
+      "description": "The sermon explores the true nature of worship as sought by God, emphasizing worship in spirit and truth. Throughout the message, various postures of worship are discussed, including humility, love for others, and the importance of genuine community in worship settings. Practical applications call the congregation to deepen their relationship with God and commit fully to their spiritual journey.",
+      "keywords": ["worship", "spirit", "truth", "community", "discipleship"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["John 4"]
+    },
+    {
+      "title": "Solo: [Unidentified Song]",
+      "start_time": 2544,
+      "type": "music",
+      "description": "A soloist shares a heartfelt rendition that encapsulates the themes of the worship service, inviting the congregation to reflect on their personal journeys with God. The song emphasizes personal surrender and the exhilaration found in a relationship with God, adding depth to the worship experience.",
+      "keywords": ["worship", "solo", "reflection", "surrender"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unidentified Song]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unidentified Song]",
+      "start_time": 2841,
+      "type": "music",
+      "description": "The choir returns to lead another segment of worship, enhancing the communal atmosphere and reinforcing the themes discussed throughout the service. This part of the worship highlights the joy and connection found in shared faith through music.",
+      "keywords": ["worship", "choir", "joy", "community"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["[Unidentified Song]"],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Marilyn Wong",
+      "start_time": 2955,
+      "type": "testimony",
+      "description": "Marilyn shares her journey of faith, growing up in a loving Christian home and her commitment to God. She reflects on how her early experiences shaped her perspective on faith and worship, emphasizing the joy she finds in sharing God's love through music.",
+      "keywords": ["testimony", "faith", "worship", "music"],
+      "performers": ["Marilyn Wong"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Doug Cox",
+      "start_time": 3124,
+      "type": "testimony",
+      "description": "Doug recounts his journey to faith marked by personal struggles and growth. He highlights how music and worship became integral to his life, sharing insights about the importance of reaching out to others through music and building a relationship with Christ.",
+      "keywords": ["testimony", "faith", "music", "community"],
+      "performers": ["Doug Cox"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Gary Kance",
+      "start_time": 3331,
+      "type": "testimony",
+      "description": "Gary discusses his long-standing relationship with music and worship within the church. His testimony emphasizes the freedom and joy found in diverse expressions of worship, encouraging others to celebrate God through their unique talents.",
+      "keywords": ["testimony", "music", "worship", "joy"],
+      "performers": ["Gary Kance"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3540,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, inviting the congregation to reflect on the themes shared throughout the service and to commit their paths to God. The prayer emphasizes community, gratitude, and the call to live out one's faith in everyday life.",
+      "keywords": ["prayer", "community", "gratitude", "faith"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

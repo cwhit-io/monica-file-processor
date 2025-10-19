@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Dramatic Music",
+      "start_time": 30,
+      "type": "music",
+      "description": "The service opens with dramatic music to set an engaging tone, inviting the congregation into a focused and reverent atmosphere.",
+      "keywords": ["music", "dramatic", "opening"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Upbeat Music",
+      "start_time": 60,
+      "type": "music",
+      "description": "An upbeat musical selection transitions the atmosphere, encouraging congregational participation and uplifting spirits through lively melodies.",
+      "keywords": ["music", "upbeat", "celebration"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Celebrating the Church of Fort Wayne",
+      "start_time": 177,
+      "type": "announcement",
+      "description": "Pastor Kelly Bird introduces a special segment focusing on the church in Fort Wayne, highlighting the efforts of local ministries and inviting community participation.",
+      "keywords": ["announcement", "church", "Fort Wayne", "ministry"],
+      "performers": ["Kelly Bird"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Dan Chittwood: Crossbridge Community Church",
+      "start_time": 240,
+      "type": "interview",
+      "description": "Pastor Kelly interviews Dan Chittwood from Crossbridge Community Church, discussing their ministry journey, community outreach, and the importance of providing a welcoming space for those unfamiliar with church.",
+      "keywords": ["Dan Chittwood", "Crossbridge", "interview"],
+      "performers": ["Dan Chittwood", "Kelly Bird"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Adrian and Kelly Gunther",
+      "start_time": 764,
+      "type": "testimony",
+      "description": "Adrian and Kelly share their transformative journey at Crossbridge, expressing gratitude for the connections and support they've found in the church community.",
+      "keywords": ["testimony", "Adrian Gunther", "Kelly Gunther", "community"],
+      "performers": ["Adrian Gunther", "Kelly Gunther"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Upbeat Music",
+      "start_time": 1012,
+      "type": "music",
+      "description": "Another upbeat music segment engages the congregation, creating an atmosphere of joy and celebration as they prepare for the upcoming sermon.",
+      "keywords": ["music", "upbeat", "celebration"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Responding to Authority (1 Peter 2:13-17)",
+      "start_time": 1099,
+      "type": "sermon",
+      "description": "Pastor Kelly delivers an inspiring sermon on how Christians are to respond to authority, emphasizing a heart attitude of submission and respect, regardless of the circumstances. He refers to the experience of Jesus as an example and teaches on the importance of maintaining a godly witness in all situations.",
+      "keywords": ["sermon", "authority", "1 Peter", "submission"],
+      "performers": ["Kelly Bird"],
+      "songs": ["[]"],
+      "scripture_references": ["1 Peter 2:13-17"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3560,
+      "type": "prayer",
+      "description": "Pastor Kelly leads a closing prayer, inviting the congregation to reflect on the message, seek God's guidance, and commit to honoring authority in their lives as followers of Christ.",
+      "keywords": ["prayer", "closing", "reflection"],
+      "performers": ["Kelly Bird"],
+      "songs": ["[]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

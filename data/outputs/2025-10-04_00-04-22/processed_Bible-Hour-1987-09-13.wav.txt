@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Sanctuary Choir: Celebrate",
+      "start_time": 157,
+      "type": "music",
+      "description": "The Sanctuary Choir performs a spirited song celebrating faith and the resurrection of Jesus. The lyrics highlight themes of victory and joy in Christ, inviting the congregation to reflect on the meaning of salvation and the active celebration of their faith.",
+      "keywords": ["celebrate", "faith", "Jesus", "victory", "salvation"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Celebrate"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: What Grace Is This",
+      "start_time": 1231,
+      "type": "music",
+      "description": "Brian Lozen performs a powerful solo, 'What Grace Is This,' reflecting on the profound grace of God that brought salvation through Christ. The lyrics express amazement at the lengths to which God went to redeem humanity, creating an atmosphere of worship and gratitude.",
+      "keywords": ["grace", "salvation", "redemption", "worship", "Christ"],
+      "performers": ["Brian Lozen"],
+      "songs": ["What Grace Is This"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1455,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, thanking God for His grace and asking for His presence during the service. The prayer reflects the congregation's desire for spiritual growth and a deeper understanding of God's word.",
+      "keywords": ["prayer", "grace", "God", "thanksgiving", "spiritual growth"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Managing Our Integrity (Proverbs 26:24-28)",
+      "start_time": 174,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a challenging message on the importance of integrity based on Proverbs 26. He explores the development and dangers of deception and encourages the congregation to uphold truth in their lives. The sermon emphasizes that managing integrity is not just about avoiding deceit, but actively living out honest values.",
+      "keywords": ["integrity", "deception", "Proverbs", "truth", "values"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Proverbs 26:24-28"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3569,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, encouraging those who have made decisions for Christ to seek His guidance and forgiveness. The prayer reflects a longing for spiritual renewal and commitment among the congregation.",
+      "keywords": ["invitation", "prayer", "commitment", "forgiveness", "renewal"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Closing Song",
+      "start_time": 3563,
+      "type": "music",
+      "description": "The service concludes with a heartfelt solo that ties together the themes of grace and salvation. The song serves as a reflective closing piece, inviting the congregation to ponder their relationship with God and the manifold grace they have received.",
+      "keywords": ["closing", "grace", "salvation", "worship", "reflective"],
+      "performers": ["Kathy Hawks"],
+      "songs": ["Closing Song"],
+      "scripture_references": []
+    }
+  ]
+}
+```

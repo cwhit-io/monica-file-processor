@@ -1,0 +1,84 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: Join All the Glorious Names",
+      "start_time": 259,
+      "type": "music",
+      "description": "The Sanctuary Choir performs the uplifting hymn 'Join All the Glorious Names,' celebrating the wisdom and love of God. This piece encourages the congregation to engage in worship and reflect on the attributes of Jesus Christ. The uplifting melodies resonate throughout the gathering, fostering a spirit of joy and unity.",
+      "keywords": ["choir", "worship", "hymn", "Jesus", "praise"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Join All the Glorious Names"],
+      "scripture_references": [""]
+    },
+    {
+      "title": "Choir: Blessed Be the Name of the Lord",
+      "start_time": 494,
+      "type": "music",
+      "description": "The congregation joins in singing 'Blessed Be the Name of the Lord,' a powerful hymn echoing the reverence and glory of God. This segment is marked by enthusiastic participation, as the church community lifts their voices in praise, solidifying their faith and commitment to worship.",
+      "keywords": ["hymn", "praise", "blessing", "worship", "community"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Blessed Be the Name of the Lord"],
+      "scripture_references": [""]
+    },
+    {
+      "title": "Solo: No One Ever Cared for Me Like Jesus",
+      "start_time": 777,
+      "type": "music",
+      "description": "A heartfelt solo performance of 'No One Ever Cared for Me Like Jesus' captivates the congregation. This song emphasizes the personal relationship believers have with Jesus. The singer expresses deep gratitude and devotion, inviting the church to reflect on Christ's unwavering love.",
+      "keywords": ["solo", "heartfelt", "Jesus", "love", "devotion"],
+      "performers": ["Lynn Rowell"],
+      "songs": ["No One Ever Cared for Me Like Jesus"],
+      "scripture_references": [""]
+    },
+    {
+      "title": "Solo: Grace Enough for Me",
+      "start_time": 1169,
+      "type": "music",
+      "description": "Continuing the spirit of worship, the soloist performs 'Grace Enough for Me,' a stirring reminder of God's grace in times of need. This performance resonates with the congregation, reinforcing the theme of reliance on God's strength during life's challenges.",
+      "keywords": ["grace", "solo", "strength", "worship", "faith"],
+      "performers": ["Lynn Rowell"],
+      "songs": ["Grace Enough for Me"],
+      "scripture_references": [""]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1884,
+      "type": "prayer",
+      "description": "Pastor Rick leads the congregation in an opening prayer, asking for God's grace and strength for those facing various challenges. The prayer focuses on the needs of the community, especially teenagers under stress, and seeks divine intervention for healing and support.",
+      "keywords": ["prayer", "community", "grace", "healing", "support"],
+      "performers": ["Rick Hawks"],
+      "songs": [""],
+      "scripture_references": [""]
+    },
+    {
+      "title": "Message: Love is Not a Bookkeeper (1 Corinthians 13)",
+      "start_time": 1967,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a profound sermon on 'Love is Not a Bookkeeper,' based on 1 Corinthians 13. He explores the concept of love which forgives and forgets wrongs, encouraging the congregation to release resentment and embrace God's grace. Through personal anecdotes and biblical principles, he highlights the transformative power of love in relationships.",
+      "keywords": ["love", "forgiveness", "sermon", "grace", "relationships"],
+      "performers": ["Rick Hawks"],
+      "songs": [""],
+      "scripture_references": ["1 Corinthians 13:4-8"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3525,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, inviting anyone who feels called to deepen their relationship with Jesus to respond. The pastor emphasizes the importance of accepting Christ into one's life and encourages genuine dialogue with God.",
+      "keywords": ["invitation", "prayer", "Jesus", "commitment", "faith"],
+      "performers": ["Rick Hawks"],
+      "songs": [""],
+      "scripture_references": [""]
+    },
+    {
+      "title": "Choir: Closing Hymn",
+      "start_time": 3605,
+      "type": "music",
+      "description": "The service concludes with a closing hymn performed by the Sanctuary Choir, sending the congregation out with a message of hope and encouragement. This beautiful piece reinforces the themes of the service, reminding attendees of God's unwavering presence and love.",
+      "keywords": ["closing", "hymn", "choir", "hope", "God"],
+      "performers": ["Sanctuary Choir"],
+      "songs": [""],
+      "scripture_references": [""]
+    }
+  ]
+}

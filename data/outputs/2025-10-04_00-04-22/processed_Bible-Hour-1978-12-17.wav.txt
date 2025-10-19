@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "scripture: Scripture Reading: [Isaiah 9:6-7]",
+      "start_time": 102,
+      "type": "scripture",
+      "description": "Mr. Rick Hawks reads Isaiah 9:6-7, which prophesies the birth of a child who will be called Wonderful, Counselor, Mighty God, Everlasting Father, and Prince of Peace. This passage highlights the significance of the Messiah's coming and sets the stage for the message on Emmanuel, God with us.",
+      "keywords": ["Isaiah", "prophecy", "Christmas", "Messiah", "peace"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Isaiah 9:6-7"]
+    },
+    {
+      "title": "Youth Choir: Christmas Music",
+      "start_time": 206,
+      "type": "music",
+      "description": "The teenage members of the Black Hawk Baptist Church's youth choir present a selection of Christmas music, celebrating the gift of love brought by Jesus Christ. This performance is part of a tradition that follows the Living Christmas Tree presentation, creating a joyful atmosphere for the congregation.",
+      "keywords": ["Christmas", "choir", "youth", "celebration", "music"],
+      "performers": ["Black Hawk Baptist Church Youth Choir"],
+      "songs": ["Christmas music"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1711,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, thanking God for the miraculous birth of Jesus Christ and for the fulfillment of Old Testament prophecies. The prayer requests blessings for attendees and encourages everyone to find comfort in God's presence during the Christmas season.",
+      "keywords": ["prayer", "thanksgiving", "blessings", "comfort", "Christmas"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Emmanuel (Matthew 1:23)",
+      "start_time": 1712,
+      "type": "sermon",
+      "description": "Pastor David Jerima delivers a profound message on the meaning of Emmanuel—God with us—and its implications for our lives. He explores biblical understanding, addressing themes of God's presence in joy, sorrow, service, and salvation, inviting listeners to embrace Him during the Christmas season.",
+      "keywords": ["Emmanuel", "God", "presence", "Christmas", "salvation"],
+      "performers": ["David Jerima"],
+      "songs": [],
+      "scripture_references": ["Matthew 1:23"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3193,
+      "type": "prayer",
+      "description": "An invitation prayer is offered inviting attendees to accept Jesus Christ as their personal Savior. The prayer emphasizes the need for individual acceptance of Emmanuel and seeks to draw those who may feel distant from God closer through faith.",
+      "keywords": ["invitation", "prayer", "salvation", "faith", "Emmanuel"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Program Conclusion",
+      "start_time": 3365,
+      "type": "announcement",
+      "description": "The program concludes with announcements about sending materials to those who have made spiritual decisions. The hosts express their desire for connection with viewers and encourage them to reach out regarding their spiritual journeys.",
+      "keywords": ["announcement", "connection", "spiritual", "material", "outreach"],
+      "performers": ["Jack Gray"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

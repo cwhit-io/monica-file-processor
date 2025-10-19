@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Congregational Hymn: [Unknown]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with upbeat music, setting a joyful atmosphere. This music transitions to a brief music segment, energizing the congregation. It serves as an invitation to worship together and focuses on creating a sense of community.",
+      "keywords": ["music", "worship", "community"],
+      "performers": [],
+      "songs": [""],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Logos Institute Update",
+      "start_time": 62,
+      "type": "announcement",
+      "description": "Kelly welcomes the audience and invites Rod Ovid for an update on the Logos Institute of Biblical Studies. Rod shares exciting news about new classes, locations, and opportunities throughout the semester, emphasizing the importance of biblical education in daily life.",
+      "keywords": ["Logos", "education", "classes", "updates"],
+      "performers": ["Rod Ovid"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Deuteronomy 8",
+      "start_time": 359,
+      "type": "scripture",
+      "description": "The congregation is invited to reflect on the themes from Deuteronomy chapter 8, marking a transition to the message. This scripture reading sets the tone for the sermon, highlighting the importance of remembering God's provisions.",
+      "keywords": ["Deuteronomy", "scripture", "remembrance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Deuteronomy 8"]
+    },
+    {
+      "title": "Message: Remembering God's Provisions (Deuteronomy 8)",
+      "start_time": 419,
+      "type": "sermon",
+      "description": "The pastor delivers an insightful message from Deuteronomy 8, urging the congregation to remember the Lord's guidance and gifts throughout their lives. Emphasizing themes of obedience and gratitude, the sermon encourages the audience to reflect on God's faithfulness and the importance of communal worship.",
+      "keywords": ["Deuteronomy", "remember", "obedience", "gratitude", "faithfulness"],
+      "performers": ["Steve"],
+      "songs": [],
+      "scripture_references": ["Deuteronomy 8"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2671,
+      "type": "prayer",
+      "description": "An invitation prayer prompts reflection on the sermon, encouraging the congregation to recognize their need for God's grace. This moment is intended for personal contemplation and commitment, fostering a connection between the message and individual faith journeys.",
+      "keywords": ["prayer", "invitation", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown]",
+      "start_time": 2712,
+      "type": "music",
+      "description": "A solo performance takes place, providing a moment for introspection and worship. This piece enhances the themes shared in the sermon and invites the congregation to meditate on the importance of remembering God's goodness.",
+      "keywords": ["music", "solo", "worship", "meditation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2915,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, asking for God's guidance and strength to help the congregation remember His blessings and act faithfully in their lives. This prayer strengthens the community bond and prepares the congregation for the week ahead.",
+      "keywords": ["closing prayer", "guidance", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

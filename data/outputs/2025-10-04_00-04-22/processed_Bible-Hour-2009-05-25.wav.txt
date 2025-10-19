@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Be Glorified",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir leads in an uplifting song, 'Be Glorified,' creating an atmosphere of worship. The lyrics invite the congregation to glorify God, emphasizing themes of sacrifice and worship. The repeated phrases reinforce the call to honor God and celebrate His goodness.",
+      "keywords": ["worship", "glorified", "sacrifice", "choir", "praise"],
+      "performers": ["[Unknown]"],
+      "songs": ["Be Glorified"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: You Are Good",
+      "start_time": 271,
+      "type": "music",
+      "description": "The choir continues with the song 'You Are Good,' celebrating God's enduring goodness and love. Through repetition, the congregation is encouraged to engage in heartfelt worship. This segment fosters a sense of community and connection to the divine.",
+      "keywords": ["worship", "goodness", "choir", "praise", "community"],
+      "performers": ["[Unknown]"],
+      "songs": ["You Are Good"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Power of Worship (Psalm 100)",
+      "start_time": 540,
+      "type": "sermon",
+      "description": "The pastor delivers a profound message on the power of worship, focusing on Psalm 100. Emphasizing the importance of gratitude and praise, the sermon explores how worship transforms our hearts and draws us closer to God. Practical applications encourage the congregation to embrace a lifestyle of worship.",
+      "keywords": ["worship", "sermon", "gratitude", "Psalm", "transformation"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["Psalm 100"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2831,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer, asking for God’s guidance and blessings on the congregation. This prayer encapsulates the themes of the service, encouraging attendees to carry the spirit of worship into their daily lives.",
+      "keywords": ["prayer", "closing", "blessings", "guidance", "worship"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

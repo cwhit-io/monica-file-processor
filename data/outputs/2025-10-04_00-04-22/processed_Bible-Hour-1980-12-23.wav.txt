@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Christmas Celebration",
+      "start_time": 37,
+      "type": "music",
+      "description": "The program begins with a celebration of Christmas featuring the young people's choir. Directed by Mr. Craig Pearson, the performers share their interpretation of the Christmas story through music, enhancing the festive spirit of the church service.",
+      "keywords": ["Christmas", "choir", "celebration", "music", "story"],
+      "performers": ["Craig Pearson"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Silent Night",
+      "start_time": 1508,
+      "type": "music",
+      "description": "A beautiful rendition of the classic Christmas hymn 'Silent Night' is performed, evoking the peace and joy of the season. This solo performance resonates with the themes of hope and love during the Christmas time.",
+      "keywords": ["Silent Night", "Christmas", "hymn", "peace", "love"],
+      "performers": ["Star"],
+      "songs": ["Silent Night"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Matthew 1",
+      "start_time": 974,
+      "type": "scripture",
+      "description": "The scripture reading includes the account of the birth of Jesus Christ, providing a foundational narrative for the Christmas season. This passage highlights the divine circumstances surrounding His birth.",
+      "keywords": ["Matthew", "birth", "Jesus", "scripture", "narrative"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 1"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1750,
+      "type": "prayer",
+      "description": "The congregation bows their heads for an opening prayer, asking for clarity and understanding as they reflect on the meaning of Christmas. The prayer seeks to honor the significance of Christ's birth.",
+      "keywords": ["prayer", "opening", "Christmas", "congregation", "understanding"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: When Love Came Down (Isaiah 9:6)",
+      "start_time": 944,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers an inspiring sermon based on Isaiah 9:6, discussing the nature of Christ as the embodiment of love. He shares insights into the prophetic significance of Jesus' birth and its implications for believers today.",
+      "keywords": ["David Jeremiah", "sermon", "love", "Christ", "Isaiah"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Isaiah 9:6"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2078,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that reflects on the message shared during the sermon. Participants are encouraged to carry the spirit of Christmas into their daily lives, focusing on love and faith.",
+      "keywords": ["closing", "prayer", "service", "Christmas", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

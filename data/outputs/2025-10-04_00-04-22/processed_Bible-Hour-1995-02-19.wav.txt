@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: I'm Yours",
+      "start_time": 63,
+      "type": "music",
+      "description": "The sanctuary choir performs a heartfelt medley of songs entitled 'I'm Yours.' The music creates an inviting atmosphere, setting the tone for worship and reflection. The choir's harmonies and melodies uplift the congregation, drawing them into a spirit of praise and unity.",
+      "keywords": ["choir", "I'm Yours", "worship", "medley"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["I'm Yours"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Unknown]",
+      "start_time": 519,
+      "type": "music",
+      "description": "Following the choir, the congregation joins in singing a hymn that emphasizes the themes of ministry and service. The communal singing fosters a sense of unity and shared purpose among the attendees, reinforcing the message of the day's service.",
+      "keywords": ["hymn", "congregational", "worship", "service"],
+      "performers": [],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Principles for Ministry (Colossians 1)",
+      "start_time": 756,
+      "type": "sermon",
+      "description": "The message delivered by the pastor explores seven key principles from Colossians 1 that guide effective ministry. Drawing on the teachings of Paul, the sermon emphasizes God's role as the source of ministry, the spirit of joy in serving others, and the importance of Christ's presence in our lives. Each principle is elaborated upon, encouraging the congregation to reflect on their own commitment to ministry.",
+      "keywords": ["ministry", "Paul", "Colossians", "principles", "joy", "service"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Colossians 1"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3344,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by the pastor. This prayer expresses gratitude for the worship service and the teachings shared, as well as asks for God's blessings on the congregation as they go forth to apply the principles discussed in their lives. It fosters a sense of community and commitment to live out their faith.",
+      "keywords": ["prayer", "closing", "worship", "community"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "[Unknown]: [Unknown]",
+      "start_time": 3355,
+      "type": "music",
+      "description": "As the service transitions, gentle music plays softly in the background, providing a reflective atmosphere for the congregation. It allows attendees to meditate on the message and the principles shared during the sermon.",
+      "keywords": ["music", "reflection", "worship"],
+      "performers": [],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

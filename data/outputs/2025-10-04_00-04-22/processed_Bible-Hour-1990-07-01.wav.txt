@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: O Glorious Love",
+      "start_time": 126,
+      "type": "music",
+      "description": "The ladies' choir performs a heartfelt rendition of 'O Glorious Love', celebrating the love of Christ. The lyrics describe the transformative power of Jesus' love, praising His divine grace and reflecting on the joy it brings to believers. The congregation enthusiastically responds with gratitude for the choir's ministry.",
+      "keywords": ["choir", "love", "Christ", "worship", "music"],
+      "performers": ["Ladies' Choir"],
+      "songs": ["O Glorious Love"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Father's Eyes",
+      "start_time": 471,
+      "type": "music",
+      "description": "Allison Heckerman shares a moving solo entitled 'Father's Eyes', reflecting on the qualities and values inherited from fathers. The song speaks to the legacy of love and compassion that guides individuals in their lives. It resonates particularly on Father's Day, emphasizing the importance of family.",
+      "keywords": ["solo", "father", "eyes", "legacy", "compassion"],
+      "performers": ["Allison Heckerman"],
+      "songs": ["Father's Eyes"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Father's Day Reflection",
+      "start_time": 709,
+      "type": "announcement",
+      "description": "As the service transitions, the host offers a warm Father's Day greeting to the fathers in attendance, encouraging them to reflect on their roles. He shares thoughts on the responsibilities of fatherhood and the importance of faith in raising families, setting the tone for today's message.",
+      "keywords": ["Father's Day", "family", "faith", "encouragement"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Search for the Model Father (2 Corinthians 1:3-5)",
+      "start_time": 1286,
+      "type": "sermon",
+      "description": "Dr. David Drolinger delivers a profound message titled 'The Search for the Model Father', examining biblical principles of fatherhood. Through references to scripture, he emphasizes the qualities of encouragement, discipline, and forgiveness found in God's character, encouraging fathers to emulate these traits. The sermon provides practical insights for nurturing strong, faith-filled families.",
+      "keywords": ["fatherhood", "model", "sermon", "encouragement", "discipline"],
+      "performers": ["Dr. David Drolinger"],
+      "songs": [],
+      "scripture_references": ["2 Corinthians 1:3-5", "Hebrews 12:5-11", "1 John 1:9"]
+    },
+    {
+      "title": "Solo: Wonderful Words of Life",
+      "start_time": 1422,
+      "type": "music",
+      "description": "Denise Mitchell sings 'Wonderful Words of Life', a piece that extols the beauty and significance of God's word. The song invites the congregation to reflect on the teachings of Christ and their life-changing impact. Denise's passionate performance uplifts the spirits of the audience, enhancing their worship experience.",
+      "keywords": ["solo", "God's word", "praise", "worship", "music"],
+      "performers": ["Denise Mitchell"],
+      "songs": ["Wonderful Words of Life"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3434,
+      "type": "prayer",
+      "description": "The service concludes with an invitation prayer, where attendees are invited to accept Jesus Christ as their personal Savior. The prayer focuses on the importance of faith and invites individuals to strengthen their relationship with God, reinforcing the message of the service.",
+      "keywords": ["invitation", "prayer", "faith", "salvation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

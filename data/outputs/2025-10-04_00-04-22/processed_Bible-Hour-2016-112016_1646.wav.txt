@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Jesus, There Is a Light] ",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir performs a powerful piece celebrating the light and salvation found in Jesus. The lyrics express themes of freedom, healing, and the comfort that comes from faith. This uplifting song aims to remind the congregation of God's presence in difficult times.",
+      "keywords": ["choir", "Jesus", "light", "freedom", "healing"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Jesus, There Is a Light"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [No Longer a Slave] ",
+      "start_time": 610,
+      "type": "music",
+      "description": "The choir performs 'No Longer a Slave', highlighting the message of liberation from fear and the assurance of being a child of God. The passionate rendition serves to inspire the congregation, reinforcing the significance of identity in Christ.",
+      "keywords": ["choir", "no longer a slave", "children of God", "freedom", "worship"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["No Longer a Slave"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: New Mindset (Romans 6)",
+      "start_time": 711,
+      "type": "sermon",
+      "description": "Pastor Kevin discusses the transformative power of Jesus in shaping a new mindset for believers. Drawing from Romans 6, he emphasizes that embracing Christ means living free from sin and embracing new life. He highlights the importance of understanding our identity in Christ as free from sin's dominion and encourages the congregation to connect their actions to their new identity.",
+      "keywords": ["pastor kevin", "new mindset", "identity", "romans 6", "transformation"],
+      "performers": ["Kevin"],
+      "songs": [],
+      "scripture_references": ["Romans 6"]
+    },
+    {
+      "title": "drama: Family Adoption Story",
+      "start_time": 887,
+      "type": "drama",
+      "description": "Jordan shares his family's adoption story, detailing their journey to adopt Aaron and the profound impact it has had on their mindset and faith. His narrative highlights the beauty of adoption and its parallels to God's adoption of us into His family. The segment showcases the importance of community support and the life-changing decisions made through prayer and belief.",
+      "keywords": ["adoption", "Jordan", "family", "faith", "community"],
+      "performers": ["Jordan Palmer"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1387,
+      "type": "prayer",
+      "description": "Pastor Kevin leads a heartfelt closing prayer, expressing gratitude for the stories shared, asking for blessings over Jordan's family, and inviting the congregation to reflect on their lives. The prayer encompasses themes of change, faith, and God's guiding presence in their journeys.",
+      "keywords": ["prayer", "closing", "reflection", "blessings", "community"],
+      "performers": ["Kevin"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Praise] ",
+      "start_time": 3179,
+      "type": "music",
+      "description": "The choir concludes the service with a worshipful anthem of praise, celebrating the faithfulness of God. The song emphasizes the joy and glory of praising the Lord, inviting the congregation to participate in the worship experience.",
+      "keywords": ["choir", "praise", "worship", "community", "celebration"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Praise"],
+      "scripture_references": []
+    }
+  ]
+}
+```

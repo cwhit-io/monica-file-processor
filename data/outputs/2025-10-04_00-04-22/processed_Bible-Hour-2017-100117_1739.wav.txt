@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Congregational Hymn: Evidence",
+      "start_time": 30,
+      "type": "music",
+      "description": "The congregation engages in heartfelt worship, led by the choir, singing about the evidence of the Spirit of the Lord being present. The uplifting song encourages everyone to feel the presence of divine grace and restore their spirits.",
+      "keywords": ["spirit", "worship", "evidence", "Lord", "grace"],
+      "performers": ["Choir"],
+      "songs": ["Evidence"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Clean",
+      "start_time": 382,
+      "type": "music",
+      "description": "A solo performance fills the space with a powerful ballad celebrating redemption and cleanliness through divine mercy. The singer shares personal emotions reflecting on the transformative power of faith, reinforcing the message of inner purity.",
+      "keywords": ["clean", "mercy", "redemption", "faith", "transformation"],
+      "performers": ["Unknown"],
+      "songs": ["Clean"],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Kevin and Jessica: Their Journey",
+      "start_time": 525,
+      "type": "interview",
+      "description": "Kevin and Jessica share their one-year journey after moving from the South to Fort Wayne. They reflect on the challenges and stories of their transition, emphasizing the support from their new community and the blessings they’ve encountered in their new home.",
+      "keywords": ["Kevin", "Jessica", "journey", "Fort Wayne", "transition"],
+      "performers": ["Kevin", "Jessica"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1046,
+      "type": "prayer",
+      "description": "The congregation joins in a focused opening prayer, invoking God’s guidance and blessings as they come together for worship. The prayer emphasizes the community's commitment to follow God’s calling.",
+      "keywords": ["prayer", "guidance", "community", "worship", "blessings"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Recalculating (1 Samuel 16-17)",
+      "start_time": 1122,
+      "type": "sermon",
+      "description": "The sermon delves into the theme of recalculating life’s path by examining the biblical story of David. It discusses the importance of service and submission, drawing parallels between David's journey and the personal recalculations we experience in our own lives.",
+      "keywords": ["recalculating", "David", "submission", "service", "faith"],
+      "performers": ["Kevin"],
+      "songs": [],
+      "scripture_references": ["1 Samuel 16", "1 Samuel 17"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3521,
+      "type": "prayer",
+      "description": "An invitation prayer is offered for individuals seeking a personal relationship with Jesus. It encourages attendees to reflect on their spiritual journey and consider accepting faith as a guiding light in their lives.",
+      "keywords": ["invitation", "prayer", "faith", "Jesus", "relationship"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Closing Song",
+      "start_time": 3562,
+      "type": "music",
+      "description": "The choir concludes the service with a powerful closing song, uplifting the congregation as they prepare to leave. The song reflects themes of hope and commitment to following God’s path.",
+      "keywords": ["closing", "song", "hope", "God", "commitment"],
+      "performers": ["Choir"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3592,
+      "type": "prayer",
+      "description": "The closing prayer reinforces the messages shared throughout the service, thanking God for guidance and emphasizing unity within the congregation. It serves as a send-off for the community to carry the message into their lives.",
+      "keywords": ["closing", "prayer", "gratitude", "unity", "guidance"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

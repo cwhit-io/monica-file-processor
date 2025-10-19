@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with a warm welcome and an emphasis on the joy of belonging to a larger family. The pastor expresses gratitude for the congregation and shares reflections on past experiences, setting a tone of appreciation and togetherness.",
+      "keywords": ["welcome", "gratitude", "community", "family"],
+      "performers": ["unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Rooted Faith (Colossians 2:6-15)",
+      "start_time": 108,
+      "type": "sermon",
+      "description": "This message explores the theme of rooted faith, delving into Colossians 2:6-15. The pastor emphasizes cultivating deep spiritual roots in Christ through intentional practices. Key points include walking in Jesus, being rooted in Him, and establishing a foundation of thanksgiving. The message challenges the congregation to reflect on their priorities and their spiritual maturity.",
+      "keywords": ["faith", "Colossians", "rooted", "growth"],
+      "performers": ["unknown"],
+      "songs": [],
+      "scripture_references": ["Colossians 2:6-15"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2572,
+      "type": "prayer",
+      "description": "A reflective prayer moment that invites attendees to connect personally with God. Individuals are encouraged to contemplate their spiritual journeys and consider their relationship with Jesus, tying back into the main sermon theme.",
+      "keywords": ["invitation", "reflection", "prayer", "connection"],
+      "performers": ["unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: Celebration of New Life",
+      "start_time": 2620,
+      "type": "drama",
+      "description": "A celebratory moment highlighting the decisions made for faith during the service. Attendees are invited to reflect on their commitments, emphasizing community support and the joy of sharing faith journeys together.",
+      "keywords": ["celebration", "new life", "faith decisions", "community"],
+      "performers": ["unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2700,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for the time together, the messages shared, and the lives being changed. The congregation is encouraged to carry the message of rooted faith into their coming week.",
+      "keywords": ["closing", "thanksgiving", "blessing", "faith"],
+      "performers": ["unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Next Steps Opportunities",
+      "start_time": 2710,
+      "type": "announcement",
+      "description": "Information is shared about various ways to engage and deepen faith within the community, including upcoming events and initiatives. The pastor encourages members to participate actively in church life and outreach.",
+      "keywords": ["next steps", "engagement", "community", "outreach"],
+      "performers": ["unknown"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

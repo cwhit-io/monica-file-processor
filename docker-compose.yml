@@ -1,0 +1,41 @@
+version: '3.8'
+
+services:
+  monica-file-processor:
+    build: 
+      context: .
+      dockerfile: Dockerfile.github
+      args:
+        BRANCH: ${GITHUB_BRANCH:-main}
+    container_name: monica-file-processor
+    ports:
+      - "3003:3003"
+    environment:
+      - NODE_ENV=production
+      - PORT=3003
+      # These should be set in your environment or .env file
+      - MONICA_API_KEY=${MONICA_API_KEY}
+      - MONICA_API_ENDPOINT=${MONICA_API_ENDPOINT:-https://openapi.monica.im/v1/chat/completions}
+      - DEFAULT_MODEL=${DEFAULT_MODEL:-gemini-2.0-flash-001}
+    volumes:
+      # Persist uploaded files
+      - ./uploads:/app/uploads
+      # Persist processed outputs
+      - ./outputs:/app/outputs
+      # Mount server folders for processing
+      - ./server-folders:/app/server-folders
+      # Mount data folder for models and prompts
+      - ./data:/app/data
+    restart: unless-stopped
+    networks:
+      - monica-network
+    healthcheck:
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:3003/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+networks:
+  monica-network:
+    driver: bridge

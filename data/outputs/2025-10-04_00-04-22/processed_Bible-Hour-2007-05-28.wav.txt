@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting the congregation to settle their minds and hearts in anticipation of the teachings to follow. The prayer focuses on seeking guidance and clarity from God during the service.",
+      "keywords": ["prayer", "opening", "guidance"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Summer Camps",
+      "start_time": 53,
+      "type": "announcement",
+      "description": "Pastor Kelly Bird shares details about the upcoming summer camps for children, emphasizing the opportunities for growth and connection. He encourages parents to consider enrolling their kids for a summer filled with fun and learning.",
+      "keywords": ["summer", "camps", "children", "opportunities"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: You Can Only Imagine",
+      "start_time": 473,
+      "type": "music",
+      "description": "A moving solo performance reflecting on the beauty and awe of heaven, capturing the sense of longing and anticipation that resonates with the congregation. The heartfelt lyrics invite listeners to imagine the wonders of being in the presence of Christ.",
+      "keywords": ["solo", "heaven", "worship"],
+      "performers": [],
+      "songs": ["You Can Only Imagine"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Sweet Goodbye",
+      "start_time": 598,
+      "type": "music",
+      "description": "The choir performs a spirited piece that celebrates the hope of eternal life and the joy of reuniting in heaven. The uplifting music fills the space with a sense of community and shared faith amidst themes of love and longing.",
+      "keywords": ["choir", "eternal", "worship"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Sweet Goodbye"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Heaven (1 Peter 1:13)",
+      "start_time": 790,
+      "type": "sermon",
+      "description": "In a challenging and heartfelt sermon, Pastor Kelly Bird addresses the congregation about the concept of heaven. He explores the scriptural foundation, encourages deeper longing, and emphasizes the need to prepare our minds for the hope that is to come, drawing parallels between our daily lives and our eternal aspirations.",
+      "keywords": ["heaven", "1 Peter", "anticipation", "sermon"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["1 Peter 1:13"]
+    },
+    {
+      "title": "Choir: Blessed Assurance",
+      "start_time": 3482,
+      "type": "music",
+      "description": "The choir concludes the service with a powerful rendition of 'Blessed Assurance,' reinforcing the message of hope and security found in faith. The familiar hymn resonates with the congregation, reminding them of the promises fulfilled in Christ.",
+      "keywords": ["choir", "hymn", "assurance", "hope"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Blessed Assurance"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3508,
+      "type": "prayer",
+      "description": "The service ends with a closing prayer, where Pastor Kelly Bird invites the congregation to reflect on the day's messages and seek God's guidance in their daily lives. The prayer reaffirms the themes of hope and faith discussed in the service.",
+      "keywords": ["closing", "prayer", "faith", "reflection"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

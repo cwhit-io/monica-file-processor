@@ -1,0 +1,54 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: We Will Carry the Torch",
+      "start_time": 51,
+      "type": "music",
+      "description": "The choir leads the congregation in a powerful song, 'We Will Carry the Torch.' The lyrics emphasize the importance of faith and resilience, encouraging worshippers to shine God's light in the darkness. The performance uplifts the spirit and prepares the hearts of the congregation for the message to come.",
+      "keywords": ["choir", "torch", "faith", "light", "worship"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["We Will Carry the Torch"],
+      "scripture_references": [""]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 267,
+      "type": "prayer",
+      "description": "The service transitions to an opening prayer, inviting God's presence and guidance into the worship experience. The prayer emphasizes the need for divine strength as the congregation prepares to delve into the teachings and aims to create a welcoming atmosphere for all present.",
+      "keywords": ["prayer", "guidance", "worship", "presence", "invitation"],
+      "performers": [""],
+      "songs": [],
+      "scripture_references": [""]
+    },
+    {
+      "title": "Message: Planning with God (James 4:13-17)",
+      "start_time": 1267,
+      "type": "sermon",
+      "description": "Pastor Moore discusses the importance of involving God in our plans, based on James 4:13-17. He illustrates how life is fleeting and emphasizes the need for humility and dependence on God's will. The message encourages strategic planning while reminding the congregation to always acknowledge God's sovereignty over their lives.",
+      "keywords": ["sermon", "planning", "God's will", "humility", "James"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["James 4:13-17"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3361,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service with a heartfelt plea for guidance and obedience to God's will. The congregation is encouraged to reflect on the message and commit their plans to God, fostering a sense of unity as they leave to live out their faith in everyday life.",
+      "keywords": ["closing", "prayer", "commitment", "guidance", "unity"],
+      "performers": [""],
+      "songs": [],
+      "scripture_references": [""]
+    },
+    {
+      "title": "Congregational Hymn: [Unknown Title]",
+      "start_time": 3373,
+      "type": "music",
+      "description": "The congregation participates in a hymn, singing together to solidify the themes of the service. The atmosphere is filled with unity and worship as everyone lifts their voices in praise, embodying the message of relying on God's guidance in their lives.",
+      "keywords": ["hymn", "congregational", "worship", "unity", "praise"],
+      "performers": [""],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": [""]
+    }
+  ]
+}

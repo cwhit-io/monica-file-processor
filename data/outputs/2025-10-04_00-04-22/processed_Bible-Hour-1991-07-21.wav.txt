@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: How Majestic is Your Name",
+      "start_time": 77,
+      "type": "music",
+      "description": "The sanctuary choir leads the congregation in a powerful rendition of 'How Majestic is Your Name', praising the greatness of God's name throughout the earth. This song instills a sense of awe and reverence, encouraging worship and reflection on God's majesty.",
+      "keywords": ["choir", "worship", "majesty", "praise", "song"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["How Majestic is Your Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Oh Worship the King",
+      "start_time": 308,
+      "type": "music",
+      "description": "The congregation sings 'Oh Worship the King', celebrating God's sovereignty and grace as they join in unison. This hymn invites all to recognize and honor the great King, reinforcing themes of worship and community in the sanctuary.",
+      "keywords": ["hymn", "congregation", "worship", "king", "unity"],
+      "performers": [],
+      "songs": ["Oh Worship the King"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: The Promised Land",
+      "start_time": 462,
+      "type": "music",
+      "description": "Len Rol performs the solo 'The Promised Land', painting a vivid picture of hope and longing for a divine destination. This heartfelt rendition moves hearts, reminding the congregation of God's promises and the eternal home awaiting believers.",
+      "keywords": ["solo", "promise", "hope", "land", "Jesus"],
+      "performers": ["Len Rol"],
+      "songs": ["The Promised Land"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Don't Blame Me (Ezekiel 18)",
+      "start_time": 43,
+      "type": "sermon",
+      "description": "Pastor Tim Teder delivers a powerful sermon based on Ezekiel 18, addressing humanity's tendency to shift blame for wrongdoing. He emphasizes personal responsibility before God and reassures that each individual is accountable for their actions, not the sins of others.",
+      "keywords": ["sermon", "Ezekiel", "responsibility", "sin", "accountability"],
+      "performers": ["Pastor Tim Teder"],
+      "songs": [],
+      "scripture_references": ["Ezekiel 18"]
+    },
+    {
+      "title": "drama: Youth Testimonies: Lessons Learned",
+      "start_time": 727,
+      "type": "drama",
+      "description": "Josh Rang and Katina Jones share their experiences from youth ministry at their church, reflecting on friendship, service, and spiritual growth. Their stories illustrate the significance of involvement in a Christ-centered community through highs and lows.",
+      "keywords": ["drama", "testimony", "youth", "growth", "community"],
+      "performers": ["Josh Rang", "Katina Jones"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3415,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, encouraging all attendees to reflect on their spiritual journey and consider a relationship with Christ. The prayer underscores God's love and the opportunity for forgiveness and renewal in faith.",
+      "keywords": ["prayer", "invitation", "forgiveness", "Christ", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: He Knows What to Do and He Knows When",
+      "start_time": 1052,
+      "type": "music",
+      "description": "Kevin Rol sings 'He Knows What to Do and He Knows When', conveying a message of trust in God's sovereignty and timing. The heartfelt lyrics offer comfort and assurance that God is always aware of our situations and needs.",
+      "keywords": ["solo", "trust", "God", "timing", "comfort"],
+      "performers": ["Kevin Rol"],
+      "songs": ["He Knows What to Do and He Knows When"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The opening prayer sets the tone for the service, inviting the presence of God and asking for guidance throughout the hour of worship. The prayer fosters a spirit of unity among attendees as they prepare their hearts for the message.",
+      "keywords": ["prayer", "opening", "unity", "worship", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

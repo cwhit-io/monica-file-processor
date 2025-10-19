@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Rejoice",
+      "start_time": 295,
+      "type": "music",
+      "description": "The sanctuary choir leads the congregation in a joyful rendition of 'Rejoice'. This uplifting song is meant to inspire and encourage worshippers, enhancing the overall spirit of the service. The choir's harmonies and arrangement aim to draw the audience closer to a sense of community and devotion.",
+      "keywords": ["music", "choir", "joy", "worship", "rejoice"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Rejoice"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Proclaim the Glory of the Lord",
+      "start_time": 614,
+      "type": "music",
+      "description": "Soloist Lynn Roll performs 'Proclaim the Glory of the Lord,' resonating with themes of God's majesty and the call to share His greatness. The performance brings an intimate element to the service, allowing the audience to reflect deeply on their relationship with God through worship.",
+      "keywords": ["music", "solo", "worship", "glory", "Lynn Roll"],
+      "performers": ["Lynn Roll"],
+      "songs": ["Proclaim the Glory of the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: A Lifetime of Friends (Colossians 4:7-18)",
+      "start_time": 257,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks shares a profound message titled 'A Lifetime of Friends', drawing from Colossians 4. He emphasizes the importance of friendship and support in the Christian journey, highlighting the contributions of various individuals in Paul's life. Through their stories, he encourages the congregation to cultivate genuine connections that strengthen faith.",
+      "keywords": ["sermon", "friendship", "Colossians", "Paul", "Rick Hawks"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Colossians 4:7-18"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1433,
+      "type": "prayer",
+      "description": "In a heartfelt opening prayer, the pastor seeks God's presence to guide the service and the hearts of the congregation. He prays for understanding, connection with the divine, and healing for those facing loneliness and hardship, setting a spiritual tone for the rest of the service.",
+      "keywords": ["prayer", "worship", "community", "God", "guidance"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [unknown]",
+      "start_time": 1397,
+      "type": "music",
+      "description": "The choir returns to lead another musical piece, enhancing the worship experience with melodic harmonies. This segment adds a reflective and uplifting atmosphere, encouraging the congregation to engage with the spirit of worship through song.",
+      "keywords": ["music", "choir", "worship", "harmony"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["[unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3513,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer inviting the congregation to seek God's guidance in their lives. The pastor expresses gratitude for the event and prays for those who made decisions during the service, reinforcing the community's commitment to each other and to God.",
+      "keywords": ["prayer", "closing", "worship", "commitment", "gratitude"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [unknown]",
+      "start_time": 3657,
+      "type": "music",
+      "description": "The service ends with another choir piece that beautifully encapsulates the themes of the message. The music serves as a final call to reflection, allowing congregants to leave with the joy and assurance of their faith renewed.",
+      "keywords": ["music", "choir", "worship", "conclusion"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["[unknown]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

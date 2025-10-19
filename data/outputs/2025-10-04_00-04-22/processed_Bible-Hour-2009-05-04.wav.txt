@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unnamed Song]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service kicks off with an upbeat musical performance, setting an uplifting tone for the congregation. The lyrics focus on themes of healing and openness, inviting participants to join in the expressions of joy and celebration. This portion engages the audience and aligns them with a spirit of worship.",
+      "keywords": ["worship", "healing", "joy", "celebration", "music"],
+      "performers": ["Choir"],
+      "songs": ["Unnamed Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Encouragement from Grandmothers",
+      "start_time": 607,
+      "type": "testimony",
+      "description": "A group of grandmothers share heartfelt advice and encouragement for young mothers. They emphasize the importance of love, patience, and seeking God's guidance in nurturing their children. Scriptures such as Proverbs 22:6 and Deuteronomy 6:5 are cited to reinforce their experiences and insights.",
+      "keywords": ["motherhood", "encouragement", "wisdom", "Proverbs", "Deuteronomy"],
+      "performers": ["Dorothy Reed", "Joyce Fall", "Katherine Moore", "Mary Ann Gibson"],
+      "songs": [],
+      "scripture_references": ["Proverbs 22:6", "Deuteronomy 6:5"]
+    },
+    {
+      "title": "Message: Letting Go (Various Scriptures)",
+      "start_time": 1101,
+      "type": "sermon",
+      "description": "In this impactful sermon, the speaker addresses the struggles of being 'stuck' in patterns of sin and urges the congregation to let go of these burdens. Highlighting the need for humility and faith, the message intertwines personal anecdotes with scriptural references, including Matthew 11:28-30, encouraging surrender to God's care and control.",
+      "keywords": ["letting go", "sin", "surrender", "humility", "faith"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": ["Matthew 11:28-30"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3238,
+      "type": "prayer",
+      "description": "As the service approaches its conclusion, an invitation prayer is offered, encouraging attendees to dedicate their lives to Christ. The leader emphasizes the importance of actively accepting God's grace and mercy, creating a contemplative environment for personal reflection and commitment.",
+      "keywords": ["prayer", "commitment", "dedication", "invitation", "grace"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unnamed Song]",
+      "start_time": 3483,
+      "type": "music",
+      "description": "The service concludes with another uplifting musical piece by the choir, celebrating the message shared. The song reinforces the themes of hope, healing, and celebration, encouraging the congregation to leave with joyful hearts. The atmosphere is vibrant, inviting participants to join in and reflect on their worship experience.",
+      "keywords": ["worship", "celebration", "hope", "healing", "music"],
+      "performers": ["Choir"],
+      "songs": ["Unnamed Song"],
+      "scripture_references": []
+    }
+  ]
+}
+```

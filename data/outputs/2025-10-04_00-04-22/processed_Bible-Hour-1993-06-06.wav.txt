@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unknown Song]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with uplifting music performed by the sanctuary choir and orchestra. The lyrics proclaim the greatness of God, calling the congregation to worship and serve Him with gladness. This music sets a joyful tone for the upcoming gathering and encourages a spirit of praise.",
+      "keywords": ["choir", "praise", "worship", "God", "joy"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Unknown Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown Song]",
+      "start_time": 680,
+      "type": "music",
+      "description": "Denise Mitchell delivers a poignant solo, touching on themes of hope and restoration. The song reflects the importance of finding strength and solace in God during difficult times. This heartfelt performance leads the congregation to a place of reflection and reliance on divine love.",
+      "keywords": ["solo", "strength", "hope", "restoration", "faith"],
+      "performers": ["Denise Mitchell"],
+      "songs": ["Unknown Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Patriotic Panorama: [June 27th Event]",
+      "start_time": 538,
+      "type": "announcement",
+      "description": "An announcement is made regarding the upcoming Patriotic Panorama event scheduled for June 27th at Black Hawk Baptist Church. The event features a 150-voice choir and soloists, celebrating American freedom and giving thanks to God. The congregation is invited to join this special occasion.",
+      "keywords": ["patriotic", "announcement", "community", "event", "choir"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Wrath of God (Revelation 15-16)",
+      "start_time": 944,
+      "type": "sermon",
+      "description": "Pastor Moore delivers a powerful sermon focusing on Revelation chapters 15 and 16, discussing the outpouring of God's wrath. Through vivid illustrations and references from Scripture, he explains the consequences of rejecting Christ. The message emphasizes the seriousness of spiritual disobedience and the ultimate judgment that follows, calling for repentance.",
+      "keywords": ["Revelation", "wrath", "judgment", "Christ", "repentance"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 15", "Revelation 16", "John 3:36"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3432,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer led by Pastor Moore, inviting attendees to reflect on the message shared during the sermon. The prayer seeks God's guidance and strength for the week ahead, encouraging the congregation to embrace their faith and spread the love of Christ.",
+      "keywords": ["closing", "prayer", "faith", "guidance", "community"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

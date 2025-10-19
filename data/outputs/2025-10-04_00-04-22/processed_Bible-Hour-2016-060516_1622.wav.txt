@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Christ Is Enough",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir sings 'Christ Is Enough', a powerful declaration of faith and reliance on Jesus as the source of everything needed in life. The lyrics resonate with themes of commitment and assurance found in Christ.",
+      "keywords": ["faith", "Jesus", "choir", "Christ", "assurance"],
+      "performers": ["Choir"],
+      "songs": ["Christ Is Enough"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: I Have Decided to Follow Jesus",
+      "start_time": 362,
+      "type": "music",
+      "description": "The choir performs 'I Have Decided to Follow Jesus', emphasizing a personal commitment to follow Christ despite challenges. The music encourages the congregation to reflect on their own decision to pursue faith.",
+      "keywords": ["commitment", "faith", "follow", "Jesus", "choir"],
+      "performers": ["Choir"],
+      "songs": ["I Have Decided to Follow Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Wonderful Merciful Savior",
+      "start_time": 473,
+      "type": "music",
+      "description": "The choir shares 'Wonderful Merciful Savior'. This heartfelt song praises God as the one who offers healing, grace, and hope to the broken. The lyrics uplift and inspire worship among the congregation.",
+      "keywords": ["worship", "healing", "grace", "savior", "choir"],
+      "performers": ["Choir"],
+      "songs": ["Wonderful Merciful Savior"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Greatest Love Story (Ruth)",
+      "start_time": 1140,
+      "type": "sermon",
+      "description": "The sermon focuses on the book of Ruth as a reflection of God's love and redemption. The speaker explores the themes of tragedy leading to triumph, emphasizing the importance of legacy and the transformative power of faith. Key characters illustrate how God cares for the needy and brings hope through compassion.",
+      "keywords": ["love", "redemption", "Ruth", "faith", "triumph"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["Ruth 1:1-4:22"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3297,
+      "type": "prayer",
+      "description": "The closing prayer expresses gratitude for God's love and the story of redemption highlighted in the sermon. It encourages the congregation to evaluate their generosity and commitment to help others, seeking a heart of kindness as modeled by Ruth and Boaz.",
+      "keywords": ["prayer", "gratitude", "kindness", "grace", "community"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: This Is Amazing Grace",
+      "start_time": 3312,
+      "type": "music",
+      "description": "The choir concludes the service with 'This Is Amazing Grace', celebrating God's power and love. The song invites the congregation to reflect on the incredible grace offered by Christ and inspires a spirit of worship and praise.",
+      "keywords": ["grace", "worship", "Christ", "celebration", "choir"],
+      "performers": ["Choir"],
+      "songs": ["This Is Amazing Grace"],
+      "scripture_references": []
+    }
+  ]
+}
+```

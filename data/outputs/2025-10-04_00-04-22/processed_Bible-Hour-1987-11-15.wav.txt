@@ -1,0 +1,96 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Glory Medley",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a spirited medley of songs led by the choir, celebrating the glory of God. The music sets a worshipful tone, encouraging congregational participation. Each song reflects themes of gratitude and reverence for God's majesty.",
+      "keywords": ["choir", "glory", "worship", "medley", "songs"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Blessed Be Thou", "Thine, O Lord", "I Will Call Upon the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: He Has Made Me Glad",
+      "start_time": 448,
+      "type": "music",
+      "description": "The congregation sings 'He Has Made Me Glad' together, lifting their voices in unison to express joy in the Lord. This hymn serves as a reminder of the happiness and strength found in faith.",
+      "keywords": ["congregation", "joy", "hymn", "worship", "praise"],
+      "performers": [],
+      "songs": ["He Has Made Me Glad"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: A Wonderful Savior",
+      "start_time": 1345,
+      "type": "music",
+      "description": "A solo performance of 'A Wonderful Savior' fills the sanctuary, emphasizing the beauty of God's protection and the personal relationship believers have with Jesus. The heartfelt delivery resonates with the themes of safety and solace in God's love.",
+      "keywords": ["solo", "savior", "protection", "faith", "worship"],
+      "performers": ["Keith Brodigum"],
+      "songs": ["A Wonderful Savior"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1595,
+      "type": "prayer",
+      "description": "The pastor leads an opening prayer, inviting the congregation to seek God as a refuge amidst life's challenges. The prayer touches on themes of healing, comfort, and spiritual growth, acknowledging the struggles faced by the community.",
+      "keywords": ["prayer", "healing", "comfort", "community", "spiritual"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Marching Orders (Jude 1:17-23)",
+      "start_time": 1766,
+      "type": "sermon",
+      "description": "The sermon focuses on Jude's exhortation to Christians, emphasizing their responsibilities in spiritual warfare. The pastor elaborates on three marching orders: remember the Word of God, remain steadfast, and rescue the casualties. The message encourages believers to actively engage in their faith and resist false teachings.",
+      "keywords": ["sermon", "marching orders", "Jude", "faith", "spiritual warfare"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Jude 1:17-23"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3518,
+      "type": "prayer",
+      "description": "In a heartfelt invitation prayer, the pastor leads individuals toward a personal relationship with Jesus, urging them to recognize their need for forgiveness and acceptance. This moment serves as a gentle call to spiritual commitment.",
+      "keywords": ["invitation", "prayer", "commitment", "forgiveness", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Bible Hour Outreach",
+      "start_time": 1322,
+      "type": "announcement",
+      "description": "An announcement encourages viewers and congregation members to engage with the Bible Hour ministry. The pastor shares about resources available that deepen understanding of faith and invites writing for spiritual materials.",
+      "keywords": ["announcement", "Bible Hour", "resources", "outreach", "ministry"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Your Decision",
+      "start_time": 3555,
+      "type": "music",
+      "description": "The service concludes with the congregation singing a hymn that reflects personal decision-making in faith. This hymn reaffirms the message of the sermon and invites participants to respond to God's call in their lives.",
+      "keywords": ["congregation", "decision", "hymn", "faith", "worship"],
+      "performers": [],
+      "songs": ["Your Decision"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3611,
+      "type": "prayer",
+      "description": "The closing prayer encapsulates the themes of the service, asking for God's guidance and strength as attendees leave to live out their faith. It emphasizes community support and the sustaining love of God in daily life.",
+      "keywords": ["closing", "prayer", "guidance", "community", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

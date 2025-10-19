@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Lord, I Want to Know You More",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir leads the congregation in a vibrant worship session, singing 'Lord, I Want to Know You More.' The atmosphere is filled with emotion as the music creates a sense of unity and purpose among those present. This segment emphasizes a collective longing for a deeper relationship with God.",
+      "keywords": ["worship", "choir", "spiritual", "song"],
+      "performers": ["Choir"],
+      "songs": ["Lord, I Want to Know You More"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 309,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, thanking God for His presence and love. The prayer encourages attendees to quiet their hearts and open themselves to God's prompting, setting a reverent tone for the service ahead.",
+      "keywords": ["prayer", "opening", "worship", "spiritual"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Lord, I Want to Know You More",
+      "start_time": 378,
+      "type": "music",
+      "description": "The choir resumes their heartfelt rendition of 'Lord, I Want to Know You More.' This extended time of worship invites the congregation to engage deeply with the song, reinforcing the theme of seeking a closer relationship with God.",
+      "keywords": ["worship", "choir", "song", "spiritual"],
+      "performers": ["Choir"],
+      "songs": ["Lord, I Want to Know You More"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Snapshots of a Savior (Various Scriptures)",
+      "start_time": 2515,
+      "type": "sermon",
+      "description": "The sermon begins a series called 'Snapshots of a Savior,' focused on understanding the person of Jesus Christ. The pastor highlights transformative encounters of the disciples, urging the congregation to seek personal change through knowing Christ. The message emphasizes Jesus as the way, truth, and life, encouraging a personal response of faith and commitment.",
+      "keywords": ["Jesus", "sermon", "faith", "transformation", "disciples"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["John 14:6"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3489,
+      "type": "prayer",
+      "description": "A closing invitation prayer is offered, encouraging those who have not committed their lives to Christ to consider the truth presented. It serves as a moment of reflection and a call to respond to God's love and salvation, fostering hope and community.",
+      "keywords": ["invitation", "prayer", "faith", "salvation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Closing Worship",
+      "start_time": 3519,
+      "type": "music",
+      "description": "The service concludes with a final musical piece by the choir, reinforcing the themes of the day and sending the congregation into the world with renewed faith and purpose. This closing worship act encapsulates the spirit of the service.",
+      "keywords": ["worship", "closing", "choir", "spiritual"],
+      "performers": ["Choir"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

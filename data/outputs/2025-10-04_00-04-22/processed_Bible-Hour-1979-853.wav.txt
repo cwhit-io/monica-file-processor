@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Love Was Born",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir performs a medley reflecting on God's love and the significance of the Christmas season. Through powerful lyrics, they remind the congregation of the gift of Jesus, emphasizing love as a central theme.",
+      "keywords": ["choir", "love", "Jesus", "Christmas", "song"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Love Was Born"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 390,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer led by Pastor David Jeremiah, inviting God's presence for the New Year. The prayer sets the tone for the service, encouraging the congregation to reflect on the past year and look forward with hope.",
+      "keywords": ["prayer", "New Year", "God's presence", "congregation", "hope"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Exodus 33",
+      "start_time": 678,
+      "type": "scripture",
+      "description": "Pastor Jeremiah reads from Exodus 33, where Moses speaks to God face to face. This reading emphasizes the importance of divine guidance and presence as we enter a new year, aligning the congregation's hearts with God's word.",
+      "keywords": ["scripture", "Moses", "Exodus", "guidance", "presence"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Exodus 33"]
+    },
+    {
+      "title": "Message: God's Presence in the New Year (Exodus 33)",
+      "start_time": 690,
+      "type": "sermon",
+      "description": "Pastor Jeremiah delivers a powerful sermon focusing on the significance of God's presence as believers enter the New Year. He reflects on Moses' prayer for guidance, emphasizing the joy and peace that come from walking with God through life's journey.",
+      "keywords": ["sermon", "presence", "New Year", "Moses", "guidance"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Exodus 33:11-14"]
+    },
+    {
+      "title": "Solo: Can I Say Thanks",
+      "start_time": 3187,
+      "type": "music",
+      "description": "Bob Vanetta performs a solo rendition of 'Can I Say Thanks,' expressing gratitude to God for His blessings. The heartfelt delivery resonates with the themes of appreciation and worship, uplifting the congregation's spirit.",
+      "keywords": ["solo", "gratitude", "God", "worship", "thanksgiving"],
+      "performers": ["Bob Vanetta"],
+      "songs": ["Can I Say Thanks"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3567,
+      "type": "prayer",
+      "description": "An invitation prayer inviting congregants to reflect on their relationship with God and consider their next steps in faith. This prayer encourages openness to God's guidance and invites individuals to seek deeper connections.",
+      "keywords": ["invitation", "prayer", "faith", "relationship", "reflection"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Jesus is My Music",
+      "start_time": 3370,
+      "type": "music",
+      "description": "The choir returns to deliver an uplifting performance of 'Jesus is My Music.' The song reinforces the message of the service, celebrating the joy and harmony found in a relationship with Christ.",
+      "keywords": ["choir", "joy", "harmony", "Jesus", "celebration"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Jesus is My Music"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3439,
+      "type": "prayer",
+      "description": "Pastor Jeremiah concludes the service with a closing prayer, asking for God's continued presence and guidance as the New Year unfolds. This prayer encapsulates the service's themes of hope, gratitude, and the promise of God's companionship.",
+      "keywords": ["closing", "prayer", "guidance", "New Year", "hope"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

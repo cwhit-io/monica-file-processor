@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 97,
+      "type": "music",
+      "description": "The sanctuary choir performs a heartfelt piece that embodies themes of love and redemption. The performance captures the attention of the congregation, inviting them to reflect on the significance of Christ's sacrifice and the community's connection through worship. The intricate harmonies and lyrics emphasize a deep sense of devotion.",
+      "keywords": ["choir", "worship", "sacrifice", "redemption", "Christ"],
+      "performers": ["sanctuary choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 426,
+      "type": "music",
+      "description": "The worship service continues with another musical offering, this time showcasing both the handbell choir and soloist Becky Wilmer. Their performance adds a layer of elegance to the service, uplifting the congregation. The combination of handbells and voice provides a unique sound that enhances the worship experience.",
+      "keywords": ["handbell", "soloist", "music", "worship", "community"],
+      "performers": ["Becky Wilmer", "handbell choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Demonization and the Christian (Ephesians 6)",
+      "start_time": 971,
+      "type": "sermon",
+      "description": "Pastor Russell Moore addresses the topic of demonization as it pertains to believers in Christ. He explores the biblical understanding of demons and their influence, drawing upon scriptural references and historical debates. The sermon encourages the congregation to seek God wholeheartedly, emphasizing the belief that genuine Christians cannot be possessed by demons.",
+      "keywords": ["demonization", "Christian", "Ephesians 6", "Satan", "spiritual warfare"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Ephesians 6"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3296,
+      "type": "prayer",
+      "description": "The service transitions into a moment of prayer, led by Pastor Moore. He invites the congregation to bow their heads and seek divine guidance, interceding for those in need of healing and spiritual strength. This heartfelt prayer sets a reflective tone as the congregation prepares to engage with the day's teachings.",
+      "keywords": ["prayer", "guided", "spiritual strength", "healing", "community"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3500,
+      "type": "prayer",
+      "description": "Pastor Moore leads the congregation in a closing prayer, thanking God for the time spent in worship and study. He encourages everyone to carry the message of love and hope into their daily lives. This concluding prayer reinforces the themes discussed and sends the congregation forth with a mission.",
+      "keywords": ["prayer", "closing", "community", "mission", "spiritual"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

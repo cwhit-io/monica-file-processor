@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Oh, for a thousand tongues to sing",
+      "start_time": 90,
+      "type": "music",
+      "description": "The Sanctuary Choir performs the uplifting piece 'Oh, for a thousand tongues to sing,' inviting the congregation to join in worship and praise. The song emphasizes the Christian joy of praising God and reflects the powerful sentiment of communal worship.",
+      "keywords": ["choir", "worship", "praise", "song", "joy"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Oh, for a thousand tongues to sing"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Come Christians joined to sing",
+      "start_time": 390,
+      "type": "music",
+      "description": "The congregation joins together to sing 'Come Christians joined to sing,' a traditional hymn that encourages believers to unite in music and praise to God. The energetic atmosphere allows participants to express their faith joyfully and collectively.",
+      "keywords": ["hymn", "congregational", "praise", "worship"],
+      "performers": [],
+      "songs": ["Come Christians joined to sing"],
+      "scripture_references": []
+    },
+    {
+      "title": "Duo: Praise Jesus",
+      "start_time": 588,
+      "type": "music",
+      "description": "Dave and Debbie Johnson perform an instrumental piece dedicated to praising Jesus. The gentle music creates a serene worshipful atmosphere, allowing the congregation to reflect on the significance of Christ's birth and His continuous work in their lives.",
+      "keywords": ["instrumental", "praise", "worship", "duo"],
+      "performers": ["Dave Johnson", "Debbie Johnson"],
+      "songs": ["Praise Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: I Will Bless the Lord",
+      "start_time": 1080,
+      "type": "music",
+      "description": "A solo performance of 'I Will Bless the Lord' lifts the spirits of the congregation, emphasizing the goodness and mercy of the Lord. This song serves as a reminder of God's grace in times of trouble, urging listeners to offer Him their praises.",
+      "keywords": ["solo", "worship", "blessing", "grace"],
+      "performers": [],
+      "songs": ["I Will Bless the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1313,
+      "type": "prayer",
+      "description": "The service opens with a heartfelt prayer, asking for God's guidance and blessing over the gathering. This moment sets a reverent tone, inviting the congregation to focus on their faith and seek divine presence during the worship time.",
+      "keywords": ["prayer", "worship", "congregation", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Happiness in Christ (Matthew 5:1-10)",
+      "start_time": 1510,
+      "type": "sermon",
+      "description": "Pastor Rick Hopps shares an enlightening message about finding happiness through the Beatitudes in the Sermon on the Mount. He emphasizes spiritual poverty, mourning over sin, and the pursuit of righteousness, highlighting how these attributes lead to true fulfillment in life.",
+      "keywords": ["sermon", "happiness", "Beatitudes", "spirituality", "faith"],
+      "performers": ["Pastor Rick Hopps"],
+      "songs": [],
+      "scripture_references": ["Matthew 5:1-10"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3453,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, expressing gratitude for God's love and mercy. This moment encourages the congregation to reflect on the message of the day and to carry the insights into their daily lives.",
+      "keywords": ["prayer", "gratitude", "mercy", "congregation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

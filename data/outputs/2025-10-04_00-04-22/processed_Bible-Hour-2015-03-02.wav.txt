@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unknown Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with a welcoming tone as the choir performs, setting a spiritual atmosphere. The audience is invited to reflect and prepare for the messages to come. The uplifting sound encourages engagement and participation.",
+      "keywords": ["choir", "worship", "music", "spiritual"],
+      "performers": ["Black Hawk Ministries Choir"],
+      "songs": ["Unknown Title"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Service Introduction and Upcoming Series",
+      "start_time": 60,
+      "type": "announcement",
+      "description": "Pastor Steve Webster greets attendees, sharing gratitude for their participation. He highlights changes in service times and introduces an upcoming sermon series titled 'Unashamed,' centered on the gospel and personal stories of faith.",
+      "keywords": ["pastor", "announcement", "service", "gospel"],
+      "performers": ["Steve Webster"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 336,
+      "type": "prayer",
+      "description": "The congregation participates in an opening prayer, where they dedicate the service to God. This moment emphasizes community and reflects a desire for spiritual growth and connection.",
+      "keywords": ["prayer", "community", "spirituality"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Sovereign Suffering Servant (Luke 22:63-23:5)",
+      "start_time": 479,
+      "type": "sermon",
+      "description": "Pastor Steve delivers a powerful sermon based on Luke 22 and 23, focusing on the trials of Jesus. He connects the themes of suffering and sacrifice to personal reflections, urging listeners to understand Jesus as both a prophet and king who intercedes for humanity.",
+      "keywords": ["Jesus", "suffering", "servant", "sacrifice", "suffering servant"],
+      "performers": ["Steve Webster"],
+      "songs": [],
+      "scripture_references": ["Luke 22:63-23:5"]
+    },
+    {
+      "title": "Congregational Hymn: [Your Grace is Enough]",
+      "start_time": 2480,
+      "type": "music",
+      "description": "The congregation participates in a heartfelt hymn, expressing their reliance on God's grace. This moment serves as a communal affirmation of faith, fostering a sense of unity among attendees as they worship together.",
+      "keywords": ["hymn", "grace", "worship", "community"],
+      "performers": ["Congregation"],
+      "songs": ["Your Grace is Enough"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown Title]",
+      "start_time": 2601,
+      "type": "music",
+      "description": "A solo performance follows, showcasing an individual's talent and dedication to worship. The song enhances the emotional atmosphere of the service, drawing listeners into deeper reflection and connection.",
+      "keywords": ["solo", "worship", "music"],
+      "performers": ["Unknown"],
+      "songs": ["Unknown Title"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Great Are You Lord]",
+      "start_time": 3380,
+      "type": "music",
+      "description": "The choir performs a powerful worship song, inviting the congregation to respond in praise. The uplifting lyrics and harmonies resonate deeply, celebrating God's greatness and reinforcing the themes of the service.",
+      "keywords": ["choir", "worship", "song", "greatness"],
+      "performers": ["Black Hawk Ministries Choir"],
+      "songs": ["Great Are You Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3539,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, where attendees reflect on the message and their personal journeys. This prayer emphasizes continued growth in faith and encourages the congregation to carry the day’s teachings into their daily lives.",
+      "keywords": ["closing", "prayer", "community", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

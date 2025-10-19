@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Unidentified Song",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with upbeat music, inviting the congregation to lift their spirits and prepare for worship. The selection emphasizes joy and celebration, setting a positive tone for the gathering.",
+      "keywords": ["music", "worship", "joy", "celebration"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Unidentified Song",
+      "start_time": 124,
+      "type": "music",
+      "description": "The congregation stands to sing, focusing on the powerful message of Jesus' blood that cleanses sins. The lyrics echo themes of redemption and purity, encouraging heartfelt participation.",
+      "keywords": ["Jesus", "blood", "redemption", "worship"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Celebrate Recovery Ministry",
+      "start_time": 426,
+      "type": "interview",
+      "description": "The host interviews Steve McMaster and Elaine Malentus about the Celebrate Recovery program. They share personal stories of transformation and healing, highlighting the ministry's role in addressing life’s challenges and fostering a supportive community.",
+      "keywords": ["Celebrate Recovery", "healing", "support", "transformation"],
+      "performers": ["Steve McMaster", "Elaine Malentus"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: God's Masterpiece",
+      "start_time": 799,
+      "type": "drama",
+      "description": "A dramatic presentation illustrates the journey of becoming God's masterpiece. The narrative emphasizes the importance of surrendering to God's will, allowing Him to mold individuals into their true selves through faith and personal struggle.",
+      "keywords": ["drama", "masterpiece", "faith", "surrender"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["Ephesians 2:10"]
+    },
+    {
+      "title": "Message: Idolatry and Spiritual Blessings (1 John 5:21)",
+      "start_time": 1406,
+      "type": "sermon",
+      "description": "In this sermon, the pastor reflects on the dangers of idolatry within contemporary culture. Drawing from 1 John, he challenges the congregation to guard against distractions and instead embrace the spiritual blessings available through Christ, urging a transition from idolatry to a God-centered life.",
+      "keywords": ["idolatry", "spiritual blessings", "Ephesians", "1 John", "guard"],
+      "performers": ["[]"],
+      "songs": [],
+      "scripture_references": ["1 John 5:21"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3493,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer, thanking God for the revelations received and seeking guidance for the congregation as they strive to embody their identity as God's masterpieces in their daily lives.",
+      "keywords": ["prayer", "closing", "worship", "guidance"],
+      "performers": ["[]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

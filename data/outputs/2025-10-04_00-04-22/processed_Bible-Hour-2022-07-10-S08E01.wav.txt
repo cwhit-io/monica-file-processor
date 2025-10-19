@@ -1,0 +1,36 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 28,
+      "type": "prayer",
+      "description": "The opening prayer sets the tone for the service, thanking God for the opportunity to worship and asking for acceptance of the words spoken. This moment of reflection and reverence invites the congregation to prepare their hearts for the message ahead.",
+      "keywords": ["prayer", "worship", "thankfulness", "community"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Message: The God of Hope (Romans 15)",
+      "start_time": 67,
+      "type": "sermon",
+      "description": "The sermon focuses on Romans 15:13, discussing the theme of hope as a central Christian virtue. The pastor reflects on the significance of hope in faith and love, and how God is portrayed as the 'God of Hope.' He explores biblical examples, emphasizing that hope is foundational for joy and peace.",
+      "keywords": ["hope", "faith", "joy", "love", "Romans", "God"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["Romans 15:13", "Romans 4", "Romans 5", "Romans 8", "Philippians 1:6", "Hebrews 11:6"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2565,
+      "type": "prayer",
+      "description": "The invitation prayer appeals to those who may be seeking hope and renewal in their lives. It emphasizes God's grace and the transformative power found through faith in Christ, inviting all to experience this hope and new life.",
+      "keywords": ["invitation", "hope", "grace", "faith"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    }
+  ]
+}
+```

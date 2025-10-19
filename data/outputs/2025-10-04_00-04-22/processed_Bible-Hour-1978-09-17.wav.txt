@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Come Thou Found of Every Blessing",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a choir performance that sets a spiritual tone with the hymn 'Come Thou Found of Every Blessing.' The congregation is invited to participate in uplifting worship through music, enhancing the communal worship experience.",
+      "keywords": ["choir", "hymn", "worship", "music", "spiritual"],
+      "performers": ["Don Kruger"],
+      "songs": ["Come Thou Found of Every Blessing"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Something Beautiful",
+      "start_time": 159,
+      "type": "music",
+      "description": "A solo performance of 'Something Beautiful' continues the service, reinforcing the theme of divine love and the transformation it brings in one’s life. The heartfelt lyrics resonate with the congregation, encouraging reflections on personal spiritual journeys.",
+      "keywords": ["solo", "love", "transformation", "music", "worship"],
+      "performers": [],
+      "songs": ["Something Beautiful"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Ephesians 4",
+      "start_time": 542,
+      "type": "scripture",
+      "description": "Scripture is read from Ephesians 4, emphasizing themes of unity and love among believers. The verses remind the congregation of their calling to serve one another with humility and patience, maintaining the bonds of peace.",
+      "keywords": ["Ephesians", "unity", "love", "scripture", "peace"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Ephesians 4:1-6"]
+    },
+    {
+      "title": "Congregational Hymn: Savior, Like a Shepherd Lead Us",
+      "start_time": 948,
+      "type": "music",
+      "description": "The congregation joins in singing 'Savior, Like a Shepherd Lead Us,' fostering a sense of unity and community worship. This hymn reflects the deep trust placed in God as the shepherd of their lives.",
+      "keywords": ["congregational", "hymn", "worship", "community", "trust"],
+      "performers": [],
+      "songs": ["Savior, Like a Shepherd Lead Us"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: No One Ever Cared for Me Like Jesus",
+      "start_time": 1067,
+      "type": "music",
+      "description": "The service transitions to a solo performance titled 'No One Ever Cared for Me Like Jesus.' This powerful piece echoes the profound affection and care that Christ provides, striking a chord with the audience.",
+      "keywords": ["solo", "Jesus", "care", "love", "music"],
+      "performers": ["Don Kruger"],
+      "songs": ["No One Ever Cared for Me Like Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Motivation of Love (John 21)",
+      "start_time": 1380,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers a captivating message focused on the theme of love as the ultimate motivator for Christians, drawn from the passage in John 21. He explores Peter's restoration and the calling to serve through love, encouraging the audience to reflect on their own devotion to Christ.",
+      "keywords": ["love", "motivation", "service", "John 21", "Peter"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["John 21:15-17"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3338,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, inviting individuals to reflect on their relationship with Jesus and consider their commitment to faith. The prayer serves as a moment of introspection and connection with God, urging the congregation to take action in their faith journey.",
+      "keywords": ["invitation", "prayer", "reflection", "commitment", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3366,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for the spiritual lessons learned and asking for His guidance as the congregation goes forth. This prayer encapsulates the themes of love and service discussed throughout the service.",
+      "keywords": ["closing", "prayer", "thanksgiving", "guidance", "service"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Why",
+      "start_time": 30,
+      "type": "music",
+      "description": "The church choir performs a thought-provoking piece titled 'Why,' arranged by Dick Anthony. The song explores deep spiritual themes, inviting the congregation to reflect on the significance of God's love and care. The performance is under the direction of Minister of Music, Mr. Don Kruger.",
+      "keywords": ["choir", "why", "spiritual", "love", "God"],
+      "performers": ["The Choir"],
+      "songs": ["Why"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unnamed]",
+      "start_time": 373,
+      "type": "music",
+      "description": "Soloist Dick Anthony captivates the congregation with a heartfelt musical piece, showcasing his talents not just as a performer but also as a songwriter and arranger. His beautiful harp-playing wife accompanies him, enhancing the worship experience and creating a spiritually uplifting atmosphere.",
+      "keywords": ["solo", "Dick Anthony", "worship", "music", "talent"],
+      "performers": ["Dick Anthony", "Dottie Anthony"],
+      "songs": ["[Unnamed]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Lost and Found (Luke 15)",
+      "start_time": 1350,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers a powerful sermon focusing on the parable of the lost son in Luke 15. He explores the themes of lostness, repentance, and God's unconditional love. The message emphasizes the importance of understanding our relationship with God and the joy of reconciliation when a lost person returns home.",
+      "keywords": ["sermon", "lost son", "repentance", "God's love", "Luke 15"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Luke 15:11-32"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3320,
+      "type": "prayer",
+      "description": "Pastor Jeremiah leads an invitation prayer, asking God to help the congregation reflect on the message delivered and to open their hearts for any who may feel lost. He encourages a spirit of reconciliation with God, emphasizing the mercy and love available to all who seek it.",
+      "keywords": ["prayer", "invitation", "reconciliation", "God", "mercy"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

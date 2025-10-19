@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Dramatic Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with a dramatic music piece that sets the tone for the gathering. The music builds anticipation as the congregation prepares for worship. The atmosphere becomes charged with expectation for what is to come.",
+      "keywords": ["dramatic", "music", "service", "worship"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Upbeat Worship",
+      "start_time": 454,
+      "type": "music",
+      "description": "The congregation participates in an upbeat worship song, lifting their voices together in a spirit of unity and joy. The energy in the room increases as people engage in the worship experience, setting a positive tone for the service.",
+      "keywords": ["worship", "congregational", "hymn", "joy"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1075,
+      "type": "prayer",
+      "description": "The service continues with an opening prayer, where the pastor invites the congregation to reflect on their week and their spiritual state. The prayer emphasizes seeking comfort and strength from God amidst the challenges of life.",
+      "keywords": ["prayer", "opening", "comfort", "strength"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Surrendering to Jesus as Lord (Matthew 19:16-22)",
+      "start_time": 1168,
+      "type": "sermon",
+      "description": "The sermon focuses on the encounter between Jesus and the wealthy young ruler. The pastor delves into themes of surrender, pride, and the true meaning of eternal life. Using Scripture, he challenges the congregation to reflect on their own lives and what it means to truly follow Jesus amidst worldly distractions.",
+      "keywords": ["surrender", " Jesus", "wealthy young ruler", "eternal life", "pride"],
+      "performers": ["Pastor"],
+      "songs": ["[]"],
+      "scripture_references": ["Matthew 19:16-22"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3479,
+      "type": "prayer",
+      "description": "As the sermon concludes, the pastor leads an invitation prayer, encouraging those who feel a tug on their hearts to respond to the message. It's a moment of reflection and commitment, inviting attendees to consider their relationship with Jesus.",
+      "keywords": ["invitation", "prayer", "reflection", "commitment"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Worship Song (Take Me Jesus, Take Me Love)",
+      "start_time": 3540,
+      "type": "music",
+      "description": "The choir presents a powerful worship song that expresses a deep yearning for Jesus. The lyrics reflect themes of surrender and devotion, inviting the congregation to join in worship and connect with the message delivered in the sermon.",
+      "keywords": ["worship", "choir", "surrender", "devotion"],
+      "performers": ["Choir"],
+      "songs": ["Take Me Jesus, Take Me Love"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Outro Music",
+      "start_time": 3560,
+      "type": "music",
+      "description": "The service concludes with a final uplifting music piece performed by the choir. This outro music serves as a joyful send-off for the congregation as they reflect on the teachings shared during the service and prepare to engage with their communities.",
+      "keywords": ["outro", "music", "send-off", "joy"],
+      "performers": ["Choir"],
+      "songs": ["[]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

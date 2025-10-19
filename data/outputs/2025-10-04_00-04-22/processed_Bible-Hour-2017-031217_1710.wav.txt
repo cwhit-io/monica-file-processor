@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [MUSIC]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a choir performance, setting a spiritual atmosphere for the gathering. The song is uplifting and designed to welcome the congregation. This musical interlude invites everyone to prepare their hearts for worship and the message ahead.",
+      "keywords": ["choir", "worship", "music"],
+      "performers": ["Black Hawk Ministries Choir"],
+      "songs": ["_"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Bold Faith in Uncertain Times (1 Kings 19)",
+      "start_time": 875,
+      "type": "sermon",
+      "description": "The sermon focuses on the theme of 'Bold Faith in Uncertain Times,' exploring the calling and commitment illustrated in 1 Kings 19. The speaker emphasizes how faith can guide individuals through uncertainties, urging them to embrace God's calling with bold commitment. The life of Elisha is highlighted as a key example of unwavering faith despite life's challenges.",
+      "keywords": ["bold faith", "uncertainty", "Elisha", "commitment", "calling"],
+      "performers": ["Pastor [Name]"],
+      "songs": ["_"],
+      "scripture_references": ["1 Kings 19"]
+    },
+    {
+      "title": "Solo: Lord I Need You",
+      "start_time": 3309,
+      "type": "music",
+      "description": "A solo performance of 'Lord I Need You' brings the congregation into a moment of personal reflection and devotion. The powerful lyrics resonate with the themes of reliance on God and the necessity for His presence in our lives. This touching piece complements the sermon by reinforcing the message of faith and dependence on God.",
+      "keywords": ["Lord I Need You", "solo", "worship"],
+      "performers": ["[Solo Artist Name]"],
+      "songs": ["Lord I Need You"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 30,
+      "type": "prayer",
+      "description": "The service opens with a welcoming prayer that seeks God's presence and blessing over the gathered community. The prayer sets a tone of expectation and reverence, inviting worshipers to connect with God and prepare their hearts for the message to come.",
+      "keywords": ["prayer", "worship", "community"],
+      "performers": ["[Pastor Name]"],
+      "songs": ["_"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3569,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service by thanking God for His presence and guidance. It asks for strength to carry the message of faith into the week ahead. This prayer encourages the congregation to reflect on the sermon and apply its teachings in their daily lives.",
+      "keywords": ["prayer", "closing", "guidance"],
+      "performers": ["[Pastor Name]"],
+      "songs": ["_"],
+      "scripture_references": []
+    }
+  ]
+}
+```

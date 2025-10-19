@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: My Tribute",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir enhances the worship atmosphere by performing 'My Tribute' by André Crouch. This performance uplifts the congregation with its themes of gratitude and reflection on God's grace. The choir, under the leadership of Pastor Don Kruger, delivers a heartfelt rendition that emphasizes giving thanks for the blessings received.",
+      "keywords": ["choir", "tribute", "André Crouch", "grace", "worship"],
+      "performers": ["Pastor Don Kruger"],
+      "songs": ["My Tribute"],
+      "scripture_references": []
+    },
+    {
+      "title": "Group: Praise Him",
+      "start_time": 958,
+      "type": "music",
+      "description": "A group of young singers beautifully performs 'Praise Him' as a declaration of faith amidst struggles. They emphasize the power of praise in overcoming life's challenges, inspiring both the congregation and viewers at home. The message of joy and reliance on God resonates strongly with all present.",
+      "keywords": ["praise", "overcome", "faith", "joy", "struggles"],
+      "performers": ["Proclamation Singers"],
+      "songs": ["Praise Him"],
+      "scripture_references": []
+    },
+    {
+      "title": "Group: Look Up America",
+      "start_time": 1339,
+      "type": "music",
+      "description": "The Proclamation Singers offer another uplifting performance titled 'Look Up America'. This piece encourages a positive view of the nation, celebrating its values and community spirit. Through engaging music, the choir invites worshippers to reflect on pride in their heritage and hope for the future.",
+      "keywords": ["Patriotism", "community", "heritage", "hope", "celebration"],
+      "performers": ["Proclamation Singers"],
+      "songs": ["Look Up America"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1413,
+      "type": "prayer",
+      "description": "Pastor David Jaramond leads the congregation in an opening prayer, asking for God's guidance and blessing over the message to be shared. This moment builds a spiritual atmosphere, encouraging attendees to open their hearts to receive the teachings of the service.",
+      "keywords": ["prayer", "guidance", "blessing", "heart", "message"],
+      "performers": ["Pastor David Jaramond"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 2 Corinthians 8",
+      "start_time": 1394,
+      "type": "scripture",
+      "description": "The congregation listens attentively as Pastor Jaramond reads from 2 Corinthians chapter 8. This passage prepares the hearts of those present for the sermon, emphasizing themes of generosity and selflessness in giving.",
+      "keywords": ["2 Corinthians", "generosity", "selflessness", "giving"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["2 Corinthians 8"]
+    },
+    {
+      "title": "Message: Faithful Giving (2 Corinthians 8)",
+      "start_time": 1500,
+      "type": "sermon",
+      "description": "In his farewell sermon, Pastor Jaramond discusses the importance of faithful giving based on 2 Corinthians 8. He shares personal reflections on his time with the church and encourages the congregation to continue supporting its ministries. Emphasizing stewardship and commitment, he reassures them of God's provision and the church's ongoing mission.",
+      "keywords": ["faith", "giving", "stewardship", "commitment", "community"],
+      "performers": ["Pastor David Jaramond"],
+      "songs": [],
+      "scripture_references": ["2 Corinthians 8"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3311,
+      "type": "prayer",
+      "description": "Following the sermon, Pastor Jaramond leads an invitation prayer, urging all to reflect on their relationship with God. This prayer opens the space for personal commitments and the opportunity to accept Christ, reinforcing the church’s mission to guide people in faith.",
+      "keywords": ["invitation", "reflection", "commitment", "relationship", "faith"],
+      "performers": ["Pastor David Jaramond"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Closing Music]",
+      "start_time": 3411,
+      "type": "music",
+      "description": "The service concludes with a beautiful closing piece performed by the choir. This uplifting song is a final expression of worship and gratitude, leaving the congregation with a sense of peace and joy as they head into their week.",
+      "keywords": ["closing", "worship", "peace", "joy"],
+      "performers": ["Choir"],
+      "songs": ["Closing Music"],
+      "scripture_references": []
+    }
+  ]
+}
+```

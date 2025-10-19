@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Jesus Crowned with Praise",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir performs a song that centers on glorifying Jesus, emphasizing themes of honor and praise. The congregation joins in celebrating Jesus' victory, expressing their devotion through song and lifted hands. This uplifting music creates a reverent atmosphere as worshippers engage in heartfelt expressions of faith.",
+      "keywords": ["worship", "Jesus", "praise", "choir", "glory"],
+      "performers": ["Choir"],
+      "songs": ["Jesus, We Crown You with Praise"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Sing Hallelujah",
+      "start_time": 240,
+      "type": "music",
+      "description": "The congregation enthusiastically sings a hymn, declaring the glory of the Lord through joyful repetition of 'Sing Hallelujah.' This time of worship fosters a vibrant communal spirit, encouraging everyone to participate in exalting God's name together. The atmosphere is filled with praise, as attendees express their faith collectively.",
+      "keywords": ["hymn", "congregational", "praise", "worship", "joy"],
+      "performers": ["Congregation"],
+      "songs": ["Sing Hallelujah to the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Blackout Christian School Update",
+      "start_time": 336,
+      "type": "announcement",
+      "description": "Sam Barfel shares news about Blackout Christian School, highlighting the successful re-enrollment drive and new educational offerings for the upcoming school year. He emphasizes the school's commitment to academic and spiritual growth, inviting the community to learn more about educational opportunities available for families.",
+      "keywords": ["Blackout Christian School", "enrollment", "education", "community", "growth"],
+      "performers": ["Sam Barfel"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Flawless Allegiance of Christ (John 18-20)",
+      "start_time": 2801,
+      "type": "sermon",
+      "description": "In this sermon, the preacher delves into the flawless allegiance of Christ, examining how His obedience to God’s will securely accomplishes our salvation. The message encourages believers to recognize the importance of their own allegiance to God while highlighting Christ's unwavering faithfulness, imparting a call to action for personal reflection and commitment.",
+      "keywords": ["sermon", "allegiance", "Christ", "salvation", "obedience"],
+      "performers": ["Preacher"],
+      "songs": [],
+      "scripture_references": ["John 18", "John 19", "John 20"]
+    },
+    {
+      "title": "Solo: The Look of the Savior",
+      "start_time": 3358,
+      "type": "music",
+      "description": "A heartfelt solo captures the essence of salvation and grace through poignant lyrics. The song delivers a powerful message of reflection on Christ's sacrifice and its deeply personal impact. The performance encourages listeners to embrace the depths of Christ's love and to consider their own response to His grace.",
+      "keywords": ["solo", "savior", "grace", "lyrics", "worship"],
+      "performers": ["Solo Artist"],
+      "songs": ["The Look of Him Who Died"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3471,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that emphasizes gratitude and commitment to follow Christ. This moment allows congregants to reflect on the message received and to ask for strength to live out their allegiance to God in their daily lives. The prayer invites everyone to seek God’s guidance and grace.",
+      "keywords": ["prayer", "closing", "gratitude", "commitment", "faith"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

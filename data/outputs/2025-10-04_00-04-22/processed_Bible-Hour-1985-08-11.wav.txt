@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Jesus is My Lord, My Master, and My Savior",
+      "start_time": 60,
+      "type": "music",
+      "description": "The choir presents a powerful rendition of 'Jesus is My Lord, My Master, and My Savior,' uplifting the congregation with its vibrant tones and heartfelt emotion. This performance sets a worshipful atmosphere as attendees engage in praise. The music emphasizes themes of devotion and faith in Jesus.",
+      "keywords": ["choir", "Jesus", "worship", "master", "savior"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Jesus is My Lord, My Master, and My Savior"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Safe in the Harbor",
+      "start_time": 689,
+      "type": "music",
+      "description": "Denise Mitchell performs the poignant solo 'Safe in the Harbor,' touching on themes of longing and redemption. The lyrics speak to the struggles faced in life and the solace found in faith. This heartfelt rendition invites listeners to reflect on their own journeys and reliance on divine guidance.",
+      "keywords": ["Denise Mitchell", "solo", "faith", "redemption", "harbor"],
+      "performers": ["Denise Mitchell"],
+      "songs": ["Safe in the Harbor"],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: School Enrollment Updates",
+      "start_time": 849,
+      "type": "interview",
+      "description": "Pastor Rick Hawks, although absent, is discussed in the context of school updates with Steve Longbrake, principal of Black Hawk Christian School. They talk about the excitement of the upcoming school year, enrollment numbers, and the preparation involved. This segment highlights the community's focus on education and Christian values.",
+      "keywords": ["school", "enrollment", "education", "community", "Christian"],
+      "performers": ["Steve Longbrake"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Supremacy of the Lord Jesus Christ (Hebrews 2:5-9)",
+      "start_time": 1438,
+      "type": "sermon",
+      "description": "Dr. John Sproul presents a gripping sermon focusing on the supremacy of Jesus Christ as outlined in Hebrews 2:5-9. He explores the dual nature of Christ as both God and man, affirming how He guarantees humanity's ultimate destiny. The teaching deepens the understanding of Christ's role in creation and redemption, inviting reflections on personal faith and reliance on Jesus.",
+      "keywords": ["sermon", "Jesus", "supremacy", "destiny", "redemption"],
+      "performers": ["Dr. John Sproul"],
+      "songs": [],
+      "scripture_references": ["Hebrews 2:5-9"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3475,
+      "type": "prayer",
+      "description": "In this segment, a heartfelt invitation prayer is offered, inviting participants to accept Jesus into their hearts. The prayer emphasizes the significance of faith and the potential for personal transformation. It's a moment of reflection and openness to receiving God's grace.",
+      "keywords": ["prayer", "invitation", "faith", "forgiveness", "Jesus"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3499,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for His presence and asking for guidance in the week ahead. This moment of communal reflection reinforces the themes of the service, encouraging attendees to carry their faith into daily life.",
+      "keywords": ["closing prayer", "thanksgiving", "faith", "guidance", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

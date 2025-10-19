@@ -1,0 +1,94 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: Praise the Lord with Bells",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a warm welcome to the Bible Hour. The congregation is inspired by the ringing of bells from the choir, emphasizing the presence of Jesus in their hearts. This segment sets a joyful tone for the morning services.",
+      "keywords": ["choir", "bells", "Jesus", "worship", "praise"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Praise the Lord with Bells"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Stand Up for Jesus",
+      "start_time": 317,
+      "type": "music",
+      "description": "The congregation joins together to sing 'Stand Up for Jesus,' reflecting on the call to be courageous in proclaiming their faith. The hymn encourages believers to take up their spiritual armor and confidently share their beliefs.",
+      "keywords": ["hymn", "courage", "faith", "proclaim", "worship"],
+      "performers": [],
+      "songs": ["Stand Up for Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: The Banner of the Cross",
+      "start_time": 481,
+      "type": "music",
+      "description": "The church continues in worship with the hymn 'The Banner of the Cross.' The lyrics encourage the faithful to carry the message of God high, emphasizing unity in purpose and mission throughout the congregation.",
+      "keywords": ["hymn", "unity", "mission", "worship"],
+      "performers": [],
+      "songs": ["The Banner of the Cross"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Focus on Stewardship",
+      "start_time": 615,
+      "type": "announcement",
+      "description": "Pastor Rickoff introduces the theme of stewardship for February, highlighting the importance of giving and recognizing God's ownership over all aspects of life. He shares insights and wisdom from well-known figures regarding stewardship, emphasizing responsible management of time and resources.",
+      "keywords": ["stewardship", "giving", "February", "management", "church"],
+      "performers": ["Pastor Rickoff"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Restore to Me the Joy",
+      "start_time": 848,
+      "type": "music",
+      "description": "A soulful solo performance of 'Restore to Me the Joy of My Salvation' reflects on themes of renewal and the longing for joy in one's spiritual life. The heartfelt delivery moves the congregation towards introspection.",
+      "keywords": ["solo", "renewal", "joy", "spirituality"],
+      "performers": ["Keith and Starr Bradigan"],
+      "songs": ["Restore to Me the Joy of My Salvation"],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Super Sixties Ministry",
+      "start_time": 1106,
+      "type": "interview",
+      "description": "Pastor Rickoff engages with George Lampman about the Super Sixties ministry, which serves senior adults aged 55 to 105. They discuss the activities offered, including fellowship, encouragement, and upcoming trips, highlighting the importance of community within the church.",
+      "keywords": ["Super Sixties", "ministry", "seniors", "community"],
+      "performers": ["George Lampman"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1578,
+      "type": "prayer",
+      "description": "The pastor leads the congregation in an opening prayer, inviting God's presence into the service. The prayer focuses on worship, confession, and the need for divine strength, calling upon God to heal and bless those present.",
+      "keywords": ["prayer", "worship", "healing", "blessing"],
+      "performers": ["Pastor Rickoff"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Love Your Enemies (Matthew 5:43-48)",
+      "start_time": 1745,
+      "type": "sermon",
+      "description": "Pastor Rickoff delivers a powerful sermon based on Matthew 5:43-48, urging believers to love their enemies. He explains Jesus' revolutionary teachings and the transformative power of agape love, encouraging attendees to embody these principles in daily life.",
+      "keywords": ["sermon", "love", "enemies", "Matthew", "agape"],
+      "performers": ["Pastor Rickoff"],
+      "songs": [],
+      "scripture_references": ["Matthew 5:43-48"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3445,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Rickoff, focusing on personal commitment to God and the decisions made during the service. The prayer emphasizes forgiveness and the desire for spiritual growth among attendees.",
+      "keywords": ["closing prayer", "commitment", "forgiveness", "growth"],
+      "performers": ["Pastor Rickoff"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

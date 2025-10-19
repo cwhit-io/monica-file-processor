@@ -1,0 +1,56 @@
+```json
+{
+	"chapters": [
+		{
+			"title": "Upbeat Instrumental",
+			"start_time": 54,
+			"type": "music",
+			"description": "An upbeat instrumental piece sets a lively tone for the service, inviting the congregation to engage and uplift their spirits.",
+			"keywords": ["music", "upbeat", "instrumental"],
+			"performers": [],
+			"songs": [],
+			"scripture_references": []
+		},
+		{
+			"title": "Message: God's Design for Marriage and Family (Ephesians 5; Ephesians 6; 1 Peter 3)",
+			"start_time": 507,
+			"type": "sermon",
+			"description": "The sermon delves into the biblical principles of marriage and family life, emphasizing love, obedience, and the roles of each family member. It addresses the importance of sacrificial love from husbands, respectful obedience from children, and godly submission from wives, depicting the family as a unit created in God's design.",
+			"keywords": ["marriage", "family", "Ephesians", "submission", "obedience"],
+			"performers": ["Unknown Speaker"],
+			"songs": [],
+			"scripture_references": ["Ephesians 5", "Ephesians 6", "1 Peter 3"]
+		},
+		{
+			"title": "prayer: Opening Prayer",
+			"start_time": 1270,
+			"type": "prayer",
+			"description": "The opening prayer sets the tone for the service, asking for guidance and wisdom as the congregation reflects on the themes of family and parenting throughout the morning.",
+			"keywords": ["prayer", "guidance", "wisdom"],
+			"performers": [],
+			"songs": [],
+			"scripture_references": []
+		},
+		{
+			"title": "Band: Tribute Song",
+			"start_time": 3100,
+			"type": "music",
+			"description": "A tribute song performed by the band encapsulates the themes of commitment and faithfulness in marriage and family. It's a celebration of the enduring love within families as stories and faces of faithful couples are shared.",
+			"keywords": ["tribute", "song", "commitment"],
+			"performers": ["Band"],
+			"songs": ["Tribute Song"],
+			"scripture_references": []
+		},
+		{
+			"title": "prayer: Closing Prayer",
+			"start_time": 3526,
+			"type": "prayer",
+			"description": "In the closing prayer, gratitude is expressed for the lessons learned about marriage and family. The congregation is encouraged to embrace God's design for their relationships.",
+			"keywords": ["closing", "gratitude", "relationships"],
+			"performers": [],
+			"songs": [],
+			"scripture_references": []
+		}
+	]
+}
+```

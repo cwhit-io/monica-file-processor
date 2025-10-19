@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Enter Into His Courts with Praise",
+      "start_time": 0,
+      "type": "music",
+      "description": "The church choir opens the service with a heartfelt hymn, 'Enter Into His Courts with Praise.' This worship sets a tone of gratitude and joy as the congregation participates in the praise-filled atmosphere.",
+      "keywords": ["choir", "hymn", "praise", "worship"],
+      "performers": ["Don Krueger"],
+      "songs": ["Enter Into His Courts with Praise"],
+      "scripture_references": []
+    },
+    {
+      "title": "Quartet: The First Day in Glory",
+      "start_time": 240,
+      "type": "music",
+      "description": "The sunlight quartet performs an uplifting song titled 'The First Day in Glory.' This piece beautifully depicts the joy and excitement of believing in eternal life and the reunion with Jesus in heaven.",
+      "keywords": ["sunlight quartet", "glory", "heaven", "joy", "eternity"],
+      "performers": ["Sunlight Quartet"],
+      "songs": ["The First Day in Glory"],
+      "scripture_references": []
+    },
+    {
+      "title": "Quartet: Praise the Lord",
+      "start_time": 785,
+      "type": "music",
+      "description": "The sunlight quartet returns with a dynamic rendition of 'Praise the Lord.' This anthem encourages the congregation to trust in God's power to overcome life's struggles, culminating in a powerful worship moment.",
+      "keywords": ["praise", "quartet", "struggles", "worship"],
+      "performers": ["Sunlight Quartet"],
+      "songs": ["Praise the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: David's Song",
+      "start_time": 1010,
+      "type": "music",
+      "description": "The choir closes this music segment with 'David's Song,' inspired by Psalm 27. The lyrics remind the congregation of the Lord's guidance and strength in times of trouble, fostering a spirit of reliance on God.",
+      "keywords": ["choir", "psalm", "strength", "guidance"],
+      "performers": ["Don Krueger"],
+      "songs": ["David's Song"],
+      "scripture_references": ["Psalms 27"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1259,
+      "type": "prayer",
+      "description": "The service transitions to an opening prayer, expressing gratitude for God's presence and guidance. The prayer seeks encouragement for the congregation to engage with the Word of God during the service and emphasizes the importance of faith in Christ.",
+      "keywords": ["prayer", "gratitude", "faith", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Choices (Matthew 27:22)",
+      "start_time": 1335,
+      "type": "sermon",
+      "description": "The sermon focuses on the theme of choices, using the example of Pontius Pilate and his decision regarding Jesus. The preacher emphasizes the significance of making the right choice regarding faith and underscores that every decision impacts one's life and eternity.",
+      "keywords": ["choices", "Pontius Pilate", "decisions", "faith", "eternity"],
+      "performers": ["Pastor Rick"],
+      "songs": [],
+      "scripture_references": ["Matthew 27:22"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3455,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, asking for divine guidance in decisions made during the service. The prayer reinforces the message shared during the sermon, calling for spiritual commitment and awareness of Christ's presence in lives.",
+      "keywords": ["closing prayer", "guidance", "commitment", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

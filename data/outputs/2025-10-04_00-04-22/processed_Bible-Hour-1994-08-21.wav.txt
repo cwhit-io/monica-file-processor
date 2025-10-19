@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a performance highlighting the importance of walking with the Lord daily. The choir expresses their faith and commitment through heartfelt lyrics, inviting the congregation to reflect on their relationship with God.",
+      "keywords": ["faith", "walking", "Lord", "commitment", "choir"],
+      "performers": ["Scott Schindler", "Cindy Sherrill"],
+      "songs": ["I Wanna Walk Every Day With My Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 250,
+      "type": "music",
+      "description": "Cindy Cheryl sings a soulful solo that elevates the themes of faith and divine greatness. This moving piece encourages the congregation to reflect on God's power and the vastness of His creation.",
+      "keywords": ["faith", "God", "power", "creation", "solo"],
+      "performers": ["Cindy Cheryl"],
+      "songs": ["How Great Thou Art"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Wisdom from Above (James 3:13-18)",
+      "start_time": 961,
+      "type": "sermon",
+      "description": "Pastor Moore delves into the book of James to explore the concept of wisdom. The sermon contrasts earthly wisdom with divine wisdom, emphasizing the fruitfulness that comes from aligning one's life with God's teachings. Through vivid illustrations, he reveals the transformative power of choosing God's wisdom over a worldly approach.",
+      "keywords": ["wisdom", "James", "sermon", "earthly", "divine"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["James 3:13-18"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3320,
+      "type": "prayer",
+      "description": "A congregational prayer that seeks the Lord's guidance and presence during the service. The prayer emphasizes the need for divine wisdom and blessing over the church community, inviting attendees to reflect inwardly.",
+      "keywords": ["prayer", "guidance", "wisdom", "community", "blessing"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3476,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer. Pastor Moore expresses gratitude for the time spent in worship and instruction, asking God to implant the wisdom learned into the hearts of the attendees.",
+      "keywords": ["prayer", "closing", "gratitude", "wisdom", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

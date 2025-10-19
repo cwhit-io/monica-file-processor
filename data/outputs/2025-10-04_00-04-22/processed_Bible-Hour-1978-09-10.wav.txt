@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: All People That On Earth Do Dwell",
+      "start_time": 141,
+      "type": "music",
+      "description": "The Black Hawk Baptist Church Sanctuary Choir performs an uplifting anthem titled 'All People That On Earth Do Dwell.' The song encourages congregational participation, inviting everyone to rejoice and praise the Lord. The anthem emphasizes themes of joy and thanksgiving, uniting the congregation in worship.",
+      "keywords": ["choir", "worship", "praise", "community", "joy"],
+      "performers": ["Black Hawk Baptist Church Sanctuary Choir"],
+      "songs": ["All People That On Earth Do Dwell"],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Pat Williams: Life in Professional Sports",
+      "start_time": 950,
+      "type": "testimony",
+      "description": "Pat Williams, the youngest general manager in professional sports, shares a powerful testimony about his journey through life and faith. He highlights the spiritual awakening within the world of athletics and the importance of being a witness for Christ. His message serves as an inspiring reminder of God's work in everyday lives.",
+      "keywords": ["Pat Williams", "testimony", "sports", "faith", "witness"],
+      "performers": ["Pat Williams"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Jesus, I'd Give You My Heart",
+      "start_time": 1564,
+      "type": "music",
+      "description": "Jill, a talented soloist, performs 'Jesus, I'd Give You My Heart,' a heartfelt song expressing devotion and surrender to Jesus. The lyrics resonate with themes of trust, love, and the transformative power of faith. The congregation is moved as they reflect on the message during this musical moment.",
+      "keywords": ["Jill", "solo", "surrender", "devotion", "faith"],
+      "performers": ["Jill"],
+      "songs": ["Jesus, I'd Give You My Heart"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Fruitfulness in Christ (John 21)",
+      "start_time": 1805,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers a sermon based on John 21, discussing the theme of fruitfulness in the Christian life. He emphasizes the necessity of dependence on Christ and the importance of obedience to His word. The message encourages believers to recognize their need for God's presence and power to bear spiritual fruit.",
+      "keywords": ["fruitfulness", "obedience", "John 21", "power", "Christian life"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["John 21"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3340,
+      "type": "prayer",
+      "description": "Pastor Jeremiah leads the congregation in a closing prayer, asking for guidance and strength to live out the teachings shared in the sermon. The prayer is a heartfelt acknowledgment of the need for God's presence in their lives and a plea for obedience to His will. It serves as a collective commitment to follow Christ.",
+      "keywords": ["prayer", "closing", "guidance", "commitment", "presence"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

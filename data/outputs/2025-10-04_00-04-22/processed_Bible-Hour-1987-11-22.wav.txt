@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: It is well with my soul",
+      "start_time": 307,
+      "type": "music",
+      "description": "The sanctuary choir delivers a powerful rendition of 'It is well with my soul,' a hymn that speaks of peace amid sorrow. This song reflects the deep faith of Horatio Spafford, who penned these words after experiencing profound loss. The emotional performance culminates in a heartfelt expression of trust in God’s faithfulness.",
+      "keywords": ["hymn", "spafford", "faith", "peace", "choir"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["It is well with my soul"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Now thank we all our God",
+      "start_time": 570,
+      "type": "music",
+      "description": "The congregation joins in singing 'Now thank we all our God,' a hymn celebrating gratitude and divine providence. This musical moment unites the church, highlighting their shared faith and communal worship. The uplifting melody encourages expressions of thanksgiving.",
+      "keywords": ["hymn", "thankfulness", "worship", "congregational", "music"],
+      "performers": [],
+      "songs": ["Now thank we all our God"],
+      "scripture_references": []
+    },
+    {
+      "title": "Handbell Choir: Medley: All Glory, Lord, and Honor",
+      "start_time": 735,
+      "type": "music",
+      "description": "The handbell choir performs a medley including 'All Glory, Lord, and Honor,' bringing a beautiful and unique melody to the worship service. The delicate sounds of the bells enhance the atmosphere of reverence and praise, reminding the congregation of the majesty of Christ.",
+      "keywords": ["handbells", "medley", "worship", "praise", "music"],
+      "performers": ["Handbell Choir"],
+      "songs": ["All Glory, Lord, and Honor"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1401,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer invites God’s presence and guidance for the service. The pastor emphasizes a commitment to spiritual engagement and service, encouraging the congregation to prepare their hearts for worship and teaching. The prayer lays a foundation for reflection and dedication.",
+      "keywords": ["prayer", "worship", "engagement", "spiritual", "commitment"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Jude 1:17-23",
+      "start_time": 1846,
+      "type": "scripture",
+      "description": "The passage from Jude 1:17-23 is read, highlighting important teachings about standing firm in faith and extending mercy. This scriptural foundation sets the stage for the sermon, emphasizing the church's marching orders in confronting challenges. The reading serves as an anchor for the message to follow.",
+      "keywords": ["Jude", "scripture", "faith", "mercy", "teaching"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Jude 1:17-23"]
+    },
+    {
+      "title": "Message: Marching Orders (Jude 1:17-23)",
+      "start_time": 181,
+      "type": "sermon",
+      "description": "In this compelling message titled 'Marching Orders,' Pastor Rick Hawks urges the congregation to remember God's Word, remain steadfast in faith, and rescue those in need of spiritual support. Drawing from the Book of Jude, he emphasizes the importance of standing firm as soldiers of Christ amid external challenges. The sermon encourages faithful living and active ministry within the church.",
+      "keywords": ["sermon", "marching orders", "Jude", "faithfulness", "rescue"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Jude 1:17-23"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3534,
+      "type": "prayer",
+      "description": "The closing prayer invites attendees to commit their lives to Christ and to live out the message they have heard. The pastor emphasizes the need for personal decisions and spiritual growth, concluding the service with a heartfelt plea for divine guidance.",
+      "keywords": ["prayer", "commitment", "Christ", "spiritual growth", "closing"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Victory Shout",
+      "start_time": 1373,
+      "type": "music",
+      "description": "The choir performs 'Victory Shout,' a spirited song that celebrates triumph through faith. The uplifting lyrics and energetic arrangement encourage the congregation to rejoice in their spiritual victories and stand firm in God’s promises. The performance deepens the sense of unity and joy within the worship experience.",
+      "keywords": ["victory", "faith", "choir", "praise", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Victory Shout"],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,26 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: O Tra Milo",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir performs the song 'O Tra Milo' with an upbeat and vibrant energy. The repetition of the phrase captivates the congregation, inviting them to join in the joyous expression of faith. This segment enhances the worship atmosphere and sets a celebratory tone for the service.",
+      "keywords": ["choir", "song", "worship", "joy", "energy"],
+      "performers": ["Choir"],
+      "songs": ["O Tra Milo"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: O Tra Milo",
+      "start_time": 93,
+      "type": "music",
+      "description": "A soloist brings a heartfelt rendition of 'O Tra Milo' to life, adding depth to the worship experience. The personal touch of the solo performance connects with the congregation's spirit, inviting reflection and participation in the song's themes of running towards faith. This segment further elevates the sense of community worship.",
+      "keywords": ["solo", "worship", "faith", "reflection", "community"],
+      "performers": ["Soloist"],
+      "songs": ["O Tra Milo"],
+      "scripture_references": []
+    }
+  ]
+}
+```

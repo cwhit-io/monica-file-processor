@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: O for a Thousand Tongues to Sing",
+      "start_time": 21,
+      "type": "music",
+      "description": "The service begins with the choir's performance of 'O for a Thousand Tongues to Sing', directed by Don Kruger. This hymn expresses worship and adoration to God, celebrating His glory and grace. The congregation is invited to reflect on God's majesty through the music.",
+      "keywords": ["choir", "hymn", "God", "worship", "grace"],
+      "performers": ["Don Kruger"],
+      "songs": ["O for a Thousand Tongues to Sing"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Jesus My Lord I Will Love Thee",
+      "start_time": 768,
+      "type": "music",
+      "description": "A solo performance of 'Jesus My Lord I Will Love Thee' follows, which centers around the deep love and sacrifice of Jesus Christ. The poignant lyrics remind the congregation of the importance of Jesus in their lives. The song resonates with themes of devotion and gratitude.",
+      "keywords": ["Jesus", "love", "sacrifice", "devotion"],
+      "performers": ["[]"],
+      "songs": ["Jesus My Lord I Will Love Thee"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Jesus Is All the World to Me",
+      "start_time": 1032,
+      "type": "music",
+      "description": "The Pantana family performs 'Jesus Is All the World to Me', illustrating the significance of Jesus as a friend and guide. The song conveys themes of reliance and joy found in faith. The heartfelt delivery and meaningful lyrics invite the congregation to reflect on their relationship with Christ.",
+      "keywords": ["Jesus", "friend", "faith", "joy"],
+      "performers": ["Pantana Family"],
+      "songs": ["Jesus Is All the World to Me"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Ultimate Priority of Life (Jeremiah 9:23-24)",
+      "start_time": 1546,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers a powerful sermon on the ultimate priority of life using Jeremiah 9:23-24. The message emphasizes focusing on knowing God above all else, rather than on wisdom, might, or wealth. The pastor discusses the importance of intimacy with God, illustrating his points with examples from both the Old and New Testaments.",
+      "keywords": ["Jeremiah", "priority", "wisdom", "wealth", "God"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Jeremiah 9:23-24"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1696,
+      "type": "prayer",
+      "description": "The service includes an opening prayer, asking for God's presence and guidance during the worship. It sets a reverent tone for the service, inviting congregants to be receptive to God's message. The prayer acknowledges the need for God's wisdom and understanding.",
+      "keywords": ["prayer", "worship", "guidance", "God"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Consider the Lilies",
+      "start_time": 1415,
+      "type": "music",
+      "description": "The Pantana family performs 'Consider the Lilies', which inspires faith and reminds listeners of God's care. The song calls the congregation to trust in God's provision and love in their lives. The reassuring lyrics and gentle melody create a meditative atmosphere.",
+      "keywords": ["faith", "God", "provision", "trust"],
+      "performers": ["Pantana Family"],
+      "songs": ["Consider the Lilies"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3411,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that encourages the congregation to reflect on their relationship with God. The prayer asks for guidance and strength for the week ahead, inviting God's presence in the daily lives of the attendees.",
+      "keywords": ["closing", "prayer", "reflection", "guidance"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Bible Hour Outreach",
+      "start_time": 3557,
+      "type": "announcement",
+      "description": "The service includes an announcement regarding upcoming outreach initiatives and ways to engage with the Bible Hour ministry. It emphasizes the importance of community involvement and spiritual growth opportunities available to the congregation. The announcement invites members to take part actively.",
+      "keywords": ["outreach", "ministry", "community", "involvement"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

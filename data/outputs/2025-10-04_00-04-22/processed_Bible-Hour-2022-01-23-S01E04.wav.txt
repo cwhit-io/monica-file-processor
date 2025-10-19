@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Message: Counterculture (Romans 16)",
+      "start_time": 0,
+      "type": "sermon",
+      "description": "The sermon explores the countercultural interactions of Jesus, focusing on His conversation with the Samaritan woman. It highlights the radical inclusivity of the early church as described in Romans 16, emphasizing the importance of recognizing women and marginalized individuals in positions of honor within the faith community. The community's revolutionary dynamics underline how believers worked together across social barriers.",
+      "keywords": ["counterculture", "Jesus", "Samaritan", "Romans", "inclusivity", "women", "early church", "community"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["Romans 16"]
+    },
+    {
+      "title": "scripture: Scripture Reading: Romans 16",
+      "start_time": 146,
+      "type": "scripture",
+      "description": "Reading from Romans 16, the names listed reflect the diverse and inclusive nature of the early church, highlighting both men and women who contributed to the ministry. Each name carries significance in illustrating the early efforts to create a community that defied societal norms.",
+      "keywords": ["Romans 16", "names", "early church"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Romans 16"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 320,
+      "type": "prayer",
+      "description": "The opening prayer sets the tone for the service, inviting congregants to reflect on the themes of community, inclusion, and God’s countercultural message. It encourages participants to open their hearts to receive the teachings and truths shared throughout the service.",
+      "keywords": ["prayer", "community", "inclusion"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 360,
+      "type": "music",
+      "description": "The choir performs a song that reflects themes of unity and celebration, enhancing the communal spirit of the service. The lyrics resonate with the day's message about acceptance and love among diversity.",
+      "keywords": ["music", "choir", "unity"],
+      "performers": ["Unknown"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Song Title]",
+      "start_time": 480,
+      "type": "music",
+      "description": "The congregation joins in singing a hymnal piece that reinforces the themes of fellowship and Christ's love. As voices unite, there is a palpable sense of community and shared faith.",
+      "keywords": ["music", "hymn", "fellowship"],
+      "performers": ["Unknown"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 600,
+      "type": "prayer",
+      "description": "An invitation prayer encourages attendees to reflect on their personal journeys and consider a closer relationship with Christ. It underscores themes of acceptance and community, inviting everyone into deeper participation.",
+      "keywords": ["prayer", "invitation", "community"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 660,
+      "type": "music",
+      "description": "A solo performance that highlights personal testimony and faith, mirroring the sermon’s exploration of God’s work through individuals in the community. The piece adds a reflective moment during the service.",
+      "keywords": ["music", "solo", "testimony"],
+      "performers": ["Unknown"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 750,
+      "type": "prayer",
+      "description": "The closing prayer sums up the call to act on the day's teachings about inclusivity and community. It seeks God’s guidance for attendees as they engage with the world outside the church.",
+      "keywords": ["prayer", "closing", "guidance"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

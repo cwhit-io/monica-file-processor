@@ -1,0 +1,96 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Deep the Father's Love for Us",
+      "start_time": 215,
+      "type": "music",
+      "description": "The choir sings 'Deep the Father's Love for Us,' a song that reflects on the immense love the Father has for humanity, expressed through the sacrifice of His Son. The lyrics highlight themes of redemption, grace, and the profound pain that accompanies love and sacrifice. This moving performance sets a reverent tone for the service.",
+      "keywords": ["choir", "love", "sacrifice", "Father", "redemption"],
+      "performers": ["Choir"],
+      "songs": ["Deep the Father's Love for Us"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: It Is Finished",
+      "start_time": 311,
+      "type": "music",
+      "description": "The choir continues with 'It Is Finished,' a powerful proclamation of Christ's completed work on the cross. This song serves as a reminder of the fulfillment of God's promises and the victory over sin and death. The congregation joins in, creating a collective moment of worship and reflection.",
+      "keywords": ["choir", "Christ", "cross", "victory", "worship"],
+      "performers": ["Choir"],
+      "songs": ["It Is Finished"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 407,
+      "type": "prayer",
+      "description": "Senior Pastor Kelly Bird leads the congregation in an opening prayer, inviting everyone to unite in seeking God's presence and guidance for the service. This prayer sets a spiritual tone, asking for open hearts and minds to receive the message that God has for them.",
+      "keywords": ["prayer", "opening", "guidance", "congregation", "worship"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Matthew 28",
+      "start_time": 144,
+      "type": "scripture",
+      "description": "The reading from Matthew 28 underscores the Great Commission, where Jesus commands His disciples to go forth and make disciples of all nations. This passage highlights the church's mission and serves as a pivotal reminder of the call to share the message of Christ.",
+      "keywords": ["scripture", "Matthew", "Great Commission", "disciples", "mission"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 28:18-20"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 397,
+      "type": "prayer",
+      "description": "Following the opening elements, an invitation prayer is offered, encouraging individuals to respond to God's call in their lives. This moment is crucial for laying the groundwork for personal reflection and openness to the teachings to follow.",
+      "keywords": ["invitation", "prayer", "response", "call", "reflection"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: Parent Baby Dedication",
+      "start_time": 509,
+      "type": "drama",
+      "description": "A special segment is dedicated to the Parent Baby Dedication ceremony, celebrating the commitment of parents to raise their children in a Christian home. Stories from parents, including Mike and Bethany Collins, share personal journeys and the impact of faith on family life.",
+      "keywords": ["dedication", "parents", "children", "faith", "family"],
+      "performers": ["Mike Collins", "Bethany Collins"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Mike and Bethany Collins",
+      "start_time": 581,
+      "type": "testimony",
+      "description": "Mike and Bethany Collins share their heartfelt testimony about their journey of faith, including their struggles and triumphs as they dedicated their daughter Maggie. Their story emphasizes reliance on God through challenges and showcases an inspiring message of hope and resilience.",
+      "keywords": ["testimony", "faith", "family", "struggles", "hope"],
+      "performers": ["Mike Collins", "Bethany Collins"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Being a Priest at Home (Various Scripture)",
+      "start_time": 1111,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird continues the series 'I'm a Priest,' focusing on the role of parents as spiritual leaders in the home. He emphasizes the importance of creating a nurturing environment for children and passing on faith through example and prayer. Practical advice is offered for engaging family members in spiritual conversations and activities.",
+      "keywords": ["sermon", "family", "faith", "priesthood", "spirituality"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Deuteronomy 6", "Matthew 6"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3554,
+      "type": "prayer",
+      "description": "In the closing prayer, Pastor Kelly Bird offers thanks for the message shared and prays for the congregation to act upon the teachings received. This prayer serves as a culmination of the service, asking for strength and resolve to apply God's wisdom in their homes and families.",
+      "keywords": ["closing", "prayer", "thanksgiving", "teaching", "resolve"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

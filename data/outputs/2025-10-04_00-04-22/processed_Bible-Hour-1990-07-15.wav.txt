@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: In God We Trust",
+      "start_time": 93,
+      "type": "music",
+      "description": "The sanctuary choir presents a powerful call to worship entitled 'In God We Trust'. The congregation is invited to stand and participate in the uplifting atmosphere of worship, engaging with the music that speaks to trust and faith.",
+      "keywords": ["worship", "choir", "God", "trust", "faith"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["In God We Trust"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: The Star-Spangled Banner",
+      "start_time": 300,
+      "type": "music",
+      "description": "The congregation unites in singing the national anthem, 'The Star-Spangled Banner', creating a patriotic atmosphere. This hymn resonates with themes of freedom and resilience, aligning with the upcoming Independence Day celebrations.",
+      "keywords": ["patriotism", "national anthem", "freedom", "unity", "celebration"],
+      "performers": [],
+      "songs": ["The Star-Spangled Banner"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: One Nation Under God",
+      "start_time": 666,
+      "type": "music",
+      "description": "Gary McSpadden captivates the congregation with a solo performance of 'One Nation Under God'. This piece deepens the sense of unity and collective faith, enhancing the service's reflection on national identity and divine guidance.",
+      "keywords": ["Gary McSpadden", "patriotism", "faith", "solo", "worship"],
+      "performers": ["Gary McSpadden"],
+      "songs": ["One Nation Under God"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1852,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, invoking God's presence and blessing on a mission team heading to Jamaica. The prayer emphasizes themes of service, guidance, health, and spiritual readiness, setting the tone for the service.",
+      "keywords": ["prayer", "mission", "Jamaica", "blessing", "service"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: God's Calling and Surrender (Proverbs 16:18, Jeremiah 18:1-6)",
+      "start_time": 2403,
+      "type": "sermon",
+      "description": "Gary McSpadden delivers a profound message on the themes of submission and God's call for surrender in our lives. Using biblical references, he illustrates how humility and yielding to God leads to genuine greatness and purpose, urging the congregation to trust the Potter's hand in their lives.",
+      "keywords": ["sermon", "submission", "surrender", "God's calling", "proverbs"],
+      "performers": ["Gary McSpadden"],
+      "songs": [],
+      "scripture_references": ["Proverbs 16:18", "Jeremiah 18:1-6"]
+    },
+    {
+      "title": "Solo: Highest Praise",
+      "start_time": 3318,
+      "type": "music",
+      "description": "Gary McSpadden returns to the stage for a compelling solo, delivering 'Highest Praise' that reflects the essence of worship and devotion. The heartfelt lyrics resonate deeply, encouraging a commitment to give one's life to God.",
+      "keywords": ["worship", "Gary McSpadden", "song", "devotion", "commitment"],
+      "performers": ["Gary McSpadden"],
+      "songs": ["Highest Praise"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3491,
+      "type": "prayer",
+      "description": "An invitation prayer is offered for those seeking a relationship with Jesus Christ. This moment serves as a personal call for commitment, ensuring individuals are welcomed into a spiritual journey and providing them with assurance of salvation.",
+      "keywords": ["invitation", "prayer", "salvation", "commitment", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Speakers",
+      "start_time": 1607,
+      "type": "announcement",
+      "description": "Upcoming speakers for the Bible Hour are introduced, detailing their topics and relevance. This moment of encouragement invites the congregation to look forward to continued growth through engaging messages in the weeks to come.",
+      "keywords": ["announcement", "speakers", "Bible Hour", "growth", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

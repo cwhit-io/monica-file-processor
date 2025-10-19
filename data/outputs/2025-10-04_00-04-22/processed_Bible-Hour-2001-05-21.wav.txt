@@ -1,0 +1,84 @@
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer inviting God's presence and guidance. The speaker reflects on the importance of trusting in God's support as we navigate life's challenges. This sets a hopeful tone for the congregation, emphasizing reliance on divine strength and comfort.",
+      "keywords": ["prayer", "presence", "guidance", "trust", "encouragement"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Different Responses, Same Determination (Acts 17)",
+      "start_time": 894,
+      "type": "sermon",
+      "description": "The sermon focuses on Apostle Paul's ministry journey through different cities, highlighting the varied responses he faced. The speaker draws parallels to personal experiences of rejection and persistence, urging the audience to remain steadfast in their calling. The message emphasizes the importance of unwavering faith amidst challenges and the need for resilience, drawing from scripture to inspire listeners.",
+      "keywords": ["Paul", "ministry", "resilience", "faith", "Acts 17"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["Acts 17"]
+    },
+    {
+      "title": "Congregational Hymn: I'll Go Where You Want Me to Go",
+      "start_time": 441,
+      "type": "music",
+      "description": "The congregation participates in a heartfelt hymn expressing a commitment to follow God's direction in their lives. This song reinforces the themes of the sermon, affirming the willingness to heed divine guidance no matter the circumstances.",
+      "keywords": ["hymn", "commitment", "guidance", "God's will"],
+      "performers": [],
+      "songs": ["I'll Go Where You Want Me to Go"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Ministry Opportunities",
+      "start_time": 638,
+      "type": "announcement",
+      "description": "The service transitions into a segment highlighting various ministry opportunities within the church. This announcement encourages congregants to engage actively in church missions and outreach efforts, fostering a sense of community involvement.",
+      "keywords": ["ministry", "opportunities", "community", "engagement"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Heartbeat Video",
+      "start_time": 648,
+      "type": "music",
+      "description": "A video presentation showcases the heartbeat of the church, emphasizing current ministries focused on evangelism, encouragement, exaltation, and equipping. The hymn enhances the collective appreciation of church efforts.",
+      "keywords": ["video", "ministry", "heartbeat", "evangelism"],
+      "performers": ["Choir"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Personal Worship Experience",
+      "start_time": 725,
+      "type": "music",
+      "description": "A solo performance shares a personal worship experience, emphasizing the importance of intimacy in worship settings. The soloist's heartfelt rendition draws the congregation into a reflective space.",
+      "keywords": ["solo", "worship", "experience", "intimacy"],
+      "performers": ["Rick Vance"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Acts 17",
+      "start_time": 894,
+      "type": "scripture",
+      "description": "The congregation listens attentively as scriptures from Acts 17 are read. This reading sets the stage for the sermon, reinforcing the themes of Paul's ministry and experiences.",
+      "keywords": ["Acts", "scripture", "reading", "Paul"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Acts 17"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3416,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer. The speaker prays for strength and encouragement for the congregation, urging them to live out the truth discussed during the service in their daily lives.",
+      "keywords": ["closing", "prayer", "strength", "encouragement"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

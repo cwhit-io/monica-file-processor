@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Who is on the Lord's side?",
+      "start_time": 102,
+      "type": "music",
+      "description": "The choir leads the congregation in a powerful and uplifting rendition of 'Who is on the Lord's side?' This song serves as a call to commitment and faithfulness to God's cause. The choir's harmonies fill the church, drawing everyone into a spirit of worship.",
+      "keywords": ["choir", "worship", "music", "faith", "commitment"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Who is on the Lord's side?"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Rejoice, the Lord is King",
+      "start_time": 335,
+      "type": "music",
+      "description": "Keith and Blake deliver a lively solo performance of 'Rejoice, the Lord is King.' Their joyful energy and vocal talent uplift the congregation, reinforcing themes of hope and celebration in faith. The song encourages everyone to embrace joy in their relationship with God.",
+      "keywords": ["solo", "joy", "music", "celebration", "faith"],
+      "performers": ["Keith", "Blake"],
+      "songs": ["Rejoice, the Lord is King"],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Testimony by Bobby Richardson",
+      "start_time": 1043,
+      "type": "interview",
+      "description": "Bobby Richardson shares his personal journey to faith. As a former New York Yankee, he recounts how his encounter with Christ transformed his life, emphasizing the importance of having a personal relationship with Jesus. His testimony serves as an inspiration to many.",
+      "keywords": ["Bobby Richardson", "faith", "testimony", "sports", "transformation"],
+      "performers": ["Bobby Richardson"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Do you believe in my Jesus?",
+      "start_time": 1423,
+      "type": "music",
+      "description": "The Black Hawk Singers perform a poignant piece titled 'Do you believe in my Jesus?' This song explores themes of faith and belief, inviting listeners to reflect on their relationship with Christ. The heartfelt performance resonates deeply with the congregation.",
+      "keywords": ["choir", "faith", "Jesus", "music", "belief"],
+      "performers": ["Black Hawk Singers"],
+      "songs": ["Do you believe in my Jesus?"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Promise for Soul Winners (Psalm 126)",
+      "start_time": 1698,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers a profound message centered on Psalm 126, exploring the promise God gives to soul winners. He emphasizes the joy of sharing the gospel, the necessity of compassion for the lost, and the transformative power of God's word. The sermon encourages the church to actively engage in evangelism, reminding congregants of their individual responsibility in spreading the gospel.",
+      "keywords": ["sermon", "soul winners", "gospel", "David Jeremiah", "Psalm 126"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Psalm 126"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2904,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer, asking God to empower the congregation to live out the teachings shared during the service. The prayer seeks guidance and strength for each individual to be a light in their communities.",
+      "keywords": ["prayer", "closing", "worship", "community", "guidance"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

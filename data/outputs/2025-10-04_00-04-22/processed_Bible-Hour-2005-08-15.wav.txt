@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "scripture: Great Commission (Matthew 28:18-20)",
+      "start_time": 30,
+      "type": "scripture",
+      "description": "The service begins with the reading of the Great Commission, where Jesus instructs His followers to make disciples of all nations. This passage emphasizes the authority of Christ and serves as a foundational call to outreach and evangelism. The congregation is reminded of the assurance that Jesus will be with them always.",
+      "keywords": ["Jesus", "authority", "disciples", "mission", "Great Commission"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 28:18-20"]
+    },
+    {
+      "title": "interview: Pastor Jim Pearson",
+      "start_time": 101,
+      "type": "interview",
+      "description": "Steve interviews Pastor Jim Pearson, who shares insights about Brookside Community Church and its recent developments. Jim highlights the focus on various worship styles to cater to different congregants and discusses exciting building projects aimed at enhancing children’s ministry. He also expresses the church's commitment to community engagement.",
+      "keywords": ["interview", "Brookside", "pastor", "worship", "community"],
+      "performers": ["Steve", "Jim Pearson"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Importance of Worship Services",
+      "start_time": 494,
+      "type": "testimony",
+      "description": "A testimony begins focusing on the power of worship in the church community. The speaker reflects on personal experiences and the encouragement derived from corporate worship. It underscores the significance of connecting with God collectively and how it fuels individual spiritual journeys.",
+      "keywords": ["worship", "community", "spirituality", "encouragement", "testimony"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: More Than Just Enough",
+      "start_time": 494,
+      "type": "music",
+      "description": "A solo performance of 'More Than Just Enough' encapsulates themes of love and reassurance from God. The song speaks to the struggles and loneliness people can feel, emphasizing that God is always present, providing strength and love. It's a beautiful reminder of divine support during tough times.",
+      "keywords": ["God", "love", "support", "strength", "song"],
+      "performers": ["Unknown"],
+      "songs": ["More Than Just Enough"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Living a Life of Worship",
+      "start_time": 766,
+      "type": "sermon",
+      "description": "The sermon delves into the idea of living a life of worship, drawing from Romans 12. The speaker emphasizes that worship extends beyond just the church service and should permeate every aspect of life. Core themes include exaltation, evangelism, community, equipping, and stewardship, providing a roadmap for spiritual growth.",
+      "keywords": ["worship", "evangelism", "community", "Romans", "spiritual growth"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["Romans 12"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3516,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer. The pastor expresses gratitude for the church community and asks for God's guidance as they strive to live out the truths discussed during the sermon. The prayer focuses on empowering the congregation to grow in faith and reach out to others.",
+      "keywords": ["closing", "prayer", "community", "guidance", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

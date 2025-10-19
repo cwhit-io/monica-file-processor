@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Medley of Hymns",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir presents a heartfelt medley of hymns that reflect on our relationship with God and each other. These songs emphasize the desire for unity and growth in Christ, ultimately culminating in a recognition of the sovereignty of Jesus. This segment sets a worshipful tone for the service.",
+      "keywords": ["hymns", "relationship", "unity", "Jesus", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Medley of Hymns"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Find Us Together",
+      "start_time": 234,
+      "type": "music",
+      "description": "The choir sings 'Find Us Together,' a song that calls for unity and connection among believers. The lyrics express a longing for God to bind our hearts and strengthen our bonds as a community of faith. The performance encourages congregational involvement and worship.",
+      "keywords": ["unity", "worship", "choir", "Jesus"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Find Us Together"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1866,
+      "type": "prayer",
+      "description": "In the opening prayer, the pastor thanks God for the congregation's presence and seeks divine guidance throughout the service. The prayer highlights gratitude for physical blessings and the mission of the church, while also lifting up those in need, creating a spirit of togetherness.",
+      "keywords": ["gratitude", "guidance", "community", "prayer"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Matthew 6",
+      "start_time": 1913,
+      "type": "scripture",
+      "description": "The congregation is led in a reading from Matthew chapter 6, focusing on the teachings of Jesus about worry and the priorities of life. This scripture serves as the foundation for the sermon, emphasizing trust in God over material concerns.",
+      "keywords": ["Matthew", "teachings", "Jesus", "worry"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 6"]
+    },
+    {
+      "title": "Message: Stop Worrying About Financial Concerns (Matthew 6:25-34)",
+      "start_time": 1956,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a sermon on not worrying about material needs, drawing on Jesus' teachings from Matthew 6. He discusses the futility of worrying and encourages the congregation to prioritize the kingdom of God. The message conveys that true security comes from faith in God rather than possessions.",
+      "keywords": ["sermon", "worry", "faith", "Jesus", "kingdom"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Matthew 6:25-34"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3450,
+      "type": "prayer",
+      "description": "In the closing prayer, the pastor reflects on the message, asking for God's guidance in applying the principles taught. This prayer serves as a heartfelt conclusion to the service, reinforcing themes of faith, community, and God’s provision.",
+      "keywords": ["closing", "prayer", "God", "faith"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Church Activities and Celebrations",
+      "start_time": 1552,
+      "type": "announcement",
+      "description": "The pastor shares updates on church activities, including the recent accreditation of the church school and upcoming events. These announcements foster a sense of community and encourage participation in both spiritual and extracurricular activities.",
+      "keywords": ["church", "school", "accreditation", "celebration"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

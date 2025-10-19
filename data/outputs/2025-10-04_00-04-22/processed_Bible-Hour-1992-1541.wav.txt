@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Something Great",
+      "start_time": 117,
+      "type": "music",
+      "description": "The Sanctuary Choir and orchestra deliver a vibrant performance of 'Something Great.' The lyrics convey a deep appreciation for walking with Jesus and the blessings that come from Him. This uplifting piece sets the tone for the service.",
+      "keywords": ["choir", "something great", "Jesus", "blessing", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Something Great"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Immortal Invisible",
+      "start_time": 306,
+      "type": "music",
+      "description": "A beautiful solo performance of 'Immortal Invisible' captures the majesty and holiness of God. The song highlights themes of worship and reverence, inviting the congregation into a deeper understanding of God's greatness.",
+      "keywords": ["solo", "immortal invisible", "worship", "God", "majesty"],
+      "performers": ["Susan Toyrax"],
+      "songs": ["Immortal Invisible"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: He Is Able",
+      "start_time": 902,
+      "type": "music",
+      "description": "Lisa Renaker performs 'He Is Able,' expressing themes of faith and trust in God despite challenges. The heartfelt lyrics and soothing melody encourage the congregation to rely on God's strength.",
+      "keywords": ["solo", "he is able", "faith", "strength", "God"],
+      "performers": ["Lisa Renaker"],
+      "songs": ["He Is Able"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Timothy 3",
+      "start_time": 1156,
+      "type": "scripture",
+      "description": "The selected scripture passage from 1 Timothy 3 outlines the qualifications for church leaders. This reading emphasizes character over charisma, highlighting the importance of integrity and faithfulness in leadership roles.",
+      "keywords": ["scripture", "1 Timothy", "leadership", "qualifications", "church"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Timothy 3"]
+    },
+    {
+      "title": "Message: Qualifications for Elders (1 Timothy 3)",
+      "start_time": 1172,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a comprehensive teaching on the qualifications for elders as outlined in 1 Timothy 3. The sermon emphasizes the importance of godly character, the ability to teach, and maintaining a good reputation inside and outside the church. It calls for leaders to be above reproach, nurturing spiritual growth in their communities.",
+      "keywords": ["sermon", "qualifications", "elders", "1 Timothy", "godliness", "teaching"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 3:1-7"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3421,
+      "type": "prayer",
+      "description": "An opening prayer led by Pastor Russell Moore invites God's presence into the service. The prayer emphasizes reliance on God for guidance and understanding throughout the worship experience.",
+      "keywords": ["prayer", "opening", "guidance", "worship", "service"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3506,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, reaffirming the key messages shared and asking for God’s blessings on the congregation as they move forward. It serves as a heartfelt conclusion, reminding attendees to carry the teachings into their daily lives.",
+      "keywords": ["prayer", "closing", "blessings", "service", "worship"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

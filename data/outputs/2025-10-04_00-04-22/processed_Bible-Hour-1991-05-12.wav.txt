@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Great and Marvelous",
+      "start_time": 164,
+      "type": "music",
+      "description": "The Men's Chorus performs 'Great and Marvelous,' bringing a vibrant start to the service. The choir's harmonies fill the sanctuary, inviting the congregation into a space of worship and reflection. This song emphasizes the magnificence of God, setting the tone for the rest of the service.",
+      "keywords": ["men's chorus", "worship", "greatness", "marvelous", "praise"],
+      "performers": ["Men's Chorus"],
+      "songs": ["Great and Marvelous"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Great is Thy Faithfulness",
+      "start_time": 392,
+      "type": "music",
+      "description": "The congregation joins in singing hymn number 43, 'Great is Thy Faithfulness.' This hymn uplifts spirits as attendees vocalize gratitude for God's unwavering faithfulness. Its familiar melody and heartfelt lyrics encourage communal worship and reflection on God’s blessings.",
+      "keywords": ["hymn", "congregational", "worship", "faithfulness", "gratitude"],
+      "performers": [],
+      "songs": ["Great is Thy Faithfulness"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Celebration",
+      "start_time": 434,
+      "type": "music",
+      "description": "Following the hymn, the musical group Celebration performs a contemporary piece, offering a fresh expression of worship. Their style resonates with the congregation, blending modern sounds with timeless truths about God's love and grace. This segment showcases the diverse ways the church celebrates faith.",
+      "keywords": ["celebration", "worship", "music", "contemporary", "grace"],
+      "performers": ["Celebration"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown]",
+      "start_time": 741,
+      "type": "music",
+      "description": "A solo performance fills the room with a poignant melody that resonates with many in attendance. The artist's emotional delivery and the song's message deeply connect with the congregation, facilitating moments of personal reflection and prayer.",
+      "keywords": ["solo", "emotion", "reflection", "worship", "music"],
+      "performers": ["Lisa Reniker"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Trusting God in the Impossible (Joshua 1)",
+      "start_time": 1689,
+      "type": "sermon",
+      "description": "Dr. David Miller delivers a powerful message on faith in the face of impossible challenges, drawing from Joshua 1. He shares personal stories and biblical examples that illustrate God's ability to work miracles when believers trust Him. The sermon encourages the congregation to remember God's past faithfulness and apply those lessons to their lives.",
+      "keywords": ["faith", "impossible", "trust", "Joshua", "God's promises"],
+      "performers": ["Dr. David Miller"],
+      "songs": [],
+      "scripture_references": ["Joshua 1"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3495,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer, inviting the congregation to reflect on the teachings of the day. The prayer emphasizes trust in God’s plans and seeks blessings for all attendees as they depart to live out their faith in daily life.",
+      "keywords": ["prayer", "closing", "blessing", "reflection", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

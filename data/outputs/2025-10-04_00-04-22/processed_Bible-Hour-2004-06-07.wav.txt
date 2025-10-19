@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 60,
+      "type": "music",
+      "description": "The service begins with uplifting upbeat music that sets the tone for worship. It invites the congregation to engage in a spirit of praise and thanksgiving. This vibrant opening prepares hearts for the messages to come.",
+      "keywords": ["music", "worship", "uplifting", "praise", "thanksgiving"],
+      "performers": ["Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Team Introduction",
+      "start_time": 91,
+      "type": "interview",
+      "description": "Pastor Kelly Bird presents an introduction of the church leadership team, including Worship Pastor Corbin Miller and Visual Arts Coordinator Beth Armstrong. They discuss the importance of their roles in supporting the worship experience through music and visual arts.",
+      "keywords": ["Kelly Bird", "Corbin Miller", "Beth Armstrong", "leadership", "worship"],
+      "performers": ["Kelly Bird", "Corbin Miller", "Beth Armstrong"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [New Song Preview]",
+      "start_time": 546,
+      "type": "music",
+      "description": "The choir presents a new song that has been developed as a response to the teachings on bringing one's best to God. This musical offering serves as a powerful expression of worship and creative expression within the service.",
+      "keywords": ["choir", "song", "worship", "music", "creative expression"],
+      "performers": ["Choir"],
+      "songs": ["[New Song Preview]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: God's Design for Marriage (Ephesians 5)",
+      "start_time": 608,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird begins a sermon series on God's design for marriage and family, discussing the roles of husbands and wives as per Ephesians 5. He emphasizes the importance of sacrificial love and submission within God-honoring relationships, while also addressing cultural misconceptions about marriage.",
+      "keywords": ["marriage", "Ephesians", "sacrificial love", "submission", "family"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Ephesians 5"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3673,
+      "type": "prayer",
+      "description": "The service transitions into an opening prayer led by Pastor Kelly Bird. This moment invites attendees to focus their hearts and minds on God's presence, seeking His guidance and blessing over the service.",
+      "keywords": ["prayer", "worship", "focus", "guidance", "blessing"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Genesis 2",
+      "start_time": 1360,
+      "type": "scripture",
+      "description": "A reading from Genesis chapter 2 is shared, highlighting God's creation of man and woman, emphasizing the divine design for partnership in marriage. This reading underpins the message of the sermon on God's intentions for relationships.",
+      "keywords": ["Genesis", "creation", "marriage", "partnership", "scripture"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Genesis 2:15-18"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3541,
+      "type": "prayer",
+      "description": "Pastor Kelly Bird concludes the service with a closing prayer, thanking God for His word and the insights shared about marriage. He prays for the congregation to embrace and live out God's design in their relationships.",
+      "keywords": ["closing prayer", "gratitude", "God's word", "insight", "relationships"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Great is Thy Faithfulness",
+      "start_time": 125,
+      "type": "music",
+      "description": "The Men's Choir leads the congregation in a heartfelt rendition of 'Great is Thy Faithfulness'. The atmosphere is filled with worship as the choir delivers this classic hymn with sincerity and reverence, reminding everyone of God's unwavering faithfulness.",
+      "keywords": ["choir", "worship", "faithfulness", "hymn", "music"],
+      "performers": ["Men's Choir"],
+      "songs": ["Great is Thy Faithfulness"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unidentified Song]",
+      "start_time": 494,
+      "type": "music",
+      "description": "Susan Toyrack offers a beautiful solo performance that invites the congregation to reflect and open their hearts. The gentle piano accompaniment adds depth to the emotional experience of the song, creating a moment of worship and introspection.",
+      "keywords": ["solo", "worship", "music", "reflection"],
+      "performers": ["Susan Toyrack"],
+      "songs": ["[Unidentified Song]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unidentified Song]",
+      "start_time": 1136,
+      "type": "music",
+      "description": "Kevin Rowe engages the audience with a dynamic solo performance, contributing to the worship atmosphere. His choice of song resonates with the themes of the service, encouraging the congregation to connect with the message.",
+      "keywords": ["solo", "worship", "music", "Kevin Rowe"],
+      "performers": ["Kevin Rowe"],
+      "songs": ["[Unidentified Song]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Hymn Number 256]",
+      "start_time": 1463,
+      "type": "music",
+      "description": "The congregation lifts their voices in unison as they sing a classic hymn, creating a powerful moment of collective worship. The hymn encourages gratitude and reflection among the members as they join together in faith.",
+      "keywords": ["congregation", "hymn", "worship", "music"],
+      "performers": [],
+      "songs": ["[Hymn Number 256]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 60,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer that sets the tone for the worship hour. The prayer invites God's presence, asking for His guidance and blessing on the service, the congregation, and the message ahead.",
+      "keywords": ["prayer", "opening", "worship", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Leaving a Legacy (2 Timothy 4:6-8)",
+      "start_time": 2001,
+      "type": "sermon",
+      "description": "Dr. Donald Gary shares a compelling message on leaving a legacy based on Paul’s reflections in 2 Timothy 4:6-8. He discusses the importance of choosing one's purpose wisely, investing energy efficiently, and following the truth carefully to ensure a meaningful impact on future generations.",
+      "keywords": ["legacy", "purpose", "sermon", "faith", "Paul"],
+      "performers": ["Dr. Donald Gary"],
+      "songs": [],
+      "scripture_references": ["2 Timothy 4:6-8"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3483,
+      "type": "prayer",
+      "description": "During the service, an invitation prayer is offered, encouraging attendees to reflect on their relationship with Christ. This moment aims to guide individuals through a decision to trust Christ or renew their commitment to Him.",
+      "keywords": ["prayer", "invitation", "faith", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "[Unidentified Ensemble Performance]",
+      "start_time": 3472,
+      "type": "music",
+      "description": "The service concludes with an uplifting performance from the men's chorus, providing a fitting end to the worship experience. Their music highlights the themes of the day, bringing joy and a sense of community among the congregation.",
+      "keywords": ["music", "ensemble", "worship", "conclusion"],
+      "performers": ["Men's Chorus"],
+      "songs": ["[Unidentified Ensemble Performance]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

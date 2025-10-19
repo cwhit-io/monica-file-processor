@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Blessed Assurance",
+      "start_time": 78,
+      "type": "music",
+      "description": "The choir performs 'Blessed Assurance,' a comforting hymn that emphasizes the peace found in faith and the assurance of salvation through Jesus. The lyrics reflect themes of hope and freedom, reminding the congregation of God's love and truth. This musical offering sets a heartfelt tone for the service.",
+      "keywords": ["hymn", "faith", "salvation", "blessed assurance", "hope"],
+      "performers": ["Choir"],
+      "songs": ["Blessed Assurance"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: God is Greater",
+      "start_time": 523,
+      "type": "music",
+      "description": "The choir presents the song 'God is Greater,' which highlights God's omnipotence and love. The repetitive calling of God as Savior emphasizes a personal relationship with the divine. This uplifting performance encourages the congregation to trust in God through life's challenges.",
+      "keywords": ["God", "greater", "Savior", "worship", "music"],
+      "performers": ["Choir"],
+      "songs": ["God is Greater"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Advice to the Rich (1 Timothy 6:17-19)",
+      "start_time": 941,
+      "type": "sermon",
+      "description": "In this sermon, Pastor Moore elaborates on the Apostle Paul’s instructions to the rich, focusing on the pitfalls of wealth and the proper use of money. Central themes include humility, generosity, and the dangers of placing trust in riches instead of in God. The message encourages a reflective approach to personal finances in light of scriptural wisdom.",
+      "keywords": ["wealth", "1 Timothy", "rich", "generosity", "humility"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 6:17-19"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3436,
+      "type": "prayer",
+      "description": "Pastor Moore leads an invitation prayer, inviting those who have made a decision for Christ to open their hearts to God's forgiveness and guidance. This moment serves as a heartfelt call to spiritual renewal and commitment to faith. The prayer encapsulates the essence of seeking divine grace in one's life.",
+      "keywords": ["invitation", "prayer", "forgiveness", "commitment", "faith"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Go into the World",
+      "start_time": 695,
+      "type": "music",
+      "description": "The choir performs 'Go into the World,' an energetic and encouraging song that commissions the congregation to spread love and faith beyond the church's walls. The lyrics reflect a sense of urgency and mission, inspiring attendees to take action in their communities.",
+      "keywords": ["mission", "love", "community", "worship", "sending"],
+      "performers": ["Choir"],
+      "songs": ["Go into the World"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3485,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, where Pastor Moore thanks God for the message shared and asks for guidance for the congregation in the week ahead. This prayer emphasizes community, gratitude, and reliance on God as they move forward in faith.",
+      "keywords": ["closing", "prayer", "gratitude", "guidance", "faith"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

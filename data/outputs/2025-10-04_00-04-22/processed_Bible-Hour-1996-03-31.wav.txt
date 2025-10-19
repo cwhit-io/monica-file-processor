@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Music Segment]",
+      "start_time": 88,
+      "type": "music",
+      "description": "The choir performs a powerful selection of hymns that uplift the congregation. The music creates a worshipful atmosphere, setting the tone for the service. Voices blend harmoniously, engaging the audience in reflection and praise.",
+      "keywords": ["choir", "music", "hymns", "worship", "praise"],
+      "performers": ["Black Hawk Baptist Choir"],
+      "songs": ["[Music Segment]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Truth-Telling and the Kingdom of Heaven (Matthew 5)",
+      "start_time": 1281,
+      "type": "sermon",
+      "description": "The sermon delves into the theme of honesty as essential for entering the Kingdom of Heaven. The speaker shares personal experiences and biblical insights, emphasizing the difficulty of truthfulness and the human tendency to lower God's standards. The message ultimately invites the congregation to seek forgiveness through Christ and recognize their need for grace.",
+      "keywords": ["truth", "honesty", "heaven", "forgiveness", "grace"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": ["Matthew 5"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3524,
+      "type": "prayer",
+      "description": "The pastor leads the congregation in an opening prayer, asking for guidance and grace throughout the service. This moment of prayer sets a reflective tone, inviting participants to focus on their relationship with God and prepare their hearts for worship and teaching.",
+      "keywords": ["prayer", "guidance", "worship", "reflection", "community"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Music Segment]",
+      "start_time": 3533,
+      "type": "music",
+      "description": "A solo performance captures the essence of worship through its poignant lyrics and melody. The singer's heartfelt rendition resonates with the congregation, prompting personal reflection and deeper engagement in the worship experience.",
+      "keywords": ["solo", "worship", "music", "reflection", "praise"],
+      "performers": ["[Solo Artist]"],
+      "songs": ["[Music Segment]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3541,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by the pastor, encapsulating the themes of the sermon and asking for God's presence as attendees leave. This prayer reinforces the message of the day and encourages the congregation to live out the teachings received.",
+      "keywords": ["prayer", "closing", "community", "reflection", "blessing"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Service Wrap-Up",
+      "start_time": 3550,
+      "type": "announcement",
+      "description": "During the wrap-up, announcements are made regarding upcoming events and opportunities for the congregation to engage further with the ministry. The focus is on encouraging participation and support for church initiatives.",
+      "keywords": ["announcements", "community", "engagement", "ministry", "events"],
+      "performers": ["Craig Volker"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

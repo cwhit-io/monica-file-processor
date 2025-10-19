@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Grace Medley",
+      "start_time": 267,
+      "type": "music",
+      "description": "The choir performs a medley of songs celebrating the grace of the Lord Jesus Christ. The uplifting music is designed to remind the congregation of the power and importance of grace in their lives. The performance showcases the talent of the choir, accompanied by Scott Schindler, creating an atmosphere of worship and reflection.",
+      "keywords": ["grace", "choir", "medley", "worship", "music"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Grace Medley"],
+      "scripture_references": []
+    },
+    {
+      "title": "Celebration: [Song Title]",
+      "start_time": 786,
+      "type": "music",
+      "description": "Celebration performs a selection of songs that encourage the audience to lift their voices in praise and adoration. The powerful lyrics express joy and gratitude, creating a worshipful environment. This segment fosters a sense of community as everyone comes together to celebrate their faith through music.",
+      "keywords": ["celebration", "praise", "joy", "music", "worship"],
+      "performers": ["Celebration"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1523,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer recognizes God's sovereignty and asks for His presence and guidance throughout the service. The worshippers collectively seek spiritual renewal and strength while acknowledging their need for divine assistance in their daily lives. This prayer sets the tone for a reflective and worshipful service.",
+      "keywords": ["prayer", "worship", "God", "community", "spiritual"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: A Nation in Crisis (Psalm 139)",
+      "start_time": 1627,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks addresses the pressing issue of abortion in America, emphasizing its moral implications and the high number of lives lost. He refers to various biblical passages to reinforce the idea that life begins at conception. Hawks encourages the congregation to understand their responsibility as 'watchmen' and to take action for change while offering words of forgiveness for those affected by abortion.",
+      "keywords": ["abortion", "crisis", "life", "responsibility", "forgiveness"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Psalm 139:13-16", "Job 31:15", "Ezekiel 33:1-9"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3555,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, where individuals are invited to reflect on the messages shared during the service. The prayer offers thanksgiving for God's love and grace and encourages those who have made spiritual decisions. It serves as a moment of commitment and a call to action for the congregation.",
+      "keywords": ["closing", "prayer", "thanksgiving", "commitment", "spiritual"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

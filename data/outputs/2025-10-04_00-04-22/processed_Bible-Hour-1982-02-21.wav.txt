@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Great Hymn",
+      "start_time": 167,
+      "type": "music",
+      "description": "The choir leads the congregation in a powerful hymn under the direction of Mr. Don Kruger. The song serves as a communal expression of worship, drawing the congregation together in praise. Participants are encouraged to join in singing during this uplifting time.",
+      "keywords": ["choir", "hymn", "worship", "praise", "musicians"],
+      "performers": ["Don Kruger"],
+      "songs": ["Guide Me, O Thou Great Jehovah"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Testimonial Song",
+      "start_time": 413,
+      "type": "music",
+      "description": "Marlene Nichols performs a heartfelt solo that communicates her personal testimony and the transformative power of her faith in Christ. The song is designed to inspire and uplift the congregation, sharing the worth found in trusting Jesus.",
+      "keywords": ["Marlene Nichols", "testimony", "faith", "worship"],
+      "performers": ["Marlene Nichols"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Men Singers: Where Can I Go But to the Lord?",
+      "start_time": 1211,
+      "type": "music",
+      "description": "The men's singing group performs a lively song that emphasizes the importance of turning to Christ during times of need. This performance showcases the group's vocal talent and encourages the audience to seek solace in their faith.",
+      "keywords": ["men's singers", "Jesus", "worship", "music"],
+      "performers": ["Men Singers"],
+      "songs": ["Where Can I Go but to the Lord?"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Goals for Your Life (Philippians 3)",
+      "start_time": 1419,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a powerful sermon focusing on God's goals for your life based on Philippians 3. He emphasizes the importance of having spiritual goals, the motivation required to pursue them, and how to live a life that reflects these goals. The message encourages self-examination and personal commitment to spiritual growth.",
+      "keywords": ["Rick Hawks", "Philippians", "goals", "spiritual growth", "faith"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Philippians 3:10-14"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3488,
+      "type": "prayer",
+      "description": "Pastor Rick Hawks leads the congregation in an invitation prayer, encouraging attendees to reflect on their relationship with Jesus Christ. He prompts them to consider their spiritual journey and take steps towards faith and spiritual alignment.",
+      "keywords": ["prayer", "invitation", "reflection"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Bible Hour Outreach",
+      "start_time": 3506,
+      "type": "announcement",
+      "description": "An announcement is made regarding the outreach efforts of the Bible Hour and an invitation for viewers to engage with the ministry. The message emphasizes the importance of fellowship and support within the Christian community.",
+      "keywords": ["Bible Hour", "outreach", "community", "support"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

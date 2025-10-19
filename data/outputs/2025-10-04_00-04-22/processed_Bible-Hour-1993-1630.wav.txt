@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Can It Be",
+      "start_time": 100,
+      "type": "music",
+      "description": "The choir performs a stirring rendition of 'Can It Be,' exploring themes of grace and the love of the Savior. The congregation is engaged, reflecting on the lyrics that emphasize the personal connection with God. It sets a worshipful tone for the service.",
+      "keywords": ["choir", "grace", "Savior", "worship", "love"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Can It Be"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: When I Enter the Gates",
+      "start_time": 527,
+      "type": "music",
+      "description": "A soloist beautifully sings 'When I Enter the Gates,' taking the congregation on a journey through heavenly imagery and a yearning to see Jesus. This performance draws the audience deeper into a worshipful mindset, anticipating the message to come.",
+      "keywords": ["solo", "worship", "heaven", "Jesus", "spiritual"],
+      "performers": ["Read LaFavor"],
+      "songs": ["When I Enter the Gates"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Money Matters (Philippians 2)",
+      "start_time": 803,
+      "type": "sermon",
+      "description": "Pastor Moore presents a thoughtful sermon on financial stewardship based on biblical principles. He emphasizes God's ownership of everything and encourages the congregation to view giving as an investment in God's kingdom rather than a financial burden. Practical applications help listeners align their financial practices with their faith.",
+      "keywords": ["money", "stewardship", "giving", "financial plan", "faith"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Philippians 2"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3420,
+      "type": "prayer",
+      "description": "A heartfelt invitation prayer led by the pastor invites those who have made decisions for Christ to connect with the church. The prayer underscores the significance of personal commitment and the assurance of God's grace in their lives.",
+      "keywords": ["prayer", "invitation", "commitment", "grace", "community"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Weekly Schedule",
+      "start_time": 3530,
+      "type": "announcement",
+      "description": "Announcements are made regarding the weekly schedule of events and gatherings for the congregation. This section emphasizes the importance of community and participation in church life, encouraging everyone to get involved.",
+      "keywords": ["announcements", "community", "events", "gatherings", "participation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Glorify the Son of God",
+      "start_time": 629,
+      "type": "music",
+      "description": "The congregation joins together to sing a powerful hymn, 'Glorify the Son of God.' This moving worship moment enhances the spirit of unity within the church as members express joy and reverence through song.",
+      "keywords": ["hymn", "congregational", "worship", "unity", "joy"],
+      "performers": [],
+      "songs": ["Glorify the Son of God"],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Giving Stories",
+      "start_time": 1024,
+      "type": "testimony",
+      "description": "Members of the congregation share personal testimonies about their experiences with giving and how it has impacted their lives. These stories illustrate the transformative power of faith and generosity, inspiring others to follow suit.",
+      "keywords": ["testimony", "giving", "impact", "faith", "generosity"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

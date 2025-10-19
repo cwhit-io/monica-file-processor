@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Something Great",
+      "start_time": 273,
+      "type": "music",
+      "description": "The church choir performed the uplifting song titled 'Something Great,' celebrating God's goodness and blessings. This energetic piece encourages the congregation to anticipate God's blessings in their lives, infusing the service with joy and enthusiasm.",
+      "keywords": ["choir", "song", "joy", "goodness", "blessing"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Something Great"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: To God Be the Glory",
+      "start_time": 457,
+      "type": "music",
+      "description": "The congregation joined in singing 'To God Be the Glory,' expressing gratitude for God's great deeds and the salvation He has provided. This beloved hymn filled the sanctuary with voices lifted in worship, creating a warm atmosphere of praise.",
+      "keywords": ["hymn", "praise", "worship", "congregation", "salvation"],
+      "performers": [],
+      "songs": ["To God Be the Glory"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Christ the Lord is Risen Today",
+      "start_time": 666,
+      "type": "music",
+      "description": "The choir delivered a powerful rendition of 'Christ the Lord is Risen Today,' celebrating the resurrection of Jesus Christ. This song brought hope and joy resonating throughout the church, reminding the congregation of the central message of Easter.",
+      "keywords": ["choir", "resurrection", "Easter", "celebration", "hope"],
+      "performers": ["Celebration Choir"],
+      "songs": ["Christ the Lord is Risen Today"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 846,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer was offered, seeking God's presence and blessing upon the service and the congregation. The leader invited everyone to prepare their hearts for worship and for receiving the Word.",
+      "keywords": ["prayer", "opening", "worship", "God's blessing", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Integrity with Finances (1 Corinthians 16)",
+      "start_time": 1679,
+      "type": "sermon",
+      "description": "Pastor Rick Hoffs addressed the topic of 'Integrity with Finances,' focusing on biblical principles for church financing as outlined in 1 Corinthians 16. He emphasized the importance of regular and responsible giving to support the church's mission and maintain financial integrity. The sermon included personal anecdotes and scriptural references to highlight the need for faithful stewardship in the Christian life.",
+      "keywords": ["finances", "stewardship", "integrity", "church", "1 Corinthians"],
+      "performers": ["Pastor Rick Hoffs"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 16"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3580,
+      "type": "prayer",
+      "description": "An invitation prayer was offered at the conclusion of the sermon, encouraging individuals to respond to God’s call. The pastor prayed for those considering a decision for Christ, inviting them to embrace faith and trust in Him.",
+      "keywords": ["invitation", "prayer", "decision", "faith", "trust"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown Title]",
+      "start_time": 3600,
+      "type": "music",
+      "description": "A solo performance took place, delivering a moving piece that enhanced the spiritual atmosphere of the service. This special music was an opportunity for personal reflection, allowing the congregation to meditate on its message.",
+      "keywords": ["solo", "music", "performance", "reflection", "meditation"],
+      "performers": ["Kevin Rowe"],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3638,
+      "type": "prayer",
+      "description": "The service concluded with a closing prayer, expressing gratitude for the gathered community and the messages shared. The prayer emphasized encouragement and God's continued guidance in the lives of the congregation.",
+      "keywords": ["closing", "prayer", "gratitude", "community", "blessing"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

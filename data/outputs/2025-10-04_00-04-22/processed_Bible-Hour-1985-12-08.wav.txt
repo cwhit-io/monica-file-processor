@@ -1,0 +1,96 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 19,
+      "type": "prayer",
+      "description": "Pastor George Lattman leads the congregation in an opening prayer, reflecting on the message of Jesus and the hope that comes with the Christmas season. The prayer highlights God's welcoming nature and the assurance of rest in Christ during the busy holiday times.",
+      "keywords": ["prayer", "Jesus", "Christmas", "hope", "rest"],
+      "performers": ["George Lattman"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: How Great Thou Art",
+      "start_time": 0,
+      "type": "music",
+      "description": "The congregation stands and sings the classic hymn 'How Great Thou Art,' celebrating the majesty and greatness of God. The powerful lyrics resonate with the participants, creating a communal atmosphere of worship and reflection.",
+      "keywords": ["hymn", "worship", "God", "majesty", "singing"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["How Great Thou Art"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Cling to the Old Rugged Cross",
+      "start_time": 465,
+      "type": "music",
+      "description": "The choir performs a musical piece centered around the theme of the old rugged cross, signifying the sacrifice of Jesus and the forgiveness offered to believers. The lyrics convey deep emotions of gratitude and reverence.",
+      "keywords": ["cross", "forgiveness", "sacrifice", "Jesus", "choir"],
+      "performers": ["Sound Investment"],
+      "songs": ["Cling to the Old Rugged Cross"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Emmanuel",
+      "start_time": 1205,
+      "type": "music",
+      "description": "The choir sings 'Emmanuel,' a song exalting the nature and titles of Christ, emphasizing His role as the Prince of Peace and Mighty God. The music is uplifting, encouraging the congregation to reflect on the attributes of God.",
+      "keywords": ["Emmanuel", "Jesus", "peace", "worship", "choir"],
+      "performers": ["Sound Investment"],
+      "songs": ["Emmanuel"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Biblical Teachings on Homosexuality (1 Corinthians 6:9-11)",
+      "start_time": 1654,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a thorough teaching on the topic of homosexuality, exploring scripture from 1 Corinthians. He emphasizes that while it is classified as sin, it is equally forgivable, drawing on God's grace and the possibility of change for individuals seeking redemption.",
+      "keywords": ["sermon", "homosexuality", "sin", "forgiveness", "grace"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 6:9-11"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3516,
+      "type": "prayer",
+      "description": "Pastor Rick Hawks leads an invitation prayer, encouraging individuals to open their hearts to Jesus and seek forgiveness. This moment is reflective and personal, inviting attendees to respond to the message shared during the sermon.",
+      "keywords": ["invitation", "prayer", "forgiveness", "Jesus", "respond"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Special Music",
+      "start_time": 3516,
+      "type": "music",
+      "description": "The choir presents special music, showcasing their talent and bringing the congregation together in worship. This segment aims to uplift the spirit and reinforce the themes of faith and community.",
+      "keywords": ["music", "worship", "choir", "faith", "community"],
+      "performers": ["Sound Investment"],
+      "songs": ["TBA"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Community News",
+      "start_time": 708,
+      "type": "announcement",
+      "description": "Pastor Rick Hawks shares various announcements regarding upcoming church events and activities. This segment serves to keep the congregation informed and engaged in community activities, such as the Living Christmas Tree performance.",
+      "keywords": ["announcement", "community", "church events", "Christmas Tree", "engagement"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3621,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Rick Hawks, thanking God for the worship experience and asking for His guidance and presence in the lives of the congregation as they depart.",
+      "keywords": ["closing prayer", "God", "worship", "community", "guidance"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

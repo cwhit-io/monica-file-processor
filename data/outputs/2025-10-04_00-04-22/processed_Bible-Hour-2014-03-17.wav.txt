@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unknown]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with uplifting music, setting a tone of praise and worship. The choir invites the congregation to prepare their hearts for the service through song. This musical opening encourages everyone to join in collective worship.",
+      "keywords": ["worship", "choir", "praise", "music", "community"],
+      "performers": ["Choir"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Celebrate Recovery",
+      "start_time": 30,
+      "type": "announcement",
+      "description": "The host discusses the importance of Celebrate Recovery, a ministry that offers hope and healing for those struggling with life challenges and sin. Lonnie Heck shares personal insights into how this program helps individuals find freedom through Christ.",
+      "keywords": ["Celebrate Recovery", "Lonnie Heck", "hope", "healing", "sin"],
+      "performers": ["Lonnie Heck"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Unknown]",
+      "start_time": 295,
+      "type": "music",
+      "description": "The congregation is led in a heartwarming hymn that focuses on God's grace and worship. This segment emphasizes the collective act of praising God through song, inviting community participation in the joyous expression of faith.",
+      "keywords": ["hymn", "grace", "praise", "worship", "community"],
+      "performers": ["Unknown"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [This is the Air I Breathe]",
+      "start_time": 424,
+      "type": "music",
+      "description": "The congregation sings 'This is the Air I Breathe', a contemporary worship song that emphasizes reliance on God's presence. The lyrics express a deep longing for spiritual connection, embodying the theme of dependence on God's guidance and support.",
+      "keywords": ["worship", "air", "breathe", "presence", "congregational"],
+      "performers": ["Unknown"],
+      "songs": ["This is the Air I Breathe"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Bringing Glory to God (1 Chronicles 16)",
+      "start_time": 1444,
+      "type": "sermon",
+      "description": "The sermon focuses on the purpose of glorifying God through our lives. The speaker encourages the congregation to reflect God's greatness by singing with passion, taking His message to the world, and praying earnestly in Jesus' name. Lists practical steps to live out this calling.",
+      "keywords": ["glory", "God", "singing", "nations", "prayer"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["1 Chronicles 16", "Psalm 96", "John 14"]
+    },
+    {
+      "title": "Congregational Hymn: [God is On Our Side]",
+      "start_time": 2905,
+      "type": "music",
+      "description": "The service culminates in a lively and empowering song, 'God is On Our Side'. This anthem reinforces the church's unity and faith in God's unwavering support and presence, encouraging participants to live boldly in His name.",
+      "keywords": ["God", "support", "unity", "faith", "praise"],
+      "performers": ["Unknown"],
+      "songs": ["God is On Our Side"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3532,
+      "type": "prayer",
+      "description": "The service concludes with a powerful closing prayer, inviting God into the lives of the congregation as they prepare to go out and live for His glory. The prayer emphasizes trust in God's plans and the importance of reflecting His light in the world.",
+      "keywords": ["prayer", "closing", "trust", "God's glory", "community"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

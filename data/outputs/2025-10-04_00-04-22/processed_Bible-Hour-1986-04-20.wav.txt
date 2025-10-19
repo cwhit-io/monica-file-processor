@@ -1,0 +1,94 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: Oh my Savior, what a free",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir presents a stirring rendition, celebrating the freedom found in Jesus. The lyrics reflect themes of love, sacrifice, and the sovereignty of Christ. This piece sets a reverent and worshipful atmosphere as the congregation prepares for the service ahead.",
+      "keywords": ["choir", "freedom", "Christ", "worship", "sacrifice"],
+      "performers": ["Choir"],
+      "songs": ["Oh my Savior, what a free"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: A wonderful Savior is Jesus, my Lord",
+      "start_time": 766,
+      "type": "music",
+      "description": "A soloist shares a heartfelt performance of a beloved hymn. The lyrics speak to the personal relationship and comfort found in Jesus. This moment encourages reflection and uplifts the spirit of the congregation in adoration.",
+      "keywords": ["solo", "Jesus", "love", "worship", "comfort"],
+      "performers": ["Soloist"],
+      "songs": ["A wonderful Savior is Jesus, my Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: His grace is so wonderful",
+      "start_time": 1426,
+      "type": "music",
+      "description": "The choir performs a powerful piece celebrating the grace and mercy of God. The lyrics highlight themes of forgiveness and transformation, inviting the congregation to reflect on their own journeys of faith.",
+      "keywords": ["choir", "grace", "forgiveness", "mercy", "worship"],
+      "performers": ["Choir"],
+      "songs": ["His grace is so wonderful"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1857,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer led by the pastor. This moment invites God's presence into the gathering, setting the tone for worship and seeking guidance for the message that will follow.",
+      "keywords": ["prayer", "opening", "worship", "guidance", "God"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Corinthians 10",
+      "start_time": 1860,
+      "type": "scripture",
+      "description": "The pastor reads from 1 Corinthians chapter 10, focusing on verses that address idolatry and the importance of communal participation in the body of Christ. This reading serves as the foundation for the sermon to follow.",
+      "keywords": ["scripture", "1 Corinthians", "reading", "idolatry", "teaching"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 10"]
+    },
+    {
+      "title": "Message: Flee from Idolatry (1 Corinthians 10:14-22)",
+      "start_time": 1988,
+      "type": "sermon",
+      "description": "In this sermon, the pastor explores the theme of idolatry as addressed in 1 Corinthians 10. He emphasizes the call to flee from idolatry, drawing parallels to contemporary life. The teaching challenges congregants to assess their own priorities and the influences that shape their faith.",
+      "keywords": ["idolatry", "1 Corinthians", "sermon", "faith", "challenges"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 10:14-22"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3522,
+      "type": "prayer",
+      "description": "The pastor leads an invitation prayer, encouraging individuals to reflect on their relationship with Jesus. This moment provides an opportunity for personal commitment and renewal, inviting those who feel moved to respond.",
+      "keywords": ["invitation", "prayer", "commitment", "Jesus", "reflection"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3530,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for the time of worship and the message shared. This prayer encapsulates the themes of the day and seeks continued guidance and presence in the lives of the congregants.",
+      "keywords": ["closing", "prayer", "thanksgiving", "worship", "God"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Weekly Invitation",
+      "start_time": 3650,
+      "type": "announcement",
+      "description": "The pastor invites the congregation to weekly gatherings, emphasizing the importance of community and fellowship. He encourages everyone to return and continue growing in their faith through shared experiences.",
+      "keywords": ["announcement", "weekly", "community", "fellowship", "invitation"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

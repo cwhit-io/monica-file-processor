@@ -1,0 +1,7 @@
+[time=0] (soft guitar music)
+[time=30] (acoustic guitar music)
+[time=90] (acoustic guitar music) (acoustic guitar music)
+[time=102] (acoustic guitar music)
+[time=878] (acoustic guitar music) (acoustic guitar music)
+[time=898] (acoustic guitar music)
+[time=4057] (gentle piano music)

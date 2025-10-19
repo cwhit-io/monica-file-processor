@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Seekers of Your Heart",
+      "start_time": 135,
+      "type": "music",
+      "description": "The sanctuary choir beautifully performs 'Seekers of Your Heart,' inviting the congregation to meditate and prepare their hearts for worship. The song reflects themes of seeking God's presence and desiring a deeper relationship with Him. The lyrics emphasize the importance of divine guidance and spiritual renewal.",
+      "keywords": ["seekers", "worship", "God's presence", "choir"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Seekers of Your Heart"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: The Longer I Serve Him, The Sweeter He Grows",
+      "start_time": 391,
+      "type": "music",
+      "description": "The congregation joyfully sings 'The Longer I Serve Him, The Sweeter He Grows.' This hymn reflects the journey of faith and the deepening relationship believers experience over time with Christ. It encourages the church community to appreciate the sweetness of serving the Lord.",
+      "keywords": ["hymn", "faith", "service", "Christ"],
+      "performers": [],
+      "songs": ["The Longer I Serve Him, The Sweeter He Grows"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: The Joy of Every Longing Heart",
+      "start_time": 1199,
+      "type": "music",
+      "description": "A moving solo performance of 'The Joy of Every Longing Heart' emphasizes the fulfillment found in Jesus Christ. The singer reflects on spiritual longing and the peace that comes from a relationship with the Lord. Themes of hope and redemption resonate throughout the song.",
+      "keywords": ["joy", "longing", "Jesus", "fulfillment"],
+      "performers": ["Suzanne"],
+      "songs": ["The Joy of Every Longing Heart"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Fight the Good Fight (1 Timothy 1:18-20)",
+      "start_time": 1410,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a compelling sermon titled 'Fight the Good Fight,' rooted in 1 Timothy 1:18-20. He discusses Timothy's struggles with doubt and discouragement in ministry, encouraging believers to persevere in faith. The message also addresses the importance of spiritual community and accountability.",
+      "keywords": ["Timothy", "faith", "perseverance", "ministry", "Russell Moore"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 1:18-20"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, invoking God's presence and guidance as the congregation gathers for worship. It sets the tone for an uplifting time of worship and reflection. The prayer emphasizes unity and readiness to receive the Word.",
+      "keywords": ["prayer", "worship", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3329,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer. The pastor encourages the congregation to remain strong in their faith and to support one another through life's challenges. The prayer reinforces the commitment to follow God's call and to fight the good fight together.",
+      "keywords": ["closing", "prayer", "community", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 953,
+      "type": "announcement",
+      "description": "Various upcoming events at the church are shared, including guest speakers and special music performances. This segment promotes community involvement and opportunities to engage with the church’s mission. The congregation is encouraged to participate and invite others.",
+      "keywords": ["events", "community", "involvement", "guest speakers"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

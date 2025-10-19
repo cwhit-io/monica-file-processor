@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "drama: [Dramatic Music]",
+      "start_time": 0,
+      "type": "drama",
+      "description": "Dramatic music begins the service, setting a reflective tone for the congregation. The ambiance engages the audience, inviting them to prepare for worship.",
+      "keywords": ["drama", "music", "worship", "ambiance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "[Upbeat Music]",
+      "start_time": 60,
+      "type": "music",
+      "description": "An upbeat music segment follows, energizing the atmosphere. The lively melody encourages everyone to uplift their spirits as they enter into worship.",
+      "keywords": ["upbeat", "music", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 101,
+      "type": "music",
+      "description": "The choir performs a song, inviting the congregation to engage in worship through music. The lyrics emphasize themes of faith and gratitude towards God.",
+      "keywords": ["choir", "worship", "faith", "gratitude"],
+      "performers": ["Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [Hebrews 10:19-23]",
+      "start_time": 108,
+      "type": "scripture",
+      "description": "A scripture reading from Hebrews emphasizes the confidence believers have through Christ. This passage reinforces the communal and individual connection to God through faith.",
+      "keywords": ["Hebrews", "scripture", "confidence", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Hebrews 10:19-23"]
+    },
+    {
+      "title": "Message: Real Love (Matthew 22:34-40)",
+      "start_time": 857,
+      "type": "sermon",
+      "description": "The sermon focuses on the components of real love, exploring how it reflects in our relationships with God and others. Utilizing Matthew 22, the speaker challenges the audience to fully surrender to God's love.",
+      "keywords": ["sermon", "love", "Matthew", "surrender"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Matthew 22:34-40"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3533,
+      "type": "prayer",
+      "description": "The closing prayer invites God’s blessing on the congregation as they reflect on the message. It emphasizes being clay in God's hands and being a light to others, reinforcing the sermon’s themes.",
+      "keywords": ["prayer", "blessing", "reflection", "God"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "[Music Transition]",
+      "start_time": 3553,
+      "type": "music",
+      "description": "A music transition concludes the service, resonating with the messages shared. It prepares the congregation for departure with a lasting sense of peace and reflection.",
+      "keywords": ["music", "transition", "peace", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

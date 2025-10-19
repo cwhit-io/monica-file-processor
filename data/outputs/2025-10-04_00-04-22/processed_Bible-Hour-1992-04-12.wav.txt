@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Sanctuary Choir: God's Almighty Sign",
+      "start_time": 99,
+      "type": "music",
+      "description": "The service opens with a special music selection performed by the sanctuary choir. The piece, 'God's Almighty Sign', sets a worshipful atmosphere for the congregation, preparing hearts for the upcoming teaching and sharing.",
+      "keywords": ["choir", "hymns", "worship", "music"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["God's Almighty Sign"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: It Is Well with My Soul",
+      "start_time": 381,
+      "type": "music",
+      "description": "Following the choir, Tim Newton offers a beautiful solo performance of the classic hymn 'It Is Well with My Soul'. His rendition captivates the audience, reinforcing the themes of peace and trust in God.",
+      "keywords": ["hymn", "solo", "worship", "music"],
+      "performers": ["Tim Newton"],
+      "songs": ["It Is Well with My Soul"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Character of Leadership (Genesis 37-50)",
+      "start_time": 1240,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a compelling message on the character required for godly leadership, using Joseph's life as a prime example. He outlines key attributes such as teachability, faithfulness, and availability that define a leader's potential impact.",
+      "keywords": ["leadership", "character", "Joseph", "faithfulness", "teachability"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Genesis 37", "Genesis 39", "Genesis 41"]
+    },
+    {
+      "title": "Solo: More Music",
+      "start_time": 1206,
+      "type": "music",
+      "description": "After the sermon, the congregation is uplifted by another music selection performed by the musicians. This piece enhances the reflective mood as worshippers consider the message just shared.",
+      "keywords": ["music", "worship", "congregation"],
+      "performers": ["Tim Newton"],
+      "songs": ["More Music"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3446,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer led by Pastor Moore. He invites the congregation to reflect on the day’s message and seek God's guidance and strength in their lives.",
+      "keywords": ["prayer", "worship", "congregation", "closing"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

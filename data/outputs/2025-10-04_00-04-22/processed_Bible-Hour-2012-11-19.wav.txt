@@ -1,0 +1,64 @@
+{
+  "chapters": [
+    {
+      "title": "Upbeat Opening Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat music piece that sets a vibrant and energetic atmosphere for the congregation. This opening melody invites attendees to engage and prepare their hearts for the service ahead.",
+      "keywords": ["music", "opening", "upbeat"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Book of James (James 4)",
+      "start_time": 35,
+      "type": "sermon",
+      "description": "The sermon focuses on the themes found in the Book of James, particularly the struggle with selfish desires and the importance of submitting to God. The speaker illustrates the connection between internal conflicts and external quarrels, encouraging the congregation to seek sincerity in their faith and communication with God.",
+      "keywords": ["James", "sermon", "conflict", "selfishness", "submission"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["James 4"]
+    },
+    {
+      "title": "Choir: [Music During Communion]",
+      "start_time": 2215,
+      "type": "music",
+      "description": "A gentle piece of music plays during the communion segment, providing a reflective atmosphere as attendees are invited to partake in this sacred act. The music enhances the feeling of reverence in the sanctuary.",
+      "keywords": ["music", "communion", "reflective"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2700,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, encouraging individuals to reflect on their relationship with God and to seek reformation in their lives. This prayer serves as a call to action and a moment of humility before God.",
+      "keywords": ["prayer", "invitation", "humility"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Final Worship Song]",
+      "start_time": 2953,
+      "type": "music",
+      "description": "The service concludes with a heartfelt worship song performed by the choir, reaffirming the congregation's commitment to God. The uplifting lyrics and powerful melody inspire communal worship as attendees reflect on the message shared during the service.",
+      "keywords": ["music", "worship", "congregation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3508,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, thanking God for the message delivered and asking for His guidance in applying the lessons learned. It serves as a moment for collective reflection and intention to live out their faith.",
+      "keywords": ["prayer", "closing", "guidance"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

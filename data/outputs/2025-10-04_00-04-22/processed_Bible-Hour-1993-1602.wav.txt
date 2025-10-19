@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Special Music",
+      "start_time": 90,
+      "type": "music",
+      "description": "The sanctuary choir leads the congregation in worship through a beautiful performance, presenting uplifting and spiritual songs that encourage and inspire. The lyrics highlight themes of faith and longing for God's presence.",
+      "keywords": ["choir", "worship", "faith", "presence", "songs"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Almighty God", "I Still Want to Go"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: The Reason We Sing",
+      "start_time": 705,
+      "type": "music",
+      "description": "A solo performance titled 'The Reason We Sing' emphasizes the purpose behind singing in worship. The lyrics express devotion and the joy of glorifying Jesus through music, creating an atmosphere of celebration.",
+      "keywords": ["solo", "worship", "glorify", "Jesus", "joy"],
+      "performers": ["[Unknown]"],
+      "songs": ["The Reason We Sing"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Help! My World is Falling Apart (Revelation 10)",
+      "start_time": 894,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a powerful message based on Revelation 10, providing encouragement to Christians facing life's challenges. He shares five truths about God's sovereignty, purpose, and the bittersweet nature of divine will, reminding believers that even in turmoil, God remains in control.",
+      "keywords": ["sermon", "encouragement", "Revelation", "truths", "sovereignty"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 10"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3437,
+      "type": "prayer",
+      "description": "As the service draws to a close, Pastor Russell Moore invites individuals to accept Jesus Christ as their Savior. He leads a heartfelt prayer, encouraging those seeking a personal relationship with God to open their hearts to His love and forgiveness.",
+      "keywords": ["prayer", "invitation", "Jesus", "Savior", "forgiveness"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 523,
+      "type": "announcement",
+      "description": "Several upcoming church events are announced, including special services and concerts, providing opportunities for the congregation to engage in worship and community activities. The aim is to keep the members informed and encourage their participation.",
+      "keywords": ["announcement", "events", "church", "community", "participation"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "scripture: Scripture Reading: John 13:1-30",
+      "start_time": 0,
+      "type": "scripture",
+      "description": "The passage from John 13 describes the events leading up to Jesus's betrayal. Jesus communicates to his disciples that one of them will betray him, creating a moment of uncertainty and tension among them. This sets the stage for exploring themes of loyalty and betrayal within relationships.",
+      "keywords": ["John", "Judas", "betrayal", "disciples", "Jesus"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["John 13:1-30"]
+    },
+    {
+      "title": "Message: Jesus and Traitors (John 13)",
+      "start_time": 237,
+      "type": "sermon",
+      "description": "In the sermon, the speaker reflects on the story of Judas, emphasizing the painful reality of betrayal. Themes include the nature of loyalty, the importance of recognizing our own sinfulness, and the need for transformation in our lives. The message challenges listeners to view themselves through the lens of Judas while learning valuable lessons about faith and integrity.",
+      "keywords": ["Jesus", "betrayal", "Judas", "discipleship", "faith"],
+      "performers": ["[Speaker]"],
+      "songs": [],
+      "scripture_references": ["John 13"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1269,
+      "type": "prayer",
+      "description": "The opening prayer is a moment for the congregation to connect spiritually and prepare themselves for the service ahead. It invites God’s presence and guidance, setting the tone for worship and reflection on the lessons to be learned throughout the service.",
+      "keywords": ["prayer", "worship", "congregation", "guidance", "presence"],
+      "performers": ["[Leader]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 2196,
+      "type": "music",
+      "description": "The choir performs a heartfelt song that underscores the themes of the service, focusing on redemption and grace. This musical interlude serves to uplift the congregation and reinforce the message of forgiveness inherent in the gospel.",
+      "keywords": ["choir", "music", "worship", "redemption", "grace"],
+      "performers": ["[Choir]"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2217,
+      "type": "prayer",
+      "description": "In the closing prayer, the congregation is led in supplication and thanksgiving, reflecting on the messages shared. It encourages participants to apply the lessons of grace, forgiveness, and self-examination in their own lives. It seeks God’s blessing for the week ahead.",
+      "keywords": ["closing", "prayer", "thanksgiving", "application", "blessing"],
+      "performers": ["[Leader]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

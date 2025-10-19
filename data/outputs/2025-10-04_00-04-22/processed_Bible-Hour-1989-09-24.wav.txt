@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Joy in the Morning",
+      "start_time": 171,
+      "type": "music",
+      "description": "The sanctuary choir lifts spirits with an uplifting performance of 'Joy in the Morning.' This vibrant piece sets a joyful tone for the service, invoking feelings of hope and celebration among the congregation.",
+      "keywords": ["choir", "joy", "music", "worship", "praise"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Joy in the Morning"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: He Will Hold Me Fast",
+      "start_time": 413,
+      "type": "music",
+      "description": "The congregation comes together to sing hymn number 236, known for its comforting message of faith and trust in God. The first and fourth stanzas draw everyone into a unified expression of devotion.",
+      "keywords": ["hymn", "worship", "faith", "singing", "praise"],
+      "performers": [],
+      "songs": ["He Will Hold Me Fast"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Special Duet",
+      "start_time": 542,
+      "type": "music",
+      "description": "Denise Mitchell and Kevin Roll perform a heartfelt duet, providing a moment of reflection and tranquility within the service. Their melodic harmonies enhance the atmosphere of worship and gratitude.",
+      "keywords": ["duet", "special music", "worship", "praise", "reflection"],
+      "performers": ["Denise Mitchell", "Kevin Roll"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1561,
+      "type": "prayer",
+      "description": "The opening prayer invites the congregation to center their hearts and minds on worship. Expressing gratitude and calling upon God’s presence, it sets a reverent tone for the service ahead.",
+      "keywords": ["prayer", "worship", "invocation", "gratitude", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: John 18",
+      "start_time": 1793,
+      "type": "scripture",
+      "description": "A reading from the Gospel of John recounts the pivotal moments leading to Jesus' crucifixion. This narrative focuses on the confrontation between Jesus and Pontius Pilate, highlighting key themes of truth and judgment.",
+      "keywords": ["scripture", "reading", "John", "gospel", "witness"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["John 18"]
+    },
+    {
+      "title": "Message: Recognizing the Truth (John 18)",
+      "start_time": 1796,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a powerful message titled 'Recognizing the Truth,' focusing on Jesus' trial before Pilate. The sermon explores the complexities of truth, personal integrity, and the implications of our choices regarding faith.",
+      "keywords": ["sermon", "truth", "Pilate", "Jesus", "message"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["John 18"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3512,
+      "type": "prayer",
+      "description": "An invitation prayer encourages congregants to reflect on their own spiritual journeys. This prayer emphasizes the importance of accepting Christ and the grace offered through faith.",
+      "keywords": ["invitation", "prayer", "acceptance", "faith", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Reflection",
+      "start_time": 1782,
+      "type": "music",
+      "description": "The choir performs 'Reflection,' a piece that echoes the themes of the sermon. This performance encapsulates the message of faith and reassurance, leaving the congregation with a sense of hope.",
+      "keywords": ["choir", "reflection", "music", "faith", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Reflection"],
+      "scripture_references": []
+    }
+  ]
+}
+```

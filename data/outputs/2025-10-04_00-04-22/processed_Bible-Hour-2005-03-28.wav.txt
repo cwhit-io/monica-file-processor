@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Unidentified",
+      "start_time": 30,
+      "type": "music",
+      "description": "An upbeat start with lively music, setting a joyful atmosphere for the service. The choir engages the congregation through rhythmic singing, inviting them into a celebratory mood.",
+      "keywords": ["music", "celebration", "joyful"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 592,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer, emphasizing gratitude for Resurrection Sunday. The prayer seeks God's presence and acknowledges His goodness, inviting the congregation to partake in this sacred moment.",
+      "keywords": ["prayer", "thanksgiving", "resurrection"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [Luke 24]",
+      "start_time": 674,
+      "type": "scripture",
+      "description": "The reading of Luke 24:1-11 recounts the resurrection of Jesus. This powerful scripture highlights the moment the stone was rolled away, and the women found the tomb empty, setting the tone for the day’s message.",
+      "keywords": ["Luke", "resurrection", "scripture"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["Luke 24"]
+    },
+    {
+      "title": "Message: Resurrection Sunday (Luke 24)",
+      "start_time": 706,
+      "type": "sermon",
+      "description": "The sermon celebrates the profound significance of Resurrection Sunday. The pastor reflects on Jesus conquering death, emphasizing the implications for believers, including peace and hope amidst life's anxieties. Concrete examples and personal stories illustrate the transformative power of the resurrection.",
+      "keywords": ["sermon", "resurrection", "hope", "peace", "victory"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["Luke 24"]
+    },
+    {
+      "title": "Solo: Unidentified",
+      "start_time": 1775,
+      "type": "music",
+      "description": "A poignant solo performance that reinforces the themes of the sermon. The lyrics, filled with powerful expressions of faith and hope, lead the congregation into a reflective state, connecting them deeply to the message of the resurrection.",
+      "keywords": ["solo", "reflection", "faith"],
+      "performers": ["Kevin"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3408,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, encouraging congregants to reflect on their relationship with Christ. The prayer seeks to open their hearts to His continued work in their lives, inviting them to find peace and wholeness through the risen Lord.",
+      "keywords": ["invitation", "prayer", "reflection"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3575,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, expressing gratitude for the message shared. It emphasizes living as redeemed individuals, filled with peace and courage as they engage with the world, seeking to bring others to Christ.",
+      "keywords": ["closing", "prayer", "gratitude"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

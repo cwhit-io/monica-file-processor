@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: We are the Holy God",
+      "start_time": 133,
+      "type": "music",
+      "description": "The sanctuary choir performs 'We are the Holy God', creating an atmosphere of worship and reverence. The choir's harmonies and lyrics invite the congregation to engage in praise. This moment sets a spiritual tone for the service, focusing on the majesty and holiness of God.",
+      "keywords": ["choir", "worship", "praise", "holy", "God"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["We are the Holy God"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 700,
+      "type": "music",
+      "description": "In a heartfelt solo, an artist expresses themes of heartache and divine support, touching on the struggles faced by individuals. The lyrics remind the audience that even in their pain, Jesus is present to comfort and support them. This beautiful performance intertwines music with ministry, reinforcing God’s compassionate nature.",
+      "keywords": ["solo", "heartache", "comfort", "Jesus"],
+      "performers": ["Kevin Rowe", "Denise Mitchell"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3332,
+      "type": "prayer",
+      "description": "The service transitions into an opening prayer that seeks God's blessing and guidance for the day. The pastor invites the congregation to engage their hearts in prayer, encouraging a spirit of unity. This moment sets a reverent atmosphere for the worship and teaching to follow.",
+      "keywords": ["prayer", "blessing", "guidance", "unity"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Revelation 9",
+      "start_time": 1006,
+      "type": "scripture",
+      "description": "The pastor invites the congregation to turn to Revelation 9 for the scripture reading. This segment highlights God's Word as central to the service, providing context for the upcoming sermon. By reading scripture aloud, the congregation engages with the text in anticipation of its application.",
+      "keywords": ["scripture", "reading", "Revelation", "God's Word"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 9"]
+    },
+    {
+      "title": "Message: The Unrepentant (Revelation 9:20-21)",
+      "start_time": 1006,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a powerful message titled 'The Unrepentant', focusing on Revelation 9. He explores why individuals refuse to repent despite witnessing God's power and grace. Through personal anecdotes and biblical insights, the pastor challenges the congregation to reflect on their own hearts and the importance of true repentance.",
+      "keywords": ["sermon", "repentance", "Revelation", "God", "grace"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 9:20-21"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3424,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Russell Moore. He thanks God for the message shared and asks for guidance for the congregation as they leave. This prayer encapsulates the themes of the service, inviting God's presence into their lives as they apply the teachings.",
+      "keywords": ["prayer", "closing", "thankfulness", "guidance"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

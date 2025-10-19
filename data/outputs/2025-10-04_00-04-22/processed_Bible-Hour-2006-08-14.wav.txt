@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "announcement: Introduction to Black Hawk Christian School",
+      "start_time": 30,
+      "type": "announcement",
+      "description": "Sam Barfell, the Superintendent of Black Hawk Christian School, introduces the school, emphasizing its commitment to academic excellence grounded in biblical teachings. He shares the dedication of the faculty and staff who strive to fulfill this mission. Sam encourages listeners to consider their students becoming part of the school community.",
+      "keywords": ["Black Hawk", "Christian School", "education", "biblical foundation", "teachers"],
+      "performers": ["Sam Barfell"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Great Commission",
+      "start_time": 184,
+      "type": "scripture",
+      "description": "The scripture is read from Matthew 28:18-20, known as the Great Commission. It highlights Jesus' authority and his command to make disciples, baptizing them and teaching them to obey His commands.",
+      "keywords": ["Great Commission", "Matthew", "discipleship", "baptism", "commandments"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 28:18-20"]
+    },
+    {
+      "title": "sermon: The Power of Confession (Psalm 51)",
+      "start_time": 293,
+      "type": "sermon",
+      "description": "Dr. Sam Barfell delivers a powerful sermon on Psalm 51, focusing on David's confession after his sins. He discusses the importance of admitting our sins and the transformative power of repentance. The sermon reflects on how sin affects our relationship with God and the path to restoration through confession and God's grace. He emphasizes the need for accountability and warns against the dangers of complacency in faith.",
+      "keywords": ["Psalm 51", "David", "confession", "repentance", "grace"],
+      "performers": ["Dr. Sam Barfell"],
+      "songs": [],
+      "scripture_references": ["Psalm 51"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3523,
+      "type": "prayer",
+      "description": "A prayer is offered, inviting attendees to reflect on their walk with God and consider how they may be stepping outside the circle of safety. It emphasizes the need for God's grace and support from the community.",
+      "keywords": ["prayer", "invitation", "grace", "community", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Jesus Paid It All",
+      "start_time": 3093,
+      "type": "music",
+      "description": "The congregation sings the hymn 'Jesus Paid It All,' which reflects themes of redemption and grace through Christ's sacrifice. The lyrics emphasize reliance on Jesus for forgiveness and cleansing from sin.",
+      "keywords": ["Jesus", "hymn", "redemption", "forgiveness", "grace"],
+      "performers": ["Congregation"],
+      "songs": ["Jesus Paid It All"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 3373,
+      "type": "music",
+      "description": "The choir performs a piece that celebrates the themes introduced in the sermon, reinforcing the message of confession, repentance, and God's grace. This segment serves to uplift the congregation through music.",
+      "keywords": ["choir", "worship", "confession", "repentance", "grace"],
+      "performers": ["Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3461,
+      "type": "prayer",
+      "description": "A closing prayer is offered, thanking God for His grace and asking for strength to remain within the circle of safety. The prayer emphasizes the need for community support and the role of accountability in the walk of faith.",
+      "keywords": ["prayer", "closing", "grace", "community", "accountability"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

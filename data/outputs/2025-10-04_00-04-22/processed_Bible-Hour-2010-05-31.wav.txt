@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Worship Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat music performance, setting a joyful tone for the gathering. This lively music encourages congregants to engage with the worship atmosphere.",
+      "keywords": ["music", "worship", "upbeat"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir performs a vibrant song, uplifting the congregation's spirits. This segment includes a rich arrangement that fosters a sense of community and worship.",
+      "keywords": ["choir", "worship", "song"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Song Title]",
+      "start_time": 203,
+      "type": "music",
+      "description": "A gentle transition into a congregational hymn follows, allowing the entire congregation to join in singing. This segment emphasizes unity and collective worship.",
+      "keywords": ["hymn", "congregation", "worship"],
+      "performers": [],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 545,
+      "type": "prayer",
+      "description": "An opening prayer concludes the musical segments, inviting God's presence into the service. The prayer focuses on gratitude and the impact of scripture on the congregation's lives.",
+      "keywords": ["prayer", "opening", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [Ephesians 6:10-18]",
+      "start_time": 1714,
+      "type": "scripture",
+      "description": "The congregation stands for the reading of Ephesians 6:10-18, hearing the exhortation to put on the full armor of God. This segment emphasizes spiritual strength and readiness.",
+      "keywords": ["Ephesians", "scripture", "reading"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Ephesians 6:10-18"]
+    },
+    {
+      "title": "Message: The Armor of God (Ephesians 6)",
+      "start_time": 1758,
+      "type": "sermon",
+      "description": "The sermon delves into Ephesians 6, unpacking the significance of the armor of God. The speaker engages the congregation with examples of each piece, highlighting practical applications for spiritual battles.",
+      "keywords": ["armor", "God", "Ephesians", "sermon", "spiritual warfare"],
+      "performers": ["Steve Longbreak"],
+      "songs": [],
+      "scripture_references": ["Ephesians 6"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3493,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, focusing on strength and empowerment from God. The prayer reflects on the sermon and reinforces the promise of divine support during challenges.",
+      "keywords": ["prayer", "closing", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

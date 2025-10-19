@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: See You Again",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat choir performance of 'See You Again'. The atmosphere is joyful as the congregation is welcomed warmly.",
+      "keywords": ["choir", "worship", "music", "joy", "community"],
+      "performers": ["Black Hawk Ministries Choir"],
+      "songs": ["See You Again"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Praise Song",
+      "start_time": 198,
+      "type": "music",
+      "description": "A solo performance follows, leading the congregation into a spirit of worship. The song emphasizes themes of gratitude and devotion to God.",
+      "keywords": ["solo", "worship", "praise", "devotion"],
+      "performers": ["Unknown"],
+      "songs": ["Praise Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: We Worship You God",
+      "start_time": 244,
+      "type": "music",
+      "description": "A congregational hymn begins, inviting everyone to join in worship. The lyrics focus on God's greatness and majesty, uniting the congregation in praise.",
+      "keywords": ["hymn", "congregation", "worship", "praise"],
+      "performers": ["Congregation"],
+      "songs": ["We Worship You God"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 403,
+      "type": "prayer",
+      "description": "The opening prayer sets the tone for the service. It invites God's presence, asks for understanding, and prepares the hearts of the congregation for worship.",
+      "keywords": ["prayer", "opening", "worship", "God's presence"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Chronicles 29",
+      "start_time": 411,
+      "type": "scripture",
+      "description": "The scripture reading focuses on 1 Chronicles 29, highlighting King David's offering to the Lord. It reflects themes of generosity and devotion.",
+      "keywords": ["scripture", "1 Chronicles", "offering", "David"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["1 Chronicles 29"]
+    },
+    {
+      "title": "Message: Why Disciples Need Doctrine (Romans 5)",
+      "start_time": 667,
+      "type": "sermon",
+      "description": "The sermon delves into the importance of understanding doctrine for discipleship, emphasizing justification by faith as seen in Romans 5. The speaker challenges the congregation to reflect on their spiritual journeys and what truly consumes their hearts.",
+      "keywords": ["sermon", "doctrine", "spiritual growth", "justification", "faith"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["Romans 5"]
+    },
+    {
+      "title": "Choir: Worship Song",
+      "start_time": 3287,
+      "type": "music",
+      "description": "The choir leads the congregation in a heartfelt worship song, reinforcing the themes of unity and worship established earlier in the service. The lyrics encourage a deep connection to God.",
+      "keywords": ["worship", "choir", "unity", "praise"],
+      "performers": ["Black Hawk Ministries Choir"],
+      "songs": ["Worship Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3481,
+      "type": "prayer",
+      "description": "In the closing prayer, the congregation is encouraged to carry the message of the day into their lives. Gratitude is expressed for God's presence and guidance.",
+      "keywords": ["closing", "prayer", "gratitude", "God's guidance"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

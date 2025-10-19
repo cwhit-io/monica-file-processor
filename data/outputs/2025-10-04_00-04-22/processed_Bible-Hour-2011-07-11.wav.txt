@@ -1,0 +1,54 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: Upbeat Praise",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with cheerful and upbeat music that sets a lively tone for the gathering. The congregation is encouraged to participate joyfully, creating an atmosphere of celebration and worship. The music heightens the spirit of the community.",
+      "keywords": ["upbeat", "celebration", "worship", "joyful", "music"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Choir: Praise with Lyrics",
+      "start_time": 60,
+      "type": "music",
+      "description": "The choir presents a vibrant piece featuring lyrics that express adoration towards God. The rich melodies invite the audience to reflect on the greatness of God. This time of music deepens the communal worship experience.",
+      "keywords": ["choir", "praise", "worship", "melodies", "community"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Message: The Graciousness of God (Psalm 145)",
+      "start_time": 2121,
+      "type": "sermon",
+      "description": "The sermon delves into Psalm 145, focusing on God’s graciousness, mercy, and goodness. The message highlights the importance of meditating on God’s attributes, encouraging the congregation to align their lives with His teachings. Practical applications are shared to strengthen faith and community relationships.",
+      "keywords": ["graciousness", "mercy", "goodness", "Psalm 145", "faith"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["Psalm 145"]
+    },
+    {
+      "title": "Congregational Hymn: How Great is Our God",
+      "start_time": 3183,
+      "type": "music",
+      "description": "The congregation joins together in a powerful hymn that declares the greatness of God. The moving lyrics inspire worship and reflection, fostering a sense of unity among worshippers. This moment emphasizes the majesty of God in both the song and the spirits of the attendees.",
+      "keywords": ["hymn", "greatness", "unity", "worship", "declaration"],
+      "performers": ["[]"],
+      "songs": ["How Great is Our God"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3485,
+      "type": "prayer",
+      "description": "In the closing prayer, the pastor invokes God's grace, love, and guidance for the congregation. A heartfelt request is made for God's ongoing presence in their lives as they depart. The prayer encapsulates the themes discussed during the service, emphasizing trust in God.",
+      "keywords": ["closing", "prayer", "guidance", "grace", "trust"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Praise Him",
+      "start_time": 227,
+      "type": "music",
+      "description": "The choir leads the congregation in a spirited worship song, encouraging everyone to lift their voices in praise. The lyrics celebrate the greatness and glory of the Lord, inviting all creations—from the heavens to nature—to join in worship. The atmosphere is filled with joy and reverence.",
+      "keywords": ["praise", "worship", "choir", "songs", "glory"],
+      "performers": ["Voices of Unity Choir"],
+      "songs": ["Praise Him"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: We Will Remember",
+      "start_time": 608,
+      "type": "music",
+      "description": "Carrie and the choir present a powerful song titled 'We Will Remember'. The music cultivates a reflective atmosphere where the congregation is led to remember God's character and faithfulness. It allows participants to engage deeply with their memories of God's actions in their lives.",
+      "keywords": ["remember", "God", "worship", "faithfulness", "song"],
+      "performers": ["Carrie and the Choir"],
+      "songs": ["We Will Remember"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Other Song",
+      "start_time": 769,
+      "type": "music",
+      "description": "The choir continues to lead in another worshipful song, engaging the congregation to unite in song. The themes of the song emphasize collective worship and the joy of being in God's presence, providing an uplifting moment of connection among attendees.",
+      "keywords": ["worship", "unity", "joy", "song", "congregation"],
+      "performers": ["Choir"],
+      "songs": ["Other Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The One Thing God Desires Most (Genesis 1)",
+      "start_time": 958,
+      "type": "sermon",
+      "description": "In this sermon, Kelly Bird shares a personal story of his daughter’s emergency surgery, using it to illustrate God's desire to be close to His children. Through biblical accounts, he emphasizes that from creation, God has yearned for a relationship with humanity, underscoring the intimacy of that bond through divine connection and choice.",
+      "keywords": ["God", "desire", "creation", "relationship", "Genesis"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Genesis 1:26-31"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 2200,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer invites the presence of God into the service, asking for open hearts and minds as the congregation explores the themes of the day. It sets a tone of reverence and commitment to understanding God’s desires in their lives.",
+      "keywords": ["prayer", "opening", "presence", "God", "hearts"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3521,
+      "type": "prayer",
+      "description": "In the closing prayer, Kelly Bird expresses gratitude and asks for God's guidance as the congregation reflects on their hearts. He emphasizes the importance of sincere relationship with God and encourages attendees to commit to the journey of understanding God's desires.",
+      "keywords": ["closing", "prayer", "gratitude", "guidance", "relationship"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Psalm 139:23-24"]
+    }
+  ]
+}
+```

@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Let Us Sing a Song of Praise",
+      "start_time": 100,
+      "type": "music",
+      "description": "The choir performs a joyous rendition of 'Let Us Sing a Song of Praise,' inviting everyone to join in worship. This uplifting song sets the spiritual tone for the service, encouraging hearts to be open and receptive to the message that will follow. The melody and lyrics celebrate the goodness of God and foster a sense of community among the congregation.",
+      "keywords": ["choir", "worship", "praise", "music", "community"],
+      "performers": ["Blackhawk Baptist Choir"],
+      "songs": ["Let Us Sing a Song of Praise"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Building Expansion Update",
+      "start_time": 261,
+      "type": "announcement",
+      "description": "Pastor David Jerramon shares exciting updates about the church's expansion plans. He discusses recent contributions and the anticipated new facilities designed to accommodate the growing congregation. This announcement serves as both an encouragement to the church community and a reminder of the collective efforts in fulfilling the church's mission.",
+      "keywords": ["church", "expansion", "growth", "community", "fundraising"],
+      "performers": ["David Jerramon"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown Title]",
+      "start_time": 505,
+      "type": "music",
+      "description": "Mr. Dave Miller performs a heartfelt solo, providing a moment of reflection and musical ministry. The uplifting melody magnifies the service's spiritual atmosphere, encouraging personal contemplation and drawing attention to God's presence. The congregation is invited to engage with the message conveyed through the music.",
+      "keywords": ["solo", "worship", "music", "reflection", "ministry"],
+      "performers": ["Dave Miller"],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: I'd Rather Have Jesus",
+      "start_time": 1224,
+      "type": "music",
+      "description": "Marilyn Wong's rendition of 'I'd Rather Have Jesus' touches the hearts of the congregation. The song highlights themes of faith, commitment, and the supreme value of Christ in a believer's life. Its stirring melody fosters a deep atmosphere of worship and devotion among attendees.",
+      "keywords": ["worship", "Jesus", "commitment", "faith", "music"],
+      "performers": ["Marilyn Wong"],
+      "songs": ["I'd Rather Have Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Getting Ready for the Decade of Destiny (1 Corinthians 15)",
+      "start_time": 1647,
+      "type": "sermon",
+      "description": "Pastor Jerramon delivers an impacting message focused on preparing spiritually for the new decade. Using 1 Corinthians 15:58 as a foundation, he emphasizes the importance of being steadfast and unmovable in faith. The sermon challenges attendees to reassess their commitment to Christ amidst societal changes and encourages personal reflection and growth in faith as they step into the new year.",
+      "keywords": ["sermon", "faith", "commitment", "decade", "1 Corinthians"],
+      "performers": ["David Jerramon"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 15:58"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1752,
+      "type": "prayer",
+      "description": "A prayer led by Pastor Jerramon seeks God's blessing over the service and the message. It serves as a powerful moment of connection with God, inviting the congregation to engage in communal worship and align their hearts with the day's purpose. This moment emphasizes reliance on the Holy Spirit for guidance and understanding.",
+      "keywords": ["prayer", "worship", "God", "community", "blessing"],
+      "performers": ["David Jerramon"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Christ of the Men of God",
+      "start_time": 1505,
+      "type": "music",
+      "description": "The choir performs 'Christ of the Men of God,' inviting the congregation to reflect on God's call for men to stand firm in their faith. This stirring musical piece encourages strength in faith as part of the congregation's commitment to their spiritual paths. Its strong lyrics and melody resonate with the men's spiritual responsibilities.",
+      "keywords": ["choir", "faith", "strength", "worship", "community"],
+      "performers": ["Blackhawk Baptist Choir"],
+      "songs": ["Christ of the Men of God"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2900,
+      "type": "prayer",
+      "description": "The service closes with a prayer, giving thanks for the message and seeking God's guidance in the coming days. This moment invites the congregation to reaffirm their commitment to Christ and asks for strength to be steadfast and unmovable as they face challenges ahead. It encapsulates the spirit of unity and purpose shared throughout the service.",
+      "keywords": ["prayer", "closing", "thanks", "unity", "commitment"],
+      "performers": ["David Jerramon"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

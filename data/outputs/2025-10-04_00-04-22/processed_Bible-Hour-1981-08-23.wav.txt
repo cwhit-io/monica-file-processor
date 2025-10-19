@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: The Canticles of Praise",
+      "start_time": 120,
+      "type": "music",
+      "description": "The choir, under the direction of Mr. Don Kruger, leads the congregation in a joyful hymn titled 'The Canticles of Praise.' The performance invites everyone into a spirit of worship and sets the tone for the service ahead.",
+      "keywords": ["choir", "hymn", "worship", "praise", "Don Kruger"],
+      "performers": ["Don Kruger"],
+      "songs": ["The Canticles of Praise"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: When Jesus Comes",
+      "start_time": 566,
+      "type": "music",
+      "description": "A heartfelt rendition of 'When Jesus Comes' is performed, conveying themes of hope and redemption. The congregation engages in singing along, creating a united atmosphere of worship and reflection on personal struggles.",
+      "keywords": ["Jesus", "redemption", "hope", "worship", "congregation"],
+      "performers": ["Maria Gardner", "Dennis Kirschner", "Ron Hackett"],
+      "songs": ["When Jesus Comes"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Lead Me, Oh Lead Me",
+      "start_time": 1060,
+      "type": "music",
+      "description": "The performers Dennis Kirschner and Ron Hackett deliver a moving solo piece titled 'Lead Me, Oh Lead Me.' This song expresses a deep longing for divine guidance and serves as a prayer for help along life's journey.",
+      "keywords": ["guidance", "prayer", "lead", "music", "dennis kirschner", "ron hackett"],
+      "performers": ["Dennis Kirschner", "Ron Hackett"],
+      "songs": ["Lead Me, Oh Lead Me"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: How Big is Your Neighborhood? (Luke 10:25-37)",
+      "start_time": 1264,
+      "type": "sermon",
+      "description": "Dr. Haddon Robinson delivers a powerful message focusing on love for God and neighbor as taught in the parable of the Good Samaritan. He emphasizes the necessity of compassion and action towards others, challenging the congregation to expand their understanding of who their neighbor is.",
+      "keywords": ["neighbor", "love", "Good Samaritan", "sermon", "Dr. Haddon Robinson"],
+      "performers": ["Dr. Haddon Robinson"],
+      "songs": [],
+      "scripture_references": ["Luke 10:25-37"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3406,
+      "type": "prayer",
+      "description": "A reflective prayer is offered, inviting attendees to seek deeper relationships and to consider their neighbors and those in need. It emphasizes God's desire to work in their lives and brings the service to a contemplative close.",
+      "keywords": ["invitation", "prayer", "contemplation", "community", "God"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

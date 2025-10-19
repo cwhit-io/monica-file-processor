@@ -1,0 +1,74 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 81,
+      "type": "music",
+      "description": "The choir leads the congregation in uplifting worship music, setting a joyful tone for the service. The focus is on praising God, with participation from the congregation as they sing along.",
+      "keywords": ["choir", "worship", "music", "praise", "congregation"],
+      "performers": ["[Choir]"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 100,
+      "type": "music",
+      "description": "As the service progresses, the choir continues to engage the congregation with inspiring melodies, drawing attention to the themes of faith and hope. The atmosphere is filled with a sense of community as everyone participates.",
+      "keywords": ["choir", "worship", "music", "community", "faith"],
+      "performers": ["[Choir]"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 312,
+      "type": "music",
+      "description": "The choir performs another powerful piece, captivating the audience with harmonies that resonate with the message of the day. This musical interlude is a moment for reflection before the sermon begins.",
+      "keywords": ["choir", "music", "reflection", "audience", "message"],
+      "performers": ["[Choir]"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Living for God's Purpose (Genesis 37)",
+      "start_time": 755,
+      "type": "sermon",
+      "description": "Pastor Moore delivers an engaging sermon centered on the life of Joseph as depicted in Genesis. He emphasizes the importance of living for God's purpose, portraying the story of Joseph's trials and how they relate to the spiritual decay within families. He challenges congregants to reflect on their own lives and to assist in the advancement of the Gospel.",
+      "keywords": ["Joseph", "sermon", "purpose", "family", "Genesis"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": ["Genesis 37"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3533,
+      "type": "prayer",
+      "description": "Pastor Moore leads the congregation in an invitation prayer, encouraging those who feel lost or burdened to seek a relationship with Jesus. This heartfelt moment calls for personal reflection and a commitment to God's purpose.",
+      "keywords": ["prayer", "invitation", "commitment", "Jesus", "relationship"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3338,
+      "type": "prayer",
+      "description": "In the closing prayer, Pastor Moore asks for God's guidance for the congregation as they leave the service. He emphasizes the importance of living in accordance with God’s will and spreading His love to others.",
+      "keywords": ["closing", "prayer", "guidance", "congregation", "love"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Song Title]",
+      "start_time": 3372,
+      "type": "music",
+      "description": "The service concludes with a powerful congregational hymn, inviting everyone to join in celebration and worship. This final song encapsulates the message of the day, reinforcing the theme of purpose and community in faith.",
+      "keywords": ["hymn", "worship", "congregation", "celebration", "faith"],
+      "performers": ["[Congregation]"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    }
+  ]
+}

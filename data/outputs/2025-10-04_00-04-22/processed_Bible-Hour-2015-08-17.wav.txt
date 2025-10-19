@@ -1,0 +1,64 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: [Music Segment]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with a choir performance, filling the atmosphere with uplifting melodies. It's a moment for the congregation to engage in worship together, setting a reverent tone for the day. Music in church often serves to bring the community together in shared experience and expression of faith.",
+      "keywords": ["worship", "choir", "community", "praise"],
+      "performers": ["Choir"],
+      "songs": ["[Music Segment]"],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Nicolette's Story",
+      "start_time": 119,
+      "type": "testimony",
+      "description": "Nicolette Walters shares her personal testimony about overcoming a traumatic childhood filled with abuse and chaos. She expresses her journey towards healing through involvement in church and building community. Her message emphasizes the importance of vulnerability and connection, showcasing God's grace and the power of relationships in overcoming life's challenges.",
+      "keywords": ["testimony", "healing", "community", "faith", "grace"],
+      "performers": ["Nicolette Walters"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: If We're Honest",
+      "start_time": 466,
+      "type": "music",
+      "description": "A solo performance of 'If We're Honest' reflects themes of truth and vulnerability, inviting the congregation to consider their own brokenness. The song emphasizes the healing power of love and honesty in relationships, resonating with members' personal experiences and struggles.",
+      "keywords": ["vulnerability", "song", "individual", "healing"],
+      "performers": ["Francesca Battistelli"],
+      "songs": ["If We're Honest"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Stand Firm in Faith (Matthew 24)",
+      "start_time": 659,
+      "type": "sermon",
+      "description": "Rich Taverni delivers a sermon focusing on Matthew 24, discussing the challenges of faith and the importance of standing firm in one's beliefs amidst societal changes. He reflects on Jesus' teachings about false prophets and persecution, encouraging the congregation to serve others and uphold the principles of the gospel in their daily lives.",
+      "keywords": ["sermon", "faith", "Matthew", "persecution", "service"],
+      "performers": ["Rich Taverni"],
+      "songs": [],
+      "scripture_references": ["Matthew 24"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3534,
+      "type": "prayer",
+      "description": "The service concludes with an invitation prayer led by Rich Taverni. This prayer invites attendees to reflect on their personal faith and relationships with Christ, solidifying the day's message and encouraging spiritual commitment. It highlights the importance of prayer and seeking God's guidance in everyday life.",
+      "keywords": ["prayer", "invitation", "commitment", "faith"],
+      "performers": ["Rich Taverni"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Closing Music Segment]",
+      "start_time": 3541,
+      "type": "music",
+      "description": "As the service wraps up, the choir performs a closing music segment. This final song resonates with the congregation, leaving them with a sense of hope and community. Music serves as a powerful reminder of the day's messages and encourages reflection on their own journeys.",
+      "keywords": ["worship", "closing", "community", "hope"],
+      "performers": ["Choir"],
+      "songs": ["[Closing Music Segment]"],
+      "scripture_references": []
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: I Sing the Mighty Power of God",
+      "start_time": 62,
+      "type": "music",
+      "description": "The choir presents a heartfelt rendition of 'I Sing the Mighty Power of God,' joyfully celebrating God's creation and power. The song emphasizes God's majesty displayed in nature, inviting the congregation to reflect on His wonders. It serves as an uplifting prelude to the message that follows.",
+      "keywords": ["choir", "God", "creation", "power", "praise"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["I Sing the Mighty Power of God"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 580,
+      "type": "prayer",
+      "description": "A solemn opening prayer is offered, invoking God's presence and guidance for the service. The prayer seeks to prepare the hearts of the congregation for worship and reflection, creating a spiritual atmosphere central to the service's purpose.",
+      "keywords": ["prayer", "worship", "guidance", "spiritual"],
+      "performers": ["Nathan Jerima"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Psalm 8",
+      "start_time": 320,
+      "type": "scripture",
+      "description": "The congregation listens as Psalm 8 is read, praising the majesty of God and reflecting on the significance of humanity in God's creation. This scripture sets a foundation for the themes of gratitude and divine care that are further explored in the message.",
+      "keywords": ["Psalm 8", "majesty", "creation", "humanity"],
+      "performers": ["Mr. Hawks"],
+      "songs": [],
+      "scripture_references": ["Psalm 8"]
+    },
+    {
+      "title": "Trio: Love Us Thou Me More Than These",
+      "start_time": 409,
+      "type": "music",
+      "description": "A ladies' trio performs the poignant piece 'Love Us Thou Me More Than These,' exploring themes of devotion and love for God. This performance emphasizes the relational aspect of faith and the challenge of prioritizing love for God over worldly attachments.",
+      "keywords": ["trio", "devotion", "love", "God"],
+      "performers": ["Ladies' Trio"],
+      "songs": ["Love Us Thou Me More Than These"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Remembering God’s Faithfulness (Deuteronomy 8)",
+      "start_time": 1079,
+      "type": "sermon",
+      "description": "The sermon focuses on Deuteronomy 8, emphasizing the importance of remembering God's faithfulness as the Israelites prepared to enter the Promised Land. The message highlights God's guidance, provision, and calls the congregation to live in gratitude without forgetting their spiritual heritage.",
+      "keywords": ["sermon", "faithfulness", "gratitude", "Deuteronomy", "Israelites"],
+      "performers": ["Nathan Jerima"],
+      "songs": [],
+      "scripture_references": ["Deuteronomy 8"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3365,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, asking for God's blessing on the congregation as they depart. This prayer reflects on the message shared and seeks to instill a spirit of remembrance and faithfulness in the hearts of the attendees.",
+      "keywords": ["closing prayer", "blessing", "faithfulness"],
+      "performers": ["Nathan Jerima"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

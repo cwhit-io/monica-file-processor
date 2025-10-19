@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [God Performing a Miracle in the Christian's Life]",
+      "start_time": 579,
+      "type": "music",
+      "description": "The choir presents a heartfelt performance emphasizing God's miraculous work in believers' lives. The song's lyrics express desperation for divine intervention and the transformative power of faith. Its emotive themes resonate with the congregation, encouraging reflection on personal spiritual journeys.",
+      "keywords": ["choir", "miracle", "Christian", "faith", "God"],
+      "performers": ["Kevin Rowe"],
+      "songs": ["God Performing a Miracle in the Christian's Life"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Character in the Midst of Crisis (Daniel 2:17-49)",
+      "start_time": 900,
+      "type": "sermon",
+      "description": "Kelly Bird delivers an impactful sermon on managing crises based on Daniel chapter 2. He discusses faith, prayer, and the importance of looking to God during difficulties. Notably, Daniel models trust and integrity, emphasizing selflessness and courage to share God's truth amidst trials.",
+      "keywords": ["crisis", "faith", "prayer", "Daniel", "character"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Daniel 2:17-49"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3411,
+      "type": "prayer",
+      "description": "An opening prayer invites the congregation to engage in worship and reflect on the message. The pastor asks for God’s presence and guidance during the service, setting a tone of reverence and community among the attendees as they prepare their hearts.",
+      "keywords": ["prayer", "worship", "community", "guidance", "God"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3459,
+      "type": "prayer",
+      "description": "In closing, the pastor leads a heartfelt prayer reaffirming the message of faith and reliance on God. He encourages the congregation to seek strength in their relationship with Christ, emphasizing forgiveness and commitment, drawing attendees together in shared devotion.",
+      "keywords": ["prayer", "closing", "faith", "forgiveness", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

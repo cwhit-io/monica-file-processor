@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Victory in Jesus",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a vibrant choir rendition titled 'Victory in Jesus,' which sets an uplifting tone for the congregation. Under the direction of Mr. Pete Kobe, the choir performs this beloved hymn, reminding everyone of the victory found in their faith.",
+      "keywords": ["victory", "choir", "hymn", "faith"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Victory in Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Ephesians 5:25-32",
+      "start_time": 398,
+      "type": "scripture",
+      "description": "The congregation prepares their hearts for the message with a reading from Ephesians 5, verses 25 to 32. This scripture emphasizes the biblical call for husbands to love their wives as Christ loves the church, setting the stage for the sermon.",
+      "keywords": ["Ephesians", "scripture", "love", "husbands"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Ephesians 5:25-32"]
+    },
+    {
+      "title": "Message: God's Message to Men (Ephesians 5:25-32)",
+      "start_time": 484,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers a powerful sermon titled 'God's Message to Men,' focusing on the biblical command for husbands to love their wives. Emphasizing commitment, sacrifice, tenderness, and leadership, the pastor calls men to reflect Christ's love in their marriages. This engaging message offers profound insights into the nature of love and the importance of fulfilling spiritual responsibilities within the family.",
+      "keywords": ["sermon", "love", "commitment", "marriage", "Ephesians"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Ephesians 5:25-32"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3319,
+      "type": "prayer",
+      "description": "As the service comes to a close, Pastor Jeremiah leads a heartfelt closing prayer, thanking God for the message delivered and asking for His guidance and strength in implementing the lessons learned. This moment brings the congregation together in unity and reflection.",
+      "keywords": ["prayer", "closing", "unity", "reflection"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Gentle Music",
+      "start_time": 1451,
+      "type": "music",
+      "description": "Mr. Bill Pierce returns to bless the congregation with a solo performance. The gentle music creates a reflective atmosphere, allowing the congregation to meditate on the messages spoken earlier. His arrangement complements the day's themes and encourages a spirit of worship.",
+      "keywords": ["solo", "gentle", "music", "reflection"],
+      "performers": ["Mr. Bill Pierce"],
+      "songs": ["Gentle Music"],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Interview with Bill Pierce",
+      "start_time": 990,
+      "type": "interview",
+      "description": "In an engaging segment, Pastor Jeremiah interviews Mr. Bill Pierce about his ministry and the impact of his music. This discussion highlights how music serves as a powerful tool for sharing faith and encouraging listeners, showcasing the relationship between worship and outreach.",
+      "keywords": ["interview", "music", "ministry", "faith"],
+      "performers": ["Pastor David Jeremiah", "Mr. Bill Pierce"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Church Activities",
+      "start_time": 1489,
+      "type": "announcement",
+      "description": "Pastor Jeremiah shares updates on church activities, including the success of the junior high girls' basketball team in a recent tournament. This announcement fosters community spirit and participation among the congregation and encourages support for the youth.",
+      "keywords": ["announcement", "activities", "community", "youth"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: What Music I Hear In Your Name",
+      "start_time": 179,
+      "type": "music",
+      "description": "The Sanctuary Choir performs uplifting music that encourages the congregation to reflect on the greatness of God. The song captures the essence of praise and sets a joyful atmosphere for the service.",
+      "keywords": ["choir", "praise", "music", "worship", "joy"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["What Music I Hear In Your Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Praise Him, Praise Him",
+      "start_time": 511,
+      "type": "music",
+      "description": "The congregation joins in singing 'Praise Him, Praise Him,’ a hymn that exalts Jesus as Redeemer. The atmosphere is vibrant as attendees participate in this shared expression of faith through song.",
+      "keywords": ["hymn", "congregation", "worship", "Jesus", "faith"],
+      "performers": [],
+      "songs": ["Praise Him, Praise Him"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Trumpet Solo by Gary Kans",
+      "start_time": 721,
+      "type": "music",
+      "description": "Gary Kans captivates the audience with a brilliant trumpet solo that adds a rich musical layer to the service. His performance showcases his talent and dedication to serving through music.",
+      "keywords": ["solo", "trumpet", "music", "performance", "worship"],
+      "performers": ["Gary Kans"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Testimony: Always Triumphant",
+      "start_time": 1249,
+      "type": "music",
+      "description": "The high school girls perform a song that communicates a powerful message of victory and faith through trials. Their testimony through music resonates with the audience, encouraging a sense of hope.",
+      "keywords": ["testimony", "victory", "faith", "music", "hope"],
+      "performers": ["High school girls"],
+      "songs": ["Always Triumphant"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1444,
+      "type": "prayer",
+      "description": "The pastor leads an opening prayer, expressing gratitude for the morning, the musical testimonies, and seeking God's presence in the service. This moment emphasizes the communal aspect of worship.",
+      "keywords": ["prayer", "gratitude", "community", "worship", "God"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Blueprints for Conquering Kingdoms (James 1:19-27)",
+      "start_time": 1562,
+      "type": "sermon",
+      "description": "Associate Pastor Jim Pearson delivers a message about the necessity of being doers of the Word. He emphasizes key aspects from James that outline a blueprint for both personal and church growth, encouraging the congregation to actively apply their faith.",
+      "keywords": ["sermon", "James", "faith", "action", "church"],
+      "performers": ["Jim Pearson"],
+      "songs": [],
+      "scripture_references": ["James 1"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3423,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, encouraging those who feel the tug of salvation to respond. The pastor gently prompts attendees to consider their personal faith journey and the opportunity for commitment.",
+      "keywords": ["invitation", "prayer", "salvation", "commitment", "faith"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Prayer for Salvation",
+      "start_time": 3501,
+      "type": "music",
+      "description": "The service concludes with the pastor leading a prayer for salvation, inviting those who have made decisions to trust Christ. This moment encapsulates the service's themes, emphasizing the importance of faith in Jesus.",
+      "keywords": ["salvation", "prayer", "invitation", "faith", "commitment"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

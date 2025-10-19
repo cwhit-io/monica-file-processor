@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Draw Me Close",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a vibrant choir performance, inviting the congregation into worship. The lyrics express a longing for closeness with Jesus, emphasizing themes of devotion and surrender. This uplifting music sets the tone for the worship experience, encouraging participants to engage with their faith.",
+      "keywords": ["worship", "choir", "Jesus", "devotion", "closeness"],
+      "performers": ["Choir"],
+      "songs": ["Draw Me Close"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Blessed Be Your Name",
+      "start_time": 575,
+      "type": "music",
+      "description": "The choir leads the congregation in a heartfelt rendition of 'Blessed Be Your Name,' exploring themes of gratitude and praise amidst life's ups and downs. The song encourages everyone to remain steadfast in worship, regardless of their circumstances, reminding them of God's faithfulness.",
+      "keywords": ["worship", "choir", "gratitude", "praise", "faithfulness"],
+      "performers": ["Choir"],
+      "songs": ["Blessed Be Your Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 797,
+      "type": "prayer",
+      "description": "The service transitions into the opening prayer, inviting God's presence as the congregation prepares to engage in worship and teaching. The prayer emphasizes the need for divine guidance and a fresh encounter with God, setting a spiritual mood for the gathering.",
+      "keywords": ["prayer", "guidance", "worship", "presence", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Habakkuk 1",
+      "start_time": 979,
+      "type": "scripture",
+      "description": "A selected reading from the book of Habakkuk is presented, establishing a biblical foundation for the upcoming sermon. This passage highlights the prophet's struggles with injustice and God's responses, setting the scene for deeper exploration and understanding.",
+      "keywords": ["Habakkuk", "scripture", "reading", "injustice", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Habakkuk 1"]
+    },
+    {
+      "title": "Message: Embracing God's Hope (Habakkuk)",
+      "start_time": 988,
+      "type": "sermon",
+      "description": "The pastor delivers an insightful message on Habakkuk, exploring themes of questioning God's justice amidst life's struggles. He encourages the congregation to cry out to God, commit their lives into His hands, and celebrate the hope found in faith. The sermon emphasizes trusting God’s plan through difficult circumstances.",
+      "keywords": ["sermon", "Habakkuk", "hope", "faith", "justice"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Habakkuk 1"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3558,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, calling upon God to guide and strengthen the lives of everyone present. The congregation is encouraged to embrace hope and trust in God's plan as they leave the service, seeking to apply the message to their daily lives.",
+      "keywords": ["closing", "prayer", "guidance", "hope", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

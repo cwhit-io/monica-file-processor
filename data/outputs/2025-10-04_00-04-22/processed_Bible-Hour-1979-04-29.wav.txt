@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: A Mighty Fortress Is Our God, Like a River Glorious",
+      "start_time": 23,
+      "type": "music",
+      "description": "The Dimensions in Brass from Grace College perform a dynamic medley featuring 'A Mighty Fortress Is Our God' and 'Like a River Glorious.' Their powerful renditions uplift the congregation and set a reverent atmosphere for worship. The congregation is encouraged to express appreciation through worshipful clapping.",
+      "keywords": ["music", "worship", "choir", "performance", "grace college"],
+      "performers": ["Dimensions in Brass"],
+      "songs": ["A Mighty Fortress Is Our God", "Like a River Glorious"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: If My People",
+      "start_time": 1104,
+      "type": "music",
+      "description": "Soprano soloist Tammy Hyelman joins the Dimensions in Brass to perform the poignant piece 'If My People.' This heartfelt presentation encourages reflection on the power of communal prayer and seeking divine guidance.",
+      "keywords": ["solo", "soprano", "music", "worship", "tammy hyelman"],
+      "performers": ["Tammy Hyelman"],
+      "songs": ["If My People"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Acts 2",
+      "start_time": 1576,
+      "type": "scripture",
+      "description": "The passage from Acts 2 is read aloud, recounting the growth of the early church and the community's commitment to prayer, fellowship, and sharing their lives. This reading underscores the foundations of the church and sets the stage for the message to follow.",
+      "keywords": ["acts", "scripture", "early church", "community", "growth"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Acts 2"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1628,
+      "type": "prayer",
+      "description": "Pastor David Jeremiah leads the congregation in an opening prayer, expressing gratitude for the Word of God and asking for divine guidance. This prayer prepares the hearts of the attendees to receive the message and fosters a spirit of unity and reverence.",
+      "keywords": ["prayer", "opening", "congregation", "unity", "divine"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The First Church (Acts 2:41-47)",
+      "start_time": 1712,
+      "type": "sermon",
+      "description": "In a compelling sermon, Pastor David Jeremiah explores the foundational elements of the first church as described in Acts 2. He emphasizes the centrality of the Word of God, the importance of fellowship, breaking bread, and prayer. Through reflection on these themes, he challenges the congregation to align their church life with biblical principles.",
+      "keywords": ["sermon", "first church", "acts", "fellowship", "prayer"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Acts 2:41-47"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3371,
+      "type": "prayer",
+      "description": "As the sermon concludes, Pastor David Jeremiah invites those in the congregation who feel called to make a spiritual decision or commitment to do so through a heartfelt invitation prayer. This moment emphasizes the importance of personal responses to the teachings shared.",
+      "keywords": ["prayer", "invitation", "spiritual", "commitment", "pastor"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Closing Hymn",
+      "start_time": 3501,
+      "type": "music",
+      "description": "The service closes with the choir’s rendition of a final hymn, joyful and uplifting. This closing hymn acts as a send-off for the congregation, encouraging them to carry the message of the service into their daily lives.",
+      "keywords": ["closing", "hymn", "worship", "choir", "joyful"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Closing Hymn"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3530,
+      "type": "prayer",
+      "description": "Pastor David Jeremiah offers a closing prayer, thanking God for the time spent in worship and asking for guidance as the congregation goes forth. This prayer serves to solidify the themes of the service and encourage continued fellowship.",
+      "keywords": ["prayer", "closing", "worship", "congregation", "thanksgiving"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

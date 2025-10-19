@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Come Before Him",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with the choir singing 'Come Before Him.' The lyrics invite the congregation to bring their joys and sorrows to God, emphasizing the peace found in His presence. The music creates a reflective atmosphere, encouraging worshippers to prepare their hearts for the service.",
+      "keywords": ["choir", "worship", "song", "presence", "peace"],
+      "performers": ["Reflection"],
+      "songs": ["Come Before Him"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: He Is Able",
+      "start_time": 276,
+      "type": "music",
+      "description": "Lisa Reniker performs a solo titled 'He Is Able.' The song speaks of God's ability to handle life's challenges and uncertainties. It serves as a reminder to the congregation that God is always in control, even in difficult times.",
+      "keywords": ["solo", "God", "worship", "trust", "faith"],
+      "performers": ["Lisa Reniker"],
+      "songs": ["He Is Able"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Blackhawk Christian School Update",
+      "start_time": 748,
+      "type": "announcement",
+      "description": "Steve Longbreak shares updates about Blackhawk Christian School. He discusses student enrollment, openings in certain grades, and highlights the past summer activities of students. He expresses hope and excitement for the upcoming school year, inviting interested families to reach out for more information.",
+      "keywords": ["school", "enrollment", "students", "education", "community"],
+      "performers": ["Steve Longbreak"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Daniel 9",
+      "start_time": 1270,
+      "type": "scripture",
+      "description": "The congregation listens as Daniel 9 is read aloud. This prayer introduces key themes of repentance and seeking God’s mercy. The scripture sets the stage for the sermon, highlighting Daniel's earnest prayers on behalf of Israel, which emphasize God's sovereignty and grace.",
+      "keywords": ["scripture", "Daniel", "prayer", "repentance", "mercy"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Daniel 9"]
+    },
+    {
+      "title": "Message: Providence in Prayer (Daniel 9)",
+      "start_time": 1285,
+      "type": "sermon",
+      "description": "Tim Teder delivers a powerful sermon on 'Providence in Prayer.' He explores the relationship between God's sovereignty and human prayer, using Daniel's example to illustrate how prayer changes us, events, and can align with God's will. Tim shares personal reflections on loss, emphasizing trust in God’s plans while grappling with unanswered prayers.",
+      "keywords": ["sermon", "prayer", "providence", "Daniels", "faith"],
+      "performers": ["Tim Teder"],
+      "songs": [],
+      "scripture_references": ["Daniel 9"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3495,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Tim Teder. He prays for the congregation, urging them to trust in God's will and strength. This prayer encapsulates the themes of the service, inviting members to apply the sermon’s teachings in their lives.",
+      "keywords": ["prayer", "closing", "community", "worship", "trust"],
+      "performers": ["Tim Teder"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

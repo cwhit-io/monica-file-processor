@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: The Lord Thy God",
+      "start_time": 309,
+      "type": "music",
+      "description": "The sanctuary choir performs a vibrant and uplifting song, highlighting the mightiness of God. The lyrics emphasize God's ability to save and bring joy, inviting worshippers to rejoice in His presence. The choir's harmonious melody creates an atmosphere of praise and worship.",
+      "keywords": ["choir", "God", "joy", "worship", "praise"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["The Lord Thy God in the midst of thee is mighty"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Up, Stand Up for Jesus",
+      "start_time": 561,
+      "type": "music",
+      "description": "The congregation stands to sing 'Up, Stand Up for Jesus,' a powerful hymn that encourages believers to boldly proclaim their faith. The song's stirring message and lively rhythm uplift the congregation, fostering a spirit of unity and determination in their walk with Christ.",
+      "keywords": ["hymn", "faith", "courage", "congregation", "worship"],
+      "performers": [],
+      "songs": ["Up, Stand Up for Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: He's the One",
+      "start_time": 876,
+      "type": "music",
+      "description": "A heartfelt solo is presented, reflecting on the transformative power of Jesus. The lyrics convey a message of hope and reliance on Christ, celebrating His ability to heal and guide believers through life's challenges. The soloist’s performance captivates the audience and inspires worship.",
+      "keywords": ["solo", "Jesus", "hope", "transformation", "faith"],
+      "performers": ["Susan Toyrap"],
+      "songs": ["He's the One"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Colossians 4-6",
+      "start_time": 1601,
+      "type": "scripture",
+      "description": "The congregation participates in a recitation of Colossians 4:6, focusing on the importance of grace-filled conversation. This reading encourages believers to engage thoughtfully and charitably with others, reinforcing the theme of love and wisdom in daily interactions.",
+      "keywords": ["scripture", "Colossians", "grace", "wisdom", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Colossians 4-6"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1623,
+      "type": "prayer",
+      "description": "A poignant opening prayer is offered, inviting God's presence into the service. The pastor expresses gratitude and asks for clarity and spiritual refreshment for all attendees. This moment of prayer sets a solemn and reflective tone for the gathering.",
+      "keywords": ["prayer", "worship", "presence", "gratitude", "service"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: When Your Past Comes Back (Philemon)",
+      "start_time": 1819,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a compelling sermon exploring the theme of confronting one's past through the lens of Philemon. He emphasizes the importance of facing past mistakes with integrity and seeking reconciliation. The message challenges listeners to embrace forgiveness and the transformative power of Christ.",
+      "keywords": ["sermon", "forgiveness", "reconciliation", "Philemon", "past"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Philemon"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3564,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer. The pastor prays for those who have made spiritual decisions during the service, asking for God's guidance in their new faith journey. This prayer reflects the community's support and commitment to spiritual growth.",
+      "keywords": ["prayer", "closing", "faith", "community", "support"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Church Events",
+      "start_time": 1081,
+      "type": "announcement",
+      "description": "Important announcements concerning future church events are shared, including a dedication celebration for the new building. Inviting attendees to participate fosters community engagement and excitement for upcoming activities. Details about performances and guest speakers are also provided.",
+      "keywords": ["announcement", "events", "dedication", "community", "church"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: We Will Not Be Shaken",
+      "start_time": 252,
+      "type": "music",
+      "description": "The choir leads a powerful worship session with the song 'We Will Not Be Shaken.' The lyrics emphasize faith and strength in God amidst life's challenges, reflecting a firm belief in His support and presence. It's a rallying cry for the congregation to stand strong together in their faith.",
+      "keywords": ["choir", "worship", "faith", "strength", "God"],
+      "performers": ["Black Hawk Ministries Choir"],
+      "songs": ["We Will Not Be Shaken"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Identity of Jesus (John 5, John 8, Matthew 3)",
+      "start_time": 1154,
+      "type": "sermon",
+      "description": "The sermon explores the identity of Jesus Christ, affirming His dual nature as both fully God and fully man. The discussion includes references from scripture, particularly focusing on Jesus' claims about Himself and the implications for believers. It emphasizes the importance of understanding Jesus correctly and how this forms the foundation of faith.",
+      "keywords": ["Jesus", "identity", "God", "sermon", "Christianity"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["John 5", "John 8", "Matthew 3"]
+    },
+    {
+      "title": "Choir: Running to Your Arms",
+      "start_time": 3212,
+      "type": "music",
+      "description": "The choir concludes the service with a heartfelt rendition of 'Running to Your Arms.' This worship song encapsulates themes of surrender, love, and reliance on God. It invites the congregation to experience the richness of God's love and to run to Him in every circumstance.",
+      "keywords": ["worship", "choir", "love", "surrender", "God"],
+      "performers": ["Black Hawk Ministries Choir"],
+      "songs": ["Running to Your Arms"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3218,
+      "type": "prayer",
+      "description": "The closing prayer serves as a moment for the congregation to reflect on the message shared during the service. It asks for God's guidance and strength as they seek to live out the truths revealed about Jesus. The prayer encapsulates the themes of faith, hope, and community as they part ways.",
+      "keywords": ["prayer", "closing", "community", "faith", "hope"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

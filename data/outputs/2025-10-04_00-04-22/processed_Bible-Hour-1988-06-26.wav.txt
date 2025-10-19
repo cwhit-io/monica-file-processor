@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: The Cross of Christ",
+      "start_time": 161,
+      "type": "music",
+      "description": "The choir presents a powerful rendition reflecting on the significance of the cross, which serves as the gateway to God's kingdom. The lyrics emphasize the finality of Christ's sacrifice and invite the congregation to contemplate the promise of salvation and eternal life.",
+      "keywords": ["cross", "sacrifice", "salvation", "choir", "kingdom"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["The Cross of Christ"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: We Will Sing the Banner of the Cross",
+      "start_time": 570,
+      "type": "music",
+      "description": "The congregation joins in singing a hymn that celebrates the triumph of Christ's banner and the call to follow Him. The lyrics encourage believers to proclaim their faith with joy and unity, symbolizing their commitment to God's message.",
+      "keywords": ["hymn", "faith", "unity", "banner", "salvation"],
+      "performers": [],
+      "songs": ["We Will Sing the Banner of the Cross"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Children Lift Your Voices",
+      "start_time": 725,
+      "type": "music",
+      "description": "Kathy performs a heartfelt solo that inspires the congregation to recognize God's providence and intervention in their lives. The song narrates the story of God's faithfulness, encouraging listeners to lift their voices in praise and trust.",
+      "keywords": ["Kathy Hawks", "faithfulness", "solo", "providing", "trust"],
+      "performers": ["Kathy Hawks"],
+      "songs": ["Children Lift Your Voices"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: There Is No Greater Love",
+      "start_time": 1145,
+      "type": "music",
+      "description": "The solo by Kathy unfolds the profound message of God's love through Christ. The lyrics speak of sacrificial love and the call for believers to extend that love to others, emphasizing unity and compassion in their community.",
+      "keywords": ["Kathy Hawks", "love", "sacrifice", "unity", "compassion"],
+      "performers": ["Kathy Hawks"],
+      "songs": ["There Is No Greater Love"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Peace with God (Colossians 1:21-23)",
+      "start_time": 1950,
+      "type": "sermon",
+      "description": "Pastor Rick Cox delivers a powerful message on the theme of reconciliation with God as outlined in Colossians. He illustrates how spiritual alienation leads to a need for reconciliation, emphasizing Christ's role in bridging that gap and highlighting the implications for believers today.",
+      "keywords": ["reconciliation", "Colossians", "peace", "alienation", "Christ"],
+      "performers": ["Pastor Rick Cox"],
+      "songs": [],
+      "scripture_references": ["Colossians 1:21-23"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3530,
+      "type": "prayer",
+      "description": "An invitation prayer is offered by the pastor, encouraging attendees to reflect on their relationship with God and consider accepting Christ. This moment is marked by a genuine appeal for personal connection and commitment to faith.",
+      "keywords": ["invitation", "prayer", "commitment", "faith", "relationship"],
+      "performers": ["Pastor Rick Cox"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Rick's Return from Jamaica",
+      "start_time": 1300,
+      "type": "testimony",
+      "description": "Rick shares heartfelt testimonies from his recent mission trip to Jamaica, recounting the powerful experiences and transformations witnessed. He expresses gratitude for the church's support and highlights the impact of their collective efforts in spreading the Gospel.",
+      "keywords": ["testimony", "Jamaica", "mission", "transformation", "Gospel"],
+      "performers": ["Rick Cox"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Bible Conference Invitation",
+      "start_time": 1610,
+      "type": "announcement",
+      "description": "An announcement is made regarding an upcoming summer Bible Conference featuring Dr. George Sweeting. The speaker's background is shared to encourage the community to attend and deepen their understanding of God's Word.",
+      "keywords": ["Bible Conference", "George Sweeting", "invitation", "community", "Word"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

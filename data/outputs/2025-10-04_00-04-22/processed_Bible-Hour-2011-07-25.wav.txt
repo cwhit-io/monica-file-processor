@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Your Grace is Enough",
+      "start_time": 276,
+      "type": "music",
+      "description": "The choir performs 'Your Grace is Enough', a powerful anthem that emphasizes God's grace and faithfulness. The lyrics encourage the congregation to remember God's promises and faithfulness in their lives. This song calls the faithful to praise God for His unending grace and love.",
+      "keywords": ["grace", "choir", "worship", "God", "faithfulness"],
+      "performers": ["[]"],
+      "songs": ["Your Grace is Enough"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Congregational Hymn: Your Grace is Enough",
+      "start_time": 573,
+      "type": "music",
+      "description": "The congregation joins in singing 'Your Grace is Enough', reflecting a unified worship experience. As they sing, the message of reliance on God's grace permeates the atmosphere, uplifting and encouraging everyone present. This hymn serves as a reminder of God's steadfast love and support.",
+      "keywords": ["hymn", "congregation", "grace", "worship", "God"],
+      "performers": ["[]"],
+      "songs": ["Your Grace is Enough"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Message: Waiting on the Lord (Psalm 40)",
+      "start_time": 1098,
+      "type": "sermon",
+      "description": "Pastor Steve Webster delivers a profound sermon based on Psalm 40, focusing on the importance of waiting on the Lord. He emphasizes the journey from desperation to deliverance, highlighting God's faithfulness through personal anecdotes and biblical references. The message encourages the congregation to trust in God's timing and to recognize His goodness through trials.",
+      "keywords": ["sermon", "waiting", "God", "deliverance", "trust"],
+      "performers": ["Steve Webster"],
+      "songs": ["[]"],
+      "scripture_references": ["Psalm 40"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1346,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting God's presence into the gathering. The prayer reflects a heart of gratitude and a spirit of worship, asking for guidance and blessings on the service and the congregation. It sets a reverent tone for the worship experience.",
+      "keywords": ["prayer", "worship", "congregation", "guidance", "blessing"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "scripture: Scripture Reading: Psalm 40",
+      "start_time": 1185,
+      "type": "scripture",
+      "description": "A reading of Psalm 40 is conducted, highlighting its themes of waiting for God's deliverance and expressing trust in His faithfulness. The passage invites reflection on personal circumstances and encourages listeners to see themselves in the psalmist's journey. This reading serves as a foundation for the sermon message.",
+      "keywords": ["scripture", "Psalms", "reading", "trust", "faithfulness"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["Psalm 40"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3339,
+      "type": "prayer",
+      "description": "An invitation prayer encourages individuals to respond to the message of hope and grace. The prayer invites the congregation to seek a deeper relationship with God, to trust Him in difficult times, and to accept His promises. It emphasizes God's desire for a personal connection with each believer.",
+      "keywords": ["invitation", "prayer", "faith", "relationship", "trust"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Choir: Psalm 98",
+      "start_time": 3498,
+      "type": "music",
+      "description": "The choir concludes the service with a performance of 'Psalm 98', celebrating God's marvelous deeds and inviting all to join in worship. The uplifting melody and powerful lyrics resonate with the congregation, reinforcing the message of God's salvation and righteousness. This performance serves as a joyful response to the morning's teachings.",
+      "keywords": ["song", "choir", "Psalm 98", "worship", "celebration"],
+      "performers": ["[]"],
+      "songs": ["Psalm 98"],
+      "scripture_references": ["Psalm 98"]
+    }
+  ]
+}
+```

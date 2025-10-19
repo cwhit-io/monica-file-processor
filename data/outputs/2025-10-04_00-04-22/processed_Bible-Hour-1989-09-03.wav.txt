@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Praise God, the Lord of Hosts",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a beautiful foreign language song performed by the choir, setting a reverent tone for the worship hour. This opening piece is designed to draw the congregation's hearts towards worship, inviting them into a shared spiritual experience.",
+      "keywords": ["choir", "praise", "worship", "song", "foreign language"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Praise God, the Lord of Hosts"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 31,
+      "type": "prayer",
+      "description": "An opening prayer is offered to the Father in Heaven, acknowledging human frailty and the need for divine strength and guidance. This heartfelt prayer sets the tone for the worship service, inviting God's presence among the congregation.",
+      "keywords": ["prayer", "worship", "faith", "guidance", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: I Serve a Risen Savior",
+      "start_time": 272,
+      "type": "music",
+      "description": "Kathy Hawks performs a soulful solo, 'I Serve a Risen Savior,' which reflects the joy and hope found in faith. This piece encourages the congregation to focus on the resurrection and its significance in their lives.",
+      "keywords": ["solo", "Kathy Hawks", "worship", "savior", "hope"],
+      "performers": ["Kathy Hawks"],
+      "songs": ["I Serve a Risen Savior"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Gentle Piano Music",
+      "start_time": 551,
+      "type": "music",
+      "description": "Kathy Hawks continues to minister through gentle piano music that provides a serene backdrop for reflection and prayer. This calming piece allows the congregation to quietly ponder their personal faith journeys.",
+      "keywords": ["piano", "gentle music", "reflection", "worship", "serenity"],
+      "performers": ["Kathy Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: A Layman Who Walked When Strong Men Stumbled (Mark 2:1-12)",
+      "start_time": 1204,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a compelling sermon from Mark 2:1-12, focusing on the healing of a paralytic and the varying responses to Jesus’ miracles. He invites listeners to reflect on their faith, emphasizing the need for spiritual rather than just physical healing. The message encourages bringing others to Jesus despite challenges.",
+      "keywords": ["sermon", "healing", "faith", "Jesus", "Mark"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Mark 2:1-12"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3512,
+      "type": "prayer",
+      "description": "A heartfelt invitation prayer is offered, encouraging individuals to respond to the message shared. The prayer emphasizes God’s desire to bring healing and forgiveness to all who come to Him, fostering an atmosphere of openness and commitment.",
+      "keywords": ["invitation", "prayer", "healing", "forgiveness", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Ending Chorus: A Layman Walked When Strong Men Stumbled",
+      "start_time": 3601,
+      "type": "music",
+      "description": "The service concludes with a reflective musical piece echoing the sermon’s theme. Participants are invited to join the choir in singing a chorus which encapsulates the message of hope and redemption shared throughout the service.",
+      "keywords": ["choir", "music", "worship", "conclusion", "hope"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["A Layman Walked When Strong Men Stumbled"],
+      "scripture_references": []
+    }
+  ]
+}
+```

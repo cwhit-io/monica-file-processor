@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Praise Him",
+      "start_time": 122,
+      "type": "music",
+      "description": "The sanctuary choir and orchestra lead us in a spirited rendition of 'Praise Him'. This uplifting song sets the tone for the service, inviting everyone to join in worship. As the music fills the sanctuary, the congregation is encouraged to reflect on God's greatness and love.",
+      "keywords": ["praise", "choir", "worship", "music", "joy"],
+      "performers": ["Sanctuary Choir and Orchestra"],
+      "songs": ["Praise Him"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: How Great Thou Art",
+      "start_time": 385,
+      "type": "music",
+      "description": "The congregation joins together to sing 'How Great Thou Art'. As voices merge in harmony, they proclaim the majesty of God, reflecting on His creations. The hymn resonates deeply, reminding us of our gratitude for God's presence and power in our lives.",
+      "keywords": ["hymn", "greatness", "congregation", "God", "thankfulness"],
+      "performers": [],
+      "songs": ["How Great Thou Art"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Pomp and Circumstance",
+      "start_time": 433,
+      "type": "music",
+      "description": "Starr Brodagum performs a solo version of 'Pomp and Circumstance'. The delicate notes create a reflective atmosphere, inviting the congregation to meditate on the accompanying visuals of celebration. This piece enhances the reverent ambiance within the service.",
+      "keywords": ["solo", "pomp", "meditative", "celebration"],
+      "performers": ["Starr Brodagum"],
+      "songs": ["Pomp and Circumstance"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Lord is at Hand (Philippians 4)",
+      "start_time": 1352,
+      "type": "sermon",
+      "description": "Dr. Charles Wagner delivers a powerful sermon based on Philippians 4, focusing on the theme of God's constant presence in our lives. He discusses overcoming worry through prayer and thanksgiving, emphasizing that our strength and joy come from recognizing that the Lord is always with us. With a connection to various Bible stories, he illustrates how faith can help us face life's trials.",
+      "keywords": ["Wagner", "sermon", "faith", "presence", "Philippians"],
+      "performers": ["Dr. Charles Wagner"],
+      "songs": [],
+      "scripture_references": ["Philippians 4"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3485,
+      "type": "prayer",
+      "description": "A heartfelt invitation prayer is offered, encouraging those present to seek a personal relationship with Jesus Christ. The prayer focuses on forgiveness and acceptance, drawing individuals toward spiritual renewal and commitment to faith. This moment acts as a beacon for those feeling lost or burdened.",
+      "keywords": ["prayer", "invitation", "commitment", "forgiveness"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Lessons on Assurance",
+      "start_time": 3504,
+      "type": "music",
+      "description": "The service concludes with a reflective solo performance, enhancing the theme of assurance in faith. This poignant moment encourages contemplation on one's relationship with God and the importance of embracing His presence in our everyday lives.",
+      "keywords": ["solo", "assurance", "faith", "reflection"],
+      "performers": ["Starr Brodagum"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

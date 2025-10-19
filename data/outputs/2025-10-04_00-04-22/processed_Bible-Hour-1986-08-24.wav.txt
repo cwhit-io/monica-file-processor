@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Purous Praise",
+      "start_time": 282,
+      "type": "music",
+      "description": "The sanctuary choir presents the song 'Purous Praise,' sharing a spirit of worship and celebration through their music. This piece emphasizes the beauty of praising God in community and the uplifting nature of choir performances.",
+      "keywords": ["choir", "praise", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Purous Praise"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: All Praise Thee",
+      "start_time": 461,
+      "type": "music",
+      "description": "The congregation joins together to sing hymn number 46, 'All Praise Thee, O God Our Redeemer.' This congregational hymn fosters a sense of unity and collective worship as members lift their voices in gratitude.",
+      "keywords": ["hymn", "congregation", "praise", "worship"],
+      "performers": [],
+      "songs": ["All Praise Thee, O God Our Redeemer"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Higher Ground",
+      "start_time": 611,
+      "type": "music",
+      "description": "Kevin Rowe performs a solo entitled 'Higher Ground,' encouraging listeners to seek spiritual elevation and perseverance in their faith journey. The upbeat rendition inspires joy and hope in the congregation.",
+      "keywords": ["solo", "higher ground", "faith", "inspiration"],
+      "performers": ["Kevin Rowe"],
+      "songs": ["Higher Ground"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1284,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, expressing gratitude for the day, for God's shelter and strength, and for encouragement to those facing challenges. This prayer sets a reflective tone for the worship service.",
+      "keywords": ["prayer", "gratitude", "strength", "refuge"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Corinthians 13",
+      "start_time": 1391,
+      "type": "scripture",
+      "description": "The scripture reading focuses on select verses from 1 Corinthians 13, highlighting the profound definition of love through the Apostle Paul's words. This sacred reading emphasizes the attributes of love that believers are called to embody.",
+      "keywords": ["scripture", "1 Corinthians", "love"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 13:4-8"]
+    },
+    {
+      "title": "Message: Patience, Refusing to Strike Back (1 Corinthians 13)",
+      "start_time": 1376,
+      "type": "sermon",
+      "description": "Pastor Rick delivers an insightful sermon on 'Patience, Refusing to Strike Back,' focusing on 1 Corinthians 13. He explores the meaning of love as described in scripture and challenges the congregation to demonstrate patience, especially toward those who wrong them.",
+      "keywords": ["sermon", "patience", "love", "forgiveness"],
+      "performers": ["Pastor Rick Oms"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 13"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3492,
+      "type": "prayer",
+      "description": "An invitation prayer is shared, encouraging individuals to make a personal commitment to Christ. This prayer invites listeners to open their hearts to God's love and grace, emphasizing the importance of faith and surrender.",
+      "keywords": ["invitation", "commitment", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Special Music",
+      "start_time": 3551,
+      "type": "music",
+      "description": "The service features a solo performance capturing the essence of spiritual reflection and commitment. The music serves as a heartfelt expression of worship, encouraging deeper engagement with the message delivered.",
+      "keywords": ["solo", "spiritual", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

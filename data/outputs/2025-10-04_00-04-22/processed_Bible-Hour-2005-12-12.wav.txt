@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Message: How's Your Life? (Genesis 1:27-30)",
+      "start_time": 191,
+      "type": "sermon",
+      "description": "In this sermon, the pastor discusses life's fundamental questions through the lens of stewardship and biblical desires. He emphasizes the importance of recognizing the condition of our hearts in relation to our desires for significance, contentment, control, and security, rooted in Genesis. The message encourages the congregation to examine their lives and prioritize their relationship with Christ over material possessions.",
+      "keywords": ["life", "stewardship", "significance", "contentment", "control", "security"],
+      "performers": ["Mitch", "Kelly"],
+      "songs": [],
+      "scripture_references": ["Genesis 1:27-30"]
+    },
+    {
+      "title": "Choir: Silent Night",
+      "start_time": 445,
+      "type": "music",
+      "description": "The choir performs 'Silent Night', a beloved Christmas carol that reflects on the peace and hope brought by the birth of Jesus. The soothing melody invites the congregation to meditate on the significance of this holy night and the Savior's arrival into the world.",
+      "keywords": ["silent night", "Christmas", "carol", "choir", "peace"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Silent Night"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Jerusalem, What Will You Miss?",
+      "start_time": 567,
+      "type": "music",
+      "description": "The choir continues with 'Jerusalem, What Will You Miss?', emphasizing the urgency of recognizing Jesus in our lives and the call to be vigilant in faith. This poignant piece reflects on the consequences of spiritual complacency and the need to awaken our hearts to God's presence.",
+      "keywords": ["Jerusalem", "Jesus", "vigilance", "faith", "choir"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Jerusalem, What Will You Miss?"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 680,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting God’s presence and guidance for the worship and learning that will take place. The pastor encourages the congregation to open their hearts to receive God’s word and to be transformed through it.",
+      "keywords": ["prayer", "worship", "gathering", "community", "God's presence"],
+      "performers": ["Mitch"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Christmas Medley",
+      "start_time": 3552,
+      "type": "music",
+      "description": "The service features a solo performance of a Christmas medley, celebrating the joy and hope of the Christmas season. The artist brings heartfelt emotion to familiar hymns, inviting the congregation to reflect on the meaning of Christmas.",
+      "keywords": ["Christmas", "medley", "solo", "joy", "hope"],
+      "performers": ["Corbin"],
+      "songs": ["Christmas Medley"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3582,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for the messages shared and for the opportunity to gather as a community. The pastor prays for the congregation to carry the message of hope and salvation into their lives and interactions with others.",
+      "keywords": ["closing prayer", "gratitude", "community", "hope", "salvation"],
+      "performers": ["Mitch"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

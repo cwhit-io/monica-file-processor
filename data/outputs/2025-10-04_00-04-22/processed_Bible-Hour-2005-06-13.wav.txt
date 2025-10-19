@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Rock of Ages",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir leads the congregation in a heartfelt rendition of 'Rock of Ages' highlighting the themes of faith and reliance on God's strength during life's storms.",
+      "keywords": ["rock of ages", "faith", "choir", "worship", "strength"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Rock of Ages"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 373,
+      "type": "prayer",
+      "description": "The pastor offers an opening prayer, inviting God’s presence and guidance during the service, asking that hearts be open to His word and teachings.",
+      "keywords": ["prayer", "opening", "guidance", "community", "worship"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: My Hope is Built",
+      "start_time": 389,
+      "type": "music",
+      "description": "The congregation joins in singing 'My Hope is Built', a powerful hymn reaffirming trust in Jesus as the solid foundation and anchor for life.",
+      "keywords": ["hymn", "hope", "congregation", "worship", "jesus"],
+      "performers": ["Congregation"],
+      "songs": ["My Hope is Built"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Moving from Fear to Faith (1 Peter 3:13-17)",
+      "start_time": 600,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird delivers a compelling sermon based on 1 Peter 3, discussing how faith can triumph over fear. He outlines four common fears that hinder evangelism and emphasizes the necessity of serving others with gentleness and respect as a demonstration of faith.",
+      "keywords": ["fear", "faith", "evangelism", "1 Peter 3", "leadership"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["1 Peter 3:13-17"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3364,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, giving congregants an opportunity to reflect on their relationship with God and to accept His grace and salvation in their lives.",
+      "keywords": ["invitation", "prayer", "salvation", "reflection", "grace"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Because of This",
+      "start_time": 637,
+      "type": "music",
+      "description": "A soloist performs 'Because of This', expressing the transformational power of faith and the reasons to rejoice even in challenging circumstances.",
+      "keywords": ["solo", "music", "faith", "transformation", "worship"],
+      "performers": ["Soloist"],
+      "songs": ["Because of This"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 771,
+      "type": "prayer",
+      "description": "In closing prayer, the pastor thanks God for the messages shared and asks for strength to live out the faith discussed, reminding the congregation to walk in His ways.",
+      "keywords": ["closing", "prayer", "strength", "faith", "community"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 800,
+      "type": "announcement",
+      "description": "The pastor shares announcements regarding upcoming events at the church, encouraging participation and community engagement.",
+      "keywords": ["announcement", "events", "community", "participation"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

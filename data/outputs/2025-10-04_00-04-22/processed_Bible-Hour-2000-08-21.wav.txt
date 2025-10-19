@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: I Adore Thee",
+      "start_time": 171,
+      "type": "music",
+      "description": "The choir performs 'I Adore Thee', expressing deep reverence and love for God. The repetition in the song emphasizes the community worshiping together in harmony. This moment invites the congregation to reflect on their relationship with God and join in worship.",
+      "keywords": ["choir", "worship", "God", "praise", "I Adore Thee"],
+      "performers": ["Choir"],
+      "songs": ["I Adore Thee"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 598,
+      "type": "prayer",
+      "description": "Marsha leads the congregation in an opening prayer, where she expresses gratitude for God's unwavering love and faithfulness. The prayer sets the tone for the service, inviting everyone to open their hearts and engage with the worship experience.",
+      "keywords": ["prayer", "worship", "gratitude", "community", "God"],
+      "performers": ["Marsha"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Heart of the Family (1 Samuel 16)",
+      "start_time": 1051,
+      "type": "sermon",
+      "description": "The pastor discusses the significance of the heart in family dynamics, referencing 1 Samuel 16 to illustrate how God looks beyond outward appearances to the heart. He emphasizes the importance of inner qualities in family relationships and encourages introspection about personal heart conditions.",
+      "keywords": ["family", "heart", "1 Samuel", "message", "God"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["1 Samuel 16"]
+    },
+    {
+      "title": "Congregational Hymn: I Will Never Be the Same Again",
+      "start_time": 3167,
+      "type": "music",
+      "description": "The congregation joins together to sing 'I Will Never Be the Same Again', celebrating the transformative power of faith. This joyful hymn reflects the commitment to move forward in faith, emphasizing a united voice in worship and the promise of new beginnings.",
+      "keywords": ["congregational", "hymn", "transformation", "faith", "worship"],
+      "performers": [],
+      "songs": ["I Will Never Be the Same Again"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3404,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for His grace and for the opportunity to gather in worship. The prayer reinforces the message of the sermon and encourages the congregation to carry the lessons learned into their daily lives.",
+      "keywords": ["closing prayer", "grace", "community", "worship", "God"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with upbeat music that sets a lively tone for the congregation. This music encourages the congregation to engage and participate in the worship experience, uplifting spirits and creating a sense of community among the attendees.",
+      "keywords": ["worship", "music", "uplifting", "community", "engagement"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Deserts and Trials",
+      "start_time": 121,
+      "type": "music",
+      "description": "After an introduction, the choir leads a musical piece that transitions into themes of facing life's deserts and trials. The music echoes the sentiments of perseverance and faith amidst challenging circumstances, resonating with the congregation's experiences.",
+      "keywords": ["choir", "desert", "trials", "perseverance", "faith"],
+      "performers": ["Choir"],
+      "songs": ["Desert Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Prayer in the Desert",
+      "start_time": 811,
+      "type": "music",
+      "description": "The congregation joins in singing 'Prayer in the Desert', focusing on themes of faith during difficult times. The lyrics reflect the congregation's commitment to bringing prayers and praises even in hardship, fostering a sense of unity and shared faith.",
+      "keywords": ["congregational", "hymn", "prayer", "unity", "hardship"],
+      "performers": [],
+      "songs": ["Prayer in the Desert"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Celebration and Harvest",
+      "start_time": 969,
+      "type": "music",
+      "description": "The choir performs again, celebrating the theme of harvest in the Christian life. This piece emphasizes the joy of reaping the rewards of faith and hard work while encouraging attendees to remain active in their spiritual growth.",
+      "keywords": ["choir", "celebration", "harvest", "reward", "spiritual growth"],
+      "performers": ["Choir"],
+      "songs": ["Harvest Celebration"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1222,
+      "type": "prayer",
+      "description": "An opening prayer is offered to invite God's presence into the service. The prayer focuses on understanding God's love and the importance of worship, setting a reverent and anticipatory atmosphere for the rest of the service.",
+      "keywords": ["prayer", "invocation", "worship", "God's love", "reverence"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Riding the Morning Slide (Nehemiah)",
+      "start_time": 1290,
+      "type": "sermon",
+      "description": "The sermon focuses on Nehemiah and the concept of mourning and resilience in the face of trials. The message delves into personal stories and biblically rooted principles, emphasizing the importance of seeking growth through adversity and God's guidance in life's challenges.",
+      "keywords": ["sermon", "Nehemiah", "mourning", "resilience", "trials"],
+      "performers": ["Quentin Foppel"],
+      "songs": [],
+      "scripture_references": ["Nehemiah 1", "Matthew 5:6", "1 Peter 1:7"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3502,
+      "type": "prayer",
+      "description": "A closing prayer wraps up the service, reinforcing the themes discussed during the sermon. It asks for divine help for the congregation members facing personal struggles, encouraging them to lean on God's strength and guidance in their lives.",
+      "keywords": ["closing", "prayer", "guidance", "strength", "support"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

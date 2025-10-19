@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Congregational Hymn: [Theme Songs]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with uplifting music that sets the tone for worship. Attendees are encouraged to join in singing, creating an atmosphere of communal praise and reverence.",
+      "keywords": ["worship", "praise", "community", "music", "congregational"],
+      "performers": [],
+      "songs": ["Theme Songs"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Worship Songs]",
+      "start_time": 622,
+      "type": "music",
+      "description": "The choir presents a powerful selection of worship songs, inviting the congregation to reflect on the themes of faith and divine love. This segment deepens the spiritual experience through heartfelt melodies.",
+      "keywords": ["choir", "worship", "faith", "music", "congregation"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["Worship Songs"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: God Wants You Happy (Matthew 5:1-12)",
+      "start_time": 784,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird shares insights from Matthew 5, emphasizing God's true definition of happiness through the beatitudes. He reflects on spiritual poverty and the heart of true joy defined by deep, lasting relationship with Christ.",
+      "keywords": ["happiness", "beatitudes", "Matthew", "God", "faith"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Matthew 5:1-12"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1431,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, inviting the congregation to prepare their hearts for worship and to seek God's guidance throughout the service. This moment emphasizes humility and openness to God’s spirit.",
+      "keywords": ["prayer", "worship", "humility", "guidance", "spirit"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Community Member: [Encouragement]",
+      "start_time": 2913,
+      "type": "testimony",
+      "description": "A community member shares a personal testimony about experiencing God's happiness and presence in their life. Their story encourages others to seek a deep relationship with God that leads to true joy.",
+      "keywords": ["testimony", "community", "encouragement", "faith", "God"],
+      "performers": ["Community Member"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Closing Hymn]",
+      "start_time": 3011,
+      "type": "music",
+      "description": "The choir concludes the service with a closing hymn, promoting reflection on the day's themes of love, faith, and happiness in God. This final performance sends the congregation away with uplifting spirit.",
+      "keywords": ["choir", "hymn", "closing", "worship", "music"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["Closing Hymn"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3024,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, thanking God for his presence and the messages shared. Worshippers are sent out with reminders of God's love and the importance of seeking true happiness through Him.",
+      "keywords": ["prayer", "closing", "thanksgiving", "worship", "God"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 3039,
+      "type": "announcement",
+      "description": "Important announcements about upcoming events and opportunities for community involvement are shared with the congregation. This includes ways to connect further with the church and its missions.",
+      "keywords": ["announcement", "events", "community", "involvement", "church"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

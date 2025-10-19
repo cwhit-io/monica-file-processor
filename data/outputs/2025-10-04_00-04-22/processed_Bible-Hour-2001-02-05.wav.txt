@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: This King",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with a choir performance of 'This King', setting a reverent atmosphere for worship. The congregation joins in, reflecting on the majesty and meaning behind the song's lyrics, which speak of Jesus as King and the redemption He offers.",
+      "keywords": ["king", "choir", "worship", "Jesus", "redemption"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["This King"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Church Involvement",
+      "start_time": 10,
+      "type": "announcement",
+      "description": "A brief introduction to the church service emphasizes the community involvement and volunteer efforts that help create a meaningful worship experience. Various ministry members share their appreciation and roles, encouraging more participation from the congregation.",
+      "keywords": ["community", "involvement", "ministry", "participation", "service"],
+      "performers": ["Eric Hall"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: This King",
+      "start_time": 583,
+      "type": "music",
+      "description": "The choir performs again, leading the congregation in a powerful rendition of 'This King'. This segment serves as a reminder of God’s grace and sovereignty, compelling the attendees to reflect on their relationship with Him.",
+      "keywords": ["king", "worship", "grace", "Jesus", "choir"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["This King"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: A New Perspective (Acts 10:23-48)",
+      "start_time": 837,
+      "type": "sermon",
+      "description": "The sermon focuses on a transformative moment for Peter as he realizes a broader scope of God's love and acceptance beyond traditional boundaries. Through Acts 10, Peter's experience challenges prejudices, inviting all to embrace diversity within the faith community.",
+      "keywords": ["Peter", "Acts", "gospel", "prejudice", "acceptance"],
+      "performers": ["Kelli"],
+      "songs": [],
+      "scripture_references": ["Acts 10:23-48"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3276,
+      "type": "prayer",
+      "description": "A heartfelt invitation prayer is offered, encouraging those present to open their hearts to God. The prayer emphasizes personal connection and commitment to faith, inviting both newcomers and long-time members to deepen their relationship with God.",
+      "keywords": ["invitation", "prayer", "commitment", "faith", "spiritual"],
+      "performers": ["Kelli"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3500,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, asking for God’s guidance and blessing over the congregation. It reinforces the themes of acceptance and commitment to spreading God's word, encouraging everyone to act with love and humility in their daily lives.",
+      "keywords": ["closing", "blessing", "community", "God", "humility"],
+      "performers": ["Kelli"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

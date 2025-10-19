@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: I Have Decided to Follow Jesus",
+      "start_time": 0,
+      "type": "music",
+      "description": "A joyful choir performance begins with 'I Have Decided to Follow Jesus.' The congregation is invited to engage in worship as they participate in this classic hymn, emphasizing commitment and faithfulness.",
+      "keywords": ["choir", "hymn", "worship", "commitment", "Jesus"],
+      "performers": ["[Blackhawk Choir]"],
+      "songs": ["I Have Decided to Follow Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Christ Is Enough",
+      "start_time": 222,
+      "type": "music",
+      "description": "The congregation continues in worship with the song 'Christ Is Enough.' This powerful anthem reinforces the message of complete reliance on Christ, encouraging attendees to reaffirm their faith amidst life's challenges.",
+      "keywords": ["congregational", "hymn", "worship", "reliance", "Christ"],
+      "performers": ["[Congregation]"],
+      "songs": ["Christ Is Enough"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Will You Say Yes? (Ephesians 3)",
+      "start_time": 496,
+      "type": "sermon",
+      "description": "In this sermon, the pastor explores the themes of purpose and commitment within the church, highlighting the significance of saying 'yes' to God's call. The message draws on Ephesians 3 to illustrate the church's role as the body of Christ, urging the community to engage in gathering, connecting, and going forth to reach others.",
+      "keywords": ["sermon", "commitment", "Ephesians", "church", "purpose"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": ["Ephesians 3:6-10", "Luke 15"]
+    },
+    {
+      "title": "Choir: I Have Decided to Follow Jesus (Reprise)",
+      "start_time": 2716,
+      "type": "music",
+      "description": "The choir leads the congregation again in 'I Have Decided to Follow Jesus,' inviting everyone to reflect on personal commitments and the decision to follow Christ. The repeated emphasis on this hymn resonates with the message of the preceding sermon.",
+      "keywords": ["choir", "reprise", "hymn", "commitment", "worship"],
+      "performers": ["[Blackhawk Choir]"],
+      "songs": ["I Have Decided to Follow Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2868,
+      "type": "prayer",
+      "description": "Following the worship, the pastor leads an Invitation Prayer, inviting attendees to reflect on their personal commitments to Christ and the church. This moment encourages spiritual introspection and a communal sense of purpose.",
+      "keywords": ["prayer", "invitation", "reflection", "commitment", "community"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Build Your Kingdom Here",
+      "start_time": 3274,
+      "type": "music",
+      "description": "The service concludes with the congregation singing 'Build Your Kingdom Here.' This uplifting hymn emphasizes the desire for God's presence and action within the community, encouraging a commitment to work together as the body of Christ.",
+      "keywords": ["congregational", "hymn", "worship", "unity", "God's kingdom"],
+      "performers": ["[Congregation]"],
+      "songs": ["Build Your Kingdom Here"],
+      "scripture_references": []
+    }
+  ]
+}
+```

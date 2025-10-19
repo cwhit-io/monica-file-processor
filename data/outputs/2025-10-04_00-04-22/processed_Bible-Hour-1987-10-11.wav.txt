@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unknown]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with a choir performance, setting a worshipful atmosphere for the congregation. This segment includes uplifting melodies that reflect traditional themes of faith. This joyful music aims to draw attendees closer to a mindset of praise and worship.",
+      "keywords": ["choir", "worship", "music", "faith", "hymn"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unknown]",
+      "start_time": 110,
+      "type": "music",
+      "description": "A captivating choir performance continues, enriching the worship experience with harmonious voices and spiritual lyrics. The performance encourages participation and reflection among attendees, enhancing the overall ambiance of the service. This segment showcases the choir's dedication and talent.",
+      "keywords": ["choir", "worship", "music"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Acts of the Apostates (Jude 1:1-4)",
+      "start_time": 496,
+      "type": "sermon",
+      "description": "The pastor delivers a compelling message based on the book of Jude, discussing the theme of apostasy within the church and the importance of maintaining biblical doctrine. He ignites concern over the prevalent belief changes among churches and urges believers to contend for their faith. Through thorough biblical analysis and real-world application, he emphasizes the need for vigilance in today's spiritual landscape.",
+      "keywords": ["apostasy", "Jude", "faith", "church", "doctrine"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Jude 1:1-4"]
+    },
+    {
+      "title": "Congregational Hymn: At Calvary",
+      "start_time": 1052,
+      "type": "music",
+      "description": "The congregation participates in a heartfelt hymn, 'At Calvary,' fostering a collective spirit of worship. This portion of the service allows attendees to reflect on the sacrificial love of Christ and its significance in their lives. The singing unites the church community in praise and remembrance.",
+      "keywords": ["hymn", "congregation", "worship", "sacrifice"],
+      "performers": [],
+      "songs": ["At Calvary"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Invitation Only]",
+      "start_time": 1200,
+      "type": "music",
+      "description": "A solo performance captivates the congregation with the song 'Invitation Only', highlighting themes of invitation and acceptance. The song speaks about the personal nature of faith and God’s desire for a close relationship with each individual. This moving performance encourages listeners to contemplate their own openness to God's presence.",
+      "keywords": ["solo", "invitation", "faith", "relationship"],
+      "performers": ["Denise Mitchell"],
+      "songs": ["Invitation Only"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1591,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer reflecting gratitude for the message shared and a request for guidance to act upon it in everyday life. This moment of prayer invites the congregation to submit their hearts to God and ask for strength to live out their faith courageously.",
+      "keywords": ["prayer", "closing", "gratitude", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Ministry Outreach",
+      "start_time": 3710,
+      "type": "announcement",
+      "description": "An announcement is made regarding the ministry outreach initiatives of the church, highlighting engagement opportunities for the congregation. The speaker emphasizes the importance of community involvement and supporting missions, encouraging attendees to become actively involved in church activities beyond the service.",
+      "keywords": ["outreach", "community", "engagement", "ministry"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

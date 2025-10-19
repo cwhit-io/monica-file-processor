@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: All People That on Earth Do Dwell",
+      "start_time": 27,
+      "type": "music",
+      "description": "The choir leads the congregation in worship with the hymn 'All People That on Earth Do Dwell.' The music serves as a reminder of the communal praise owed to God, encouraging everyone to join in the expression of thanks and reverence.",
+      "keywords": ["choir", "hymn", "worship", "praise", "thanksgiving"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["All People That on Earth Do Dwell"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Turn Your Eyes Upon Jesus",
+      "start_time": 246,
+      "type": "music",
+      "description": "A soloist beautifully sings the hymn 'Turn Your Eyes Upon Jesus.' This classic piece emphasizes the importance of focusing on Jesus and recognizing Him as the source of every good gift, especially during a season of thanksgiving.",
+      "keywords": ["solo", "Jesus", "thanksgiving", "hymn", "worship"],
+      "performers": [],
+      "songs": ["Turn Your Eyes Upon Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Oh, Hail the Power of Jesus' Name",
+      "start_time": 1197,
+      "type": "music",
+      "description": "The congregation lifts their voices in unison to sing 'Oh, Hail the Power of Jesus' Name.' This hymn celebrates the sovereignty and lordship of Jesus, encouraging participants to reflect on His power and authority.",
+      "keywords": ["congregational", "hymn", "Jesus", "praise", "worship"],
+      "performers": [],
+      "songs": ["Oh, Hail the Power of Jesus' Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Luke 17",
+      "start_time": 1470,
+      "type": "scripture",
+      "description": "Pastor David Jeremiah reads from the Gospel of Luke, chapter 17, recounting the account of ten lepers who cried out to Jesus for mercy. This scripture sets the stage for the subsequent sermon on gratitude and thankfulness.",
+      "keywords": ["scripture", "Luke", "lepers", "mercy", "thankfulness"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Luke 17:11-19"]
+    },
+    {
+      "title": "Message: The Importance of Thankfulness (Luke 17)",
+      "start_time": 1480,
+      "type": "sermon",
+      "description": "In a compelling message, Pastor Jeremiah explores the themes of gratitude and ingratitude through the story of the ten lepers in Luke 17. He emphasizes the significance of returning to thank God for His blessings, highlighting how ingratitude affects our relationship with Him. The sermon encourages self-reflection on our response to God's gifts and challenges the congregation to embody a lifestyle of thankfulness.",
+      "keywords": ["sermon", "thankfulness", "gratitude", "lepers", "Jesus", "faith"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Luke 17:11-19"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3384,
+      "type": "prayer",
+      "description": "Pastor Jeremiah leads the congregation in a closing prayer, expressing gratitude for God's blessings and asking for help in cultivating a thankful heart. This prayer wraps up the service with a call to remember God's goodness.",
+      "keywords": ["prayer", "closing", "thankfulness", "worship", "God"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

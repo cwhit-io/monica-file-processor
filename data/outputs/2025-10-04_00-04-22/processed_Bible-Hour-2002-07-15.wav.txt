@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Oh, the Wonderful Cross",
+      "start_time": 0,
+      "type": "music",
+      "description": "A choir performance featuring the song 'Oh, the Wonderful Cross.' The choir lifts their voices in praise, emphasizing the powerful message of salvation through the cross. The lyrics reflect themes of grace and redemption woven throughout the song.",
+      "keywords": ["choir", "cross", "salvation", "grace", "redemption"],
+      "performers": ["[Unknown]"],
+      "songs": ["Oh, the Wonderful Cross"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Jesus Died on Halloween",
+      "start_time": 113,
+      "type": "music",
+      "description": "A solo performance showcasing the song 'Jesus Died on Halloween.' The artist expresses a deep sense of gratitude for Jesus's sacrifice, illustrating themes of love and redemption. The heartfelt lyrics remind the congregation of the significance of Christ’s death.",
+      "keywords": ["solo", "Jesus", "sacrifice", "redemption", "thankfulness"],
+      "performers": ["[Unknown]"],
+      "songs": ["Jesus Died on Halloween"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 430,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting the congregation to prepare their hearts for worship. The leader expresses gratitude for the new teaching pastors and seeks divine guidance for the service ahead, emphasizing unity in faith.",
+      "keywords": ["opening", "prayer", "unity", "gratitude", "worship"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Freedom in Christ (Galatians)",
+      "start_time": 473,
+      "type": "sermon",
+      "description": "The sermon focuses on the theme of freedom in Christ as derived from the teachings in Galatians. The speaker addresses misconceptions about the law and grace, emphasizing the importance of faith in Jesus over ritual observance. Key questions from the congregation are explored, encouraging believers to cultivate a genuine relationship with God.",
+      "keywords": ["freedom", "Christ", "Galatians", "faith", "grace"],
+      "performers": ["Steve", "Mitch"],
+      "songs": [],
+      "scripture_references": ["Galatians 5", "Joshua 24:15", "Matthew 11:28-30", "Hebrews 4", "Romans 14"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3253,
+      "type": "prayer",
+      "description": "As the sermon concludes, an invitation prayer is offered, encouraging anyone seeking a deeper relationship with God to respond. The prayer asks for God's guidance in the lives of the congregation and seeks to foster an atmosphere of openness and willingness to come forward for prayer and support.",
+      "keywords": ["invitation", "relationship", "guidance", "openness", "support"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: The Wonderful Cross",
+      "start_time": 3279,
+      "type": "music",
+      "description": "The choir returns to perform a rendition of 'The Wonderful Cross,' reinforcing the sermon’s themes with powerful harmonies and poignant lyrics. This performance serves as a musical reflection on the message of salvation, encouraging the congregation to ponder the significance of the cross in their lives.",
+      "keywords": ["choir", "worship", "reflection", "cross", "salvation"],
+      "performers": ["[Unknown]"],
+      "songs": ["The Wonderful Cross"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3456,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that expresses gratitude for the gathering and seeks God’s continued guidance. The pastor encourages the congregation to live out their faith in daily life and to remain committed to loving God and others.",
+      "keywords": ["closing", "gratitude", "guidance", "commitment", "faith"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

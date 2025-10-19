@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Instrumental",
+      "start_time": 0,
+      "type": "music",
+      "description": "An upbeat instrumental music piece welcomes the congregation, setting a lively and positive tone for the service.",
+      "keywords": ["music", "upbeat", "congregation", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 67,
+      "type": "music",
+      "description": "The choir performs a spirited song that engages the congregation in worship through music.",
+      "keywords": ["choir", "worship", "music"],
+      "performers": [],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Updates from Black Hawk Ministries",
+      "start_time": 249,
+      "type": "announcement",
+      "description": "Pastor Kelly Bird expresses gratitude for the congregation's participation and shares encouraging updates about various church ministries and community engagements.",
+      "keywords": ["ministry", "community", "updates", "encouragement"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Discussion with Dr. Sam Barfill",
+      "start_time": 350,
+      "type": "interview",
+      "description": "Dr. Sam Barfill discusses the impactful work at Black Hawk Christian school and shares insights on the ongoing projects and spiritual growth among students.",
+      "keywords": ["education", "spiritual growth", "discussion", "community"],
+      "performers": ["Kelly Bird", "Sam Barfill"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 527,
+      "type": "music",
+      "description": "The choir leads the congregation in another powerful song, further enhancing the worship experience and inviting participation.",
+      "keywords": ["choir", "worship", "music"],
+      "performers": [],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Peter 2:11-12",
+      "start_time": 608,
+      "type": "scripture",
+      "description": "The congregation reads 1 Peter chapter 2, verses 11 and 12 together, emphasizing the call to live a fully surrendered life.",
+      "keywords": ["scripture", "reading", "1 Peter", "surrender"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Peter 2:11-12"]
+    },
+    {
+      "title": "Message: The Fundamentals of Full Surrender (1 Peter 2:11-12)",
+      "start_time": 680,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird dives deep into the concept of full surrender in the Christian faith, discussing both personal and public implications based on biblical teachings from 1 Peter.",
+      "keywords": ["surrender", "faith", "1 Peter", "teaching"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["1 Peter 2:11-12"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3535,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Kelly Bird, offering thanks for the day's message and guidance for living out one's faith.",
+      "keywords": ["prayer", "closing", "worship", "faith"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

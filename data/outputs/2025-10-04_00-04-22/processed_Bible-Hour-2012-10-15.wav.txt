@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Unknown",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with upbeat music, creating an inviting atmosphere for the congregation. It sets the tone for a lively and engaging service as attendees settle in and prepare for worship.",
+      "keywords": ["music", "upbeat", "worship"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "announcement: Introduction to Bible Hour",
+      "start_time": 30,
+      "type": "announcement",
+      "description": "The host warmly welcomes everyone to the service, expressing gratitude for the audience's participation in recent weeks. A brief overview of previous series on Isaiah 58 and spiritual growth is presented, highlighting the importance of ongoing spiritual development.",
+      "keywords": ["welcome", "Bible Hour", "spiritual growth"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Choir: Unknown",
+      "start_time": 217,
+      "type": "music",
+      "description": "The choir performs an energetic piece in a foreign language, inspiring clapping and applause from the audience. This performance engages the congregation and enhances the worship experience.",
+      "keywords": ["choir", "performance", "worship"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "announcement: Transition of Corbin and Tanya",
+      "start_time": 737,
+      "type": "announcement",
+      "description": "The pastor discusses the transition of Corbin and Tanya to new positions with Josiah Venture in Poland. He shares the emotional journey and encourages the congregation to support them through this significant life change.",
+      "keywords": ["transition", "ministry", "support"],
+      "performers": ["Corbin", "Tanya"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 1151,
+      "type": "prayer",
+      "description": "A heartfelt prayer is offered for Corbin and Tanya as they prepare for their new calling. The congregation is invited to extend their hands in prayer as a sign of support and unity in their mission.",
+      "keywords": ["prayer", "unity", "mission"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Message: Spiritual Maturity (Hebrews 5:12-14)",
+      "start_time": 1155,
+      "type": "sermon",
+      "description": "The sermon focuses on spiritual maturity, emphasizing the importance of growing in faith and understanding God’s Word. The speaker outlines traits of spiritual immaturity, urging believers to strive for growth and actively participate in spiritual investment.",
+      "keywords": ["spiritual maturity", "growth", "faith"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["Hebrews 5:12-14"]
+    },
+    {
+      "title": "Choir: Unknown",
+      "start_time": 3295,
+      "type": "music",
+      "description": "The choir performs a reflective worship song, drawing the congregation into a state of contemplation and reverence. This moment allows attendees to connect with their faith through music.",
+      "keywords": ["choir", "worship", "reflection"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    }
+  ]
+}
+```

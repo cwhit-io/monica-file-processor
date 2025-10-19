@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Shall We Gather at the River",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with a beautiful performance by the choir, who sing 'Shall We Gather at the River'. The music sets a peaceful and reflective tone for the congregation, inviting everyone to participate in worship through song.",
+      "keywords": ["choir", "worship", "song", "river", "gather"],
+      "performers": ["Trumpetrio", "Choir"],
+      "songs": ["Shall We Gather at the River"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 647,
+      "type": "prayer",
+      "description": "Pastor Moore leads the congregation in the opening prayer, inviting God's presence and blessing over the service. He expresses gratitude for the opportunity to gather and reflects on the importance of community and worship.",
+      "keywords": ["prayer", "community", "worship"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Proverbs 7",
+      "start_time": 663,
+      "type": "scripture",
+      "description": "The scripture reading comes from Proverbs chapter 7, as Pastor Moore reads about the dangers of sexual immorality. The passage highlights the consequences of succumbing to temptations and serves as a foundation for the sermon.",
+      "keywords": ["proverbs", "scripture", "wisdom"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": ["Proverbs 7"]
+    },
+    {
+      "title": "Message: Sexual Purity (Proverbs 7)",
+      "start_time": 692,
+      "type": "sermon",
+      "description": "In an impactful sermon, Pastor Moore discusses sexual purity using Proverbs 7. He emphasizes the unseen consequences of sexual immorality, urging the congregation to value genuine relationships and to be aware of the implications of their choices. Various statistics and relatable examples are provided to illustrate the severity of contemporary moral issues.",
+      "keywords": ["sexual purity", "Proverbs", "sermon", "temptation", "wisdom"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": ["Proverbs 7"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3248,
+      "type": "prayer",
+      "description": "Pastor Moore leads an invitation prayer, reaching out to those who may be struggling with issues of purity and encouragement to seek help. He emphasizes God's forgiving nature and the opportunity for renewal and restoration in one's life.",
+      "keywords": ["invitation", "prayer", "forgiveness", "renewal"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Closing Hymn",
+      "start_time": 3405,
+      "type": "music",
+      "description": "The service concludes with a solo performance of a closing hymn that reflects themes of redemption and hope. The soloist beautifully sings, leaving the congregation with a sense of peace and encouragement as they depart.",
+      "keywords": ["closing hymn", "music", "hope", "redemption"],
+      "performers": ["Soloist"],
+      "songs": ["Closing Hymn"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 3488,
+      "type": "announcement",
+      "description": "An announcement is made about upcoming events at the church, including a film screening related to the topic of the sermon. Congregants are invited to participate in church activities and initiatives.",
+      "keywords": ["announcement", "events", "church"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

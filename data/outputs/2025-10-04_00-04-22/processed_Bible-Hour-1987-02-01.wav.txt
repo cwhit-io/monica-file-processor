@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: No More Night",
+      "start_time": 332,
+      "type": "music",
+      "description": "The choir sings a majestic song titled 'No More Night,' celebrating the transformation brought by faith, emphasizing the anticipation of a day when darkness will cease. Following this, the congregation joins in singing the hymn 'When We All Get to Heaven,' creating a unifying moment of praise and joy.",
+      "keywords": ["choir", "no more night", "heaven", "praise", "worship"],
+      "performers": ["Black Hawk Singers"],
+      "songs": ["No More Night", "When We All Get to Heaven"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: May I Praise You",
+      "start_time": 767,
+      "type": "music",
+      "description": "Brian Lawson performs a solo piece that reflects on giving praise to God for who He is, rather than for what He does. The lyrics convey a deep sense of gratitude and an invitation for worshipers to focus on honoring God's character and majesty.",
+      "keywords": ["solo", "praise", "worship", "gratitude", "Brian Lawson"],
+      "performers": ["Brian Lawson"],
+      "songs": ["May I Praise You"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1554,
+      "type": "prayer",
+      "description": "In this opening prayer, the congregation is led in a heartfelt plea for God's presence and strength. The prayers are directed towards not only personal spiritual growth but also communal upliftment as they embark on a new week.",
+      "keywords": ["opening prayer", "worship", "community", "strength", "spiritual growth"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Spiritual Warfare (1 Corinthians 16:13-14)",
+      "start_time": 1746,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a powerful sermon focused on the reality of spiritual warfare according to 1 Corinthians 16:13-14. He emphasizes the need for Christians to recognize their enemies, including Satan, self, and secular influences, and provides practical instructions on how to remain vigilant and strong in faith.",
+      "keywords": ["spiritual warfare", "1 Corinthians", "Rick Hawks", "faith", "strength"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 16:13-14", "Ephesians 6:10-12", "1 Timothy 6:10", "2 Corinthians 10:3-5"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3561,
+      "type": "prayer",
+      "description": "An invitation prayer encourages attendees to reflect on their spiritual journey and consider accepting Christ. This moment is designed to foster a deeper connection with God and to seek His guidance.",
+      "keywords": ["invitation", "prayer", "acceptance", "reflection", "spiritual journey"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: When We All Get to Heaven",
+      "start_time": 710,
+      "type": "music",
+      "description": "The congregation joins in singing 'When We All Get to Heaven,' reinforcing the themes of joy and hope in Christian faith. The shared singing fosters a sense of community and anticipation for the promised glory of eternal life.",
+      "keywords": ["congregational hymn", "heaven", "joy", "community", "worship"],
+      "performers": [],
+      "songs": ["When We All Get to Heaven"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Highest Praise",
+      "start_time": 1416,
+      "type": "music",
+      "description": "The Black Hawk Singers perform 'Highest Praise,' expressing themes of worship and devotion to God. The song encapsulates the essence of surrender and gratitude, inviting the congregation to join in a spirit of reverence and adoration.",
+      "keywords": ["choir", "highest praise", "worship", "devotion", "Black Hawk Singers"],
+      "performers": ["Black Hawk Singers"],
+      "songs": ["Highest Praise"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1606,
+      "type": "prayer",
+      "description": "This closing prayer wraps up the service with expressions of gratitude and requests for strength in spiritual battles. The congregation is encouraged to carry the message into their daily lives, reminding them of their role as soldiers of Christ.",
+      "keywords": ["closing prayer", "gratitude", "strength", "spiritual battles", "soldiers of Christ"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

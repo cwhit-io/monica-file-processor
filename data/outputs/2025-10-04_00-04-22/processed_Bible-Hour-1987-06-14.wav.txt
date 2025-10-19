@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 30,
+      "type": "music",
+      "description": "The service begins with uplifting praise by the sanctuary choir, encouraging participation from the congregation. Their joyful singing sets the tone for worship, inviting everyone to engage in an hour of Bible study, music, and fellowship. The harmonies blend beautifully, capturing the essence of communal worship.",
+      "keywords": ["choir", "worship", "praise", "fellowship", "music"],
+      "performers": ["sanctuary choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Special Music: [Song Title]",
+      "start_time": 196,
+      "type": "music",
+      "description": "The choir performs a special anthem that emphasizes unity and faith, with lyrics celebrating God's glory. This segment is filled with beautiful melodies that resonate through the church, uplifting the spirit of the attendees. The choir's performance is a highlight and deepens the worship experience.",
+      "keywords": ["special music", "unity", "glory", "faith", "worship"],
+      "performers": ["sanctuary choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Hallelujah What a Savior",
+      "start_time": 467,
+      "type": "music",
+      "description": "The congregation joins together to sing 'Hallelujah What a Savior,' a powerful hymn that expresses gratitude for salvation. Each verse engages the community in worship, emphasizing the sacrifice of Jesus. The heartfelt singing reverberates, showcasing the collective devotion of the church family.",
+      "keywords": ["hymn", "congregational", "praise", "savior", "worship"],
+      "performers": [],
+      "songs": ["Hallelujah What a Savior"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 602,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered to invoke God's presence in the service. The prayer covers health, well-being, and spiritual growth for the congregation, connecting the community spiritually at the start of the service. It sets a reflective and humble tone for the teachings to follow.",
+      "keywords": ["prayer", "opening", "spiritual", "community", "congregation"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Critical Economic Spy (Proverbs)",
+      "start_time": 674,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a substantial message on biblical principles of economics, focusing on how to manage finances according to scripture. He discusses the dangers of debt and the importance of wise financial practices, emphasizing that true wealth comes from God. The sermon interweaves personal stories and scriptural references to highlight the application of these teachings in daily life.",
+      "keywords": ["sermon", "economic principles", "debt", "Proverbs", "financial wisdom"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Proverbs", "Exodus 22"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3463,
+      "type": "prayer",
+      "description": "An invitation prayer is offered at the end of the service, inviting congregants to reflect on their relationship with God and acknowledge their spiritual needs. This moment is a call for salvation and deeper faith, encouraging individuals to open their hearts to Jesus. The prayer emphasizes a personal commitment to spiritual growth.",
+      "keywords": ["invitation", "prayer", "salvation", "commitment", "faith"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3499,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service with a focus on gratitude and requests for God's guidance. It's a communal moment, where the pastor leads the congregation in thanking God for the service and asking for blessings in their lives ahead. This final prayer encapsulates the themes discussed throughout the morning.",
+      "keywords": ["closing", "prayer", "gratitude", "blessings", "community"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Special Music: [Song Title]",
+      "start_time": 3601,
+      "type": "music",
+      "description": "Special music is performed once again, as a concluding piece to send off the congregation in praise. The performance encapsulates the themes of the service and reinforces the message of community and worship. Participants leave feeling inspired and uplifted.",
+      "keywords": ["music", "praise", "worship", "conclusion", "community"],
+      "performers": ["Keith and Starr Bratigou"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

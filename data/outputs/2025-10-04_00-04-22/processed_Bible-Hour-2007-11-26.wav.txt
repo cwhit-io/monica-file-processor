@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Hallelujah to the Lord God Almighty",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir leads the congregation in a powerful rendition of 'Hallelujah to the Lord God Almighty.' This song invites the church to join in praise, celebrating the holiness of God. It establishes a worshipful atmosphere for the service.",
+      "keywords": ["choir", "worship", "praise", "Hallelujah", "God"],
+      "performers": ["Choir"],
+      "songs": ["Hallelujah to the Lord God Almighty"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Christ is the Lord",
+      "start_time": 477,
+      "type": "music",
+      "description": "The choir continues with a heartfelt performance of 'Christ is the Lord,' a song affirming the divinity and resurrection of Jesus Christ. The melody and lyrics encourage the congregation to reflect on Christ's sovereignty over all creation.",
+      "keywords": ["choir", "worship", "Christ", "Lord", "resurrection"],
+      "performers": ["Choir"],
+      "songs": ["Christ is the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Obedience in Christ (1 John 2:3-6)",
+      "start_time": 556,
+      "type": "sermon",
+      "description": "In this powerful sermon, Pastor Kelly Bird explores the theme of obedience as outlined in 1 John 2:3-6. He emphasizes the necessity of aligning our lives with Christ’s example of obedience and how it reflects our commitment to following Him. The message stresses that true knowledge of Christ necessitates a life characterized by obedience to His commandments.",
+      "keywords": ["obedience", "Christ", "1 John", "sermon", "Pastor Kelly Bird"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["1 John 2:3-6"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1019,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer offers the congregation a moment of worship and reflection. Pastor Kelly seeks God's guidance and grace, asking for the encouragement to follow Christ closely and for strength in their spiritual journeys. This prayer sets a reverent tone for the service.",
+      "keywords": ["prayer", "opening", "guidance", "grace", "worship"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 John 2",
+      "start_time": 1043,
+      "type": "scripture",
+      "description": "The scripture reading focuses on 1 John 2, specifically verses 3 to 6. The passages emphasize the importance of obedience to God's commands as a reflection of one’s relationship with Christ. This segment reinforces the sermon’s theme and invites reflection from the congregation.",
+      "keywords": ["scripture", "1 John", "obedience", "reading", "God's commands"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 John 2"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 1103,
+      "type": "prayer",
+      "description": "The invitation prayer encourages attendees to respond to God’s word. Pastor Kelly leads the congregation in a plea for openness to the Holy Spirit's prompting, inviting them to consider how they might enact obedience in their lives.",
+      "keywords": ["prayer", "invitation", "Holy Spirit", "response", "obey"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Amazing Grace",
+      "start_time": 1497,
+      "type": "music",
+      "description": "The congregation joins together in singing the timeless hymn 'Amazing Grace.' This beloved song reflects on God’s grace and forgiveness, creating a communal moment of worship as many reflect on their personal journeys of faith.",
+      "keywords": ["music", "hymn", "grace", "worship", "congregational"],
+      "performers": [],
+      "songs": ["Amazing Grace"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1556,
+      "type": "prayer",
+      "description": "The closing prayer serves as a wrap-up for the service, affirming the key messages of obedience and grace that were emphasized. Pastor Kelly asks for strength and commitment to live out the principles taught during the service in daily life.",
+      "keywords": ["prayer", "closing", "strength", "commitment", "worship"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

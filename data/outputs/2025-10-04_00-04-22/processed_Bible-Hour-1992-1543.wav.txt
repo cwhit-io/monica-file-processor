@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Solo: I Love You Lord",
+      "start_time": 77,
+      "type": "music",
+      "description": "The service begins with a touching solo performance of 'I Love You Lord' by Kevin Rowe, setting a reflective mood for the congregation. The heartfelt lyrics resonate deeply as the theme of love and devotion is established.",
+      "keywords": ["music", "love", "worship", "Kevin Rowe"],
+      "performers": ["Kevin Rowe"],
+      "songs": ["I Love You Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: I Am Determined",
+      "start_time": 85,
+      "type": "music",
+      "description": "The sanctuary choir and orchestra deliver a powerful performance of 'I Am Determined.' The lyrics highlight the struggles of life alongside the presence of love and support from God, emphasizing resilience in the face of pain.",
+      "keywords": ["music", "choir", "determination", "support"],
+      "performers": ["sanctuary choir", "orchestra"],
+      "songs": ["I Am Determined"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Living and Dying (1 Corinthians 15:54-58)",
+      "start_time": 42,
+      "type": "sermon",
+      "description": "In a heartfelt message, Pastor Russell Moore addresses the realities of death and our preparedness to meet it. He reflects on the life of a young man lost to leukemia, providing a strong biblical foundation while emphasizing hope in Christ, contrasting the world's perception of death with the victory believers have through Christ.",
+      "keywords": ["death", "hope", "living", "dying", "Christ"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 15:54-58"]
+    },
+    {
+      "title": "Solo: Reflection",
+      "start_time": 1150,
+      "type": "music",
+      "description": "A reflective solo piece encourages the congregation to focus on the themes of worship and connection with God. The music uplifts the spirit, inviting listeners to meditate on their personal relationship with the Lord.",
+      "keywords": ["reflection", "worship", "meditation"],
+      "performers": [""],
+      "songs": [""],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3431,
+      "type": "prayer",
+      "description": "Pastor Moore leads the congregation in an invitation prayer, encouraging individuals to reflect on their faith and the necessity of a relationship with Christ. This intimate moment is designed for personal connection and spiritual commitment.",
+      "keywords": ["prayer", "invitation", "faith", "commitment"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

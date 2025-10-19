@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unidentified Song]",
+      "start_time": 101,
+      "type": "music",
+      "description": "The sanctuary choir performed a moving piece that emphasizes trust and faith in the Lord. The lyrics speak to the assurance of God’s presence and the commitment to His promises. This uplifting music sets a spiritual tone for the service.",
+      "keywords": ["trust", "faith", "choir", "music", "God"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Unidentified Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unidentified Song]",
+      "start_time": 582,
+      "type": "music",
+      "description": "A beautifully sung solo that highlights themes of sorrow and hope amid personal struggles. The performance captivates the congregation, encouraging them to reflect on their individual journeys of faith and reliance on Jesus.",
+      "keywords": ["hope", "sorrow", "solo", "music", "faith"],
+      "performers": ["Gene and Cindy Cheryl"],
+      "songs": ["Unidentified Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Good Friday Service",
+      "start_time": 610,
+      "type": "announcement",
+      "description": "An announcement was made regarding a Good Friday service focused on communion. The pastor invites all believers to reflect on the death of Christ, encouraging participation even from non-members. The service is highlighted as a time for deep contemplation of Easter's significance.",
+      "keywords": ["Good Friday", "communion", "service", "reflection", "Easter"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: True Salvation (James 2, 1 John 5)",
+      "start_time": 1118,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a profound message examining the nature of saving faith rooted in scripture. He outlines critical questions for self-examination of faith to ensure genuine belief versus mere profession. The sermon encourages introspection and emphasizes the importance of a transformational relationship with Christ.",
+      "keywords": ["salvation", "faith", "examination", "scripture", "James", "1 John"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["James 2", "1 John 1", "1 John 2", "1 John 3", "1 John 4", "1 John 5"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3321,
+      "type": "prayer",
+      "description": "A heartfelt invitation prayer is offered by the pastor, encouraging individuals to confess their need for salvation and to invite Christ into their hearts. This moment serves as a call to action for those wrestling with their faith to seek a genuine relationship with God.",
+      "keywords": ["invitation", "prayer", "salvation", "confession"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unidentified Song]",
+      "start_time": 3391,
+      "type": "music",
+      "description": "The choir concludes the service with a final worship song that encapsulates the themes of the day. Their harmonies resonate in celebration of the message preached, inviting the congregation to rejoice in their assured salvation.",
+      "keywords": ["worship", "choir", "celebration", "song"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Unidentified Song"],
+      "scripture_references": []
+    }
+  ]
+}
+```

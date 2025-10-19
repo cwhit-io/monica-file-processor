@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Justification Through Faith",
+      "start_time": 105,
+      "type": "music",
+      "description": "The congregation engages in a responsive reading focusing on the themes of justification through faith. Members reflect on their relationship with Christ and the peace that comes from being justified. This reading sets a spiritual tone for the service.",
+      "keywords": ["justification", "faith", "peace", "congregation", "reading"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Heaven Came Down",
+      "start_time": 225,
+      "type": "music",
+      "description": "The congregation sings the hymn 'Heaven Came Down' and 'Glory Filled My Soul,' expressing their joy and testimony of salvation. This vibrant hymn reinforces the joy of faith and the transformative power of encountering Christ.",
+      "keywords": ["heaven", "joy", "salvation", "hymn", "testimony"],
+      "performers": ["Keith and Starr Braddockum"],
+      "songs": ["Heaven Came Down", "Glory Filled My Soul"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 604,
+      "type": "prayer",
+      "description": "Pastor Moore leads an opening prayer lifting up members of the church who are dealing with serious illnesses. This heartfelt prayer embraces the church community, seeking God's grace and strength for those in need.",
+      "keywords": ["prayer", "community", "illness", "grace", "strength"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Christians in the Workplace (1 Timothy 6:1-2)",
+      "start_time": 790,
+      "type": "sermon",
+      "description": "Pastor Moore delivers a thought-provoking message titled 'Christians in the Workplace,' emphasizing the importance of ethical behavior and diligence in professional settings. Drawing from 1 Timothy 6:1-2, he explores how Christians should not only respect their employers but also excel in their duties, reflecting Christ in their work. This teaching challenges believers to find purpose in their current jobs and embody their faith through hard work.",
+      "keywords": ["faith", "workplace", "1 Timothy", "ethics", "Christianity"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 6:1-2"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3411,
+      "type": "prayer",
+      "description": "After the sermon, Pastor Moore leads an invitation prayer, encouraging those who have accepted Christ to acknowledge their faith. This moment fosters a personal connection with God, inviting attendees to reflect on their spiritual journey.",
+      "keywords": ["invitation", "prayer", "faith", "community", "reflection"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: His Eye Is on the Sparrow",
+      "start_time": 863,
+      "type": "music",
+      "description": "Keith and Starr Braddockum perform a moving solo rendition of 'His Eye Is on the Sparrow.' This song fills the congregation with hope and reminds them of God's constant presence and care in their lives.",
+      "keywords": ["hope", "presence", "care", "savior", "faith"],
+      "performers": ["Keith and Starr Braddockum"],
+      "songs": ["His Eye Is on the Sparrow"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3471,
+      "type": "prayer",
+      "description": "As the service concludes, Pastor Moore offers a closing prayer for the congregation, thanking God for the message and encouraging everyone to live out their faith in the workplace. This prayer serves as a blessing and sends attendees forth with a renewed commitment.",
+      "keywords": ["closing", "prayer", "blessing", "commitment", "community"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

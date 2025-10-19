@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with music, setting a tone of worship and collective participation. The choir fills the space with uplifting melodies, inviting congregants to engage in a communal experience.",
+      "keywords": ["music", "worship", "choir"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Message: Dealing with Those Nagging Doubts (Habakkuk)",
+      "start_time": 1550,
+      "type": "sermon",
+      "description": "Associate Pastor Jim Pearson delivers a deep exploration into the coexistence of faith and doubt, focusing on the book of Habakkuk. He shares personal anecdotes and insights, urging listeners to confront their doubts rather than suppress them. The sermon emphasizes that doubt can lead to spiritual growth if handled well.",
+      "keywords": ["faith", "doubt", "Habakkuk", "spiritual growth", "trust"],
+      "performers": ["Jim Pearson"],
+      "songs": ["[]"],
+      "scripture_references": ["Habakkuk"]
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 3461,
+      "type": "music",
+      "description": "A solo performance adds a personal touch to the worship experience, allowing for reflection on the themes discussed in the sermon. The music resonates with the congregation, reinforcing the message of hope and trust in God.",
+      "keywords": ["solo", "worship", "reflection"],
+      "performers": ["Lynn Roll"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1400,
+      "type": "prayer",
+      "description": "During the opening prayer, the congregation is led in a moment of reflection and thanks for the music and the opportunity to gather. It establishes a spirit of humility and readiness to receive guidance.",
+      "keywords": ["prayer", "reflection", "community"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Congregational Hymn: Jesus Saves",
+      "start_time": 440,
+      "type": "music",
+      "description": "The congregational hymn fosters a spirit of unity as everyone participates in singing about the salvation offered through Jesus. The lyrics remind the congregation of the core message of the faith and encourage collective worship.",
+      "keywords": ["hymn", "Jesus", "salvation", "unity"],
+      "performers": ["[]"],
+      "songs": ["Jesus Saves"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 591,
+      "type": "music",
+      "description": "The choir returns to lead another soul-stirring piece, showcasing their talents and dedication. This segment aims to uplift and encourage those listening, reminding them of God's presence through music.",
+      "keywords": ["choir", "uplifting", "music"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1540,
+      "type": "prayer",
+      "description": "The closing prayer encapsulates the service, offering thanks for the teachings and music shared. It reinforces the community spirit and the commitment to living out the message discussed during the sermon.",
+      "keywords": ["prayer", "community", "thankfulness"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "announcement: Upcoming Events and Programs",
+      "start_time": 923,
+      "type": "announcement",
+      "description": "The Pastor and associate discuss future church events, practical living seminars, and other opportunities for community involvement. This segment informs congregants on how to engage further in their spiritual journey.",
+      "keywords": ["events", "seminars", "community involvement"],
+      "performers": ["Jim Pearson", "Pete"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    }
+  ]
+}
+```

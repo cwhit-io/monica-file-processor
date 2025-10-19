@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Marvelous in Our Eyes",
+      "start_time": 99,
+      "type": "music",
+      "description": "The sanctuary choir and orchestra present a beautiful rendition of 'Marvelous in Our Eyes', a song that reflects on the splendor of God's creation and the gratitude we have as His children. This piece encapsulates the emotional spirit of Mother's Day, emphasizing the vital role of mothers in nurturing faith in their children.",
+      "keywords": ["choir", "music", "God", "Mother's Day", "worship"],
+      "performers": ["Sanctuary Choir", "Orchestra"],
+      "songs": ["Marvelous in Our Eyes"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: The Church's One Foundation",
+      "start_time": 403,
+      "type": "music",
+      "description": "The Handbell Choir's performance of 'The Church's One Foundation' highlights themes of unity and faith within the Christian community. This moving piece captures the resilience and importance of the Church as the body of Christ, serving as a poignant reminder of our shared beliefs.",
+      "keywords": ["handbell choir", "music", "faith", "unity", "Church"],
+      "performers": ["Handbell Choir"],
+      "songs": ["The Church's One Foundation"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 781,
+      "type": "prayer",
+      "description": "Pastor Rust leads the congregation in an opening prayer, inviting God's presence into the service. This heartfelt prayer sets the tone for the day, particularly focusing on honoring mothers and seeking divine guidance and blessing over the message and music.",
+      "keywords": ["prayer", "congregation", "mothers", "blessing", "worship"],
+      "performers": ["Pastor Rust"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Profile of a Godly Mother (1 Samuel 1-2)",
+      "start_time": 1603,
+      "type": "sermon",
+      "description": "Pastor Rust delivers a powerful message focusing on Hannah, the mother of Samuel, exploring her trials, character traits, and divine purpose. This sermon emphasizes the critical role of mothers in shaping future generations through faith, service, and prayer, urging contemporary mothers to embrace their calling passionately.",
+      "keywords": ["Hannah", "Samuel", "Motherhood", "faith", "prayer"],
+      "performers": ["Pastor Rust"],
+      "songs": [],
+      "scripture_references": ["1 Samuel 1-2"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3448,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Rust. This prayer reflects on the teachings shared during the sermon, asking for strength and wisdom for all mothers and families, and expressing gratitude for the love and faith that continues to guide them.",
+      "keywords": ["closing prayer", "gratitude", "mothers", "families", "faith"],
+      "performers": ["Pastor Rust"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Mother's Day Reflections",
+      "start_time": 973,
+      "type": "announcement",
+      "description": "Pastor Rust shares reflections on Mother's Day, expressing appreciation for the mothers present. He encourages the congregation to honor their mothers and discusses the importance of family and community in nurturing faith and love within the church.",
+      "keywords": ["Mother's Day", "family", "community", "faith", "honor"],
+      "performers": ["Pastor Rust"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Blessed Assurance",
+      "start_time": 570,
+      "type": "music",
+      "description": "The congregation joins together to sing 'Blessed Assurance', a hymn that celebrates the confidence believers have in their relationship with God. This uplifting moment reinforces the themes of faith and assurance as the congregation worships together.",
+      "keywords": ["congregation", "music", "hymn", "faith", "assurance"],
+      "performers": [],
+      "songs": ["Blessed Assurance"],
+      "scripture_references": []
+    }
+  ]
+}
+```

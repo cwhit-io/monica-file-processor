@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unknown]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a lively choir performance that sets an upbeat and celebratory mood. The congregation is invited to join in, emphasizing a communal spirit of praise. The music acts as a reflection of gratitude and worship towards God, engaging everyone present.",
+      "keywords": ["worship", "choir", "music", "praise", "celebration"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 461,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer invites attendees to focus on God and His presence. The prayer expresses gratitude, highlights the celebration of fathers, and acknowledges the different experiences people have regarding fatherhood. It encompasses a collective desire for spiritual growth and transformation.",
+      "keywords": ["prayer", "gratitude", "fathers", "worship", "community"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: A Legacy Left by a Dad (Ephesians 6:4)",
+      "start_time": 658,
+      "type": "sermon",
+      "description": "The sermon explores the theme of legacy through the lens of fatherhood, drawing from personal stories and biblical references. It discusses the impact of a father's influence on children, the importance of love and guidance, and the consequences of failing to nurture relationships. The speaker challenges fathers to reflect on their legacies and to choose a path of love, grace, and acceptance.",
+      "keywords": ["legacy", "fatherhood", "Ephesians", "love", "guidance"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["Ephesians 6:4", "Colossians 3:21", "Deuteronomy 10:12", "Deuteronomy 11:18"]
+    },
+    {
+      "title": "dram: Drama: [Father's Impact]",
+      "start_time": 3189,
+      "type": "drama",
+      "description": "The service includes a touching drama that highlights the impact of a father's love and lessons on a child's life. Through anecdotes and heartfelt moments, it illustrates the ways in which a father's guidance shapes the values and character of children. This drama serves as a reflection on both the joys and challenges of fatherhood.",
+      "keywords": ["drama", "fatherhood", "impact", "love", "lessons"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3536,
+      "type": "prayer",
+      "description": "The closing prayer encapsulates the service's themes, asking for strength and guidance as attendees strive to leave behind a legacy of faith and love. It reflects on the importance of community and support in living out these values. The prayer concludes the service with a hopeful sentiment.",
+      "keywords": ["closing", "prayer", "legacy", "faith", "community"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

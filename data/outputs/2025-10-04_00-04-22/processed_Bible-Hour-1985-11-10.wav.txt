@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Great is Thy Faithfulness",
+      "start_time": 157,
+      "type": "music",
+      "description": "The choir performs the beloved hymn 'Great is Thy Faithfulness,' celebrating God's unwavering fidelity and mercy. The rich melody lifts the congregation's spirits, reflecting the assurance of God's ongoing presence in their lives. The lyrics emphasize God's provision and faithfulness through every season.",
+      "keywords": ["choir", "hymn", "faithfulness", "God", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Great is Thy Faithfulness"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: He's Able",
+      "start_time": 580,
+      "type": "music",
+      "description": "The congregation enthusiastically sings 'He's Able,' a song that rejoices in the power and ability of the Lord to provide and deliver. The lively participation fuels a spirit of unity and encouragement, reminding all present of God's promises and capabilities.",
+      "keywords": ["congregational", "hymn", "worship", "praise", "God"],
+      "performers": [],
+      "songs": ["He's Able"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: In His Time / Lord Be Glorified",
+      "start_time": 753,
+      "type": "music",
+      "description": "The choir, directed by Scott Schindler, performs two touching songs: 'In His Time,' emphasizing God's perfect timing, and 'Lord Be Glorified,' offering a heartfelt plea for God's glory in every aspect of life. These performances inspire the congregation to reflect on divine purpose in their lives.",
+      "keywords": ["choir", "music", "God", "worship", "ministry"],
+      "performers": ["Scott Schindler", "All God's Children"],
+      "songs": ["In His Time", "Lord Be Glorified"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Why Did It Have To Be",
+      "start_time": 1253,
+      "type": "music",
+      "description": "Kerry Johnson delivers a moving solo performance titled 'Why Did It Have To Be,' contemplating the profound questions surrounding Christ's sacrifice. The song's emotional depth connects with the congregation, as it reflects on the cost of sin and the love of God evidenced in the cross.",
+      "keywords": ["solo", "Kerry Johnson", "worship", "sacrifice", "Jesus"],
+      "performers": ["Kerry Johnson"],
+      "songs": ["Why Did It Have To Be"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 155,
+      "type": "prayer",
+      "description": "Pastor Rick Hawks leads the congregation in an opening prayer, inviting God's presence and guidance for the worship service. The prayer emphasizes the importance of hearts and minds being opened to receive God's word and experience His love during the service.",
+      "keywords": ["prayer", "congregation", "worship", "God", "guidance"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Complacency in Spiritual Life (1 Corinthians 4:8-21)",
+      "start_time": 1699,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a powerful sermon addressing the dangers of spiritual complacency, drawing from 1 Corinthians 4:8-21. He warns the congregation against being satisfied with superficial spirituality and encourages a commitment to genuine growth and service. Through vivid examples and personal anecdotes, he challenges listeners to reflect on their spiritual journey and be active in their faith.",
+      "keywords": ["sermon", "complacency", "1 Corinthians", "spirituality", "growth"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 4:8-21"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3484,
+      "type": "prayer",
+      "description": "Pastor Rick Hawks concludes the service with a heartfelt closing prayer, thanking God for His word and guidance throughout the service. The prayer asks for strength for the congregation to walk in faith and to apply the teachings shared, while trusting in God's promises.",
+      "keywords": ["prayer", "closing", "worship", "God", "strength"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

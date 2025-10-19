@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Solo: He Touched Me",
+      "start_time": 88,
+      "type": "music",
+      "description": "Read La Favour sings the moving solo 'He Touched Me,' sharing a personal experience of coming to faith and the transformative power of Jesus' touch. The song captures the joy and relief of finding solace and salvation. La Favour's heartfelt delivery resonates with the congregation, inviting reflection on the deep impact of divine intervention.",
+      "keywords": ["touch", "faith", "salvation", "Jesus", "transformation"],
+      "performers": ["Read La Favour"],
+      "songs": ["He Touched Me"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: At the Name of Jesus",
+      "start_time": 466,
+      "type": "music",
+      "description": "The sanctuary choir performs the hymn 'At the Name of Jesus,' which glorifies the power and authority of Christ. This congregational hymn encourages participation from the audience, fostering a spirit of worship as they collectively praise Jesus. The song serves as a reminder of the importance of unity and reverence in worship.",
+      "keywords": ["Jesus", "hymn", "worship", "choir", "unity"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["At the Name of Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Sing for Joy Concert",
+      "start_time": 570,
+      "type": "announcement",
+      "description": "An announcement is made about the upcoming 'Sing for Joy' concert at Black Hawk Baptist Church. On February 8th, local contestants will showcase their talents alongside special guest Jeffrey Benward. This event promises to be an encouraging evening for attendees, highlighting the church's commitment to fostering musical talent in the community.",
+      "keywords": ["concert", "community", "Black Hawk Baptist Church", "Sing for Joy", "Jeffrey Benward"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Kevin Roe on Singles Ministry",
+      "start_time": 606,
+      "type": "interview",
+      "description": "Kevin Roe shares insights about his experience in the Singles ministry at Black Hawk Baptist Church. He emphasizes the focus on godliness rather than the challenges of being single and highlights outreach activities, community service, and the importance of fellowship. Kevin's perspective encourages singles to engage actively in their spiritual journey.",
+      "keywords": ["singles", "community", "ministry", "fellowship", "godliness"],
+      "performers": ["Kevin Roe"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Bliss and Blisters of Singleness (1 Corinthians)",
+      "start_time": 0,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers the sermon, exploring the theme 'The Bliss and Blisters of Singleness.' He discusses the struggles and joys of being single, emphasizing that even those with a desire for marriage can find fulfillment through faith. The message is backed with personal anecdotes and biblical support, providing encouragement to those longing for companionship.",
+      "keywords": ["singleness", "bliss", "struggles", "faith", "1 Corinthians"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians"]
+    },
+    {
+      "title": "Congregational Hymn: Reflection",
+      "start_time": 842,
+      "type": "music",
+      "description": "The congregation participates in a moving hymn led by the ensemble Reflection, contributing to the worship atmosphere. This segment provides a musical interlude that reinforces the themes of the sermon, encouraging the community to come together in worship while reflecting on the topics addressed in the service.",
+      "keywords": ["reflection", "hymn", "worship", "congregational"],
+      "performers": ["Ensemble Reflection"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3417,
+      "type": "prayer",
+      "description": "Pastor Moore ends the service with an invitation prayer, encouraging those who felt moved by the message to make a commitment to Christ. This intimate moment invites individuals to reflect on their personal faith and consider taking the step towards a deeper relationship with God.",
+      "keywords": ["prayer", "invitation", "faith", "commitment"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

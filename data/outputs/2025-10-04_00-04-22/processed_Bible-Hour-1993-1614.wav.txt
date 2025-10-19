@@ -1,0 +1,54 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with gentle music as the audience engages in soft conversation. The atmosphere is welcoming, setting the tone for the worship experience to follow.",
+      "keywords": ["welcome", "service", "music", "choir"],
+      "performers": ["Chapel Choir"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 98,
+      "type": "music",
+      "description": "Brian Loson delivers a heartfelt solo, reflecting on God's love and the responsibility to share it. His performance captivates the audience, encouraging them to consider their witness and relationship with Jesus Christ.",
+      "keywords": ["solomusic", "witness", "love", "Jesus"],
+      "performers": ["Brian Loson"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 572,
+      "type": "music",
+      "description": "The service continues with another solo performance that emphasizes themes of divine love and sacrifice. The singer's ability to connect with the audience enhances the atmosphere of reverence and reflection.",
+      "keywords": ["love", "sacrifice", "divine", "performance"],
+      "performers": ["Lynn Roll"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The New Jerusalem (Revelation 21)",
+      "start_time": 926,
+      "type": "sermon",
+      "description": "Pastor Russell Moore elaborates on Revelation 21, exploring the glory of God and its significance in relation to heaven and the new Jerusalem. He illustrates how God's presence will eradicate pain and suffering, offering hope to believers about life in heaven.",
+      "keywords": ["heaven", "new jerusalem", "glory", "Revelation"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 21:1-27", "Exodus 24", "Hebrews 11:8-10"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3426,
+      "type": "prayer",
+      "description": "The program concludes with a heartfelt closing prayer led by Pastor Moore. He invites the congregation to commit their lives to Christ and offers spiritual guidance for their journey ahead.",
+      "keywords": ["prayer", "commitment", "spiritual", "guidance"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Ten Thousand Reasons",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir leads the congregation in worship with the uplifting song 'Ten Thousand Reasons.' It's a beautiful expression of gratitude and reverence, inviting everyone to engage in heartfelt praise.",
+      "keywords": ["choir", "worship", "ten thousand reasons", "praise", "music"],
+      "performers": ["Choir"],
+      "songs": ["Ten Thousand Reasons"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Community Baptism",
+      "start_time": 31,
+      "type": "announcement",
+      "description": "An announcement about an upcoming baptism highlights the significance of the event and the deep relationships formed through the church community. It emphasizes the joy and spiritual growth involved in these moments.",
+      "keywords": ["baptism", "community", "announcement", "spiritual growth"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Thank You for Loving Me",
+      "start_time": 276,
+      "type": "music",
+      "description": "A solo performance titled 'Thank You for Loving Me' encourages the congregation to reflect on God's eternal love and provision. The simple yet profound lyrics resonate deeply, fostering a spirit of thankfulness.",
+      "keywords": ["solo", "thank you", "love", "reflection"],
+      "performers": ["Soloist"],
+      "songs": ["Thank You for Loving Me"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Psalm 32",
+      "start_time": 580,
+      "type": "scripture",
+      "description": "The congregation listens as a passage from Psalm 32 is read. The verses speak of the joy of forgiveness and the relief that comes when confessing sin, setting the tone for the following message.",
+      "keywords": ["scripture", "psalm", "forgiveness", "confession"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Psalm 32"]
+    },
+    {
+      "title": "Message: Marriage and Idolatry (1 Corinthians 7-8)",
+      "start_time": 625,
+      "type": "sermon",
+      "description": "In this extensive sermon, the speaker delves into the themes of marriage and Christian freedom as discussed in 1 Corinthians 7 and 8. The message emphasizes God's design for marriage, the responsibilities of spouses, and navigating cultural pressures surrounding idolatry and freedom in Christ.",
+      "keywords": ["sermon", "marriage", "idolatry", "1 Corinthians", "freedom"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 7", "1 Corinthians 8"]
+    },
+    {
+      "title": "Congregational Hymn: I Lift You High",
+      "start_time": 3196,
+      "type": "music",
+      "description": "The congregation joins together in singing 'I Lift You High.' This hymn fosters unity and collective worship, encouraging believers to humble themselves before God and lift His name in praise.",
+      "keywords": ["congregational", "hymn", "worship", "unity"],
+      "performers": ["Congregation"],
+      "songs": ["I Lift You High"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3409,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer by the pastor, asking for strength and guidance for the congregation to live out the teachings shared in the sermon and to embody humility and service in their lives.",
+      "keywords": ["closing", "prayer", "humility", "service"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

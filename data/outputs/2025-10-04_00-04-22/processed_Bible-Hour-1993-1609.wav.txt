@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Praise and Rejoice",
+      "start_time": 95,
+      "type": "music",
+      "description": "The sanctuary choir leads the congregation in a spirited song that celebrates the forgiveness of sins. The lyrics express joy and gratitude, highlighting the eternal significance of salvation. It's an uplifting moment that unites the congregation in worship.",
+      "keywords": ["choir", "song", "forgiveness", "joy", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Praise and Rejoice"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Wherever It May Lead Me",
+      "start_time": 503,
+      "type": "music",
+      "description": "Brian Losson performs a heartfelt solo that reflects a deep commitment to follow God, no matter where life's journey may lead. The song emphasizes faithfulness and trust in God's plan, resonating with those in attendance.",
+      "keywords": ["solo", "faith", "commitment", "trust", "journey"],
+      "performers": ["Brian Losson"],
+      "songs": ["Wherever It May Lead Me"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 673,
+      "type": "prayer",
+      "description": "Pastor Russell Moore leads the congregation in an opening prayer, asking for God’s guidance and the presence of the Holy Spirit throughout the service. This moment seeks to prepare hearts and minds for worship and the Word.",
+      "keywords": ["prayer", "guidance", "Holy Spirit", "worship", "service"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Psalm 73",
+      "start_time": 701,
+      "type": "scripture",
+      "description": "The reading comes from Psalm 73, setting the stage for the message. The passage discusses themes of envy towards the wicked and the eventual realization of God's sovereignty. It prepares the audience for deeper reflection during the sermon.",
+      "keywords": ["Psalm", "scripture", "wisdom", "God's sovereignty", "envy"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Psalm 73"]
+    },
+    {
+      "title": "Message: The Judgment of Economic Babylon (Revelation 18)",
+      "start_time": 1167,
+      "type": "sermon",
+      "description": "Pastor Russell Moore presents a profound sermon on Revelation 18, discussing the fall of economic Babylon. He emphasizes the futility of materialism and God's ultimate authority over worldly systems. The message includes biblical stories, application, and a call to focus on spiritual wealth over material possessions.",
+      "keywords": ["sermon", "Revelation", "Babylon", "materialism", "judgment"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 18"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3445,
+      "type": "prayer",
+      "description": "A heartfelt invitation prayer is led by Pastor Moore, encouraging attendees to reflect on their relationship with God. This moment is crucial for those contemplating spiritual commitments and seeking assurance of salvation.",
+      "keywords": ["invitation", "prayer", "commitment", "salvation", "God"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Faithful to Follow",
+      "start_time": 3536,
+      "type": "music",
+      "description": "The congregation participates in a final hymn, expressing their commitment to remain faithful in their walk with God. This powerful moment reinforces the themes of trust and devotion introduced earlier in the service.",
+      "keywords": ["hymn", "congregation", "faithfulness", "worship", "commitment"],
+      "performers": [],
+      "songs": ["Faithful to Follow"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3546,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Moore. He thanks God for the message and the time spent in worship. The prayer seeks to bless the congregation as they go forth into their week.",
+      "keywords": ["closing prayer", "thanksgiving", "blessing", "worship", "commitment"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Amen, Amen",
+      "start_time": 216,
+      "type": "music",
+      "description": "The sanctuary choir lifts their voices in praise with the song 'Amen, Amen,' creating an atmosphere of worship and adoration. This song resonates with the congregation, reminding them of the importance of their faith. The choir's harmonies fill the space, inviting everyone to engage in worship.",
+      "keywords": ["choir", "worship", "Amen", "song", "faith"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Amen, Amen"],
+      "scripture_references": []
+    },
+    {
+      "title": "Duet: Once and For All",
+      "start_time": 284,
+      "type": "music",
+      "description": "Ed Richard and Marilyn Wong perform a beautiful duet of 'Once and For All.' This touching song reflects on the sacrifice of Jesus and brings a profound moment of reflection to the congregation. The harmonies enrich the worship service and draw listeners closer to the message of salvation.",
+      "keywords": ["duet", "worship", "Ed Richard", "Marilyn Wong", "Jesus"],
+      "performers": ["Ed Richard", "Marilyn Wong"],
+      "songs": ["Once and For All"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Blessed be the name of the Lord",
+      "start_time": 818,
+      "type": "music",
+      "description": "The congregation actively participates in singing hymn number 103, 'Blessed be the name of the Lord.' This hymn encourages collective worship and engagement as the members of the church unify their voices in praise. It emphasizes gratitude and acknowledgment of God's glory.",
+      "keywords": ["hymn", "worship", "congregation", "blessed", "praise"],
+      "performers": [],
+      "songs": ["Blessed be the name of the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Once and For All the Father Gave the Savior",
+      "start_time": 973,
+      "type": "music",
+      "description": "Kerry Johnson delivers a stirring solo rendition of 'Once and For All the Father Gave the Savior,' deepening the worship experience. This solo uplifts and inspires the congregation, reinforcing the message of redemption and grace offered through Christ.",
+      "keywords": ["solo", "Kerry Johnson", "redemption", "grace", "inspiration"],
+      "performers": ["Kerry Johnson"],
+      "songs": ["Once and For All the Father Gave the Savior"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: What the Bible Says About Healing (James 5:14-18)",
+      "start_time": 1808,
+      "type": "sermon",
+      "description": "Pastor Rick Cox presents a thought-provoking sermon titled 'What the Bible Says About Healing,' focusing on the truths found in James 5:14-18. He explores the complexities of faith healing, biblical references, and personal anecdotes, encouraging believers to understand the nature of divine healing and active prayer. He challenges misconceptions about healers and emphasizes the importance of trusting God fully.",
+      "keywords": ["healing", "faith", "sermon", "Rick Cox", "James"],
+      "performers": ["Rick Cox"],
+      "songs": [],
+      "scripture_references": ["James 5:14-18"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1808,
+      "type": "prayer",
+      "description": "The congregation engages in an opening prayer led by Pastor Rick Cox, inviting the presence of the Lord into the service. This heartfelt prayer seeks guidance, healing, and worshipful focus as the members prepare their hearts for the message and music that will follow.",
+      "keywords": ["prayer", "worship", "guidance", "healing", "focus"],
+      "performers": ["Rick Cox"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3621,
+      "type": "prayer",
+      "description": "In a profound closing prayer, Pastor Rick Cox reflects on the message delivered during the service. He asks for God's presence to linger with the congregation as they depart, seeking blessings and encouragement in the week ahead. This prayer reinforces the teachings and commitments made that day.",
+      "keywords": ["closing prayer", "reflection", "blessing", "community", "worship"],
+      "performers": ["Rick Cox"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

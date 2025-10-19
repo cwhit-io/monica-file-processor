@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Introduction",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat music selection, setting a lively atmosphere for the gathering. The music appears to be filled with energy and joy, inviting participants to engage in an uplifting experience. This welcoming environment is crucial for fostering a sense of community.",
+      "keywords": ["music", "upbeat", "introduction", "joy", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Handling Fools (Proverbs)",
+      "start_time": 889,
+      "type": "sermon",
+      "description": "In this sermon, the speakers discuss the biblical perspective on handling fools based on Proverbs. They elaborate on traits of foolishness, encouraging listeners to reflect on personal behavior as well as decisions about whom to invest time in. The sermon emphasizes the importance of wisdom, making godly choices, and the consequences of foolish anger.",
+      "keywords": ["sermon", "fools", "wisdom", "Proverbs", "anger"],
+      "performers": ["Kelly Bird", "Steve Longbreak"],
+      "songs": [],
+      "scripture_references": ["Proverbs 23", "Proverbs 24", "James 1:19-20", "Proverbs 1:7", "Ecclesiastes 7:9"]
+    },
+    {
+      "title": "drama: Survivor Sketch",
+      "start_time": 525,
+      "type": "drama",
+      "description": "A comedic drama unfolds, depicting a group of characters on a survival show. Tensions rise as they navigate eating challenges and confrontations, illustrating themes of selfishness and conflict inherent in group dynamics. This light-hearted segment effectively conveys deeper truths about human behavior.",
+      "keywords": ["drama", "survivor", "conflict", "comedy", "group dynamics"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Proverbs",
+      "start_time": 817,
+      "type": "scripture",
+      "description": "Key verses from Proverbs are presented, focusing on the wisdom imparted through scripture. The readings explore themes like the consequences of foolishness, the value of wisdom, and moral guidance, emphasizing the importance of aligning one's life with God’s word.",
+      "keywords": ["Proverbs", "wisdom", "scripture", "guidance", "moral"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Proverbs 1", "Proverbs 4"]
+    },
+    {
+      "title": "Choir: Uplifting Anthem",
+      "start_time": 3351,
+      "type": "music",
+      "description": "The choir takes to the stage to perform a moving anthem that reinforces the themes of gratitude and humility discussed earlier in the service. This musical interlude serves to uplift and inspire the congregation, creating a reflective atmosphere.",
+      "keywords": ["choir", "anthem", "uplifting", "gratitude", "humility"],
+      "performers": ["Choir"],
+      "songs": ["Uplifting Anthem"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3501,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer led by the pastor. This moment serves as a time for reflection and commitment, inviting the congregation to seek strength and wisdom from God in their daily lives. It's a powerful reminder of the service's themes.",
+      "keywords": ["prayer", "closing", "reflection", "commitment", "strength"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

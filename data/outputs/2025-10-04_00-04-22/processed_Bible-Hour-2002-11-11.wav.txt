@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: He Knows Your Name",
+      "start_time": 60,
+      "type": "music",
+      "description": "The choir lifts spirits with the uplifting song 'He Knows Your Name,' celebrating the intimate relationship between the faithful and God. The lyrics emphasize that God knows and hears all of our thoughts and prayers, creating a comforting atmosphere for worshipers.",
+      "keywords": ["choir", "he knows your name", "worship", "comfort", "faith"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["He Knows Your Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Christmas with Blackhawk Introduction",
+      "start_time": 114,
+      "type": "announcement",
+      "description": "Pastors Kelly Bird and Mitchell Crews introduce the upcoming 'Christmas with Blackhawk' event, transforming the auditorium into a community of Hope. They discuss the importance of hope in their lives and highlight a special needs concert designed to bring joy and community interaction.",
+      "keywords": ["Christmas", "Hope", "announcement", "community", "festival"],
+      "performers": ["Kelly Bird", "Mitchell Crews"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 551,
+      "type": "prayer",
+      "description": "In a heartfelt opening prayer, the pastor seeks guidance and clarity, asking for the truth to resonate with congregants. This prayer sets the tone for the service, inviting the Holy Spirit to engage with all present and lead them in their spiritual journey.",
+      "keywords": ["prayer", "guidance", "worship", "spiritual", "community"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Be Strong and Courageous (Joshua 1)",
+      "start_time": 588,
+      "type": "sermon",
+      "description": "The sermon focuses on the biblical character Joshua, exploring themes of strength, service, and faith. Emphasizing God's call for Joshua to lead, the pastor encourages listeners to embrace courage and obedience, paralleling their lives with Joshua's journey into the Promised Land.",
+      "keywords": ["Joshua", "courage", "faith", "obedience", "leadership"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Joshua 1"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3530,
+      "type": "prayer",
+      "description": "In the closing prayer, the pastor expresses gratitude for God's faithfulness and redemption through Christ. Praying for empowerment and courage, the prayer invites everyone to carry the message of Hope into the world, concluding the service on a spiritually uplifting note.",
+      "keywords": ["closing prayer", "gratitude", "empowerment", "faith", "redemption"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: He Knows Your Name (Reprise)",
+      "start_time": 3564,
+      "type": "music",
+      "description": "The service features a reprise of 'He Knows Your Name,' allowing the congregation to reflect on the message of personal connection and divine recognition. The uplifting ambiance reinforces the core themes of love and hope discussed throughout the service.",
+      "keywords": ["choir", "he knows your name", "worship", "reflection", "hope"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["He Knows Your Name"],
+      "scripture_references": []
+    }
+  ]
+}
+```

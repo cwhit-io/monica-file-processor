@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Worship Medley",
+      "start_time": 60,
+      "type": "music",
+      "description": "The choir leads the congregation in a worship medley, filled with themes of reverence and adoration. The lyrics emphasize the holiness and greatness of God, creating a vibrant atmosphere of praise. The congregation joins in, expressing their worship and gratitude.",
+      "keywords": ["worship", "choir", "medley", "praise", "adoration"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["Worthy Is The Lamb", "Holy, Holy, Holy", "New Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Joyful Sound",
+      "start_time": 203,
+      "type": "music",
+      "description": "The congregation participates in a joyful hymn, celebrating their faith and unity. This hymn fosters a sense of belonging as they proclaim their love for God through music. The communal singing reflects the heart of the church family coming together in worship.",
+      "keywords": ["joy", "hymn", "congregational", "faith", "unity"],
+      "performers": ["Congregation"],
+      "songs": ["Joyful Sound"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: A Priestly Mom (1 Peter 2:9-10)",
+      "start_time": 878,
+      "type": "sermon",
+      "description": "The sermon focuses on the role of mothers as 'priestly' figures in their families, emphasizing the importance of grace, wisdom, and strength in motherhood. It explores the spiritual responsibility of mothers to model God's love and nurture their children. The message encourages women to seek deeper intimacy with God as they fulfill their roles.",
+      "keywords": ["motherhood", "priestly", "1 Peter", "grace", "wisdom"],
+      "performers": ["Pastor [Unknown Name]"],
+      "songs": [],
+      "scripture_references": ["1 Peter 2:9-10"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3008,
+      "type": "prayer",
+      "description": "The pastor leads an opening prayer, inviting God's presence into the service and blessing the mothers in attendance. This prayer sets the tone for the gathering, asking for strength and encouragement for families. It recognizes the divine support needed for parenting and community.",
+      "keywords": ["prayer", "opening", "blessing", "community", "strength"],
+      "performers": ["Pastor [Unknown Name]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2995,
+      "type": "prayer",
+      "description": "In the closing prayer, the pastor seeks God's guidance and power for the week ahead. He encourages the congregation to carry the message of motherhood and faith into their lives. The prayer is a final blessing over the moms and families, reinforcing a sense of community.",
+      "keywords": ["closing", "prayer", "community", "blessing", "guidance"],
+      "performers": ["Pastor [Unknown Name]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Thank You for Loving Me",
+      "start_time": 3044,
+      "type": "music",
+      "description": "The choir concludes the service with a heartfelt song expressing gratitude for God's love and faithfulness. The lyrics resonate with the congregation, fostering a deep emotional connection as they reflect on their personal experiences of divine love. This performance leaves the audience uplifted.",
+      "keywords": ["gratitude", "love", "faithfulness", "choir", "worship"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["Thank You for Loving Me"],
+      "scripture_references": []
+    }
+  ]
+}
+```

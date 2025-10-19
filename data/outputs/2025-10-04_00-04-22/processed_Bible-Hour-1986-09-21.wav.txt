@@ -1,0 +1,84 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: [Anthem of Praise]",
+      "start_time": 30,
+      "type": "music",
+      "description": "The service begins with a welcoming message emphasizing the importance of truth in love. The Sensuory Choir leads the congregation in an anthem of praise, establishing a spirit of worship and readiness for the message that follows.",
+      "keywords": ["worship", "choir", "praise", "truth", "love"],
+      "performers": ["Sensuory Choir"],
+      "songs": ["Anthem of Praise"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [O Worship the King]",
+      "start_time": 394,
+      "type": "music",
+      "description": "The congregation joyfully participates in singing 'O Worship the King', reflecting on God's glory and inviting everyone to lift their voices in unity and praise. This hymn reaffirms their commitment to worship as a community.",
+      "keywords": ["worship", "hymn", "congregation", "God", "praise"],
+      "performers": [],
+      "songs": ["O Worship the King"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [He Speaks and the Sound of His Voice]",
+      "start_time": 802,
+      "type": "music",
+      "description": "Dennis Kirschner leads a solo performance that emphasizes the comforting and reassuring presence of Jesus. Through meaningful lyrics, the song speaks to those facing struggles, reminding them of Christ's companionship in difficult times.",
+      "keywords": ["solo", "music", "comfort", "Jesus", "presence"],
+      "performers": ["Dennis Kirschner"],
+      "songs": ["He Speaks and the Sound of His Voice"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 740,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, expressing gratitude for the missionaries and members within the church, and asking for encouragement and courage for those facing challenges. It sets a tone of unity and purpose for the service.",
+      "keywords": ["prayer", "opening", "unity", "missionaries", "gratitude"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: [Ruth Yokem's Mission Work]",
+      "start_time": 589,
+      "type": "testimony",
+      "description": "Ruth Yokem shares her experiences as a missionary in Bangladesh, highlighting the challenges and successes she has faced. Her testimony encourages the congregation and provides insight into the importance of supporting missions.",
+      "keywords": ["testimony", "missionary", "Bangladesh", "support", "faith"],
+      "performers": ["Ruth Yokem"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Loving the Truth (1 Corinthians 13:4-8)",
+      "start_time": 1788,
+      "type": "sermon",
+      "description": "The pastor delivers a profound message drawn from 1 Corinthians 13, focusing on the nature of love and truth. He warns against societal trends of delighting in evil and encourages believers to embrace and rejoice in truth, drawing parallels to personal integrity and God's Word.",
+      "keywords": ["sermon", "truth", "love", "1 Corinthians", "integrity"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 13:4-8"]
+    }, 
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3465,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, affirming the messages delivered and inviting God's guidance over the congregation's lives. It reflects a commitment to live out the teachings shared during the service and encourages attendees to draw nearer to God.",
+      "keywords": ["prayer", "closing", "guidance", "commitment", "teaching"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [I've No Regrets]",
+      "start_time": 1402,
+      "type": "music",
+      "description": "Marsha Ives performs a solo entitled 'I've No Regrets', conveying a powerful message of commitment to following Jesus without reservations. The lyrics remind the audience of the joy found in Christ and the fulfillment that comes from living a faithful life.",
+      "keywords": ["solo", "music", "commitment", "Jesus", "joy"],
+      "performers": ["Marsha Ives"],
+      "songs": ["I've No Regrets"],
+      "scripture_references": []
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a vibrant choir performance, setting a joyous and uplifting tone for the worship gathering. The congregation is invited to join in expressing their faith through song. This music segment emphasizes themes of worship and remembrance of Jesus's authority.",
+      "keywords": ["worship", "choir", "Jesus", "faith", "community"],
+      "performers": ["[Choir]"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Song Title]",
+      "start_time": 15,
+      "type": "music",
+      "description": "The congregation is led in a well-loved hymn that reflects their devotion and gratitude to God's sovereignty. This communal hymn encourages participation and fosters a sense of unity among the attendees, reminding them of their shared faith and love for Christ.",
+      "keywords": ["hymn", "congregation", "unity", "love", "praise"],
+      "performers": ["[Congregation]"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Song Title]",
+      "start_time": 36,
+      "type": "music",
+      "description": "The worship service continues with another congregational hymn, further inviting everyone to lift their voices in praise. The lyrics resonate with themes of joy and celebration in the presence of God. This segment reinforces the importance of communal worship.",
+      "keywords": ["hymn", "joy", "praise", "community", "worship"],
+      "performers": ["[Congregation]"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 478,
+      "type": "prayer",
+      "description": "The service transitions into an opening prayer led by the pastor, inviting God's presence into the gathering. The prayer focuses on community needs, encouragement, and a reminder of God's grace and guidance, setting a solemn atmosphere for the teachings to follow.",
+      "keywords": ["prayer", "community", "grace", "guidance", "worship"],
+      "performers": ["[Pastor]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Sarah Sumner",
+      "start_time": 543,
+      "type": "testimony",
+      "description": "Sarah shares her heartfelt testimony about how dance and praise are vital expressions of her faith. She emphasizes the significance of using one's gifts to honor God, tying her passion back to her conviction of worship through movement.",
+      "keywords": ["testimony", "dance", "faith", "worship", "God"],
+      "performers": ["Sarah Sumner"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Lostness and Redemption (Luke 15)",
+      "start_time": 876,
+      "type": "sermon",
+      "description": "Pastor Jeff Carroll leads a dynamic sermon revolving around the theme of lostness illustrated through biblical parables in Luke 15. Emphasizing God's relentless pursuit of the lost, he encourages the congregation to embrace the role of seekers, loving and forgiving as Christ did. The sermon concludes with a call to action for self-examination and outreach.",
+      "keywords": ["lostness", "redemption", "Jesus", "forgiveness", "outreach"],
+      "performers": ["Jeff Carroll"],
+      "songs": [],
+      "scripture_references": ["Luke 15"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2614,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, inviting those who are uncertain of their faith to consider accepting Jesus Christ. It serves as a critical moment of reflection for attendees, urging them to respond to God's love and grace in their lives.",
+      "keywords": ["invitation", "prayer", "faith", "acceptance", "Jesus"],
+      "performers": ["[Pastor]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Praise You in the Storm]",
+      "start_time": 2708,
+      "type": "music",
+      "description": "The congregation participates in a moving rendition of 'Praise You in the Storm,' reinforcing the message of hope and perseverance amidst life's challenges. This poignant moment encourages everyone to lean into their faith while navigating storms, further binding the community in prayerful worship.",
+      "keywords": ["hymn", "faith", "praise", "worship", "community"],
+      "performers": ["[Congregation]"],
+      "songs": ["Praise You in the Storm"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: New Believers",
+      "start_time": 3452,
+      "type": "announcement",
+      "description": "Pastor Jeff shares exciting news about new individuals accepting Christ as their savior, emphasizing the importance of discipleship and community support in their faith journeys. This segment celebrates the growth of the church and encourages ongoing connection with new believers.",
+      "keywords": ["announcement", "believers", "discipleship", "community", "growth"],
+      "performers": ["Jeff Carroll"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Final Worship Song]",
+      "start_time": 3481,
+      "type": "music",
+      "description": "The service concludes with a final worship song led by the choir, allowing the congregation to reflect on the message while praising God. This uplifting end to the service encourages commitment and a joyful heart as they prepare to go forth into the world.",
+      "keywords": ["worship", "choir", "praise", "commitment", "community"],
+      "performers": ["[Choir]"],
+      "songs": ["[Final Worship Song]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,96 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: palms on his pathway",
+      "start_time": 252,
+      "type": "music",
+      "description": "The sanctuary choir joyfully presents 'palms on his pathway', commemorating Palm Sunday with vibrant melodies that symbolize the entry of Jesus into Jerusalem. The choir's harmonious performance sets a tone of celebration and reverence, inviting the congregation to reflect on the joyous occasion.",
+      "keywords": ["Palm Sunday", "Hosanna", "Jesus", "choir", "celebration"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["palms on his pathway"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: oh, hail the power of Jesus' name",
+      "start_time": 455,
+      "type": "music",
+      "description": "The congregation joins in singing 'Oh, Hail the Power of Jesus' Name'. This classic hymn celebrates the majesty of Jesus and is a call to worship, encouraging all present to reflect on His sovereign power, particularly as it relates to His triumphant entry into Jerusalem.",
+      "keywords": ["hymn", "worship", "Jesus", "majesty", "power"],
+      "performers": [],
+      "songs": ["Oh, Hail the Power of Jesus' Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: prepare ye the way of the Lord",
+      "start_time": 589,
+      "type": "music",
+      "description": "A solo performance of 'Prepare Ye the Way of the Lord' introduces themes of readiness and prophetic anticipation. The singer's heartfelt delivery reminds the audience of the spiritual significance of preparing their hearts to welcome Jesus as their Messiah.",
+      "keywords": ["solo", "prepare", "Jesus", "prophecy", "spiritual"],
+      "performers": ["Susan Toyrak"],
+      "songs": ["Prepare Ye the Way of the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1510,
+      "type": "prayer",
+      "description": "The service continues with an opening prayer that acknowledges and worships Jesus as alive and victorious. The prayer focuses on gratitude for salvation and the significance of Easter, asking for the Holy Spirit's presence during the service.",
+      "keywords": ["prayer", "Easter", "worship", "thanksgiving", "victory"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: John 10",
+      "start_time": 1984,
+      "type": "scripture",
+      "description": "A reading from John 10 emphasizes the relationship between Jesus as the good shepherd and His sheep. This passage reveals His willingness to lay down His life for others, underscoring the themes of sacrifice and love central to the day's message.",
+      "keywords": ["scripture", "John", "shepherd", "sacrifice", "love"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["John 10"]
+    },
+    {
+      "title": "Message: A Son, a Savior, His Passion (John 10)",
+      "start_time": 2022,
+      "type": "sermon",
+      "description": "Pastor Rick Cox delivers a profound sermon titled 'A Son, a Savior, His Passion,' exploring the duality of Jesus as both the victim and the victor. The sermon delves into the significance of Christ's death and resurrection, emphasizing divine purpose, victory over death, and the call for believers to share the gospel with others.",
+      "keywords": ["sermon", "Jesus", "victor", "passion", "gospel"],
+      "performers": ["Pastor Rick Cox"],
+      "songs": [],
+      "scripture_references": ["John 10:14-18"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1664,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that seeks God's guidance and peace for those who have mourned loss and emphasizes the hope found in the resurrection. The prayer encourages reflection on the message of hope and the urgency of sharing faith with others.",
+      "keywords": ["prayer", "closure", "hope", "resurrection", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: in came the morning",
+      "start_time": 1329,
+      "type": "music",
+      "description": "The choir performs 'In Came the Morning,' a powerful song celebrating the resurrection. This uplifting piece captures the victory over death and darkness, encouraging the congregation to rejoice in the reality of Christ's resurrection and the hope it brings.",
+      "keywords": ["resurrection", "victory", "choir", "hope", "Easter"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["In Came the Morning"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Invitation to Join for Evening Service",
+      "start_time": 778,
+      "type": "announcement",
+      "description": "An invitation is extended for the congregation to join the evening service titled 'Jesus Lives'. This service promises uplifting music celebrating the resurrection, encouraging attendees to participate in a powerful evening of worship.",
+      "keywords": ["announcement", "evening service", "Jesus Lives", "worship", "invite"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

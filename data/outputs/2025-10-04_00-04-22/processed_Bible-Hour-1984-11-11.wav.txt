@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Inspirational Song",
+      "start_time": 99,
+      "type": "music",
+      "description": "This segment features the choir singing an uplifting song, emphasizing themes of burdens and faith. The lyrics encourage listeners to cast their cares upon the Lord, reinforcing the message of God's care for the weary. The congregation participates in this musical ministry, creating a sense of community worship.",
+      "keywords": ["choir", "burdens", "faith", "praise", "Jesus"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Inspirational Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Quartet: Praise the Lord",
+      "start_time": 599,
+      "type": "music",
+      "description": "The quartet performs a powerful song, 'Praise the Lord,' which encourages the congregation to lift their voices in worship. The lyrics speak to overcoming struggles through faith in God, emphasizing the power of prayer and the victory found in trusting Him. This performance aims to inspire and uplift the spirit of the attendees.",
+      "keywords": ["quartet", "praise", "worship", "faith", "struggles"],
+      "performers": ["Quartet"],
+      "songs": ["Praise the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Broken and Spilled Out",
+      "start_time": 1208,
+      "type": "music",
+      "description": "A soloist delivers a heartfelt rendition of 'Broken and Spilled Out.' The song reflects themes of sacrifice and love for Jesus, moving the congregation as the lyrics portray devotion. This solo emphasizes the personal relationship with Christ and the call to serve Him fully.",
+      "keywords": ["solo", "sacrifice", "devotion", "Jesus", "worship"],
+      "performers": ["Ron"],
+      "songs": ["Broken and Spilled Out"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1513,
+      "type": "prayer",
+      "description": "The opening prayer invites God's presence into the service, emphasizing themes of brokenness and the need for restoration. The pastor prays for those carrying burdens and seeks God's guidance, asking for healing and strength for various members of the congregation. This prayer sets a reflective tone for the worship that follows.",
+      "keywords": ["prayer", "opening", "restoration", "guidance", "healing"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Prepare for Scoffers (2 Peter 3)",
+      "start_time": 1709,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a powerful sermon based on 2 Peter 3, urging the congregation to be prepared for the mocking of scoffers in the last days. He emphasizes the importance of rooting oneself in God's Word and not being swayed by skepticism. Through the message, he conveys hope in God's promises and the necessity of living a life of faith despite the challenges faced.",
+      "keywords": ["scoffers", "sermon", "hope", "faith", "2 Peter"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["2 Peter 3"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3484,
+      "type": "prayer",
+      "description": "The closing prayer offers gratitude for the service and a final appeal for God's presence in the lives of attendees. The pastor prays for those making decisions based on the message shared, inviting them to further their spiritual journey with Christ. This prayer gives closure to the service, enhancing the congregational feeling of unity.",
+      "keywords": ["closing", "prayer", "gratitude", "spiritual", "unity"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

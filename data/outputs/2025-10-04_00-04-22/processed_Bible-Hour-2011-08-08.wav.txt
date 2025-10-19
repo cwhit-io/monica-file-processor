@@ -1,0 +1,74 @@
+{
+  "chapters": [
+    {
+      "title": "Uplifting Praise",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with upbeat music, creating an atmosphere of joy and celebration as the congregation gathers. The music encourages unity and sets a positive tone for worship.",
+      "keywords": ["praise", "worship", "gathering"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Holy, Holy, Holy",
+      "start_time": 90,
+      "type": "music",
+      "description": "The choir leads the congregation in a powerful rendition of 'Holy, Holy, Holy,' reflecting on God's majesty and sovereignty. This music inspires worship and reverence among the attendees.",
+      "keywords": ["choir", "holy", "worship"],
+      "performers": ["Choir"],
+      "songs": ["Holy, Holy, Holy"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: What a Joy",
+      "start_time": 231,
+      "type": "music",
+      "description": "The congregation joins in for a heartfelt hymn expressing surrender and devotion to God. The lyrics emphasize a willingness to lay down one's life in service to Him, fostering a deep sense of community and shared faith.",
+      "keywords": ["hymn", "joy", "devotion"],
+      "performers": [],
+      "songs": ["What a Joy"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 869,
+      "type": "prayer",
+      "description": "The pastor leads an opening prayer, inviting the congregation to focus on God as they prepare their hearts for the message. This prayer emphasizes unity and reliance on God's wisdom.",
+      "keywords": ["prayer", "opening", "unity"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Roles in the Church (1 Timothy 2)",
+      "start_time": 877,
+      "type": "sermon",
+      "description": "The sermon delves deep into 1 Timothy 2, exploring God's design for the roles of men and women in the church. The pastor emphasizes the importance of understanding these divine roles and the potential for conflict and confusion in modern interpretations. He challenges the congregation to seek God's wisdom and guidance in fulfilling their roles.",
+      "keywords": ["sermon", "1 Timothy", "roles", "church"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 2:8-15"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3432,
+      "type": "prayer",
+      "description": "As the sermon concludes, an invitation prayer is offered, encouraging individuals to respond to God's message. This prayer emphasizes grace and the importance of embracing God's design for their lives.",
+      "keywords": ["invitation", "prayer", "response"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Closing Worship",
+      "start_time": 3507,
+      "type": "music",
+      "description": "The service wraps up with closing worship, allowing the congregation to reflect on the message and respond in praise. This time reinforces the themes of the sermon and fosters a sense of community.",
+      "keywords": ["closing", "worship", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

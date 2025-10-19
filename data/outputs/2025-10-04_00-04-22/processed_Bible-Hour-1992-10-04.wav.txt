@@ -1,0 +1,36 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unknown]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an uplifting musical performance, setting a positive atmosphere for the worship and teaching ahead. The choir's energy invites the congregation to participate in praise together.",
+      "keywords": ["choir", "music", "worship", "praise", "service"],
+      "performers": ["sanctuary choir"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Demons and the Believer (Ephesians 6)",
+      "start_time": 673,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delves into a vital discussion on the influence of demons in the lives of believers. He addresses common misconceptions, emphasizing that while believers can face oppression, true possession is not supported by Scripture. The session offers a deep analysis of demonic activity, equipping the congregation with biblical insights and hope.",
+      "keywords": ["demons", "Christian", "Ephesians", "sermon", "belief"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Ephesians 6"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3403,
+      "type": "prayer",
+      "description": "As the service draws to a close, an invitation prayer is offered, encouraging attendees to reflect on their spiritual journey. The prayer emphasizes seeking forgiveness and a personal connection with Christ, reinforcing the message shared in the sermon.",
+      "keywords": ["prayer", "invitation", "forgiveness", "reflection", "spiritual"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Message: A Journey Worth Taking (Matthew 4:18-22, Matthew 28:16-20)",
+      "start_time": 0,
+      "type": "sermon",
+      "description": "The sermon focuses on discipleship, with an emphasis on making and being disciples of Jesus. The speaker introduces a definition of discipleship based on Matthew 4:19, highlighting that following Jesus requires obedience, transformation, and commitment to His mission. Key biblical passages and personal anecdotes show how this journey is essential for all believers.",
+      "keywords": ["discipleship", "Jesus", "Matthew", "mission", "transformation"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["Matthew 4:18-22", "Matthew 28:16-20"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1790,
+      "type": "prayer",
+      "description": "An opening prayer inviting God to lead the service and speak to the hearts of the congregation. This moment sets the tone for worship and emphasizes the need for divine guidance as they delve into the message for the day.",
+      "keywords": ["prayer", "worship", "guidance", "congregation"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 1805,
+      "type": "music",
+      "description": "The choir performs a powerful song that uplifts the congregation and reinforces the message of the service. The music serves as an emotive response to the sermon and prepares hearts for the subsequent segments.",
+      "keywords": ["choir", "worship", "music"],
+      "performers": ["Unknown"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1860,
+      "type": "prayer",
+      "description": "A closing prayer reflecting on the sermon and interceding for the congregation's journey of faith. The prayer seeks God's blessing and guidance as they go about their week, encouraging believers to live out their discipleship.",
+      "keywords": ["prayer", "closing", "blessing", "faith"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

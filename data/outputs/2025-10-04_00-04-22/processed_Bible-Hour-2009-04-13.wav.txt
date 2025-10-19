@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 30,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer inviting the congregation to reflect on their relationship with God. The pastor expresses gratitude for the resurrection weekend and sets the tone for the service.",
+      "keywords": ["opening", "prayer", "resurrection", "thankfulness", "community"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unidentified Song]",
+      "start_time": 261,
+      "type": "music",
+      "description": "The choir performs a gentle piece that fills the church with a spirit of worship. This uplifting music invites the congregation to engage in a shared moment of reflection and praise.",
+      "keywords": ["choir", "worship", "music", "spiritual", "praise"],
+      "performers": ["Choir"],
+      "songs": ["Unidentified Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "musci: Congregational Hymn: I Exalt Thee",
+      "start_time": 404,
+      "type": "music",
+      "description": "The congregation joins in singing 'I Exalt Thee', creating a collective atmosphere of worship and devotion. The song encourages participants to express their faith through song, further uniting the community.",
+      "keywords": ["I Exalt Thee", "hymn", "congregational", "worship", "faith"],
+      "performers": ["Congregation"],
+      "songs": ["I Exalt Thee"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Narrow Gate and Following Jesus (Matthew 7:13-14)",
+      "start_time": 526,
+      "type": "sermon",
+      "description": "The pastor delivers a sermon focusing on Jesus' teaching about the narrow gate that leads to life, emphasizing the importance of following Him. The message explores practical ways to embody a Christ-like life, encouraging attendees to reflect on their personal faith journeys.",
+      "keywords": ["sermon", "narrow gate", "following Jesus", "Matthew 7", "life"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Matthew 7:13-14"]
+    },
+    {
+      "title": "Solo: Give Me Jesus",
+      "start_time": 3211,
+      "type": "music",
+      "description": "A solo performance of 'Give Me Jesus' enhances the worship experience, inviting the congregation to reflect on their longing for Christ. This emotionally charged piece emphasizes the joy and peace found in relationship with Jesus over worldly concerns.",
+      "keywords": ["Give Me Jesus", "solo", "worship", "reflection", "Jesus"],
+      "performers": ["Soloist"],
+      "songs": ["Give Me Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3520,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that encapsulates the themes discussed during the sermon. The pastor urges the congregation to take the message to heart and live out their faith in daily life, reinforcing community.",
+      "keywords": ["closing", "prayer", "faith", "congregation", "community"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

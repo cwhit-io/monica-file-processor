@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Sinner Saved by Grace",
+      "start_time": 139,
+      "type": "music",
+      "description": "The sanctuary choir and orchestra perform a heartfelt rendition of 'Sinner Saved by Grace.' The song reflects on God's grace and salvation, inviting the congregation to reflect on their spiritual journeys and the transformative power of faith in Jesus Christ.",
+      "keywords": ["grace", "salvation", "choir", "Jesus", "sinner"],
+      "performers": ["Sanctuary Choir", "Orchestra"],
+      "songs": ["Sinner Saved by Grace"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: What Grace Is This?",
+      "start_time": 832,
+      "type": "music",
+      "description": "Read La Favor performs a solo of 'What Grace Is This?' The song beautifully describes the condescension of Christ, His sacrifice for humanity, and the incredible grace offered to all. The performance engages the congregation in a moment of worship and reflection on Christ's love.",
+      "keywords": ["grace", "sacrifice", "worship", "Jesus"],
+      "performers": ["Read La Favor"],
+      "songs": ["What Grace Is This?"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Grace Greater than Our Sin",
+      "start_time": 431,
+      "type": "music",
+      "description": "The congregation joins together to sing hymn number 201, 'Grace Greater than Our Sin.' This hymn emphasizes God's overwhelming grace and ability to forgive, encouraging the community to sing with joy and reverence as they acknowledge their dependence on God's grace.",
+      "keywords": ["hymn", "grace", "congregation", "worship"],
+      "performers": [],
+      "songs": ["Grace Greater than Our Sin"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1583,
+      "type": "prayer",
+      "description": "An opening prayer acknowledges God’s presence and offers gratitude for the opportunity to gather in worship. The prayer includes a specific request for the healing of Karen Elliot, a missionary undergoing surgery, emphasizing the service's commitment to intercessory prayer.",
+      "keywords": ["prayer", "healing", "worship", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Taking Time for a Building Inspection (1 Corinthians 3:10-15)",
+      "start_time": 110,
+      "type": "sermon",
+      "description": "Youth pastor Tim Teder delivers a message titled 'Taking Time for a Building Inspection,' based on 1 Corinthians 3:10-15. He emphasizes the importance of spiritual growth within the church, exploring how the church is not about physical structures but rather about its members as the living temple of God.",
+      "keywords": ["church", "building", "1 Corinthians", "spiritual growth", "Tim Teder"],
+      "performers": ["Tim Teder"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 3:10-15"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1641,
+      "type": "prayer",
+      "description": "The closing prayer invites the congregation to reflect on the message shared during the service, thanking God for His grace and asking for His guidance as they leave to live out their faith in the world.",
+      "keywords": ["prayer", "closing", "reflection", "grace"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: God's Amazing Grace",
+      "start_time": 3518,
+      "type": "testimony",
+      "description": "A testimony is shared, focusing on how God's grace has transformed the speaker's life. They recount their journey to faith and the impact of Jesus' love, encouraging others to embrace and acknowledge the grace available to everyone.",
+      "keywords": ["testimony", "grace", "transformation", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Building Lives Initiative",
+      "start_time": 624,
+      "type": "announcement",
+      "description": "The coordinator of the building program, Steve Longbrake, shares important updates regarding the church's building initiative. He invites members to participate in upcoming events aimed at fostering community involvement and fundraising for the construction of new facilities.",
+      "keywords": ["building", "announcement", "community", "fundraising"],
+      "performers": ["Steve Longbrake"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

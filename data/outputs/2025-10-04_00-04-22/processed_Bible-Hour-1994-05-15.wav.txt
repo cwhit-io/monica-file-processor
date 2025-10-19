@@ -1,0 +1,79 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Sing Unto the Lord",
+      "start_time": 83,
+      "type": "music",
+      "description": "The choir passionately performs a joyful song, lifting praises to God. The lyrics express reverence for His sovereignty and majesty, inviting worshipers to bow before the King of Kings. The atmosphere is filled with spiritual energy and communal worship as members participate wholeheartedly.",
+      "keywords": ["choir", "praise", "worship", "God", "song"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Sing Unto the Lord"]
+    },
+    {
+      "title": "Choir: Hallelujah",
+      "start_time": 216,
+      "type": "music",
+      "description": "The choir continues their uplifting performance with the powerful anthem 'Hallelujah'. This song reaffirms faith and joy, underscoring the congregation's devotion to God. The rhythm and melody create an engaging experience, making it a memorable moment in the service.",
+      "keywords": ["hallelujah", "congregation", "worship", "faith", "joy"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Hallelujah"]
+    },
+    {
+      "title": "Solo: I Need Thee",
+      "start_time": 643,
+      "type": "music",
+      "description": "A heartfelt solo performance of 'I Need Thee' captivates the audience. The singer expresses a deep reliance on God, evoking emotions of longing and trust. This rich spiritual experience resonates with many, reinforcing the theme of seeking comfort in divine presence.",
+      "keywords": ["solo", "trust", "spiritual", "God", "comfort"],
+      "performers": ["Unknown"],
+      "songs": ["I Need Thee"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 861,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer led by Pastor Moore. He invites God’s presence into the gathering, asking for guidance and wisdom as the congregation seeks to deepen their faith. This moment sets a reflective tone for the service.",
+      "keywords": ["prayer", "God", "guidance", "worship", "faith"],
+      "performers": ["Pastor Moore"],
+      "songs": []
+    },
+    {
+      "title": "Message: Change Is Possible (Romans 12:2)",
+      "start_time": 861,
+      "type": "sermon",
+      "description": "Pastor Moore delivers a powerful sermon on personal transformation through faith, emphasizing that change is possible with God's help. He discusses the significance of God’s Word, prayer, Holy Spirit, relationships, and perseverance in growth. The message inspires hope and challenges members to seek personal spiritual growth.",
+      "keywords": ["change", "transformation", "God", "sermon", "faith"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": ["Romans 12:2"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3420,
+      "type": "prayer",
+      "description": "Following the sermon, Pastor Moore leads an invitation prayer, urging anyone who desires to accept Christ to join him in prayer. He emphasizes God's love and mercy, creating a moment of spiritual reflection and openness for attendees to make personal decisions regarding their faith.",
+      "keywords": ["invitation", "prayer", "faith", "Christ", "mercy"],
+      "performers": ["Pastor Moore"],
+      "songs": []
+    },
+    {
+      "title": "announcement: Father's Day Gift",
+      "start_time": 3471,
+      "type": "announcement",
+      "description": "A brief announcement about a special Father's Day gift offered to viewers. The speaker encourages family-inspired reflection and acknowledges fathers for their sacrifices and love, creating a communal feeling while setting the tone for familial appreciation.",
+      "keywords": ["Father's Day", "gift", "family", "appreciation", "announcement"],
+      "performers": ["Jeff Carlson"],
+      "songs": []
+    },
+    {
+      "title": "Closing Hymn: Amazing Grace",
+      "start_time": 3537,
+      "type": "music",
+      "description": "The service concludes with a beloved congregational hymn, 'Amazing Grace'. Everyone joins in singing, reflecting on themes of redemption and grace. This powerful closing creates a sense of unity and gratitude as congregants leave with uplifted spirits.",
+      "keywords": ["hymn", "amazing grace", "worship", "congregation", "unity"],
+      "performers": ["Congregation"],
+      "songs": ["Amazing Grace"]
+    }
+  ]
+}
+```

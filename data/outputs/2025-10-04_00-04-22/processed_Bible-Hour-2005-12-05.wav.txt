@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Holy, Holy, Holy",
+      "start_time": 92,
+      "type": "music",
+      "description": "The choir leads the congregation in worship, singing about the holiness of God. The lyrics invite us to acknowledge the glory of God as displayed throughout creation. This moment is a call to worship and reflection on our purpose in glorifying God through our lives.",
+      "keywords": ["holy", "worship", "glory", "creation", "congregation"],
+      "performers": ["Choir"],
+      "songs": ["Holy, Holy, Holy"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Christmas with Black Hawk",
+      "start_time": 473,
+      "type": "announcement",
+      "description": "Pastor Kelly Bird shares details about the upcoming event 'Christmas with Black Hawk.' He invites the community to join the celebrations, emphasizing the significance of this special time in relation to the birth of Christ. The message underscores the warmth of community and encourages attendance.",
+      "keywords": ["Christmas", "community", "event", "celebration", "invitation"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Let Your Life Song Sing",
+      "start_time": 666,
+      "type": "music",
+      "description": "A solo performance is presented, featuring the song 'Let Your Life Song Sing.' The song reflects on personal purpose and encourages everyone to live authentically, with their heart directed toward God. It serves as a reminder of our call to share our lives and faith.",
+      "keywords": ["life song", "authenticity", "purpose", "worship", "solo"],
+      "performers": ["Corbin"],
+      "songs": ["Let Your Life Song Sing"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Stewardship of Treasure (Luke 12:15)",
+      "start_time": 780,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird presents a sermon on stewardship, focusing on how to wisely manage the resources God has provided. He addresses heart condition regarding money, emphasizing that true contentment and security come from God, not wealth. The sermon challenges listeners to examine their priorities and desires regarding finances.",
+      "keywords": ["stewardship", "treasure", "Luke 12", "contentment", "heart condition"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Luke 12:15"]
+    },
+    {
+      "title": "testimony: Carl Pearson's Story on Stewardship",
+      "start_time": 2920,
+      "type": "testimony",
+      "description": "Carl Pearson shares his personal story on the importance of stewardship and tithing. He recounts how his father's commitment to tithing despite financial struggles left a profound impact on his life. Carl emphasizes the faithfulness of God in providing for their needs and fostering a heart for service.",
+      "keywords": ["stewardship", "tithing", "testimony", "faithfulness", "family"],
+      "performers": ["Carl Pearson"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3399,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Kelly Bird. He expresses gratitude for the community, the lessons shared, and seeks divine guidance for the congregation to live out their faith in stewardship. This prayer reinforces the theme of reliance on God’s provision.",
+      "keywords": ["prayer", "gratitude", "community", "guidance", "faith"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

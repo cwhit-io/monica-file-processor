@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with the ringing of bells, creating a welcoming atmosphere. This is followed by a short musical segment led by the choir, inviting the congregation to focus on worship.",
+      "keywords": ["bell", "choir", "worship", "singing", "music"],
+      "performers": ["Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Father, I Adore You",
+      "start_time": 77,
+      "type": "music",
+      "description": "The congregation participates in a heartfelt rendition of 'Father, I Adore You.' Devotional singing encourages personal connection with God, promoting a sense of intimacy and devotion among attendees.",
+      "keywords": ["Father I adore you", "worship", "congregational singing", "devotion"],
+      "performers": ["Choir"],
+      "songs": ["Father, I Adore You"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Song Title]",
+      "start_time": 228,
+      "type": "music",
+      "description": "Continuing with worship, the congregation is invited to sing together, fostering unity in spirit and offering praises to God. This segment engages everyone in the joyful act of singing.",
+      "keywords": ["congregational hymn", "unity", "worship", "praise"],
+      "performers": [],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [Book Chapter]",
+      "start_time": 619,
+      "type": "scripture",
+      "description": "A brief moment transitions to a scripture reading that sets the stage for the sermon. This part emphasizes the importance of biblical texts in worship and teaching, aligning the congregation's hearts and minds to God's Word.",
+      "keywords": ["scripture", "reading", "worship", "God's Word"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["[Book Chapter]"]
+    },
+    {
+      "title": "announcement: Easter Services",
+      "start_time": 639,
+      "type": "announcement",
+      "description": "The pastor shares details about the upcoming Easter services, highlighting their significance. This announcement serves to invite the community to participate and reflect on the themes of resurrection and hope.",
+      "keywords": ["Easter", "announcement", "community", "celebration"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: The Prodigal Son",
+      "start_time": 796,
+      "type": "drama",
+      "description": "A drama portrays a personal story relating to themes of family, choices, and reconciliation. This engaging performance connects to key messages about love and forgiveness within family dynamics, inviting the audience to reflect on their own experiences.",
+      "keywords": ["drama", "prodigal son", "family", "reconciliation"],
+      "performers": ["Mitchell Cruz"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Heart of the Father (Luke 15)",
+      "start_time": 1070,
+      "type": "sermon",
+      "description": "The sermon delves into the parable of the prodigal son, illustrating the heart of the Father through themes of loss, pursuit, and restoration. The message encourages the congregation to understand God’s immense grace and unconditional love, prompting personal reflection on their relationship with Him.",
+      "keywords": ["sermon", "prodigal son", "grace", "restoration", "God's love"],
+      "performers": ["Mitchell Cruz"],
+      "songs": [],
+      "scripture_references": ["Luke 15"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3346,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, inviting everyone to reflect on what they've experienced. This moment allows participants to express gratitude, seek guidance, and commit their thoughts to God as they leave the service.",
+      "keywords": ["prayer", "closing", "reflection", "gratitude"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

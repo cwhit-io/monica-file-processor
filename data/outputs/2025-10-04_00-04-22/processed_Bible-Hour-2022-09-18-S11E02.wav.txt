@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "scripture: Scripture Reading: [Matthew 1] ",
+      "start_time": 4,
+      "type": "scripture",
+      "description": "The pastor invites everyone to open their Bibles, guiding them through the Gospel and emphasizing the need to revisit key scriptures about Jesus' temptation. The reading sets the stage for the sermon’s focus on overcoming temptation.",
+      "keywords": ["scripture", "Matthew", "Gospel", "temptation", "Jesus"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 1"]
+    },
+    {
+      "title": "Message: Overcoming Temptation (Matthew 4)",
+      "start_time": 0,
+      "type": "sermon",
+      "description": "The sermon reveals how Jesus overcame temptation during His forty days in the wilderness. The pastor highlights that temptation can attack everyone and discusses the methods to resist it, including reliance on scripture, prayer, and establishing personal boundaries.",
+      "keywords": ["temptation", "Satan", "resist", "boundaries", "prayer"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Matthew 4"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 2205,
+      "type": "prayer",
+      "description": "In this heartfelt opening prayer, the pastor thanks God for Jesus and the guidance of the Holy Spirit. The prayer emphasizes the need for divine assistance to resist temptation and expresses gratitude for forgiveness.",
+      "keywords": ["prayer", "forgiveness", "guidance", "Holy Spirit", "gratitude"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [We Need Thee Every Hour]",
+      "start_time": 2088,
+      "type": "music",
+      "description": "The congregation joins in singing a powerful hymn that emphasizes the need for God's presence in daily life. This hymn reflects the message of the sermon and reinforces the congregation’s commitment to relying on God.",
+      "keywords": ["hymn", "congregation", "worship", "God", "need"],
+      "performers": ["Congregation"],
+      "songs": ["We Need Thee Every Hour"],
+      "scripture_references": []
+    }
+  ]
+}
+```

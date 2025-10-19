@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting the congregation to embrace the themes of the service and prepare their hearts for worship and teaching. It sets the tone for the message about God's redemptive story. The congregation is encouraged to engage and reflect throughout the service.",
+      "keywords": ["prayer", "expectation", "worship", "preparation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Series Introduction",
+      "start_time": 11,
+      "type": "announcement",
+      "description": "An announcement is made regarding the launch of a new sermon series titled 'Finding Jesus: God's Redemptive Story.' The speaker explains that the series will explore the entire Bible over the course of 30 weeks, offering insights into its overarching themes and how they relate to individuals today.",
+      "keywords": ["series", "introduction", "announcement", "finding Jesus"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Finding Jesus (John 1:1-5)",
+      "start_time": 252,
+      "type": "sermon",
+      "description": "The sermon delves into finding Jesus within the entire narrative of scripture, focusing on the theme of revelation. It discusses the concept of 'logos' from John 1, illustrating how Jesus is central to the understanding of the Bible and how believers can relate to Him personally while navigating their own plans and expectations in life.",
+      "keywords": ["revelation", "Jesus", "scripture", "logos", "theme"],
+      "performers": ["Unknown Speaker"],
+      "songs": [],
+      "scripture_references": ["John 1:1-5", "Deuteronomy 29:29"]
+    },
+    {
+      "title": "scripture: Scripture Reading: Psalm 19",
+      "start_time": 2052,
+      "type": "scripture",
+      "description": "The congregation participates in a scripture reading from Psalm 19, reflecting on the perfection and transformative power of God's word. This reading emphasizes the value of seeking God through the scriptures.",
+      "keywords": ["Bible", "Psalm", "reading", "God's word"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Psalm 19"]
+    },
+    {
+      "title": "drama: Themes of Jesus in Scripture",
+      "start_time": 2181,
+      "type": "drama",
+      "description": "A powerful recitation illustrates how Jesus is the theme throughout every book of the Bible. This engaging and dramatic presentation helps the congregation visualize the connections between the Old and New Testaments.",
+      "keywords": ["drama", "Jesus", "Bible", "themes"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2362,
+      "type": "prayer",
+      "description": "An invitation prayer is offered to encourage individuals who may not have a personal relationship with Jesus to call upon Him. It invites the congregation to reflect on their own faith and the importance of Jesus in their lives.",
+      "keywords": ["invitation", "prayer", "salvation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2495,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that reinforces the themes discussed. It asks for guidance and strength for the congregation as they strive to live out their faith and witness to others about Jesus. The congregation is encouraged to remember the teachings as they part ways.",
+      "keywords": ["closing", "prayer", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

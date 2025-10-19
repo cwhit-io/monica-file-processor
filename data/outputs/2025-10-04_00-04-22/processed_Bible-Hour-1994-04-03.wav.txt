@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Special Easter Worship",
+      "start_time": 150,
+      "type": "music",
+      "description": "The Sanctuary Choir performs a heartfelt piece in celebration of Easter, filling the space with uplifting melodies and harmonies. This moment encourages the congregation to reflect on the significance of the season through music. The energy and emotion resonate, creating a profound atmosphere of worship.",
+      "keywords": ["Easter", "music", "choir", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Celebratory Resurrection Praise",
+      "start_time": 393,
+      "type": "music",
+      "description": "Following the choir's special performance, the congregation engages in a hymnal worship moment, joining together in song to celebrate the resurrection of Jesus. This hymn serves as a collective expression of faith and gratitude, inviting all to participate actively and joyously in the worship experience.",
+      "keywords": ["hymn", "resurrection", "congregation", "Easter"],
+      "performers": [],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting the congregation to focus their hearts and minds on the message of Easter. This prayer sets the tone for the service, asking for divine guidance and a spirit of worship among all attendees.",
+      "keywords": ["prayer", "worship", "Easter"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Meaning of Easter (Luke 23:32-43)",
+      "start_time": 582,
+      "type": "sermon",
+      "description": "The sermon explores the messages found in the story of the two criminals crucified alongside Jesus. The pastor delves deeply into themes of sin, redemption, and the transformative power of accepting Christ. By relating the criminals' choices to personal faith, the message emphasizes that every individual has the opportunity for forgiveness, highlighting the difference Easter makes in life. Reflection on personal responsibility and the beauty of grace permeates the session.",
+      "keywords": ["Easter", "sermon", "redemption", "Luke", "faith"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Luke 23:32-43"]
+    },
+    {
+      "title": "Congregational Hymn: Joyful Praise",
+      "start_time": 1054,
+      "type": "music",
+      "description": "The congregation lifts their voices once again in a joyful hymn, celebrating the message of resurrection and hope. This collective outpouring of praise enhances the unity of the church community, creating an uplifting atmosphere as worshippers express their faith through song.",
+      "keywords": ["hymn", "joy", "worship", "Easter"],
+      "performers": [],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3414,
+      "type": "prayer",
+      "description": "An invitation prayer is offered to the congregation, creating an opportunity for individuals to accept Jesus Christ as their Savior. This moment is filled with encouragement, providing a clear pathway for faith and transformation through prayer.",
+      "keywords": ["invitation", "prayer", "salvation", "Easter"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3441,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for the message shared and for the lives touched during the service. This prayer reinforces the themes of Easter, expressing gratitude for forgiveness and the gift of eternal life.",
+      "keywords": ["closing", "prayer", "Easter", "thanksgiving"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Service Closing Reminder",
+      "start_time": 3461,
+      "type": "announcement",
+      "description": "As the service wraps up, the host shares final announcements and encourages attendees to reflect on their personal faith journeys. Important reminders about church activities and spiritual resources are communicated.",
+      "keywords": ["announcement", "service", "closing"],
+      "performers": ["Jeff Carlson"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

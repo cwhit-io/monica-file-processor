@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with an uplifting choir performance that sets a celebratory mood. Praises are sung, focusing on themes of honor and power towards the one seated on the throne. The congregation is engaged through joyful repetition of 'Hallelujah'.",
+      "keywords": ["praise", "choir", "music", "celebration", "worship"],
+      "performers": ["Choir"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Christ is Risen",
+      "start_time": 252,
+      "type": "music",
+      "description": "The choir continues with a powerful rendition of 'Christ is Risen', emphasizing the resurrection of Jesus. This segment features dramatic lyrics that recount the defeat of death and calls the congregation to awaken and rise with Christ. The music is vibrant and compelling.",
+      "keywords": ["resurrection", "Christ", "music", "victory", "praise"],
+      "performers": ["Choir"],
+      "songs": ["Christ is Risen"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Doors of the Resurrection (Matthew 28:5-6)",
+      "start_time": 801,
+      "type": "sermon",
+      "description": "In his Easter message, the pastor draws attention to the significant themes of forgiveness, reconciliation, and eternal life through the resurrection of Jesus. Using biblical references, he explores the metaphor of the doors this resurrection opens for believers, emphasizing that faith allows entry into abundant life. He underscores the transformative power of God’s forgiveness and the importance of mending broken relationships.",
+      "keywords": ["resurrection", "forgiveness", "reconciliation", "eternal life", "Matthew 28"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Matthew 28", "Matthew 26:27-28", "Acts 10:40-43", "Colossians 2:12-13"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3058,
+      "type": "prayer",
+      "description": "The opening prayer is offered, inviting the presence of God and asking for blessings over the service and the congregants. This moment encourages reflection and sets a solemn tone before the sermon begins. It emphasizes seeking divine guidance for understanding and transformation.",
+      "keywords": ["prayer", "invocation", "blessing", "presence", "reflection"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3309,
+      "type": "prayer",
+      "description": "As the service concludes, a closing prayer is offered, inviting attendees to carry the message of hope and resurrection into their lives. The pastor encourages the congregation to seek reconciliation and live in the fullness of Christ's love. This prayer serves as a fitting conclusion to the day's worship.",
+      "keywords": ["closing prayer", "hope", "resurrection", "reconciliation", "fullness"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Come Awake",
+      "start_time": 3412,
+      "type": "music",
+      "description": "The service concludes with a powerful choral affirmation of joy in the resurrection. The choir leads the congregation in 'Come Awake', an anthem celebrating the victory of life over death. The music uplifts the spirits of all attendees, reinforcing the central message of hope.",
+      "keywords": ["come awake", "resurrection", "joy", "victory", "celebration"],
+      "performers": ["Choir"],
+      "songs": ["Come Awake"],
+      "scripture_references": []
+    }
+  ]
+}
+```

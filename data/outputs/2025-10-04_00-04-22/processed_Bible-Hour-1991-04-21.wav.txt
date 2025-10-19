@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: In His Presence",
+      "start_time": 218,
+      "type": "music",
+      "description": "The Sanctuary Choir offers a heartfelt rendition of 'In His Presence,' inviting the congregation into a spirit of worship. The song emphasizes the importance of being in the presence of God, setting a reverent tone for the service. The music flows beautifully, engaging the hearts of all present.",
+      "keywords": ["choir", "worship", "presence", "song"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["In His Presence"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Great is Thy Faithfulness",
+      "start_time": 507,
+      "type": "music",
+      "description": "The congregation joins together to sing the beloved hymn 'Great is Thy Faithfulness.' This timeless piece of music highlights themes of God's unchanging nature and faithfulness through every season of life. It's a communal expression of gratitude and praise, reinforcing the service's message.",
+      "keywords": ["hymn", "congregation", "faithfulness", "worship"],
+      "performers": [],
+      "songs": ["Great is Thy Faithfulness"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Everybody Loves a Wise Guy (James 3:13-18)",
+      "start_time": 2007,
+      "type": "sermon",
+      "description": "In today's sermon, Pastor Jim Pearson explores the concept of wisdom, contrasting worldly wisdom with godly wisdom as presented in James 3:13-18. He emphasizes humility, the non-destructive nature of godly wisdom, and its characteristics such as purity and peace. Throughout the message, Pastor Pearson encourages the congregation to seek wisdom from God to nurture loving relationships and to live a life that reflects divine principles.",
+      "keywords": ["wisdom", "humility", "sermon", "James", "godly"],
+      "performers": ["Pastor Jim Pearson"],
+      "songs": [],
+      "scripture_references": ["James 3"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3561,
+      "type": "prayer",
+      "description": "The service concludes with an invitation prayer, inviting anyone who feels moved to make a personal commitment to Christ. This moment of prayer emphasizes the grace and forgiveness offered through faith in Jesus. It encourages openness and acceptance, fostering a supportive community among congregants.",
+      "keywords": ["invitation", "prayer", "commitment", "Christ"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "announcement: Series Introduction",
+      "start_time": 0,
+      "type": "announcement",
+      "description": "The service begins with an introduction to the series 'Finding Jesus, God's Redemptive Story.' The speaker emphasizes the importance of recognizing Jesus in every book of the Bible, highlighting the resources available for the congregants. This sets the stage for the day's message.",
+      "keywords": ["Jesus", "series", "church", "welcome", "resources"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Genesis 12",
+      "start_time": 232,
+      "type": "scripture",
+      "description": "The speaker invites the congregation to open their Bibles to Genesis 12, laying the foundation for the message about Abraham. This scripture reading sets the context for exploring God's covenant and calling.",
+      "keywords": ["Genesis", "Abraham", "covenant", "calling", "scripture"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Genesis 12"]
+    },
+    {
+      "title": "Message: God Builds a Nation (Genesis 12)",
+      "start_time": 441,
+      "type": "sermon",
+      "description": "In this sermon, the speaker explores the life of Abraham, highlighting God's calling and covenant with him. Emphasizing how Abraham's journey reflects the themes of faith and obedience, the speaker draws parallels between Abraham's trials and the modern Christian experience, encouraging congregants to take their own steps of faith.",
+      "keywords": ["Abraham", "covenant", "faith", "obedience", "journey"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Genesis 12:1-3", "Genesis 15:6", "1 Corinthians 1:20"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2137,
+      "type": "prayer",
+      "description": "The service concludes with an invitation prayer, where the speaker encourages attendees to reflect on their personal relationship with Jesus. This moment serves as an opportunity for individuals to seek forgiveness and accept Christ's offer of salvation.",
+      "keywords": ["prayer", "invitation", "salvation", "Jesus", "forgiveness"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

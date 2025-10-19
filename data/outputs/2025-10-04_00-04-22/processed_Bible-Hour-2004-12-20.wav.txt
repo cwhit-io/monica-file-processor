@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unknown Song]",
+      "start_time": 60,
+      "type": "music",
+      "description": "The choir performs a heartfelt piece that embodies the spirit of Christmas, reflecting on themes of hope and the promise of the season. The music conveys an atmosphere of warmth and anticipation, inviting the congregation to engage in the spirit of joyous celebration.",
+      "keywords": ["choir", "Christmas", "hope", "promise", "celebration"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unknown Song]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Grace of God in Genealogy (Matthew 1:1-17)",
+      "start_time": 284,
+      "type": "sermon",
+      "description": "This sermon delves into the genealogy of Jesus presented in Matthew 1, exploring how God's grace is evident through the lives of the individuals mentioned. The speaker emphasizes the significance of imperfect people being part of Jesus' lineage and illustrates how God's grace operates through dark and challenging times in our families' histories. The message encourages listeners to see their own stories as part of this grand narrative of grace.",
+      "keywords": ["genealogy", "grace", "Jesus", "Matthew", "faithfulness"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["Matthew 1:1-17"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 927,
+      "type": "prayer",
+      "description": "The opening prayer sets a tone of humility and gratitude. The congregation is led to reflect on God's commitment to humanity through the birth and resurrection of Jesus. It invites the Spirit to guide their hearts and minds during the service.",
+      "keywords": ["prayer", "humility", "gratitude", "guidance", "spirit"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [Matthew 1]",
+      "start_time": 1053,
+      "type": "scripture",
+      "description": "A reading of Matthew 1 provides the congregation with the genealogy of Jesus, emphasizing His lineage. This reading highlights the importance of the family roots of the Messiah and sets the stage for the following sermon remarks.",
+      "keywords": ["scripture", "Matthew", "genealogy", "Jesus"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["Matthew 1"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3552,
+      "type": "prayer",
+      "description": "The closing prayer is a heartfelt appeal to God, expressing gratitude for His grace and the stories represented in the congregation. The prayer seeks a deeper acknowledgment of God's work in their lives and encourages pursuing holy living.",
+      "keywords": ["closing", "gratitude", "grace", "prayer"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

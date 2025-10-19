@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: You Never Let Me Go",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir begins the service with a powerful and uplifting song that focuses on God's unwavering presence and support in our lives. The lyrics emphasize themes of praise and thankfulness. It sets a worshipful tone for the morning gathering.",
+      "keywords": ["worship", "choir", "song", "praise", "gratefulness"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["You Never Let Me Go"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: 10,000 Reasons",
+      "start_time": 211,
+      "type": "music",
+      "description": "A solo performance of '10,000 Reasons' brings a heartfelt reminder to worship and give thanks. The song's lyrical focus is on God's faithfulness and the joy of singing praises through life's seasons. The congregation joins in the worship atmosphere created by this song.",
+      "keywords": ["solo", "worship", "song", "thankfulness", "God's faithfulness"],
+      "performers": ["Unknown"],
+      "songs": ["10,000 Reasons"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Bless the Lord",
+      "start_time": 554,
+      "type": "music",
+      "description": "The congregation lifts their voices in unison to 'Bless the Lord,' a hymn that celebrates the goodness of God and calls everyone to worship. The shared experience of singing deepens the connection among the worshippers, enhancing the spiritual atmosphere.",
+      "keywords": ["congregational", "hymn", "worship", "community", "singing"],
+      "performers": ["Congregation"],
+      "songs": ["Bless the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Real Men (Various Scriptures)",
+      "start_time": 661,
+      "type": "sermon",
+      "description": "The sermon begins the new series 'Real Men,' focusing on God's design for manhood. The message emphasizes the importance of pursuing love in relationships, sacrificially prioritizing loved ones, and leading with God's principles rather than cultural definitions. The speaker passionately encourages men to embrace their identity as defined by Scripture, exploring biblical abilities for love and connection.",
+      "keywords": ["manhood", "love", "relationships", "scripture", "identity"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": ["1 John 4:19", "John 3:16", "Ephesians 5:25", "Romans 5:8", "Matthew 22:36-39"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 2734,
+      "type": "prayer",
+      "description": "An opening prayer invites God’s presence into the service and seeks His guidance for the message and the congregation. The prayer sets a spiritual tone, encouraging attendees to open their hearts and minds to the teachings to follow.",
+      "keywords": ["prayer", "opening", "invocation", "worship", "guidance"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: I Need You",
+      "start_time": 2854,
+      "type": "music",
+      "description": "This song highlights our dependence on God, capturing the heartfelt plea for His presence in our lives. The soloist’s tender delivery resonates with the congregation, fostering a reflective moment during the service.",
+      "keywords": ["solo", "dependence", "worship", "plea", "God's presence"],
+      "performers": ["Unknown"],
+      "songs": ["I Need You"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Christ Is Enough",
+      "start_time": 3095,
+      "type": "music",
+      "description": "Congregational participation in 'Christ Is Enough' reflects the commitment of the members to faith in Jesus. The energetic hymn reinforces the theme of reliance on Christ amidst life’s challenges, uplifting spirits as voices join in unison.",
+      "keywords": ["congregational", "hymn", "faith", "commitment", "worship"],
+      "performers": ["Congregation"],
+      "songs": ["Christ Is Enough"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3422,
+      "type": "prayer",
+      "description": "The closing prayer serves as a moment of reflection, thanking God for the message received and asking for His help in applying it in daily lives. It's a call for strength and commitment as the congregation prepares to leave.",
+      "keywords": ["closing", "prayer", "reflection", "God's assistance", "gratitude"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

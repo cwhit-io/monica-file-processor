@@ -1,0 +1,54 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: The Battle Rages On",
+      "start_time": 257,
+      "type": "music",
+      "description": "The choir performs 'The Battle Rages On,' a powerful anthem celebrating victory through faith. The lyrics convey a message of surrendering to God and embracing His love and peace. This song encourages the congregation to trust in divine strength and find solace in God's presence.",
+      "keywords": ["battle", "faith", "surrender", "worship", "victory"],
+      "performers": ["Choir"],
+      "songs": ["The Battle Rages On"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 760,
+      "type": "prayer",
+      "description": "In the opening prayer, the congregation gathers to seek God's guidance and presence as they worship together. The prayer emphasizes the importance of inviting Jesus into their hearts and lives, reflecting a desire for spiritual connection and involvement.",
+      "keywords": ["prayer", "guidance", "congregation", "worship", "invitation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Growth Through Maturity (Hebrews 5)",
+      "start_time": 1808,
+      "type": "sermon",
+      "description": "The sermon focuses on spiritual maturity and the characteristics of immaturity. The speaker highlights the importance of listening, taking initiative, and actively participating in faith. Examples from scripture illustrate the consequences of immaturity, urging the congregation to grow in their faith and spiritual disciplines.",
+      "keywords": ["growth", "maturity", "faith", "spirituality", "immaturity"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Hebrews 5"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3214,
+      "type": "prayer",
+      "description": "The closing prayer serves as a final appeal for God's help in responding to the message shared during the service. The congregation is encouraged to apply the teachings to their lives and to actively engage in their faith journey.",
+      "keywords": ["closing", "prayer", "engagement", "action", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: You Won't Let Go",
+      "start_time": 3420,
+      "type": "music",
+      "description": "The choir presents 'You Won't Let Go,' a heartfelt song that emphasizes God’s unwavering love and faithfulness. The lyrics resonate with themes of trust and total surrender, inviting the congregation to deepen their relationship with God through worship.",
+      "keywords": ["faithfulness", "love", "worship", "trust", "surrender"],
+      "performers": ["Choir"],
+      "songs": ["You Won't Let Go"],
+      "scripture_references": []
+    }
+  ]
+}

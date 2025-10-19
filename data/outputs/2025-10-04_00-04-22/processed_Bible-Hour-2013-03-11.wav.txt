@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Unidentified Song",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with uplifting music that sets a joyful tone for the gathering. It captures the congregation's attention and encourages participation as everyone prepares for the worship experience ahead.",
+      "keywords": ["music", "worship", "celebration", "choir"],
+      "performers": ["Choir"],
+      "songs": ["Unidentified Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 31,
+      "type": "announcement",
+      "description": "An engaging announcement section reminds the congregation of upcoming events, specifically focusing on the significance of Palm Sunday and Easter Sunday. There is an invitation for the community to participate and reflect on their spiritual journey during these important times.",
+      "keywords": ["Easter", "Palm Sunday", "announcement", "celebration"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Unidentified Song",
+      "start_time": 191,
+      "type": "music",
+      "description": "The congregation joins together in a hymn, beautifully singing praises to God. The atmosphere is filled with worship as individuals connect through song, reflecting on the themes of faith and community.",
+      "keywords": ["hymn", "worship", "congregation", "praise"],
+      "performers": ["Congregation"],
+      "songs": ["Unidentified Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Trusting God with the Results (Ruth 4)",
+      "start_time": 389,
+      "type": "sermon",
+      "description": "The sermon centers on trusting God through the narrative of Boaz and Ruth, emphasizing the importance of doing the right thing in faith. The speaker draws parallels between biblical lessons and contemporary life, encouraging the congregation to reflect on integrity, character, and God's blessings as they navigate their choices.",
+      "keywords": ["trust", "God", "Boaz", "Ruth", "integrity"],
+      "performers": ["Speaker"],
+      "songs": [],
+      "scripture_references": ["Ruth 4"]
+    },
+    {
+      "title": "Solo: Unidentified Song",
+      "start_time": 3250,
+      "type": "music",
+      "description": "A solo performance brings a moment of reflection and emotional connection, allowing the congregation to meditate on the themes discussed in the sermon. The heartfelt delivery inspires personal contemplation of faith and trust in God.",
+      "keywords": ["solo", "reflection", "music", "praise"],
+      "performers": ["Soloist"],
+      "songs": ["Unidentified Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3259,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, inviting the congregation to unite in spirit. The prayer focuses on cementing the truths from the sermon into their hearts and encourages them to live out their faith in everyday situations.",
+      "keywords": ["prayer", "congregation", "faith", "unity"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

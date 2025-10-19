@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Love God's",
+      "start_time": 290,
+      "type": "music",
+      "description": "The choir leads the congregation in the song 'Love God's,' celebrating the love and guidance of God in our lives. The repetitive nature of the lyrics emphasizes the deep affection and reliance on God's love. This uplifting piece encourages worshipers to remember their connection to the divine.",
+      "keywords": ["choir", "love", "God", "worship", "music"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Love God's"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1662,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer invites God's presence into the service, asking for guidance and strength for the congregation. It emphasizes the need for divine support in personal struggles and relationships, preparing the hearts of the attendees for worship and teaching.",
+      "keywords": ["prayer", "opening", "worship", "guidance", "strength"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: First Kings 3",
+      "start_time": 1930,
+      "type": "scripture",
+      "description": "The congregation is led through a reading from First Kings, Chapter 3, which recounts God's appearance to Solomon and the granting of his wish for wisdom. This passage highlights themes of humility and divine favor, setting the stage for the ensuing message.",
+      "keywords": ["scripture", "reading", "First Kings", "wisdom", "Solomon"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Kings 3"]
+    },
+    {
+      "title": "Message: What Would You Want? (First Kings 3:1-14)",
+      "start_time": 1931,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a compelling message on the nature of wisdom, drawing from Solomon's request for discernment. He contrasts knowledge and wisdom, emphasizing the importance of divine guidance in our decision-making. Practical applications encourage the congregation to seek God and make wise choices in their lives.",
+      "keywords": ["sermon", "wisdom", "Solomon", "first kings", "guidance"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Kings 3:1-14"]
+    },
+    {
+      "title": "Solo: Thank You, Lord, for Calvary",
+      "start_time": 3510,
+      "type": "music",
+      "description": "A solo performance expresses profound gratitude for the sacrifice of Christ on Calvary. Through emotive lyrics, the singer shares personal reflections of faith and the transformative power of Jesus’ love. This song serves as both a reminder and a celebration of salvation.",
+      "keywords": ["solo", "thank you", "Calvary", "Jesus", "salvation"],
+      "performers": ["Marilyn Wong"],
+      "songs": ["Thank You, Lord, for Calvary"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3553,
+      "type": "prayer",
+      "description": "The invitation prayer is a pivotal moment, reaching out to those who feel a call to deepen their relationship with Christ. The pastor urges anyone feeling the need for spiritual renewal or guidance to respond positively to God's grace and love.",
+      "keywords": ["invitation", "prayer", "grace", "call", "spiritual"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Handbell Choir: [Unknown]",
+      "start_time": 3601,
+      "type": "music",
+      "description": "The handbell choir performs a carefully arranged piece, showcasing their skill and contributing to the worship atmosphere. These melodious tones enhance the service, allowing the congregation to reflect and meditate on God's greatness.",
+      "keywords": ["handbell", "choir", "music", "worship", "performance"],
+      "performers": ["Handbell Choir"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3625,
+      "type": "prayer",
+      "description": "In the closing prayer, Pastor Rick Hawks summarizes the themes of the service, thanking God for His presence and guidance. The prayer calls for wisdom in the week ahead and encourages the congregation to carry the message of love and grace into their daily lives.",
+      "keywords": ["closing", "prayer", "thanksgiving", "wisdom", "encouragement"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

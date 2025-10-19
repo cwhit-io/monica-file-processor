@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: We Give You All Our Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a spirited choir performance, inviting the congregation into a worshipful atmosphere. The lyrics emphasize giving worship and praise to God, recognizing His worthiness and presence among His people. It sets the tone for the rest of the service, engaging the community in collective adoration.",
+      "keywords": ["worship", "praise", "choir", "song", "God"],
+      "performers": ["Choir"],
+      "songs": ["We Give You All Our Worship"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: God is Awesome",
+      "start_time": 150,
+      "type": "music",
+      "description": "Continuing in worship, the choir leads the congregation in a joyful expression of God's power and presence. The repeated phrases and uplifting melodies create a sense of unity and excitement as the community celebrates the awesome nature of God. This segment reinforces the theme of divine strength and encouragement.",
+      "keywords": ["worship", "God", "choir", "celebration", "unity"],
+      "performers": ["Choir"],
+      "songs": ["God is Awesome"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Restoring the Fallen (Galatians 6:1)",
+      "start_time": 1957,
+      "type": "sermon",
+      "description": "The sermon addresses the complex issue of how to respond to believers who have fallen into sin. With references to Galatians 6:1, the speaker emphasizes the importance of restoration in a spirit of gentleness. Using personal anecdotes and scriptural illustrations, the message outlines practical steps for helping those who have strayed to find their way back into fellowship.",
+      "keywords": ["restoration", "sin", "gentleness", "Galatians", "community"],
+      "performers": ["Unnamed Speaker"],
+      "songs": [],
+      "scripture_references": ["Galatians 6:1"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3450,
+      "type": "prayer",
+      "description": "The service concludes with an opening prayer, creating a reflective and worshipful atmosphere as the community seeks God's guidance and strength. The prayer emphasizes unity in faith and the need for divine support in the challenges faced. Participants are invited to connect with the Holy Spirit for wisdom and comfort.",
+      "keywords": ["prayer", "guidance", "community", "faith", "strength"],
+      "performers": ["Unnamed Speaker"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,84 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: Great is Your Faithfulness",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir leads the congregation in a heartfelt rendition of 'Great is Your Faithfulness.' This song emphasizes God's unwavering faithfulness and love, inviting all present to remember His grace and promise. It establishes a spirit of worship and reflection as the attendees engage with the song's profound message.",
+      "keywords": ["worship", "faithfulness", "grace", "choir", "God"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["Great is Your Faithfulness"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Following Christ's Great Commission (Matthew 28:18-20)",
+      "start_time": 316,
+      "type": "sermon",
+      "description": "Pastor Kelly delivers an impactful sermon on the Great Commission, encouraging the congregation to help seekers find and know what it means to follow Christ. He shares personal stories of engagement in global missions, the importance of loving and teaching new believers, and the challenges faced by believers in regions of repression. The message highlights the promise of God's presence as they go forth in faith.",
+      "keywords": ["Great Commission", "missions", "faith", "following Christ", "global church"],
+      "performers": ["Pastor Kelly"],
+      "songs": [],
+      "scripture_references": ["Matthew 28:18-20"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 776,
+      "type": "prayer",
+      "description": "The congregation comes together in a moment of prayer led by Pastor Kelly, focusing on guidance and strength for the church, especially regarding its mission work in regions like Ivanovo, Russia. The prayer reflects a communal spirit of support and intercession for the global community of believers facing challenges.",
+      "keywords": ["prayer", "support", "community", "faith", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Colossians 1",
+      "start_time": 1861,
+      "type": "scripture",
+      "description": "Pastor Kelly reads from Colossians 1, emphasizing the Apostle Paul's prayer for spiritual growth and knowledge for believers. This reading serves to remind the congregation of the importance of understanding God's will and being equipped to bear fruit in their lives.",
+      "keywords": ["Colossians", "scripture", "growth", "knowledge", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Colossians 1"]
+    },
+    {
+      "title": "Congregational Hymn: Praise the Lord, O My Soul",
+      "start_time": 945,
+      "type": "music",
+      "description": "The congregation participates in a powerful hymn, 'Praise the Lord, O My Soul.' This song reflects on God's majesty and encourages the community to lift their hearts in unison, expressing joy and gratitude for His presence and promises. It fosters a sense of unity among those gathered.",
+      "keywords": ["hymn", "worship", "praise", "joy", "unity"],
+      "performers": ["Congregation"],
+      "songs": ["Praise the Lord, O My Soul"],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: The Story of a Young Believer",
+      "start_time": 1157,
+      "type": "drama",
+      "description": "A child character shares a personal testimony of faith, expressing the joy of knowing Jesus and the simplicity of surrendering to Him. This heartfelt narrative illustrates the transformative power of God’s love and the innocence of faith found in children, resonating deeply with the congregation.",
+      "keywords": ["testimony", "faith", "child", "transformation", "love"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Who Am I?",
+      "start_time": 975,
+      "type": "music",
+      "description": "A soloist performs 'Who Am I?', a poignant song that explores themes of identity and God's love. The performance allows for introspection as the congregation considers their worth and God's unchanging love in their personal lives. The heartfelt delivery captivates the audience.",
+      "keywords": ["solo", "identity", "God's love", "worship", "reflection"],
+      "performers": [],
+      "songs": ["Who Am I?"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3521,
+      "type": "prayer",
+      "description": "In closing prayer, Pastor Kelly thanks God for the service and reiterates the community's commitment to support global missions. The prayer invites the congregation to carry the message of love and hope into their weekly lives, asking for courage and strength to follow Christ's calling.",
+      "keywords": ["closing", "prayer", "commitment", "mission", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

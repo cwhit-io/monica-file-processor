@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an energetic atmosphere as upbeat music fills the room. The congregation is encouraged to participate and engage in a vibrant worship experience, setting the tone for the rest of the service.",
+      "keywords": ["worship", "music", "energetic", "engagement", "participation"],
+      "performers": ["Unknown"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unknown Song]",
+      "start_time": 145,
+      "type": "music",
+      "description": "The choir leads the congregation in a song filled with harmonies, inviting everyone to join in and express their worship. This musical segment encourages a sense of community and collective praise.",
+      "keywords": ["choir", "harmony", "community", "praise", "worship"],
+      "performers": ["Unknown"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Gentle Worship",
+      "start_time": 495,
+      "type": "music",
+      "description": "A transition into gentle music allows for reflection and quiet worship. The calm atmosphere provides space for personal contemplation, leading into a deeper sense of connection during the service.",
+      "keywords": ["gentle", "reflective", "worship", "quiet", "spiritual"],
+      "performers": ["Unknown"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Agriculture of the Heart (Matthew 13)",
+      "start_time": 1550,
+      "type": "sermon",
+      "description": "The sermon focuses on the parable of the sower from Matthew 13, exploring how different heart conditions affect one's receptiveness to God's word. The speaker shares personal anecdotes and insights, encouraging the audience to examine their own hearts for boulders that inhibit spiritual growth.",
+      "keywords": ["sermon", "parable", "sower", "heart", "Matthew 13"],
+      "performers": ["James Roberts"],
+      "songs": [],
+      "scripture_references": ["Matthew 13"]
+    },
+    {
+      "title": "Closing Worship",
+      "start_time": 3076,
+      "type": "music",
+      "description": "The service concludes with a powerful worship song, inviting everyone to engage heartily. This final musical segment reinforces the themes of the sermon, encouraging a response from the congregation.",
+      "keywords": ["worship", "closing", "engagement", "response", "song"],
+      "performers": ["Tommy Walker", "His Band"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3543,
+      "type": "prayer",
+      "description": "The service ends with a heartfelt closing prayer, asking for God’s guidance and grace in the lives of the congregation. This prayer encapsulates the themes of the service, allowing everyone to reflect and commit to their faith.",
+      "keywords": ["prayer", "closing", "guidance", "grace", "reflection"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

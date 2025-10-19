@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Special Music",
+      "start_time": 114,
+      "type": "music",
+      "description": "The sanctuary choir and orchestra perform a powerful piece of worship music. This segment sets the tone for the service, inviting the congregation into a spirit of praise and preparation for the message that follows.",
+      "keywords": ["choir", "worship", "music", "orchestra"],
+      "performers": ["Sanctuary Choir", "Orchestra"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Second Special Music",
+      "start_time": 292,
+      "type": "music",
+      "description": "Following the initial performance, another special music segment continues the uplifting atmosphere. The choir's harmony and powerful lyrics serve to encourage the congregation and deepen the sense of community worship.",
+      "keywords": ["choir", "second", "worship", "music"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 776,
+      "type": "prayer",
+      "description": "The service transitions into an opening prayer where the pastor invites God's presence and guidance for the worship experience. The hearts of the congregation are lifted in unity seeking divine direction.",
+      "keywords": ["prayer", "opening", "worship", "service"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Worshiping God (2 Chronicles 25)",
+      "start_time": 951,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a message centered around the theme of worship, exploring the biblical foundations from 2 Chronicles 25. He emphasizes the need for heartfelt worship and discusses two key principles that extend beyond mere external practices to a life of genuine devotion.",
+      "keywords": ["worship", "sermon", "2 Chronicles", "Pastor Moore", "God"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["2 Chronicles 25"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3480,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer led by Pastor Moore. The congregation is invited to reflect on the day's message and to commit to living lives of worship throughout the week.",
+      "keywords": ["closing", "prayer", "worship", "service"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

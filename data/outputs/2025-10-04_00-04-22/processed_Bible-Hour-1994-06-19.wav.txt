@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: I Don't Know Why Jesus Loved Me",
+      "start_time": 0,
+      "type": "music",
+      "description": "The sanctuary choir begins the service with a heartfelt performance of 'I Don't Know Why Jesus Loved Me.' The lyrics reflect themes of gratitude and grace, emphasizing the love and sacrifice of Jesus. This sets a reflective tone for the service, inviting the congregation to contemplate their faith.",
+      "keywords": ["choir", "love", "Jesus", "sacrifice", "faith"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["I Don't Know Why Jesus Loved Me"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown Title]",
+      "start_time": 62,
+      "type": "music",
+      "description": "Following the choir, Becky Wollman performs a solo that captivates the audience. The song reinforces the day's themes of love and reflection on the blessings received from God. The emotional delivery resonates, allowing the congregation to engage deeply with the message.",
+      "keywords": ["solo", "love", "blessing", "faith", "emotion"],
+      "performers": ["Becky Wollman"],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Special Music and Speaker Introduction",
+      "start_time": 584,
+      "type": "announcement",
+      "description": "Dr. Robert Neenheis is introduced as the guest speaker for the day, taking over in the absence of Pastor Moore. The congregation is reminded of an upcoming event and encouraged to engage in the service and uplift the community with their presence.",
+      "keywords": ["announcement", "guest speaker", "community", "event", "invitation"],
+      "performers": ["Dr. Robert Neenheis"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Man of God (1 Timothy 6:11)",
+      "start_time": 930,
+      "type": "sermon",
+      "description": "Dr. Robert Neenheis delivers an engaging sermon centered on 1 Timothy 6:11, exploring what it means to be a 'man of God.' He encourages the audience to pursue righteousness, godliness, faith, love, perseverance, and gentleness, emphasizing the importance of these qualities in their lives. The message challenges men to take on the mantle of Godliness in their daily conduct.",
+      "keywords": ["sermon", "man of God", "1 Timothy", "faith", "righteousness"],
+      "performers": ["Dr. Robert Neenheis"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 6:11"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3414,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, inviting anyone who wishes to accept Christ into their hearts. Dr. Neenheis leads the congregation in this prayer, ensuring a heartfelt moment for those seeking a deeper connection with God.",
+      "keywords": ["prayer", "invitation", "salvation", "Christ", "faith"],
+      "performers": ["Dr. Robert Neenheis"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3434,
+      "type": "prayer",
+      "description": "A closing prayer wraps up the service, encapsulating the themes discussed during the sermon and seeking God's guidance for the congregation as they move forward. It creates a moment of reflection and commitment to faithful living.",
+      "keywords": ["prayer", "closing", "reflection", "guidance", "faith"],
+      "performers": ["Dr. Robert Neenheis"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

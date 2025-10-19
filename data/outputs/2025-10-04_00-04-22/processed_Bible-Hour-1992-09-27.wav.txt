@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Worship Medley",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a vibrant worship medley led by the sanctuary choir. The congregation is invited to connect with the uplifting music, which sets a joyful tone for the gathering.",
+      "keywords": ["worship", "choir", "music", "celebration", "fellowship"],
+      "performers": ["sanctuary choir"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Weekend Retreat Highlights",
+      "start_time": 606,
+      "type": "announcement",
+      "description": "The hosts share highlights from the recent men's retreat, emphasizing the fellowship and spiritual growth experienced by approximately 150 attendees. They encourage those without a church home to consider visiting Black Hawk Baptist Church.",
+      "keywords": ["retreat", "announcement", "community", "spiritual growth"],
+      "performers": ["Russell Moore", "Pete"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Washed in the Blood",
+      "start_time": 829,
+      "type": "music",
+      "description": "Marilyn Wong performs a heartfelt solo titled 'Washed in the Blood,' which reflects a deep yearning for spiritual cleansing and connection with the Savior. The song resonates with themes of redemption and longing for God's presence.",
+      "keywords": ["solo", "worship", "redemption", "cleansing", "spirituality"],
+      "performers": ["Marilyn Wong"],
+      "songs": ["Washed in the Blood"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Compassion for the Lost (Matthew 9:35-38)",
+      "start_time": 884,
+      "type": "sermon",
+      "description": "Dr. Alex Montoya delivers a profound message on the theme of compassion as exemplified by Jesus. He shares insights from Matthew 9:35-38, urging the congregation to embody Christ's compassion for those who are lost and suffering. Montoya's engaging narrative encourages personal reflection on discipleship and outreach, moving listeners to connect with the marginalized.",
+      "keywords": ["compassion", "discipleship", "outreach", "Jesus", "Matthew"],
+      "performers": ["Alex Montoya"],
+      "songs": [],
+      "scripture_references": ["Matthew 9:35-38"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3072,
+      "type": "prayer",
+      "description": "Following the sermon, an invitation prayer is offered, inviting attendees to respond to the message of grace and compassion shared. This moment encourages individuals to seek a personal relationship with Christ, emphasizing the importance of faith and hope.",
+      "keywords": ["prayer", "invitation", "faith", "hope"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Closing Hymn",
+      "start_time": 3480,
+      "type": "music",
+      "description": "The service concludes with a powerful closing hymn sung by the choir, reinforcing the worship atmosphere created earlier. This final song is a call to action, encouraging the congregation to carry the message of compassion and love into their daily lives.",
+      "keywords": ["hymn", "closing", "worship", "community"],
+      "performers": ["sanctuary choir"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3467,
+      "type": "prayer",
+      "description": "In the final closing prayer, the congregation is prayed for, asking God to support and empower them to live out the message of compassion they have received. This reflection reinforces the commitment to act on their faith within the community.",
+      "keywords": ["prayer", "closing", "community", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

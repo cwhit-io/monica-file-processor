@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Shout forth with praise",
+      "start_time": 162,
+      "type": "music",
+      "description": "The sanctuary choir performed an uplifting song, encouraging the congregation to praise God joyfully. The song emphasizes the greatness of God’s power and the importance of public worship. Many in the congregation joined in with enthusiasm, reflecting a deep desire to honor God through song.",
+      "keywords": ["praise", "choir", "worship", "God", "music"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Shout forth with praise"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: There is joy in serving Jesus",
+      "start_time": 536,
+      "type": "music",
+      "description": "The congregation gathered to sing joyfully about the fulfillment found in serving Jesus. With its upbeat melody, the hymn encouraged everyone to express their joy for the Lord, fostering a strong sense of community and shared faith within the church.",
+      "keywords": ["joy", "Jesus", "hymn", "worship"],
+      "performers": [],
+      "songs": ["There is joy in serving Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1624,
+      "type": "prayer",
+      "description": "A heartfelt prayer was offered, focusing on encouraging believers and seeking God's guidance and strength throughout the service. The prayer addressed personal struggles, health concerns, and the need for spiritual growth within the community.",
+      "keywords": ["prayer", "faith", "community", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Missionary: Lori Sell",
+      "start_time": 765,
+      "type": "interview",
+      "description": "Lori Sell shared her upcoming mission trip to Manila with the congregation. She articulated her excitement and the importance of spreading God's message of love and salvation in a place receptive to the Gospel.",
+      "keywords": ["mission", "Lori Sell", "Manila", "evangelism"],
+      "performers": ["Lori Sell"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Why Should We Build a New Church? (Acts 2:36-42)",
+      "start_time": 1080,
+      "type": "sermon",
+      "description": "Pastor Rick delivered a compelling message on the necessity of building a new church to expand outreach and discipleship. He discussed the early church's characteristics, highlighting community growth and evangelism, emphasizing that modern mission efforts should mirror these principles.",
+      "keywords": ["church", "evangelism", "growth", "Acts", "community"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Acts 2:36-42"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3540,
+      "type": "prayer",
+      "description": "An invitation prayer was offered for those desiring to make a commitment to Christ. This prayer guided individuals in seeking forgiveness and a new life in alignment with their faith, emphasizing the church's supportive role in their spiritual journeys.",
+      "keywords": ["invitation", "commitment", "forgiveness", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Jesus, Lover of My Soul",
+      "start_time": 1056,
+      "type": "music",
+      "description": "A special performance by Dave and Debbie Johnson touched hearts with the beautiful hymn 'Jesus, Lover of My Soul.' The heartfelt rendition invited reflection on Christ's love and assurance of salvation.",
+      "keywords": ["Jesus", "song", "love", "worship"],
+      "performers": ["Dave and Debbie Johnson"],
+      "songs": ["Jesus, Lover of My Soul"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1770,
+      "type": "prayer",
+      "description": "The service concluded with a closing prayer that thanked God for His presence and guidance during the service. It included petitions for strength and wisdom for the congregation and emphasized the importance of living out their faith in daily life.",
+      "keywords": ["closing", "prayer", "strength", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

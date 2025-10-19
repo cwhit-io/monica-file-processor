@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: God is Real",
+      "start_time": 230,
+      "type": "music",
+      "description": "The Sanctuary Choir, along with the orchestra, uplifted the congregation with a stirring rendition of 'God is Real'. This song serves as a reminder of the nearness of Christ in their lives, encouraging fellowship and expression of love among the attendees.",
+      "keywords": ["choir", "music", "God", "real", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["God is Real"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown Title]",
+      "start_time": 720,
+      "type": "music",
+      "description": "Keith and Starr Bratago featured prominently in the service, singing a heartfelt solo that resonated deeply with the congregation. Their performance highlighted themes of love and redemption, encouraging reflection on personal faith journeys.",
+      "keywords": ["Keith", "Starr", "solo", "music", "redemption"],
+      "performers": ["Keith Bratago", "Starr Bratago"],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Unknown Title]",
+      "start_time": 1523,
+      "type": "music",
+      "description": "The congregation participated in a hymn, fostering a sense of community and shared faith. This moment served to unify the attendees in their worship, praising God together through song.",
+      "keywords": ["hymn", "congregation", "worship", "faith", "community"],
+      "performers": [],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1768,
+      "type": "prayer",
+      "description": "The opening prayer set a tone of reverence and expectation for the service. The pastor prayed for God's presence and guidance, encouraging the congregation to seek strength in their personal battles.",
+      "keywords": ["prayer", "opening", "worship", "guidance", "strength"],
+      "performers": ["Pastor Rick Haas"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Rooted for Strength (Colossians 2:1-7)",
+      "start_time": 211,
+      "type": "sermon",
+      "description": "Pastor Rick Haas delivered a profound sermon focused on spiritual maturity based on Colossians 2:1-7. He emphasized the need for self-discipline, the struggle within each believer, and the importance of understanding Christ deeply. The message encouraged attendees to identify personal struggles while rooting themselves in faith.",
+      "keywords": ["sermon", "Colossians", "spirituality", "maturity", "discipline"],
+      "performers": ["Pastor Rick Haas"],
+      "songs": [],
+      "scripture_references": ["Colossians 2:1-7"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3532,
+      "type": "prayer",
+      "description": "An invitation prayer was offered at the conclusion of the sermon, providing an opportunity for individuals to seek personal decisions for Christ. The pastor emphasized the significance of repentance and embracing faith.",
+      "keywords": ["prayer", "invitation", "faith", "repentance", "decisions"],
+      "performers": ["Pastor Rick Haas"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown Title]",
+      "start_time": 3605,
+      "type": "music",
+      "description": "The service concluded with an inspiring solo, bringing the congregation into a reflective atmosphere. This performance served as a culmination of the worship experience, allowing attendees to contemplate their own journeys in faith.",
+      "keywords": ["solo", "worship", "reflective", "music", "contemplation"],
+      "performers": ["Keith Bratago"],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

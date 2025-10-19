@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: It Is Well With My Soul",
+      "start_time": 299,
+      "type": "music",
+      "description": "The sanctuary choir and orchestra perform the timeless hymn 'It Is Well With My Soul.' This emotional piece invites the congregation to reflect on God's grace and the peace that comes through faith. The music builds in intensity, creating an atmosphere of worship and reverence.",
+      "keywords": ["choir", "hymn", "worship", "grace", "faith"],
+      "performers": ["Sanctuary Choir and Orchestra"],
+      "songs": ["It Is Well With My Soul"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: I'm Just Gonna Tell You",
+      "start_time": 509,
+      "type": "music",
+      "description": "The choir presents an uplifting song that joyfully shares personal transformations and experiences of meeting Jesus. The lyrics emphasize the excitement and changes that faith brings into one's life, inspiring listeners to share their own stories of redemption.",
+      "keywords": ["choir", "testimony", "transformation", "joy", "Jesus"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["I'm Just Gonna Tell You"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Isn't the Love of Jesus Something Wonderful",
+      "start_time": 1023,
+      "type": "music",
+      "description": "The choir sings 'Isn't the Love of Jesus Something Wonderful,' celebrating God's unfathomable love. The song builds an atmosphere of joy and reverence, reminding the congregation of God's grace and love towards humanity. The repetitive affirmations bring the community together in worship.",
+      "keywords": ["choir", "love", "worship", "joy", "grace"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Isn't the Love of Jesus Something Wonderful"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Hebrews 12:1-2",
+      "start_time": 1313,
+      "type": "scripture",
+      "description": "The reading from Hebrews 12:1-2 sets the stage for a passionate sermon on perseverance in the faith. It emphasizes the importance of focus on Jesus amidst life's challenges, encouraging the congregation to take inspiration from those who have gone before in the faith.",
+      "keywords": ["scripture", "Hebrews", "faith", "perseverance", "Jesus"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Hebrews 12:1-2"]
+    },
+    {
+      "title": "Message: Passing the Baton (Hebrews 12:1-2)",
+      "start_time": 1324,
+      "type": "sermon",
+      "description": "In this compelling sermon, Pastor Rick Hawks draws parallels between athletics and the Christian life, emphasizing the need for endurance and teamwork. Using Hebrews 12:1-2, he illustrates how believers can carry the baton of faith through generations and encourages active participation in God’s work.",
+      "keywords": ["sermon", "faith", "athletics", "endurance", "teamwork"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Hebrews 12:1-2"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3111,
+      "type": "prayer",
+      "description": "Pastor Rick Hawks leads the congregation in a closing prayer, asking for strength and guidance as they strive to carry on God's mission. This moment serves as a reflection of the message shared and connects the community in purpose and worship.",
+      "keywords": ["prayer", "closing", "strength", "guidance", "community"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: The Time is Now",
+      "start_time": 3123,
+      "type": "music",
+      "description": "The choir performs 'The Time is Now,' a powerful song that emphasizes the urgency of celebrating God's gifts and living out one's faith actively. With a lively tempo and engaging lyrics, the performance uplifts and motivates the congregation toward action.",
+      "keywords": ["choir", "worship", "celebration", "God's gifts", "faith"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["The Time is Now"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Celebrating God's Grace",
+      "start_time": 3351,
+      "type": "announcement",
+      "description": "Pastor Rick shares enthusiasm about the church's initiative, 'Celebrating God's Grace,' aimed at raising funds for a new sanctuary. He discusses progress and encourages financial commitments from the congregation, highlighting the collective effort needed to achieve their goals.",
+      "keywords": ["announcement", "fundraising", "sanctuary", "community", "mission"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

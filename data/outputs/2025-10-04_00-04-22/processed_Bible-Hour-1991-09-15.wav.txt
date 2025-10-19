@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Seakers of Your Heart",
+      "start_time": 109,
+      "type": "music",
+      "description": "The sanctuary choir beautifully performs 'Seakers of Your Heart', inviting the congregation to reflect on their longing for a deeper connection with God. The lyrics express a desire to know God intimately and to align one's heart with His will.",
+      "keywords": ["choir", "worship", "music", "God", "heart"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Seakers of Your Heart"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: The Longer I Serve Him, The Sweeter He Grows",
+      "start_time": 379,
+      "type": "music",
+      "description": "The congregation joins in singing, 'The Longer I Serve Him, The Sweeter He Grows.' This hymn reflects the deepening relationship between the believer and Christ over time, celebrating faithfulness and the sweetness of God's presence in their lives.",
+      "keywords": ["hymn", "congregation", "faith", "worship", "God"],
+      "performers": [],
+      "songs": ["The Longer I Serve Him, The Sweeter He Grows"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: With Jesus",
+      "start_time": 1137,
+      "type": "music",
+      "description": "Susan Toyrak Stump shares a moving solo entitled 'With Jesus,' which portrays the comfort and peace found in a relationship with Christ. This heartfelt performance resonates deeply with the congregation, encouraging them to reflect on their own walk with Jesus.",
+      "keywords": ["solo", "worship", "Jesus", "comfort", "music"],
+      "performers": ["Susan Toyrak Stump"],
+      "songs": ["With Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Fight the Good Fight (1 Timothy 1:18-20)",
+      "start_time": 1414,
+      "type": "sermon",
+      "description": "Pastor Moore delivers a powerful sermon on 'Fight the Good Fight,' focusing on the struggles of Timothy as he is called to remain steadfast in Ephesus. The message emphasizes the importance of perseverance, faith, and the encouragement found in God's promises, reminding listeners that challenges often accompany divine callings.",
+      "keywords": ["sermon", "Timothy", "perseverance", "faith", "God's promises"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 1:18-20"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3268,
+      "type": "prayer",
+      "description": "The service transitions into an opening prayer where congregants are encouraged to pray for unity, strength, and understanding as they enter into worship. This moment sets a reflective tone for the gathering, inviting the divine presence into the hearts of all attendees.",
+      "keywords": ["prayer", "worship", "unity", "strength"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 974,
+      "type": "announcement",
+      "description": "The pastor shares several upcoming events, encouraging the congregation to participate in various community and church activities, including special guest speakers and musical performances. This announcement fosters a sense of belonging and invites active engagement in the church's life.",
+      "keywords": ["announcement", "events", "community", "church"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3325,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer, where the pastor asks for God's guidance and encouragement for the congregation as they move forward in faith. This moment of prayer reinforces the themes of the service, encouraging attendees to carry the message into their daily lives.",
+      "keywords": ["closing prayer", "guidance", "encouragement", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [MUSIC - 109 seconds]",
+      "start_time": 232,
+      "type": "music",
+      "description": "The sanctuary choir delivers a stirring performance, leading the congregation in worship through song. With uplifting melodies and powerful lyrics, the music emphasizes God's greatness and glory. It encourages the congregation to engage in heartfelt worship despite the harsh winter weather outside.",
+      "keywords": ["choir", "worship", "music", "praise", "singing"],
+      "performers": ["Bible Hour Musicians", "Sanctuary Choir"],
+      "songs": ["He Has Done Great Things"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Leave Me to Calvary]",
+      "start_time": 1378,
+      "type": "music",
+      "description": "Steve and Maria Gardner share a heartfelt solo that invites the congregation to reflect on Calvary. Their performance emphasizes themes of sacrifice and redemption, offering a reminder of Christ's love and the importance of the crucifixion in the Christian faith. The intimate atmosphere allows for personal contemplation.",
+      "keywords": ["solo", "worship", "Calvary", "redemption", "sacrifice"],
+      "performers": ["Steve Gardner", "Maria Gardner"],
+      "songs": ["Leave Me to Calvary"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "Pastor Rick Hawks opens the service with a prayer that sets the tone for worship. He invites God's presence and asks for guidance for the day ahead. The prayer connects the congregation to the themes of hope and faith amidst challenging weather conditions.",
+      "keywords": ["prayer", "worship", "opening", "guidance", "faith"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Spiritual Inventory (Philippians 3)",
+      "start_time": 1651,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks presents a deep message from Philippians 3, urging the congregation to take a spiritual inventory of their lives. He articulates the importance of valuing a personal relationship with Christ over relying on rituals, nationality, or past achievements. Using Paul's example, he calls for introspection and genuine faith.",
+      "keywords": ["sermon", "Philippians", "inventory", "faith", "Paul"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Philippians 3"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3511,
+      "type": "prayer",
+      "description": "The service closes with a heartfelt prayer led by Pastor Rick Hawks. He expresses gratitude for the gathering and prays for those in attendance, as well as for those watching from home. The prayer reinforces the themes of hope and reliance on God's promises.",
+      "keywords": ["closing", "prayer", "worship", "gratitude", "community"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

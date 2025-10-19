@@ -1,0 +1,96 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "scripture: Scripture Reading: [Matthew 2:1-12]",
+      "start_time": 274,
+      "type": "scripture",
+      "description": "The congregation hears a reading from the Gospel of Matthew, specifically the story of the wise men’s journey to find Jesus. This scripture recounts their inquiry into the birth of the King of the Jews and their tireless pursuit, guided by the star they observed. It sets the stage for the message on how searching for Jesus embodies an act of worship.",
+      "keywords": ["Matthew", "wise men", "King", "star"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 2:1-12"]
+    },
+    {
+      "title": "Message: Hope When Searching (Matthew 2)",
+      "start_time": 0,
+      "type": "sermon",
+      "description": "The sermon focuses on the theme of hope and searching, drawing lessons from the wise men’s journey. It highlights the importance of humble minds, open eyes, and various postures of worship as Christians prepare for the new year. The pastor emphasizes how the wise men’s perseverance in seeking Jesus can instill hope in our lives, underscoring God's faithfulness in times of uncertainty.",
+      "keywords": ["hope", "searching", "worship", "wisdom", "faithfulness"],
+      "performers": ["[Pastor's name]"],
+      "songs": [],
+      "scripture_references": ["Matthew 2"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting God's presence and guidance throughout the service. This moment sets a tone of reverence and expectation as the congregation prepares their hearts for worship and the message to come. It is a communal acknowledgment of dependency on God.",
+      "keywords": ["prayer", "worship", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Joy to the World]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir performs 'Joy to the World', stirring joy and celebratory anticipation in the congregation. The song reflects the joy of Christ’s birth and encourages the church family to reflect on the hope that Christmas brings. It’s a powerful reminder of the joy that comes from knowing Jesus.",
+      "keywords": ["joy", "Christmas", "choir"],
+      "performers": ["[Choir Name]"],
+      "songs": ["Joy to the World"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [O Come All Ye Faithful]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The congregation joins in singing 'O Come All Ye Faithful', an invitation to gather in reverence before Christ. This hymn fosters a spirit of worship, urging participants to come joyfully to Jesus as they worship together, creating a shared experience of faith and celebration.",
+      "keywords": ["worship", "hymn", "congregation"],
+      "performers": [],
+      "songs": ["O Come All Ye Faithful"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Silent Night]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The congregation reflects quietly as they sing 'Silent Night', which encapsulates the peace and calm of the Christmas story. This serene moment allows worshippers to contemplate the significance of Jesus’ birth and the hope it represents for the world.",
+      "keywords": ["peace", "Christmas", "worship"],
+      "performers": [],
+      "songs": ["Silent Night"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, bringing the congregation together in a moment of reflection and commitment. The pastor leads the congregation in lifting up their hearts to God, asking for strength and guidance as they head into the new year, reminding them of the hope they’ve found in Jesus.",
+      "keywords": ["closing", "prayer", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Year-End Reflection",
+      "start_time": 0,
+      "type": "announcement",
+      "description": "The pastor shares upcoming church events and encourages the congregation to reflect on the past year. This is a call to remember God's blessings and challenges, and to look forward to new opportunities and growth in their faith. It's an invitation to engage more deeply as a church community.",
+      "keywords": ["announcements", "events", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: [Name or Topic]",
+      "start_time": 0,
+      "type": "testimony",
+      "description": "A member of the congregation shares their personal testimony, highlighting how God has worked in their life over the past year. This moment serves as an encouragement to others, showcasing the transformative power of faith and the importance of community in the journey of faith.",
+      "keywords": ["testimony", "faith", "community"],
+      "performers": ["[Testimony Name]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

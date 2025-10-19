@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Congregational Hymn: For the Beauty of the Earth",
+      "start_time": 940,
+      "type": "music",
+      "description": "The congregation joins together in worship, singing a heartfelt hymn that praises the beauty of creation and God's love. The atmosphere is filled with gratitude, bringing everyone into a collective spirit of reverence and reflection. The hymn reminds worshippers to appreciate the wonders of life around them.",
+      "keywords": ["beauty", "earth", "worship", "hymn", "gratitude"],
+      "performers": ["[]"],
+      "songs": ["For the Beauty of the Earth"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Until the Midnight Hour",
+      "start_time": 1184,
+      "type": "music",
+      "description": "A solo performance of a poignant song reflecting on the deep bond of love and prayer between a mother and child. The singer shares heartfelt lyrics that resonate with themes of sacrifice and devotion, evoking emotion and connection among the congregation.",
+      "keywords": ["midnight", "hour", "prayer", "mother", "devotion"],
+      "performers": ["[]"],
+      "songs": ["Mama liked to burn the midnight oil"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 835,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer that invites God’s presence into the worship experience. The congregation is encouraged to open their hearts as they engage in worship and reflection. This moment sets a tone of reverence and anticipation for the service to follow.",
+      "keywords": ["prayer", "opening", "worship", "congregation"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Romans 12",
+      "start_time": 1184,
+      "type": "scripture",
+      "description": "The congregation is invited to open their Bibles as the pastor reads from Romans chapter 12. This scripture serves as a foundation for the day's message about presenting ourselves as living sacrifices to God. The reading emphasizes themes of transformation and worship.",
+      "keywords": ["scripture", "Romans", "worship", "transformation", "sacrifice"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Romans 12"]
+    },
+    {
+      "title": "Message: A Lifestyle of Worship (Romans 12:1-2)",
+      "start_time": 1190,
+      "type": "sermon",
+      "description": "Pastor Moore delivers a powerful sermon on Romans 12:1-2, encouraging the congregation to embrace a lifestyle of worship. He discusses the meaning of true worship, the importance of living as a sacrifice, and how every moment can honor God. His message instills a desire for deeper commitment and transformation in the lives of believers.",
+      "keywords": ["lifestyle", "worship", "sacrifice", "transformation", "Romans"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Romans 12:1-2"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3534,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that reflects on the message shared. The pastor leads the congregation in thanking God for His mercies and asking for strength to live as sacrifices for His glory. This prayer emphasizes the commitment to carry the teachings into daily life.",
+      "keywords": ["closing", "prayer", "commitment", "worship", "God"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

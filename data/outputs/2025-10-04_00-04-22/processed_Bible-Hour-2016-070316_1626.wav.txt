@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Unknown Song",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a music segment that lasts just under five minutes. This uplifting song sets a welcoming tone for the congregation as they gather. The atmosphere is filled with energy and anticipation for the worship ahead.",
+      "keywords": ["music", "worship", "gathering"],
+      "performers": [],
+      "songs": ["Unknown Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Samuel 16-17",
+      "start_time": 300,
+      "type": "scripture",
+      "description": "The congregation hears a powerful scripture reading from 1 Samuel 16 and 17, which recounts God's selection of David as king and the challenge posed by Goliath. This passage lays the foundation for the day's message, emphasizing themes of perspective and God's sovereignty.",
+      "keywords": ["David", "Saul", "Goliath", "Israel"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Samuel 16-17"]
+    },
+    {
+      "title": "Message: Seeing From God’s Perspective (1 Samuel 16-17)",
+      "start_time": 904,
+      "type": "sermon",
+      "description": "In this sermon, the speaker unpacks the biblical narrative of David's anointing and the confrontation with Goliath. Through various anecdotes, the importance of aligning one's perspective with God's is stressed. The speaker challenges the congregation to avoid earthly judgments and to trust in God's greater plan, emphasizing faith's role in overcoming obstacles.",
+      "keywords": ["David", "Goliath", "perspective", "faith", "trust"],
+      "performers": ["Rick Raber"],
+      "songs": [],
+      "scripture_references": ["1 Samuel 16", "1 Samuel 17"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3256,
+      "type": "prayer",
+      "description": "As the sermon concludes, an invitation prayer is offered, drawing the congregation into a time of reflection and response. The speaker asks God to help the attendees see their circumstances through His perspective, reminding them of His power and presence in their lives.",
+      "keywords": ["prayer", "invitation", "reflection", "God's power"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Unknown Title",
+      "start_time": 3338,
+      "type": "music",
+      "description": "The service continues with a congregational hymn, encouraging the congregation to participate actively. The lyrics focus on themes of God’s greatness and strength, fostering a sense of unity and worship within the community as they lift their voices together.",
+      "keywords": ["hymn", "worship", "unity"],
+      "performers": [],
+      "songs": ["Unknown Title"],
+      "scripture_references": []
+    },
+    {
+      "title": "Unknown Song",
+      "start_time": 3475,
+      "type": "music",
+      "description": "The service concludes with a vibrant song emphasizing the power and greatness of God. This final musical element leaves the congregation inspired and uplifted, reinforcing the themes of faith and trust discussed throughout the service.",
+      "keywords": ["God", "power", "faith", "worship"],
+      "performers": [],
+      "songs": ["Unknown Song"],
+      "scripture_references": []
+    }
+  ]
+}
+```

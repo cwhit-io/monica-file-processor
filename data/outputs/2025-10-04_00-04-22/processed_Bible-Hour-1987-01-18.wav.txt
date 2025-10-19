@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: He is Jehovah",
+      "start_time": 0,
+      "type": "music",
+      "description": "The church choir leads the congregation in a vibrant anthem praising God, emphasizing His eternal nature and various attributes. This powerful hymn serves to prepare the hearts of the attendees for worship and reflection. The uplifting lyrics encourage everyone to focus on God's greatness.",
+      "keywords": ["choir", "worship", "God", "praise", "anthem"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["He is Jehovah"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Almighty Power of God",
+      "start_time": 437,
+      "type": "music",
+      "description": "The congregation joins together to sing a beloved hymn that celebrates the might and providence of God. This communal singing fosters unity and encourages participants to reflect on God's blessings in their lives. The hymn is a joyful response to the teachings shared during the service.",
+      "keywords": ["congregational", "hymn", "God", "praise", "worship"],
+      "performers": [],
+      "songs": ["Almighty Power of God"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Glorious Dwelling Place",
+      "start_time": 589,
+      "type": "music",
+      "description": "A solo performance by Denise Mitchell, inspired by Psalm 27:4, reflects the longing to dwell in the presence of the Lord. The gentle melody and heartfelt lyrics create a contemplative atmosphere, allowing attendees to meditate on their relationship with God and His eternal home.",
+      "keywords": ["solo", "Denise Mitchell", "dwelling", "God", "spiritual"],
+      "performers": ["Denise Mitchell"],
+      "songs": ["Glorious Dwelling Place"],
+      "scripture_references": ["Psalm 27"]
+    },
+    {
+      "title": "Youth Group: Second Generation Performance",
+      "start_time": 1213,
+      "type": "music",
+      "description": "The youth group, known as Second Generation, showcases their talents through a spirited performance. This segment highlights the vibrancy and enthusiasm of the younger generation in worship, encouraging the congregation to appreciate the new voices in their midst.",
+      "keywords": ["youth", "music", "Second Generation", "worship", "joy"],
+      "performers": ["Second Generation"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1691,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer acknowledges God's presence and asks for His guidance throughout the service. The prayer focuses on gratitude for spiritual growth and the transforming power of Christ in believers' lives. It sets a tone of reverence and expectation for the message to come.",
+      "keywords": ["prayer", "opening", "God", "guidance", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Corinthians 16",
+      "start_time": 1897,
+      "type": "scripture",
+      "description": "The pastor reads from 1 Corinthians 16, summarizing the essence of the chapter while emphasizing practical applications of faith. This scripture serves as the foundation for the sermon that follows, offering insights into the importance of generosity and vision in Christian living.",
+      "keywords": ["scripture", "1 Corinthians", "reading", "faith", "application"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 16"]
+    },
+    {
+      "title": "Message: Always Abounding in the Work of the Lord (1 Corinthians 16)",
+      "start_time": 1902,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers an engaging sermon on being steadfast and generous in our actions as believers. He draws lessons from 1 Corinthians 16, encouraging the congregation to maintain their focus on God's work and to be proactive in their faith. The message emphasizes a visionary approach to living out the Christian life in today's world.",
+      "keywords": ["sermon", "abound", "work", "Lord", "generosity"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 16"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3522,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, asking for God's presence to guide and empower each attendee as they reflect on the message shared. It emphasizes a commitment to living out faith in everyday life and seeking ways to serve God and others have been impacted by the service.",
+      "keywords": ["prayer", "closing", "God", "guidance", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

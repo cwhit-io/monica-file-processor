@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "scripture: Scripture Reading: [Mark 2]",
+      "start_time": 2,
+      "type": "scripture",
+      "description": "The service opens as the congregation is invited to open their Bibles to Mark chapter 2. This chapter discusses Jesus healing a paralytic, emphasizing the significance of faith and the power of Jesus as the Savior.",
+      "keywords": ["mark", "healing", "jesus", "paralytic", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Mark 2"]
+    },
+    {
+      "title": "Message: Jesus the Hero of the Story (Mark 2:1-12)",
+      "start_time": 46,
+      "type": "sermon",
+      "description": "The sermon emphasizes the story of Jesus healing a paralytic as a demonstration of His authority to forgive sins and heal. The preacher encourages the congregation to reflect on their own faith and creativity in bringing others to Christ, highlighting the teamwork and perseverance of the four men who brought the paralytic to Jesus.",
+      "keywords": ["jesus", "healing", "faith", "forgiveness", "story"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["Mark 2:1-12"]
+    },
+    {
+      "title": "Choir: [Not I, but Christ in Me]",
+      "start_time": 1877,
+      "type": "music",
+      "description": "The choir performs the uplifting song 'Not I, but Christ in Me,' which focuses on the transformative power of Christ in the believer's life. The lyrics express a deep reliance and commitment to living out one's faith.",
+      "keywords": ["choir", "song", "worship", "christ", "transformation"],
+      "performers": ["Unknown"],
+      "songs": ["Not I, but Christ in Me"],
+      "scripture_references": []
+    },
+    {
+      "title": "Piano: [Gentle Music]",
+      "start_time": 1907,
+      "type": "music",
+      "description": "A gentle piano piece plays, inviting the congregation into a moment of reflection. This music sets a serene atmosphere for prayer and contemplation, allowing everyone to connect with the message shared during the service.",
+      "keywords": ["music", "piano", "reflection", "serenity"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2031,
+      "type": "prayer",
+      "description": "The service concludes with a prayer asking God to instill a sense of awe and wonder in the hearts of the congregation. The pastor prays for those who have yet to accept Jesus and encourages everyone to be active in sharing the gospel message.",
+      "keywords": ["prayer", "closing", "gospel", "jesus", "salvation"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

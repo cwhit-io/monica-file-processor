@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Message: Counterculture Humility (1 Peter 3:8-18)",
+      "start_time": 0,
+      "type": "sermon",
+      "description": "In this sermon, the message focuses on the theme of counterculture humility as outlined in 1 Peter. The speaker highlights the importance of having unity of mind, sympathy, brotherly love, and a tender heart. Emphasizing that humility leads to holiness, the sermon provides a framework for Christians to navigate contentious cultural issues with grace and truth.",
+      "keywords": ["humility", "1 Peter", "love", "unity", "holiness", "grace", "truth"],
+      "performers": [""],
+      "songs": [],
+      "scripture_references": ["1 Peter 3:8-18"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 2257,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting God's presence and acknowledging His guidance. This moment is crucial for setting the tone of worship as the congregation prepares to engage with the messages that follow.",
+      "keywords": ["prayer", "worship", "guidance", "presence", "community"],
+      "performers": [""],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Peter 3",
+      "start_time": 2265,
+      "type": "scripture",
+      "description": "A scripture reading from 1 Peter chapter 3 is presented, reinforcing the themes of humility and holiness within the context of a countercultural lifestyle. The reading provides biblical grounding for the upcoming sermon points.",
+      "keywords": ["1 Peter", "scripture", "reading", "teachings"],
+      "performers": [""],
+      "songs": [],
+      "scripture_references": ["1 Peter 3"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2270,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, where attendees are encouraged to reflect on the message and seek God's help in embodying humility and holiness in their daily lives. This prayer emphasizes community and collective commitment.",
+      "keywords": ["prayer", "reflection", "community", "commitment"],
+      "performers": [""],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

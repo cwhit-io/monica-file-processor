@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Thou art worthy",
+      "start_time": 105,
+      "type": "music",
+      "description": "The sanctuary choir performs the song 'Thou art worthy', creating an atmosphere of worship and reverence. The music uplifts the congregation, inviting them to meditate on God's greatness. This performance sets the tone for the service and prepares hearts for the message to come.",
+      "keywords": ["choir", "worship", "God", "music", "Thou art worthy"],
+      "performers": ["sanctuary choir"],
+      "songs": ["Thou art worthy"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: There is Peace",
+      "start_time": 681,
+      "type": "music",
+      "description": "Soloist Becky Woolman shares her heartfelt rendition of 'There is Peace'. The song emphasizes the comfort and serenity found in faith, resonating deeply with the congregation. This musical interlude serves as a reflection point before the sermon.",
+      "keywords": ["solo", "peace", "faith", "worship", "Becky Woolman"],
+      "performers": ["Becky Woolman"],
+      "songs": ["There is Peace"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Church Leadership (1 Timothy 3)",
+      "start_time": 993,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a comprehensive message on the qualifications for church leadership as outlined in 1 Timothy 3. He discusses the importance of family management for elders, emphasizing leadership's relational aspects. The sermon challenges men to reflect on their roles within the home as a foundation for their church leadership.",
+      "keywords": ["leadership", "church", "1 Timothy", "family", "Russell Moore"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 3"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3430,
+      "type": "prayer",
+      "description": "In an invitation prayer, the pastor leads the congregation in seeking the Lord for personal decisions regarding faith. This moment encourages individuals to commit their hearts to Christ. It serves as a pivotal point for those wishing to deepen their spiritual journey.",
+      "keywords": ["prayer", "faith", "commitment", "invitation", "spiritual"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Church Events",
+      "start_time": 711,
+      "type": "announcement",
+      "description": "The pastor provides important announcements regarding upcoming events at Black Hawk Baptist Church, including children's musical performances and Easter services. These announcements aim to engage the congregation and encourage participation in church activities.",
+      "keywords": ["church", "events", "announcements", "Easter", "musical"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: This Little Light of Mine",
+      "start_time": 993,
+      "type": "music",
+      "description": "The choir performs 'This Little Light of Mine', an upbeat and joyful song that spreads a message of letting one's faith shine in the world. This performance energizes the congregation, inspiring them to live out their beliefs actively.",
+      "keywords": ["choir", "light", "faith", "joy", "music"],
+      "performers": ["sanctuary choir"],
+      "songs": ["This Little Light of Mine"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3478,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by the pastor, inviting the congregation to reflect on the message and seek God's guidance in their lives. This prayer focuses on thanksgiving and commitment to live according to the teachings received.",
+      "keywords": ["closing", "prayer", "thanksgiving", "commitment", "God"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

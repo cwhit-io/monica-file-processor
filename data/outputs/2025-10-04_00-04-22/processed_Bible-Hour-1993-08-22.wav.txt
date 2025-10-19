@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Opening Hymn]",
+      "start_time": 90,
+      "type": "music",
+      "description": "The service begins with uplifting music provided by the choir. The congregation joins in, creating a sense of unity and joy. This moment sets a positive tone for the rest of the service, inviting everyone to participate in worship.",
+      "keywords": ["choir", "worship", "hymn", "unity", "joy"],
+      "performers": ["Chapel Choir"],
+      "songs": ["Opening Hymn"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 508,
+      "type": "music",
+      "description": "Joanie King presents a moving solo, sharing her heartfelt interpretation of a song that reflects the theme of encouragement. The congregation listens intently, allowing the message of the song to resonate within their hearts.",
+      "keywords": ["solo", "encouragement", "Joanie King"],
+      "performers": ["Joanie King"],
+      "songs": ["Shepherd of My Heart"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Encouragement (Hebrews 10:23-25)",
+      "start_time": 1111,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a powerful sermon on the importance of encouragement within the Christian community. He emphasizes the call to build each other up, pray for one another, and live in genuine fellowship. Using Hebrews 10 as the basis, he offers practical applications of how to provide support in various relationships.",
+      "keywords": ["encouragement", "fellowship", "Russell Moore", "Hebrews", "Christian community"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Hebrews 10"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3342,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer led by Pastor Moore. The congregation gathers in reflection, asking for strength to be encouragers in their communities and to uphold one another in faith and love.",
+      "keywords": ["prayer", "closing", "encouragement"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

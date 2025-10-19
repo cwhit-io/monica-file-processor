@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Worship the Lord",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with a lively choir performance that encourages the congregation to worship the Lord. The lyrics proclaim God's holiness and greatness, inviting everyone to reverently acknowledge His presence. This segment sets the tone for the service, filled with themes of praise and worship.",
+      "keywords": ["worship", "Lord", "choir", "holiness", "greatness"],
+      "performers": ["Choir"],
+      "songs": ["Worship the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Let It Rain",
+      "start_time": 628,
+      "type": "music",
+      "description": "The choir leads the congregation in a heartfelt song titled 'Let It Rain', inviting attendees to open their hearts and embrace life's trials as opportunities to deepen their relationship with God. The message imparts the importance of perseverance through difficult times and assurance in God's presence.",
+      "keywords": ["choir", "let it rain", "trials", "faith", "worship"],
+      "performers": ["Choir"],
+      "songs": ["Let It Rain"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: The Wonderful Cross",
+      "start_time": 1007,
+      "type": "music",
+      "description": "The choir sings 'The Wonderful Cross', which reflects on the immense love represented by the sacrifice of Jesus. This powerful moment evokes gratitude among the congregation for the salvation offered through Christ and encourages renewed commitment to faith.",
+      "keywords": ["wonderful cross", "choir", "sacrifice", "Jesus", "faith"],
+      "performers": ["Choir"],
+      "songs": ["The Wonderful Cross"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Real Faith Plays No Favorites (James 2)",
+      "start_time": 1340,
+      "type": "sermon",
+      "description": "In this sermon, Pastor Kelly Bird explores James chapter two, emphasizing the danger of showing favoritism based on wealth or status. He challenges listeners to reflect on their own biases and to embody the impartial love of God, extending kindness to all, regardless of their background.",
+      "keywords": ["faith", "favoritism", "James", "impartiality", "love"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["James 2:1-13", "Acts 10:34-35", "Romans 2:9-11"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3540,
+      "type": "prayer",
+      "description": "Pastor Kelly leads a closing prayer, reflecting on the powerful message shared and asking for God’s guidance to help the congregation act on the principles of inclusivity and love. He prays for hearts to be opened and transformed, instilling a desire to serve others.",
+      "keywords": ["prayer", "closing", "guidance", "inclusivity", "love"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

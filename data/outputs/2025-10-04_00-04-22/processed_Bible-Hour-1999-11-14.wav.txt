@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Coming to His Presence",
+      "start_time": 287,
+      "type": "music",
+      "description": "The choir leads the congregation into a spirit of worship through the song 'Coming to His Presence.' The lyrics invite attendees to give praise and glory to Jesus, fostering an atmosphere of reverence and thanksgiving. This segment sets the tone for the service, emphasizing collective worship and praise.",
+      "keywords": ["worship", "choir", "Jesus", "praise", "glory"],
+      "performers": ["Choir"],
+      "songs": ["Coming to His Presence"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Ongoing Praise",
+      "start_time": 601,
+      "type": "music",
+      "description": "The choir continues to uplift the congregation with a series of praises directed towards Jesus. The familiar melodies and heartfelt lyrics encourage the congregation to participate fully in worship, reinforcing the theme of devotion and community as they raise their voices in unity.",
+      "keywords": ["worship", "choir", "Jesus", "community", "praise"],
+      "performers": ["Choir"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Finding Hope in Christ (Luke 15)",
+      "start_time": 1058,
+      "type": "sermon",
+      "description": "The pastor shares a powerful message on hope and personal responsibility. He explores the importance of building authentic relationships and the urgency of sharing the gospel with the lost, using Luke 15 to illustrate the joy in heaven over every sinner who repents. Encouraging self-reflection and action, the sermon challenges attendees to live out their faith actively.",
+      "keywords": ["hope", "evangelism", "Jesus", "Luke 15", "repentance"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Luke 15"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1120,
+      "type": "prayer",
+      "description": "The opening prayer invites God's presence into the service. The pastor asks for strength and guidance, affirming the congregation's commitment to living out their faith amidst worldly challenges. This moment emphasizes the church’s reliance on divine wisdom as they gather in worship.",
+      "keywords": ["prayer", "worship", "God", "guidance"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 1839,
+      "type": "prayer",
+      "description": "In this invitation prayer, the pastor encourages individuals to open their hearts and consider their personal relationship with Christ. He prays for those seeking a deeper connection with God and invites anyone who feels moved to take action in their faith. This moment is crucial for fostering an inclusive environment for seekers.",
+      "keywords": ["invitation", "prayer", "heart", "faith", "Christ"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Church Mission Overview",
+      "start_time": 2892,
+      "type": "announcement",
+      "description": "The pastor outlines the church's mission, emphasizing their believer-targeted yet seeker-friendly approach. Key points are shared regarding church activities and the importance of building relationships that count, reinforcing the community's commitment to growth and evangelism.",
+      "keywords": ["mission", "church", "community", "evangelism", "growth"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Kathy's Story",
+      "start_time": 1206,
+      "type": "testimony",
+      "description": "Kathy shares her transformation story, highlighting the impact that Blackhawk and God's presence have had on her life. Her testimony serves to inspire others, reflecting the church's influence on individual lives and the power of faith in overcoming challenges.",
+      "keywords": ["testimony", "transformation", "faith", "Kathy", "God"],
+      "performers": ["Kathy"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Praise God",
+      "start_time": 3551,
+      "type": "music",
+      "description": "The congregation joins together in a powerful hymn of praise. This segment encourages collective worship, fostering a spirit of unity and reverence among attendees as they lift their voices in thanksgiving before the Lord.",
+      "keywords": ["hymn", "praise", "congregation", "unity", "worship"],
+      "performers": ["Congregation"],
+      "songs": ["Praise God"],
+      "scripture_references": []
+    }
+  ]
+}
+```

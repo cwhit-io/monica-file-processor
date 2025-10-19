@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Jesus Who Died, Now Glorified",
+      "start_time": 90,
+      "type": "music",
+      "description": "The Sanctuary Choir and soloist Keith Roddagum perform the uplifting song 'Jesus Who Died, Now Glorified.' The praise reflects the resilience and glory of Jesus, encouraging a spirit of worship among the congregation despite the cold weather outside.",
+      "keywords": ["choir", "Jesus", "worship", "glorified", "King"],
+      "performers": ["Sanctuary Choir", "Keith Roddagum"],
+      "songs": ["Jesus Who Died, Now Glorified"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: The Next Time He Comes",
+      "start_time": 403,
+      "type": "music",
+      "description": "The congregation joins in a heartfelt rendition of 'The Next Time He Comes.' This song emphasizes the anticipation of Christ's return and reign, reinforcing the message of hope and faith.",
+      "keywords": ["hymn", "Jesus", "King", "worship", "coming again"],
+      "performers": [],
+      "songs": ["The Next Time He Comes"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: His Eyes Are Mercy",
+      "start_time": 661,
+      "type": "music",
+      "description": "A solo performance of 'His Eyes Are Mercy' emerges, filled with themes of comfort and reassurance. The lyrics discuss the rest and hope found in Jesus, inviting personal reflection on burdens and faith.",
+      "keywords": ["solo", "mercy", "Savior", "comfort", "faith"],
+      "performers": ["Unknown"],
+      "songs": ["His Eyes Are Mercy"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The State of the Church (2 Timothy 4)",
+      "start_time": 516,
+      "type": "sermon",
+      "description": "Pastor Rick delivers a powerful sermon titled 'The State of the Church,' focusing on 2 Timothy 4. He addresses the importance of self-examination, integrity in ministry, and encourages the congregation to actively participate in their faith, highlighting both local and global church growth.",
+      "keywords": ["sermon", "church", "growth", "integrity", "Timothy"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["2 Timothy 4"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3597,
+      "type": "prayer",
+      "description": "The service opens with a heartfelt prayer, inviting the congregation to seek forgiveness and guidance. This moment sets a reverent tone for worship and reflection, fostering a sense of community engagement.",
+      "keywords": ["prayer", "opening", "worship", "community", "reflection"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3627,
+      "type": "prayer",
+      "description": "As the service concludes, a closing prayer is offered. This prayer seeks guidance for the week ahead, emphasizing the themes of the sermon and the worship experience, encouraging everyone to carry their faith into their daily lives.",
+      "keywords": ["prayer", "closing", "guidance", "faith", "community"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Business Meeting Update",
+      "start_time": 2075,
+      "type": "announcement",
+      "description": "An announcement regarding the upcoming annual business meeting aims to update the congregation on the state of the church and progress on new building initiatives. The meeting is framed as an essential part of maintaining transparency and fostering communal participation.",
+      "keywords": ["announcement", "business", "meeting", "update", "church"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

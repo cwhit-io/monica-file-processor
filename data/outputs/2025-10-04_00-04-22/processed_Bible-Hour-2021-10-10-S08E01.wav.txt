@@ -1,0 +1,44 @@
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service opens with a prayer aimed at exalting Jesus Christ. It sets a tone of reverence and expectation, inviting the congregation to engage fully in the worship experience. The prayer encourages a spirit of unity and readiness to receive God’s message.",
+      "keywords": ["prayer", "Jesus", "worship", "unity", "reverence"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Journey of Faith (Hebrews 11:8-10)",
+      "start_time": 218,
+      "type": "sermon",
+      "description": "Pastor Yimod delivers a powerful sermon focusing on the journey of faith through the story of Abraham. Highlighting themes of obedience and risk, he challenges the congregation to reflect on their faith journeys. The message emphasizes leaving comfort zones and trusting God's guidance in uncertain times.",
+      "keywords": ["faith", "Abraham", "risk", "obedience", "journey"],
+      "performers": ["Pastor Yimod"],
+      "songs": [],
+      "scripture_references": ["Hebrews 11:8-10"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 1290,
+      "type": "prayer",
+      "description": "A heartfelt invitation prayer follows the sermon, prompting attendees to contemplate their personal faith journeys and respond to God’s call. It invites the congregation to reflect on their relationship with God and encourages them to take steps toward faith.",
+      "keywords": ["invitation", "reflection", "faith", "call", "challenge"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1376,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that encompasses gratitude for the message shared and the unity of believers globally. It expresses a desire for God’s guidance and blessings over the congregation and their collective mission.",
+      "keywords": ["closing", "gratitude", "blessing", "unity", "mission"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

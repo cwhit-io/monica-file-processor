@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat, lively music introduction, setting a joyful atmosphere for the gathering. The congregation engages in singing, creating an environment of enthusiasm and worship.",
+      "keywords": ["music", "upbeat", "worship", "singing"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Choir Performance]",
+      "start_time": 151,
+      "type": "music",
+      "description": "The choir leads during a powerful musical segment, beautifully expressing themes of faith and redemption. This performance encourages the congregation to reflect on the significance of the message being conveyed through music.",
+      "keywords": ["choir", "music", "worship"],
+      "performers": ["Choir"],
+      "songs": ["[Choir Performance]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Song Title]",
+      "start_time": 303,
+      "type": "music",
+      "description": "The congregation joins together in singing a cherished hymn, fostering a sense of unity among the attendees. This heartfelt moment of worship emphasizes the themes of hope and togetherness in faith.",
+      "keywords": ["hymn", "congregational", "worship", "unity"],
+      "performers": [],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events for Resurrection Week",
+      "start_time": 569,
+      "type": "announcement",
+      "description": "The speaker, Kelly Bird, shares important announcements regarding upcoming events centered around Resurrection Week. Emphasizing the significance of Good Friday and Easter Sunday, attendees are invited to join in the celebrations.",
+      "keywords": ["announcement", "Good Friday", "Easter", "events"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Redemption and Its Cost (1 Peter 1:17-21)",
+      "start_time": 873,
+      "type": "sermon",
+      "description": "The sermon explores the profound truth of redemption as taught in 1 Peter. The speaker discusses what we are redeemed from, how we are redeemed, and for what purpose. The message emphasizes the significance of Jesus' sacrifice and encourages the congregation to live in light of their redemption.",
+      "keywords": ["redemption", "sermon", "faith", "1 Peter"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["1 Peter 1:17-21"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3577,
+      "type": "prayer",
+      "description": "In this concluding prayer, the speaker invites the congregation to reflect on the message of redemption and encourages personal commitment to faith. It is a moment of spiritual connection, fostering hope and a sense of community.",
+      "keywords": ["prayer", "invitation", "faith", "community"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

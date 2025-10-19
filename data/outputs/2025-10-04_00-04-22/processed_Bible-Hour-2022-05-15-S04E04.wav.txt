@@ -1,0 +1,54 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: Special Presentation",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with a warm welcome and a special acknowledgment of the choir's contributions. Their uplifting presence sets a celebratory tone for the day, inviting everyone to join in worship.",
+      "keywords": ["choir", "worship", "celebration", "music", "praise"],
+      "performers": ["Choir"],
+      "songs": ["Special Presentation"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Steadfast in Shifting Seasons (Acts 20)",
+      "start_time": 176,
+      "type": "sermon",
+      "description": "In this heartfelt sermon, the speaker reflects on the importance of being steadfast through various life transitions. Drawing from Acts 20, he emphasizes appreciating the past, accepting God's current call, and anticipating His future plans. Memories and stories highlight the profound relationships formed within the church community.",
+      "keywords": ["steadfast", "seasons", "Acts", "community", "transition"],
+      "performers": ["Lead Pastor"],
+      "songs": [],
+      "scripture_references": ["Acts 20"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 2006,
+      "type": "prayer",
+      "description": "The congregation kneels in prayer, expressing gratitude for God's blessings and seeking guidance for the future. It's a moment of unity and reflection, inviting individual commitments to serve God and support one another.",
+      "keywords": ["prayer", "unity", "gratitude", "commitment", "guidance"],
+      "performers": ["Lead Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2146,
+      "type": "prayer",
+      "description": "The service concludes with a powerful closing prayer. It serves as a heartfelt thank you for the community and a reminder of their collective mission in Christ. The congregation leaves with a sense of hope and purpose.",
+      "keywords": ["closing", "prayer", "thanksgiving", "mission", "hope"],
+      "performers": ["Lead Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Final Blessing Song",
+      "start_time": 2151,
+      "type": "music",
+      "description": "As the service comes to a close, the choir performs a final blessing song, filling the space with joy and gratitude. The congregation is encouraged to reflect on the message as they enjoy this uplifting performance together.",
+      "keywords": ["choir", "blessing", "worship", "celebration", "community"],
+      "performers": ["Choir"],
+      "songs": ["Final Blessing Song"],
+      "scripture_references": []
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [MUSIC]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with stirring choir music, setting a tone of reverence and community. This segment serves as an invitation for congregants to reflect and prepare their hearts for worship. Music plays a vital role in connecting the congregation with the themes of the service.",
+      "keywords": ["choir", "worship", "music", "community", "reflection"],
+      "performers": ["[Choir]"],
+      "songs": ["[MUSIC]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [MUSIC]",
+      "start_time": 159,
+      "type": "music",
+      "description": "After the choir, the service features a solo performance, providing a personal touch and an opportunity for individual expression of worship. The soloist's interpretation of the song brings forth emotions of faith and devotion, enhancing the atmosphere of the service.",
+      "keywords": ["solo", "worship", "emotion", "faith"],
+      "performers": ["Lisa Feeney", "Jenny Clancy"],
+      "songs": ["[MUSIC]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Faithful Church (Revelation 3:7-13)",
+      "start_time": 1105,
+      "type": "sermon",
+      "description": "In this sermon, the pastor explores the characteristics of the church at Philadelphia, highlighting its faithfulness and lack of condemnation from Christ. The message implores congregants to reflect on their own church's attributes, emphasizing the blessings of obedience, loyalty, and endurance in faith. It concludes with encouragement for personal growth in spiritual life.",
+      "keywords": ["church", "Philadelphia", "faithful", "sermon", "Revelation"],
+      "performers": ["[Pastor]"],
+      "songs": [],
+      "scripture_references": ["Revelation 3:7-13"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3332,
+      "type": "prayer",
+      "description": "This invitation prayer serves to invite individuals to begin or renew their relationship with Christ. It articulates the opportunity for salvation and establishes a personal connection with God through prayer, emphasizing the transformative power of faith.",
+      "keywords": ["invitation", "prayer", "salvation", "faith"],
+      "performers": ["[Pastor]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [MUSIC]",
+      "start_time": 3354,
+      "type": "music",
+      "description": "The congregation joins together in a hymn, celebrating their shared faith and commitment to worship. This collective act enhances the sense of belonging and unity among church members, reinforcing the themes of community and worship found throughout the service.",
+      "keywords": ["congregational", "hymn", "unity", "worship"],
+      "performers": ["[Congregation]"],
+      "songs": ["[MUSIC]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3516,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, expressing gratitude for the message delivered and asking for God's guidance in applying the lessons learned. This prayer binds the congregation together, encouraging them to go forth in faith and unity.",
+      "keywords": ["closing", "prayer", "gratitude", "faith"],
+      "performers": ["[Pastor]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

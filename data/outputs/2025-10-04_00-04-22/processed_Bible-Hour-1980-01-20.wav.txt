@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [AMEN]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with the choir leading in a spirited rendition of 'AMEN,' encouraging the congregation to worship together. This powerful song serves to uplift the congregation as they prepare for the service ahead.",
+      "keywords": ["choir", "worship", "AMEN"],
+      "performers": ["Choir"],
+      "songs": ["AMEN"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: He Lives Within My Heart",
+      "start_time": 132,
+      "type": "music",
+      "description": "Keith Brodygum blesses the congregation with a moving solo, 'He Lives Within My Heart.' This poignant song articulates the joy and certainty of faith, reminding everyone present of the reality of Christ's presence in their lives.",
+      "keywords": ["Keith Brodygum", "solo", "faith", "joy"],
+      "performers": ["Keith Brodygum"],
+      "songs": ["He Lives Within My Heart"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Returning Home from Florida",
+      "start_time": 531,
+      "type": "announcement",
+      "description": "Pastor David Jeremiah reflects on his recent ministry trip to Florida, sharing experiences and the joy of connecting with viewers who recognize and appreciate the Bible Hour. He emphasizes the importance of viewer feedback and support for the ministry.",
+      "keywords": ["Florida", "ministry", "Bible Hour", "support"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [Colossians 1]",
+      "start_time": 998,
+      "type": "scripture",
+      "description": "The congregation turns to the book of Colossians as Pastor Jeremiah reads verses 9 through 14. This scripture highlights Paul's prayer for the Colossian believers, focusing on a deeper understanding of God's will and spiritual wisdom.",
+      "keywords": ["Colossians", "scripture", "prayer", "Paul"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Colossians 1:9-14"]
+    },
+    {
+      "title": "Message: Let the Word Dwell in You Richly (Colossians 1)",
+      "start_time": 1043,
+      "type": "sermon",
+      "description": "In this powerful sermon, Pastor David Jeremiah shares five reasons to let the Word of God dwell richly in believers. The message emphasizes the importance of being filled with God's wisdom, pleasing Him, producing good works, growing in knowledge, and enduring with joy, especially in challenging times.",
+      "keywords": ["Word of God", "wisdom", "knowledge", "growth", "joy"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Colossians 1"]
+    },
+    {
+      "title": "Solo: My Tribute",
+      "start_time": 3362,
+      "type": "music",
+      "description": "Lena Peterson sings 'My Tribute' (To God Be the Glory), a song celebrating God's greatness and faithfulness. The heartfelt message encourages the congregation to acknowledge and thank God for all He has done in their lives.",
+      "keywords": ["Lena Peterson", "solo", "God", "glory"],
+      "performers": ["Lena Peterson"],
+      "songs": ["My Tribute"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3504,
+      "type": "prayer",
+      "description": "Pastor Jeremiah offers a closing prayer, inviting those who do not know Christ to open their hearts to Him. He prays for those listening and emphasizes the transformative power of faith and personal commitment to Jesus.",
+      "keywords": ["prayer", "closing", "commitment", "Jesus"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,126 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unknown Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a dynamic musical piece performed by the choir, creating an uplifting ambiance. The congregation participates in the worship, setting a joyful tone for the day. This segment enhances the spiritual atmosphere and prepares everyone for the upcoming events.",
+      "keywords": ["worship", "choir", "music", "praise", "gathering"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "baptism: Mikayla",
+      "start_time": 241,
+      "type": "baptism",
+      "description": "The service transitions to baptisms, starting with Mikayla Kruger, who expresses her faith. The congregation celebrates her commitment with applause. This impactful moment highlights the personal testimonies of faith within the community as several individuals take this significant step.",
+      "keywords": ["baptism", "faith", "celebration", "Mikayla", "community"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "baptism: Cheyenne and Sierra",
+      "start_time": 297,
+      "type": "baptism",
+      "description": "Cheyenne and Sierra, two sisters, follow Mikayla in their baptism. They share a heartfelt moment confirming their faith, surrounded by friends and family. The joy of the congregation reflects the community's support of these significant spiritual milestones.",
+      "keywords": ["baptism", "sisters", "faith", "celebration", "support"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "baptism: Sylvia",
+      "start_time": 358,
+      "type": "baptism",
+      "description": "Next up is Sylvia Frederick, who is welcomed by her loved ones as she takes her step of faith in front of the congregation. Her baptism is met with applause and encouragement from those present, emphasizing the community aspect of this sacred event.",
+      "keywords": ["baptism", "Sylvia", "community", "celebration", "faith"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "baptism: Laura",
+      "start_time": 397,
+      "type": "baptism",
+      "description": "Laura Swain-Brown is next for baptism, greeted by laughter and joy. The pastor reflects on the honor of baptizing her, showcasing the personal nature of this ceremony. This joyful display helps to reinforce the importance of faith and community.",
+      "keywords": ["baptism", "Laura", "joy", "celebration", "faith"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "baptism: Brent",
+      "start_time": 435,
+      "type": "baptism",
+      "description": "Mr. Brent Roddy steps forth for baptism, sharing his desire to take this important step in his faith journey. Warm applause echoes through the congregation as he is baptized, marking another heartfelt moment of commitment within the service.",
+      "keywords": ["baptism", "Brent", "commitment", "celebration", "community"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "baptism: Angela and Nick",
+      "start_time": 472,
+      "type": "baptism",
+      "description": "A couple, Angela and Nick Leach, is baptized together, showcasing the beauty of shared faith. The pastor highlights their commitment to each other and to Christ as the congregation applauds their joint testimony, strengthening the bond within the community.",
+      "keywords": ["baptism", "couple", "Angela", "Nick", "shared faith"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unknown Title]",
+      "start_time": 556,
+      "type": "music",
+      "description": "The choir returns with another powerful musical piece, engaging the congregation in worship. This performance emphasizes themes of hope and love, inviting everyone to connect emotionally and spiritually during this worship-filled moment.",
+      "keywords": ["music", "choir", "worship", "hope", "praise"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown Title]",
+      "start_time": 858,
+      "type": "music",
+      "description": "A soulful solo performance captivates the audience, blending lyrics that express deep devotion and trust in God. This moment of personal worship allows attendees to reflect on their own journey of faith, fostering a sense of unity and purpose.",
+      "keywords": ["music", "solo", "faith", "devotion", "worship"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Intrusted (1 Timothy 6:17-21)",
+      "start_time": 1441,
+      "type": "sermon",
+      "description": "The pastor delivers a powerful sermon titled 'Intrusted,' focusing on stewardship and our relationship with material wealth. Through scripture, he discusses the importance of recognizing God’s blessings and how to trust Him with our lives and resources. The message encourages practical application of faith in daily life.",
+      "keywords": ["sermon", "intrusted", "stewardship", "wealth", "faith"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 6:17-21"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2986,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer, inviting the congregation to reflect on the lessons learned throughout the service. The pastor situates the prayer within the context of service and communal support, seeking God's guidance and blessings for the attendees as they go forth.",
+      "keywords": ["prayer", "closing", "community", "blessing", "faith"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unknown Title]",
+      "start_time": 3250,
+      "type": "music",
+      "description": "The closing musical piece by the choir uplifts the congregation, reinforcing the themes of faith and community present throughout the service. This final song sends everyone off with a spirit of joyful worship and reflection.",
+      "keywords": ["music", "choir", "closing", "worship", "celebration"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

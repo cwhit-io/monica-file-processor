@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer that sets the tone for worship. The pastor acknowledges the gathered community and emphasizes the unity found in the joy of the Lord. The prayer focuses on bringing joy to the forefront amidst life's challenges, encouraging everyone to lean into the series about refreshment through God’s truth.",
+      "keywords": ["joy", "community", "worship", "prayer", "unity"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Message: Consuming Joy (Galatians 5:22-26)",
+      "start_time": 76,
+      "type": "sermon",
+      "description": "In an engaging sermon, the pastor explores the concept of joy as part of the fruit of the Spirit, emphasizing that true joy is a consuming state of being rather than mere feelings. The sermon articulates joy's importance in facing trials, encouraging attendees to cultivate joy through faith in Christ, and highlighting biblical perspectives on joy through various scriptures, including James and Hebrews.",
+      "keywords": ["joy", "Galatians", "scripture", "sermon", "faith"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["Galatians 5:22-26", "James 1:2-4", "Hebrews 12:1-2", "Psalm 16:5-11", "Romans 15:13", "John 15:11"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2216,
+      "type": "prayer",
+      "description": "The pastor leads an invitation prayer asking attendees to reflect on their spiritual journey and inviting those who wish to commit or recommit their lives to Christ. This heartfelt moment encourages personal connection with God, emphasizing the joy that comes from faith and the community's support.",
+      "keywords": ["invitation", "prayer", "commitment", "faith", "community"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2228,
+      "type": "prayer",
+      "description": "The closing prayer captures the essence of the service, thanking God for the joy shared and praying for strength to carry this joy into the week ahead. The pastor highlights God's promises and encourages the congregation to embrace joy in every aspect of their lives.",
+      "keywords": ["closing", "prayer", "thanksgiving", "joy", "strength"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    }
+  ]
+}
+```

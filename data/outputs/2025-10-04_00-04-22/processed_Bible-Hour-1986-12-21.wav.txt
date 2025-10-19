@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Light of a Million Mornings",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a stirring choir presentation of 'Light of a Million Mornings', conveying themes of hope and divine warmth. The performance invokes a strong sense of joy and anticipation as the choir sings about the transformative power of light and love in the believer's life.",
+      "keywords": ["choir", "light", "mornings", "hope", "joy"],
+      "performers": ["Living Christmas Tree Choir"],
+      "songs": ["Light of a Million Mornings"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Angels from the Realms of Glory",
+      "start_time": 540,
+      "type": "music",
+      "description": "The congregation is invited to join in singing 'Angels from the Realms of Glory', expressing reverence and celebration of the Christmas story. This hymn allows the community to participate in the worship, reflecting the joy of the birth of Christ as they lift their voices together.",
+      "keywords": ["angels", "glory", "Christmas", "worship", "community"],
+      "performers": [],
+      "songs": ["Angels from the Realms of Glory"],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: The Christmas Story Told by Children",
+      "start_time": 703,
+      "type": "drama",
+      "description": "Children take the stage to recount the classic Christmas story through a playful and heartwarming performance. They narrate key moments including the journey to Bethlehem, the birth of Jesus, and the visit from the shepherds and wise men, bringing joy and innocence to the retelling.",
+      "keywords": ["children", "story", "Bethlehem", "Christmas", "joy"],
+      "performers": ["Kathy Hawks", "Wade Holbrook"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The High Cost of Christmas (2 Corinthians 8:9)",
+      "start_time": 2121,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a profound message on 'The High Cost of Christmas', based on 2 Corinthians 8:9. He reflects on Christ's journey from riches to poverty, emphasizing the grace of God in giving His Son. The sermon encourages listeners to embrace the true meaning of Christmas through generosity and love.",
+      "keywords": ["sermon", "Christmas", "grace", "sacrifice", "message"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["2 Corinthians 8:9"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3492,
+      "type": "prayer",
+      "description": "A heartfelt invitation prayer led by Pastor Rick reflects on accepting Christ into one's life. It encourages those who have made a spiritual decision during the service to reach out for guidance, emphasizing God's love and the potential for a personal relationship with Him.",
+      "keywords": ["invitation", "prayer", "acceptance", "spiritual", "God"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Closing Remarks",
+      "start_time": 3549,
+      "type": "announcement",
+      "description": "In the closing remarks, important information is shared about follow-up resources for those making decisions and invitations to further connect with the church community. The encouraging message promotes the continual celebration of Christmas through faith and fellowship.",
+      "keywords": ["closing", "announcement", "follow-up", "community", "connection"],
+      "performers": ["Bill V.R."],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

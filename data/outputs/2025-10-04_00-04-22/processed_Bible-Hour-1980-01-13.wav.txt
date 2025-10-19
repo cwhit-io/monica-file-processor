@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Praise His Holy Names",
+      "start_time": 27,
+      "type": "music",
+      "description": "The choir of Black Hawk Baptist Church leads the congregation in a powerful song titled 'Praise His Holy Names', which highlights the various names of the Lord Jesus Christ and their significance. The congregation is invited to listen carefully to the lyrics that celebrate the attributes and the holiness of Jesus Christ.",
+      "keywords": ["choir", "praise", "Jesus", "names", "worship"],
+      "performers": ["Black Hawk Baptist Choir"],
+      "songs": ["Praise His Holy Names"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Near to the Heart of God",
+      "start_time": 367,
+      "type": "music",
+      "description": "Marlene Nichols performs a heartfelt solo titled 'Near to the Heart of God'. This song emphasizes the comfort and peace found in a close relationship with God. The congregation reflects on the importance of being near to God, especially during challenging times.",
+      "keywords": ["Marlene Nichols", "solo", "heart", "God", "worship"],
+      "performers": ["Marlene Nichols"],
+      "songs": ["Near to the Heart of God"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1625,
+      "type": "prayer",
+      "description": "As the service transitions to the teaching segment, a deacon leads the congregation in an opening prayer, seeking God’s blessing on the upcoming time of worship and scripture study. The prayer emphasizes understanding God's will and guidance for the church and its members.",
+      "keywords": ["prayer", "opening", "guidance", "worship", "blessing"],
+      "performers": ["Mr. Mark Cluff"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Colossians 1",
+      "start_time": 1657,
+      "type": "scripture",
+      "description": "The scripture passage is read from Colossians chapter one, verses 19 to 23. This reading focuses on reconciliation through Christ, highlighting its significance in the Christian faith and its implications for believers' lives.",
+      "keywords": ["Colossians", "scripture", "reading", "reconciliation", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Colossians 1:19-23"]
+    },
+    {
+      "title": "Message: The Doctrine of Reconciliation (Colossians 1)",
+      "start_time": 1666,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers an in-depth sermon on the doctrine of reconciliation, drawn from Colossians chapter one. He explains the necessity of reconciliation between God and humanity, emphasizing Christ's role in this process. The sermon explores themes of alienation, the need for a standard in life, and the peace that comes through accepting God's offer of reconciliation.",
+      "keywords": ["sermon", "reconciliation", "God", "Christ", "Pastor David Jeremiah"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Colossians 1:19-23"]
+    },
+    {
+      "title": "Congregational Hymn: Hallelujah! What a Savior!",
+      "start_time": 976,
+      "type": "music",
+      "description": "The congregation participates in singing 'Hallelujah! What a Savior!', a hymn that celebrates the redemptive work of Jesus Christ. This congregational hymn unites worshippers in a powerful proclamation of gratitude for God's grace and mercy.",
+      "keywords": ["congregation", "hymn", "worship", "Jesus", "grace"],
+      "performers": ["Congregation"],
+      "songs": ["Hallelujah! What a Savior!"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Lift Him Up",
+      "start_time": 1127,
+      "type": "music",
+      "description": "The Black Hawk Singers present a lively rendition of 'Lift Him Up', encouraging the congregation to praise Jesus. The song emphasizes lifting Jesus' name high and declaring the love of God to all.",
+      "keywords": ["black hawk singers", "lift", "praise", "Jesus", "worship"],
+      "performers": ["Black Hawk Singers"],
+      "songs": ["Lift Him Up"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3368,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for the message and asking for His guidance in applying it to daily lives. This prayer reinforces the commitment to live in accordance with God’s will and the importance of sharing the message of reconciliation.",
+      "keywords": ["closing", "prayer", "thanksgiving", "guidance", "reconciliation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Great is Thy Faithfulness",
+      "start_time": 260,
+      "type": "music",
+      "description": "The church choir beautifully performs the beloved hymn 'Great is Thy Faithfulness,' reminding the congregation of God's unchanging nature and His continual provision throughout life. The hymn fosters a spirit of worship and gratitude among attendees, emphasizing faithfulness in uncertain times.",
+      "keywords": ["hymn", "choir", "faithfulness", "worship", "God"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Great is Thy Faithfulness"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Faith is the Victory",
+      "start_time": 536,
+      "type": "music",
+      "description": "The congregation joins together in singing 'Faith is the Victory,' expressing confidence in God's presence and power to overcome the challenges of life. The song uplifts spirits and encourages unity in faith, reminding everyone of their victory through Christ.",
+      "keywords": ["hymn", "congregation", "faith", "victory", "worship"],
+      "performers": ["Congregation"],
+      "songs": ["Faith is the Victory"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: We Have the Spirit of David",
+      "start_time": 696,
+      "type": "music",
+      "description": "A special performance by a celebration group sings 'We Have the Spirit of David,' celebrating praise and worship with energy and joy. The lyrics reflect a longing to stand in God's presence while encouraging believers to boldly express their faith.",
+      "keywords": ["spirit", "David", "praise", "worship", "celebration"],
+      "performers": ["Celebration Group"],
+      "songs": ["We Have the Spirit of David"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Corinthians 15",
+      "start_time": 1525,
+      "type": "scripture",
+      "description": "The congregation hears a recitation of the scripture from 1 Corinthians 15:51, focusing on the mystery of transformation promised to believers. This verse serves to excite the congregation about the hope of resurrection and the promise of eternal life.",
+      "keywords": ["scripture", "resurrection", "hope", "transformation", "1 Corinthians"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 15:51-51"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1612,
+      "type": "prayer",
+      "description": "Pastor Rick leads an opening prayer, inviting God’s presence into the service and praying for those in need within the community. The heartfelt prayer sets a tone of reverence and earnestness, encouraging the congregation to focus their hearts on worship.",
+      "keywords": ["prayer", "worship", "community", "healing", "presence"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: His Wrath (Matthew 24:15-21)",
+      "start_time": 204,
+      "type": "sermon",
+      "description": "In this powerful sermon, Pastor Rick discusses God's wrath, emphasizing that while God is loving, He is also just and will punish sin. Through an exploration of Matthew 24:15-21, he explains the tribulations associated with God's impending judgment, urging believers to carry a balanced message of love and warning.",
+      "keywords": ["sermon", "wrath", "just", "judgment", "Matthew"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Matthew 24:15-21"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3532,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Rick, inviting God to guide the congregation in their everyday lives. This prayer emphasizes God's grace and mercy, reinforcing the themes shared in the sermon about His love and justice.",
+      "keywords": ["prayer", "closing", "God", "guidance", "grace"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Music Finale]",
+      "start_time": 3644,
+      "type": "music",
+      "description": "The service ends with a musical arrangement by the choir, celebrating the messages shared throughout the service and uplifting the congregation in joyful praise. This performance serves as a reminder of God's faithfulness and promises as the attendees go forth.",
+      "keywords": ["finale", "choir", "worship", "celebration", "joy"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["[Music Finale]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

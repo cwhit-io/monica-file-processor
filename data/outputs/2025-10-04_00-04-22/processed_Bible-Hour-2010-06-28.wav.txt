@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Welcome",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with lively music, creating an inviting atmosphere for the congregation. The music sets a joyful tone, welcoming attendees and preparing their hearts for worship. The upbeat nature allows participants to feel energized and connected as they gather together for the service.",
+      "keywords": ["music", "welcome", "worship", "service", "joy"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Community Service Projects",
+      "start_time": 182,
+      "type": "announcement",
+      "description": "An invitation is extended to the Fort Wayne community to engage in summer service projects aimed at helping those with physical needs. Attendees are encouraged to reach out to the church for assistance, fostering a sense of community and support within the congregation and beyond.",
+      "keywords": ["community", "service", "support", "projects", "needs"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Lessons from the Life of Paul (1 Corinthians 15)",
+      "start_time": 288,
+      "type": "sermon",
+      "description": "Josh Rang presents a sermon focused on the significance of the gospel in the life of the Apostle Paul. The message highlights that the gospel was paramount for Paul, shaping both his life and teachings. It emphasizes the transformative power of the gospel for personal growth and daily living based on biblical wisdom.",
+      "keywords": ["Paul", "gospel", "sermon", "transformation", "teaching"],
+      "performers": ["Josh Rang"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 15:3-5", "Galatians 6:14", "Philippians 3:8", "Romans 5:1", "Romans 8:1", "Romans 8:32"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 575,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, asking for God's guidance and presence throughout the service. It sets a spiritual tone, inviting the congregation to focus on God's Word and preparing their hearts for worship. The prayer emphasizes gratitude for the teachings and the work of the Holy Spirit.",
+      "keywords": ["prayer", "worship", "guidance", "spirit", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: How Deep the Father's Love for Us",
+      "start_time": 2956,
+      "type": "music",
+      "description": "The choir beautifully performs 'How Deep the Father's Love for Us,' a poignant song reflecting on the depth of God's love and sacrifice. The lyrics resonate deeply with the themes discussed in the sermon, enhancing the emotional atmosphere of worship and prompting introspection among attendees.",
+      "keywords": ["choir", "worship", "love", "sacrifice", "God"],
+      "performers": ["Choir"],
+      "songs": ["How Deep the Father's Love for Us"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: It Is Finished",
+      "start_time": 3072,
+      "type": "music",
+      "description": "Following the previous song, the choir continues with 'It Is Finished,' a powerful rendition that emphasizes the completion of Christ's sacrifice. The performance serves as a musical reflection on the forgiveness and grace provided through the gospel, further connecting with the sermon theme.",
+      "keywords": ["choir", "worship", "forgiveness", "grace", "sacrifice"],
+      "performers": ["Choir"],
+      "songs": ["It Is Finished"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: How Great Thou Art",
+      "start_time": 3201,
+      "type": "music",
+      "description": "The congregation joins in singing 'How Great Thou Art,' a beloved hymn celebrating the greatness and majesty of God. The hymn fosters a unified spirit of worship, bringing together the voices of many as they express their reverence and gratitude for God's creation and salvation.",
+      "keywords": ["hymn", "congregation", "worship", "greatness", "praise"],
+      "performers": [],
+      "songs": ["How Great Thou Art"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3534,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for the message shared and asking for His continued guidance. It serves to solidify the themes discussed throughout the service, encouraging attendees to apply the lessons learned in their daily lives. The prayer encapsulates the hope of living out the gospel.",
+      "keywords": ["prayer", "closing", "guidance", "community", "application"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

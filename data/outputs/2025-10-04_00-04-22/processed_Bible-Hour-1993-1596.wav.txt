@@ -1,0 +1,74 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: [Special Music]",
+      "start_time": 118,
+      "type": "music",
+      "description": "The service begins with uplifting choir music that enhances the atmosphere of worship and sets the tone for the gathering. The choir, accompanied by vocal solos, invites the congregation into a spirit of praise.",
+      "keywords": ["choir", "music", "worship"],
+      "performers": ["[Choir]"],
+      "songs": ["[Special Music]"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Evening Concert",
+      "start_time": 524,
+      "type": "announcement",
+      "description": "An announcement is made about an evening concert featuring the First Light Quartet from St. Paul, Minnesota, encouraging local attendees to join in this musical event. The speaker highlights the connection to Black Hawk Baptist Church, expressing excitement for the evening's program.",
+      "keywords": ["concert", "announcement", "schedule"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 688,
+      "type": "prayer",
+      "description": "The service transitions into an opening prayer, asking for God's presence and guidance throughout the worship experience. This prayer sets a reverent tone for the messages and music to follow.",
+      "keywords": ["prayer", "worship", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: God's Judgment (Revelation 6)",
+      "start_time": 934,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers an insightful sermon from Revelation 6, discussing God's judgment and the significance of the seals being broken. The message emphasizes the seriousness of divine accountability and the urgency of faith in the face of coming tribulations.",
+      "keywords": ["sermon", "Revelation", "judgment", "tribulation"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 6"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3457,
+      "type": "prayer",
+      "description": "A heartfelt invitation prayer is offered, reaching out to those seeking spiritual guidance and salvation. This prayer focuses on the importance of personal faith in Jesus Christ and encourages attendees to commit their lives to Him.",
+      "keywords": ["prayer", "invitation", "salvation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 3423,
+      "type": "music",
+      "description": "A beautiful solo performance captivates the congregation, enhancing the worship atmosphere and reflecting the themes discussed in the sermon. The soloist conveys a deep emotional connection through the selection of song.",
+      "keywords": ["solo", "music", "worship"],
+      "performers": ["Becky Woolman"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3460,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that reflects on the messages shared and seeks God's continued presence in the lives of the congregation. This final prayer asks for strength and empowerment for the week ahead.",
+      "keywords": ["closing", "prayer", "blessing"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

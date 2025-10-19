@@ -1,0 +1,74 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: Holy, Holy, Holy",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir leads the congregation in a vibrant worship song, expressing a desire to encounter God's holiness. The repetitive lyrics encourage everyone to lift their eyes and hearts towards God, engaging in a unified act of worship that focuses on recognizing His glory.",
+      "keywords": ["holy", "worship", "choir", "glory", "eyes"],
+      "performers": ["Choir"],
+      "songs": ["Holy, Holy, Holy"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Living Christmas Tree",
+      "start_time": 302,
+      "type": "announcement",
+      "description": "Pastor Kelly shares details about the upcoming Living Christmas Tree event, celebrating its 25th anniversary. The announcement highlights ticket availability and invites the community to participate in this cherished tradition, encouraging families and friends to bring others to experience the Christmas message.",
+      "keywords": ["Christmas", "Living Tree", "event", "announcement", "community"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: It's All About You",
+      "start_time": 451,
+      "type": "music",
+      "description": "A powerful solo performance underscores the theme of surrendering to God’s will. The singer passionately conveys that every aspect of life revolves around Jesus, emphasizing the importance of prioritizing God's purposes above personal desires.",
+      "keywords": ["surrender", "Jesus", "solo", "worship", "identity"],
+      "performers": ["Soloist"],
+      "songs": ["It's All About You"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Navigating the Storms of Life (Acts 27)",
+      "start_time": 768,
+      "type": "sermon",
+      "description": "In this sermon, Pastor Kelly discusses the Apostle Paul's journey through trials and storms, reflecting on how faith and perseverance develop character. The message emphasizes God's presence during difficult times and encourages the congregation to find hope and resilience in challenges, highlighted by an invitation to turn to prayer and community support.",
+      "keywords": ["Paul", "storms", "faith", "perseverance", "hope"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": ["Acts 27"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1270,
+      "type": "prayer",
+      "description": "The opening prayer sets the tone for the service, inviting the congregation to focus their hearts and minds on God. It seeks guidance and blessings for the worship and activities ahead, fostering a spirit of unity and reverence among the attendees.",
+      "keywords": ["prayer", "opening", "congregation", "worship", "unity"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Psalm 121",
+      "start_time": 1838,
+      "type": "scripture",
+      "description": "The congregation participates in a reading of Psalm 121, reflecting on God's protective care. This passage serves as a reminder of God's unwavering support and serves to reinforce the message of hope during personal storms in life.",
+      "keywords": ["Psalm", "scripture", "reading", "hope", "protection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Psalm 121"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3461,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service with gratitude, asking for God's continued presence and guidance in the lives of the congregation. It reinforces the themes of the day and encourages participants to carry the message into their daily lives.",
+      "keywords": ["prayer", "closing", "gratefulness", "guidance"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

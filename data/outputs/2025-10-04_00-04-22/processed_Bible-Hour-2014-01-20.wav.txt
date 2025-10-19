@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an introductory music segment, creating a warm and inviting atmosphere for the congregation. It sets the tone for the worship experience ahead. Music elevates the spirit as it brings the community together in fellowship.",
+      "keywords": ["worship", "music", "atmosphere", "community", "invitation"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 300,
+      "type": "prayer",
+      "description": "The service transitions into an opening prayer led by a member of the teaching team. This prayer focuses on gratitude for the opportunity to gather in worship, seeking God's presence and guidance throughout the service.",
+      "keywords": ["prayer", "gratitude", "worship", "guidance", "community"],
+      "performers": ["[]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Services",
+      "start_time": 306,
+      "type": "announcement",
+      "description": "Significant announcements regarding upcoming services and series are made, including an invitation to attend next week’s special event. Emphasis is placed on community participation and the value of fellowship.",
+      "keywords": ["announcement", "upcoming", "series", "community", "invitation"],
+      "performers": ["[]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Real Men Sanctify (Scripture: 2 Peter 1)",
+      "start_time": 406,
+      "type": "sermon",
+      "description": "The sermon focuses on the theme of sanctification as it relates to the responsibilities of men in the context of family and community. The teaching team collectively explores how men are designed to participate in God's sanctifying work.",
+      "keywords": ["sanctification", "men", "teaching", "family", "community"],
+      "performers": ["Josh Rang", "Steve Webster", "Jesse Hanna"],
+      "songs": [],
+      "scripture_references": ["2 Peter 1"]
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 3003,
+      "type": "music",
+      "description": "A choir piece enhances the worship experience, engaging the congregation in powerful musical worship. The selection focuses on themes of amazement and gratitude toward God’s love and provisions.",
+      "keywords": ["worship", "choir", "music", "praise", "gratitude"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3446,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, thanking God for His presence and guidance. It invites the congregation to carry the themes of the message into their daily lives, emphasizing the importance of community and individual responsibilities.",
+      "keywords": ["closing", "thanksgiving", "community", "responsibility", "invitation"],
+      "performers": ["[]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 3470,
+      "type": "music",
+      "description": "In the final music segment, the choir leads the congregation in a celebratory piece, reaffirming the themes of the service and encouraging participation in worship. The song encapsulates the essence of the day's message, leaving the congregation uplifted.",
+      "keywords": ["music", "worship", "celebration", "uplifting", "community"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

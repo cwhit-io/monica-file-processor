@@ -1,0 +1,96 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Let All Mortal Flesh",
+      "start_time": 66,
+      "type": "music",
+      "description": "The choir performs 'Let All Mortal Flesh Keep Silence,' a beautiful reflection on reverence and worship in the presence of Christ. The lyrics evoke a sense of awe and thanksgiving, setting a meditative tone as the congregation prepares their hearts for worship.",
+      "keywords": ["choir", "worship", "Christmas", "reflection", "Christ"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Let All Mortal Flesh"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Come Let Us Worship the King",
+      "start_time": 541,
+      "type": "music",
+      "description": "The congregation joins in singing 'Come Let Us Worship the King,' celebrating the birth of Jesus as Savior and King. This joyous hymn captures the spirit of the Christmas season as worshipers express their gratitude and adoration for the gift of Christ.",
+      "keywords": ["congregation", "hymn", "worship", "celebration", "Christmas"],
+      "performers": ["Congregation of Black Hawk Baptist Church"],
+      "songs": ["Come Let Us Worship the King"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown Title]",
+      "start_time": 795,
+      "type": "music",
+      "description": "A solo performance imbued with emotion, expressing themes of mercy and healing. The song reminds the congregation of the all-sufficient grace and love found in Christ, encouraging reflection on their own lives and the comfort His presence brings.",
+      "keywords": ["solo", "grace", "comfort", "healing", "mercy"],
+      "performers": ["[Unknown Performer]"],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1022,
+      "type": "prayer",
+      "description": "Pastor Russell Moore leads the congregation in an opening prayer, inviting God's presence into the service. The prayer sets the tone for worship and reflection during the Christmas season, emphasizing the importance of surrender and reverence.",
+      "keywords": ["prayer", "worship", "opening", "Christmas", "surrender"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Luke 2",
+      "start_time": 226,
+      "type": "scripture",
+      "description": "The assigned scripture reading from Luke 2 recounts the birth of Jesus and the angelic announcement to the shepherds. This reading highlights the significance of Christ’s birth and the joy it brings to all people, echoing the themes of hope and salvation.",
+      "keywords": ["scripture", "Luke", "birth", "Jesus", "joy"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Luke 2"]
+    },
+    {
+      "title": "Message: Who Will Be King? (Matthew 2)",
+      "start_time": 1022,
+      "type": "sermon",
+      "description": "Pastor Moore challenges the congregation to consider who ultimately rules their lives, paralleling Herod's struggle for control with modern-day temptations. He explores the prophecies fulfilled through Jesus, emphasizing the necessity of submitting to Christ as King and addressing the human tendency to resist His authority.",
+      "keywords": ["sermon", "king", "submission", "Herod", "control"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Matthew 2"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3476,
+      "type": "prayer",
+      "description": "In the invitation prayer, Pastor Moore leads those present to commit their lives to Christ, acknowledging personal struggles with control and the need for a true King. He encourages the congregation to seek forgiveness and embrace the grace offered through Jesus.",
+      "keywords": ["prayer", "invitation", "commitment", "grace", "forgiveness"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown Title]",
+      "start_time": 3488,
+      "type": "music",
+      "description": "In a reflective moment post-sermon, a soloist shares a heartfelt rendition that encapsulates the themes discussed in the service. This musical piece provides an opportunity for personal reflection on the message of surrender to Christ as King.",
+      "keywords": ["solo", "reflection", "worship", "music", "surrender"],
+      "performers": ["[Unknown Performer]"],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3510,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Moore, thanking God for the message shared and the opportunity to worship together. It emphasizes the commitment to follow Christ and surrender control, encapsulating the themes of the day.",
+      "keywords": ["prayer", "closing", "worship", "commitment", "thanksgiving"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

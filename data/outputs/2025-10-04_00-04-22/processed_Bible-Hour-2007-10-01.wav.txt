@@ -1,0 +1,96 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with a heartfelt prayer, inviting God's presence among the congregation. The focus is on seeking guidance and strength for the church's mission. This opening prayer sets the tone for the service, emphasizing a commitment to following Christ's teachings.",
+      "keywords": ["prayer", "guidance", "worship", "service", "presence"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Project Introduction",
+      "start_time": 55,
+      "type": "announcement",
+      "description": "Kelly Bird introduces an exciting new 5-week series called 'Wet Cement Impressions for Life.' This announcement highlights the church's upcoming capital campaign aimed at expanding their ministry. The intention is to engage the congregation and encourage involvement in this transformative project.",
+      "keywords": ["Blackhawk", "Wet Cement", "campaign", "community", "expansion"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Carla Softrank's Story",
+      "start_time": 240,
+      "type": "testimony",
+      "description": "Karla Softrank shares her childhood memories of Black Hawk Church and how she accepted Christ at a young age. Her testimony reflects on the importance of faith in shaping her life and the lives of her children. It underscores the church's role in nurturing spiritual growth across generations.",
+      "keywords": ["testimony", "faith", "family", "Black Hawk", "growth"],
+      "performers": ["Karla Softrank"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Todd Softrank's Story",
+      "start_time": 394,
+      "type": "testimony",
+      "description": "Todd Softrank shares the continuation of Karla's testimony, emphasizing the generational impact of faith in their family. He discusses how his daughter accepted Christ in the same classroom as her mother decades earlier. Their stories highlight the legacy of faith and the church's influence.",
+      "keywords": ["family", "faith", "legacy", "Black Hawk", "generations"],
+      "performers": ["Todd Softrank"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Wet Cement: Impressions for Life (Job 42:1-2)",
+      "start_time": 946,
+      "type": "sermon",
+      "description": "The sermon begins a series focused on the church's new capital campaign, 'Wet Cement: Impressions for Life.' Highlighting the importance of leaving a lasting impact, the speaker reflects on the history of Black Hawk Ministries and its commitment to shaping lives for the future. This powerful message encourages participation in the upcoming campaign.",
+      "keywords": ["sermon", "ministry", "impact", "Black Hawk", "capital campaign"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Job 42:1-2"]
+    },
+    {
+      "title": "Solo: Thankful",
+      "start_time": 3302,
+      "type": "music",
+      "description": "Corbin Plagues performs a solo piece, 'Thankful,' which touches on themes of gratitude and transformation. The song serves as a heartfelt reflection on the changes and blessings received in life, connecting the congregation's experience to the message of the service.",
+      "keywords": ["music", "thankfulness", "transformation", "worship", "Corbin"],
+      "performers": ["Corbin Plagues"],
+      "songs": ["Thankful"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3414,
+      "type": "prayer",
+      "description": "The service moves into an invitation prayer, where congregants are encouraged to reflect on the message they have heard. This prayer invites individuals to commit themselves to the call of the capital campaign and to consider their personal contributions to the ministry.",
+      "keywords": ["prayer", "invitation", "commitment", "reflection", "ministry"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: We Are Changed",
+      "start_time": 3402,
+      "type": "music",
+      "description": "The choir performs 'We Are Changed,' celebrating the theme of transformation in Christ. With uplifting and impactful lyrics, the song encourages the congregation to embrace their identity as changed individuals who are called to bring change in the world.",
+      "keywords": ["music", "transformation", "choir", "worship", "celebration"],
+      "performers": [],
+      "songs": ["We Are Changed"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3529,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by the pastor. This prayer offers thanks for the fellowship, the messages shared, and encourages the congregation to step forward in faith as they carry the message of Christ into their daily lives.",
+      "keywords": ["closing", "prayer", "thanksgiving", "worship", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

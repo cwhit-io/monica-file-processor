@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Canticle of Praise",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir sings a canticle of praise led by Mr. Don Kruger. This uplifting piece expresses gratitude and joy in worshiping Christ. The congregation participates in the atmosphere of celebration and reverence as they acknowledge the blessings of God.",
+      "keywords": ["canticle", "praise", "choir", "worship", "gratitude"],
+      "performers": ["Don Kruger"],
+      "songs": ["Canticle of Praise"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: I Walked Today Where Jesus Walked",
+      "start_time": 329,
+      "type": "music",
+      "description": "Star Narwhal performs a solo rendition of 'I Walked Today Where Jesus Walked.' The emotional song reflects on the singer's experiences in the Holy Land, bringing personal and historical connections to Jesus's life. It captures the spirit of reverence and nostalgia for the places where Christ walked.",
+      "keywords": ["solo", "Jesus", "Holy Land", "worship", "reflection"],
+      "performers": ["Star Narwhal"],
+      "songs": ["I Walked Today Where Jesus Walked"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Leave Me, O Lord",
+      "start_time": 1194,
+      "type": "music",
+      "description": "Dennis and Ron share a heartfelt performance of 'Leave Me, O Lord.' The song emphasizes dependence on divine guidance and the necessity of walking with the Lord in everyday life. Its themes resonate with anyone seeking strength and direction in their spiritual journey.",
+      "keywords": ["leave me", "solo", "guidance", "spiritual journey", "prayer"],
+      "performers": ["Dennis", "Ron"],
+      "songs": ["Leave Me, O Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: All Your Anxiety",
+      "start_time": 1463,
+      "type": "music",
+      "description": "The congregation joins in singing 'All Your Anxiety,' a hymn that encourages believers to cast their burdens upon the Lord. This communal act fosters a sense of unity and reliance on God's provision and care, reinforcing the message of faith amidst troubles.",
+      "keywords": ["hymn", "anxiety", "congregation", "faith", "unity"],
+      "performers": [],
+      "songs": ["All Your Anxiety"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1808,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer that seeks God's presence and guidance. The prayer emphasizes the importance of understanding Christ's preeminence in our lives. It sets a tone of humility and focus for the gathering.",
+      "keywords": ["prayer", "opening", "guidance", "humility", "Christ"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Colossians 1",
+      "start_time": 1679,
+      "type": "scripture",
+      "description": "The scripture readings from Colossians 1:15-19 emphasize the preeminence of Christ in creation and the church. This foundational passage showcases Jesus's divine nature, underscoring His significance in the believer's life and the broader universe.",
+      "keywords": ["Colossians", "scripture", "preeminence", "Christ", "creation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Colossians 1:15-19"]
+    },
+    {
+      "title": "Message: The Preeminence of Christ (Colossians 1)",
+      "start_time": 1840,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers a profound sermon on 'The Preeminence of Christ,' based on Colossians 1. He explores Christ's divine nature, His role as Creator and Redeemer, and the implications for believers to recognize His rightful place in their lives. The message stresses that Christ's supremacy should influence every aspect of living.",
+      "keywords": ["sermon", "preeminence", "Christ", "Colossians", "faith"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Colossians 1"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2666,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that reflects on the themes discussed. The congregation is encouraged to carry the message of Christ's preeminence into their daily lives, seeking His guidance and strength.",
+      "keywords": ["prayer", "closing", "guidance", "strength", "message"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

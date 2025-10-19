@@ -1,0 +1,84 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: He Is Jehovah",
+      "start_time": 189,
+      "type": "music",
+      "description": "The choir performs the lively song 'He Is Jehovah,' celebrating the attributes of God such as His sovereignty and peace. This uplifting performance aims to inspire and engage the congregation in worship.",
+      "keywords": ["he is jehovah", "choir", "worship", "music", "God"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["He Is Jehovah"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Guide Me, O Thou Great Jehovah",
+      "start_time": 359,
+      "type": "music",
+      "description": "The congregation joins together to sing 'Guide Me, O Thou Great Jehovah,' a beloved hymn invoking God's guidance and support. The collective singing emphasizes the unity and shared faith of the church community.",
+      "keywords": ["guide me", "hymn", "worship", "congregation", "God"],
+      "performers": [],
+      "songs": ["Guide Me, O Thou Great Jehovah"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Bring Back the Glory",
+      "start_time": 1013,
+      "type": "music",
+      "description": "A heartfelt solo performance of 'Bring Back the Glory' reflects a deep yearning for God's presence and restoration in the singer's life. The emotional delivery resonates with the congregation's desire for spiritual renewal.",
+      "keywords": ["bring back the glory", "solo", "worship", "restoration", "music"],
+      "performers": ["Kathy Hawkes"],
+      "songs": ["Bring Back the Glory"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1274,
+      "type": "prayer",
+      "description": "The opening prayer gives thanks for the service and seeks God's blessing and healing for individuals in different circumstances. It expresses a collective desire for spiritual openness and readiness to receive His Word.",
+      "keywords": ["prayer", "opening", "God", "healing", "thanksgiving"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Call to Purity (Ezra 9-10)",
+      "start_time": 1425,
+      "type": "sermon",
+      "description": "Pastor Craig Clapper delivers a powerful sermon on Ezra's journey, emphasizing the importance of spiritual purity and the consequences of sin reflecting on collective faithfulness to God. The message encourages self-reflection and commitment to holiness.",
+      "keywords": ["purity", "Ezra", "sermon", "faith", "God"],
+      "performers": ["Pastor Craig Clapper"],
+      "songs": [],
+      "scripture_references": ["Ezra 9", "Ezra 10"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3471,
+      "type": "prayer",
+      "description": "In the invitation prayer, the pastor leads the congregation to reflect on their personal relationship with Christ, encouraging anyone feeling a call to accept Jesus to respond. The prayer emphasizes grace and redemption.",
+      "keywords": ["invitation", "prayer", "Jesus", "commitment", "salvation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Hand Bell Choir Performance",
+      "start_time": 3511,
+      "type": "music",
+      "description": "The hand bell choir performs, adding a unique auditory element to the service. The intricate melodies enhance the worship atmosphere, reflecting the creativity and diversity of the church's music ministry.",
+      "keywords": ["hand bell choir", "music", "worship", "performance", "bell"],
+      "performers": ["Hand Bell Choir"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Bible Hour Closing",
+      "start_time": 3637,
+      "type": "announcement",
+      "description": "As the service concludes, the host provides information about the Bible Hour ministry and encourages viewers to connect, solidifying a sense of community and continued spiritual engagement beyond the service.",
+      "keywords": ["bible hour", "announcement", "community", "spiritual", "engagement"],
+      "performers": ["Bill VR"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

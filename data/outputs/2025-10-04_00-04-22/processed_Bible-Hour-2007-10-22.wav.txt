@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Worship Songs",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with a series of uplifting choir songs that focus on themes of glory, praise, and the calling to spread the gospel. These songs create an inviting atmosphere for worship and prepare attendees for the message ahead.",
+      "keywords": ["worship", "choir", "glory", "praise", "gospel"],
+      "performers": ["Choir"],
+      "songs": ["N/A"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Living Christmas Tree Returns",
+      "start_time": 346,
+      "type": "announcement",
+      "description": "Pastor Kelly Bird shares exciting news about the revival of the beloved Living Christmas Tree tradition at Black Hawk Ministries. He encourages community involvement and mentions ticket availability to ensure everyone can experience this cherished event.",
+      "keywords": ["Christmas", "announcement", "community", "tradition", "event"],
+      "performers": ["Kelly Bird"],
+      "songs": ["N/A"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Celebration Songs",
+      "start_time": 487,
+      "type": "music",
+      "description": "The choir leads a powerful set of celebration songs, reaffirming the community's commitment to faith. The joyful melodies collectively invite attendees to reflect on their spiritual journeys and express gratitude through song.",
+      "keywords": ["celebration", "faith", "community", "joy", "worship"],
+      "performers": ["Choir"],
+      "songs": ["N/A"],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Kim Ward's Experience",
+      "start_time": 877,
+      "type": "testimony",
+      "description": "Kim Ward shares her heartfelt testimony about the impact of Black Hawk Christian School on her family. She reflects on her schooling experiences and the values instilled in her children, emphasizing the importance of a faith-based education.",
+      "keywords": ["testimony", "Black Hawk", "education", "faith", "community"],
+      "performers": ["Kim Ward"],
+      "songs": ["N/A"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Generosity and the Heart (Proverbs)",
+      "start_time": 1085,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird delivers an in-depth sermon about generosity and its connection to the heart, based on Proverbs. He emphasizes the importance of a humble and generous spirit and offers practical insights on managing resources in a God-honoring way.",
+      "keywords": ["generosity", "heart", "Proverbs", "wisdom", "resources"],
+      "performers": ["Kelly Bird"],
+      "songs": ["N/A"],
+      "scripture_references": ["Proverbs 3", "Proverbs 13:22", "Proverbs 19:17", "Proverbs 21:13"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3463,
+      "type": "prayer",
+      "description": "An invitation prayer encourages attendees to reflect on the message from the sermon. It's a moment of personal contemplation and commitment to apply the teachings in their lives.",
+      "keywords": ["invitation", "prayer", "reflection", "commitment"],
+      "performers": ["Kelly Bird"],
+      "songs": ["N/A"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Closing Songs",
+      "start_time": 3488,
+      "type": "music",
+      "description": "The service concludes with uplifting closing songs performed by the choir, reinforcing themes of worship and community. These songs serve as a final call to action for attendees to live out their faith in their daily lives.",
+      "keywords": ["closing", "worship", "community", "songs", "faith"],
+      "performers": ["Choir"],
+      "songs": ["N/A"],
+      "scripture_references": []
+    }
+  ]
+}
+```

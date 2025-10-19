@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Amazing Grace",
+      "start_time": 23,
+      "type": "music",
+      "description": "The choir performs the beloved hymn 'Amazing Grace,' celebrating the themes of redemption and forgiveness. The congregation joins in worship, reflecting on the grace that transforms lives. This powerful moment reinforces the message of hope and salvation.",
+      "keywords": ["choir", "amazing grace", "hymn", "worship", "redemption"],
+      "performers": ["Choir"],
+      "songs": ["Amazing Grace"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Amazing Grace",
+      "start_time": 310,
+      "type": "music",
+      "description": "The congregation stands together in unison to sing 'Amazing Grace,' a cherished hymn highlighting God’s boundless mercy. This collective worship fosters a deep connection among attendees, reinforcing the foundational principle of grace that binds them in faith.",
+      "keywords": ["congregational", "hymn", "worship", "grace", "community"],
+      "performers": [],
+      "songs": ["Amazing Grace"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 578,
+      "type": "prayer",
+      "description": "The pastor leads an opening prayer, inviting the Holy Spirit’s presence and asking for understanding of God’s grace. This prayer sets a reverent tone, encouraging the congregation to open their hearts to the message that follows.",
+      "keywords": ["prayer", "invitation", "holy spirit", "grace", "worship"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Power of Grace (John 9, Acts 21-22)",
+      "start_time": 590,
+      "type": "sermon",
+      "description": "The sermon explores the transformative power of God’s grace through a personal encounter with Jesus, highlighting the healing of a blind man and Paul’s testimony. The speaker emphasizes authenticity in sharing one’s faith and the importance of asking others about their journey with God.",
+      "keywords": ["grace", "testimony", "john", "acts", "healing"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["John 9", "Acts 21", "Acts 22"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3516,
+      "type": "prayer",
+      "description": "In the closing prayer, the pastor thanks God for His presence and for the message shared. The congregation is encouraged to take the teachings to heart and to live out their faith with courage and authenticity, seeking to connect with others.",
+      "keywords": ["closing", "prayer", "thanksgiving", "courage", "faith"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: We Cry Holy",
+      "start_time": 3361,
+      "type": "music",
+      "description": "The congregation lifts their voices in 'We Cry Holy,' celebrating the holiness of God. This hymn creates a powerful worship experience, allowing attendees to express their awe and devotion, solidifying the communal bond in their faith.",
+      "keywords": ["congregational", "hymn", "worship", "holiness", "devotion"],
+      "performers": [],
+      "songs": ["We Cry Holy"],
+      "scripture_references": []
+    }
+  ]
+}
+```

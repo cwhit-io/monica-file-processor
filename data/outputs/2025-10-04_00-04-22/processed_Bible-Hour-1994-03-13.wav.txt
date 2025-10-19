@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: He Will Do What He Promised",
+      "start_time": 101,
+      "type": "music",
+      "description": "The service begins with a heartfelt performance by the sanctuary choir, emphasizing themes of faith and assurance. The lyrics declare the unwavering promises of Jesus, assuring listeners that He cares for them through all life's challenges.",
+      "keywords": ["choir", "faith", "assurance", "Jesus", "music"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["He Will Do What He Promised"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Praise the Lord",
+      "start_time": 376,
+      "type": "music",
+      "description": "The choir leads the congregation in joyous praise, exalting God for His goodness and mercy. The rhythmic and melodic elements engage everyone in worship, creating a celebratory atmosphere centered around glorifying the Lord.",
+      "keywords": ["praise", "worship", "choir", "God", "music"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Praise the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Good Friday Service",
+      "start_time": 618,
+      "type": "announcement",
+      "description": "Pastor Moore announces an upcoming Good Friday service, which emphasizes reflection and communion. This service will create a space for believers to contemplate the significance of Jesus' sacrifice before Easter celebrations.",
+      "keywords": ["Good Friday", "communion", "reflection", "Easter", "service"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: True Salvation (1 John 5:13)",
+      "start_time": 1119,
+      "type": "sermon",
+      "description": "Pastor Moore delivers a profound sermon on true salvation, exploring what distinguishes saving faith from mere belief. He uses scripture to guide listeners through a self-examination process to reaffirm their faith and relationship with Christ.",
+      "keywords": ["salvation", "faith", "1 John", "self-examination", "belief"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 John 5:13"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3307,
+      "type": "prayer",
+      "description": "In a reflective moment, Pastor Moore leads an invitation prayer, encouraging those who feel the need for salvation to come to Christ. He emphasizes the importance of a personal relationship with Jesus and openness to His transformative power.",
+      "keywords": ["prayer", "invitation", "salvation", "relationship", "Jesus"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Personal Decision for Christ",
+      "start_time": 3422,
+      "type": "testimony",
+      "description": "The program includes a moment for personal reflection where viewers are invited to consider their own relationship with Christ. Pastor Moore offers a prayer for those wishing to accept Jesus, highlighting the joy of spiritual rebirth.",
+      "keywords": ["testimony", "personal decision", "Christ", "faith", "repentance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

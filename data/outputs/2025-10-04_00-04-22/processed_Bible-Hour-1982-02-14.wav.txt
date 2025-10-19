@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Jesus, Name of All Names to Me",
+      "start_time": 110,
+      "type": "music",
+      "description": "The choir performs the uplifting song, 'Jesus, Name of All Names to Me.' The choice of this song is designed to calm the spirit and prepare the congregation's heart for worship. It serves as a reminder of the divine nature of Jesus as a name above all others, instilling a sense of reverence among the listeners.",
+      "keywords": ["choir", "Jesus", "worship", "music", "praise"],
+      "performers": ["Bible Island Choir"],
+      "songs": ["Jesus, Name of All Names to Me"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: O Worship the King",
+      "start_time": 1223,
+      "type": "music",
+      "description": "The congregation participates in singing the hymn 'O Worship the King.' This beautiful hymn focuses on the majesty and glory of God's creation. As participants reflect on the lyrics, it encourages a collective spirit of worship within the church.",
+      "keywords": ["hymn", "worship", "song", "congregation", "King"],
+      "performers": ["Bible Island Congregation"],
+      "songs": ["O Worship the King"],
+      "scripture_references": []
+    },
+    {
+      "title": "Male Duet: Bring Back the Springtime",
+      "start_time": 1358,
+      "type": "music",
+      "description": "A male duet performs the heartfelt song 'Bring Back the Springtime.' The lyrics evoke a sense of longing for renewal and the transformative power of the Holy Spirit. It illustrates the beauty of divine intervention and the emotional journey towards spiritual rejuvenation.",
+      "keywords": ["male duet", "springtime", "spiritual", "renewal", "music"],
+      "performers": ["Ron Hackett", "Dennis"],
+      "songs": ["Bring Back the Springtime"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1600,
+      "type": "prayer",
+      "description": "The service transitions into an Opening Prayer where the congregation is invited to bow their heads. The prayer acknowledges God's sovereignty, requests His guidance, and prepares the hearts of attendees for the message to follow. It serves as a unifying moment of spiritual focus.",
+      "keywords": ["prayer", "opening", "gathering", "community", "worship"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Philippians 3",
+      "start_time": 1712,
+      "type": "scripture",
+      "description": "The congregation reads from Philippians Chapter 3. This chapter discusses the Apostle Paul's reflections on the importance of knowing Christ deeply and personally. It emphasizes the value of spiritual maturity and the relationship with Jesus as a continuous journey.",
+      "keywords": ["scripture", "Philippians", "Paul", "knowledge", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Philippians 3"]
+    },
+    {
+      "title": "Message: The Power of the Resurrection of Jesus Christ (Philippians 3:10-11)",
+      "start_time": 1728,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a profound message about 'The Power of the Resurrection of Jesus Christ.' He explains the significance of knowing Christ and the transformative power it brings into the lives of believers. Through analogies and personal testimonies, Pastor Rick articulates the necessity of embracing both the power of resurrection and understanding the reality of suffering as part of a Christian's journey.",
+      "keywords": ["sermon", "resurrection", "power", "Jesus", "Christian"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Philippians 3:10-11"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3463,
+      "type": "prayer",
+      "description": "In the Closing Prayer, the pastor invites the congregation to reflect on the message delivered and to commit their hearts to God. This prayer encompasses gratitude for God's message and a plea for strength and wisdom as attendees return to their daily lives.",
+      "keywords": ["prayer", "closing", "commitment", "faith", "thanksgiving"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

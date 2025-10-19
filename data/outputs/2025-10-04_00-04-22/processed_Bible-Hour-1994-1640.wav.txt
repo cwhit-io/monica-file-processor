@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Forever King",
+      "start_time": 97,
+      "type": "music",
+      "description": "The Sanctuary Choir and Orchestra perform a captivating piece titled 'Forever King.' The song celebrates the eternal nature of God and emphasizes His sovereignty over all creation. The performance uplifts the congregation, inviting them to reflect on the themes of eternity and divine majesty.",
+      "keywords": ["choir", "song", "forever", "king", "worship"],
+      "performers": ["Sanctuary Choir and Orchestra"],
+      "songs": ["Forever King"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Only Jesus Can Satisfy Your Soul",
+      "start_time": 837,
+      "type": "music",
+      "description": "Denise Mitchell delivers a heartfelt solo performance of 'Only Jesus Can Satisfy Your Soul.' The song invites listeners to find their true fulfillment in Christ, reinforcing the message of God's love and the peace He offers. It calls the audience to acknowledge their spiritual needs and turn to Jesus for ultimate satisfaction.",
+      "keywords": ["solo", "denise", "jesus", "satisfaction", "worship"],
+      "performers": ["Denise Mitchell"],
+      "songs": ["Only Jesus Can Satisfy Your Soul"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1348,
+      "type": "prayer",
+      "description": "Pastor Russell Moore leads an opening prayer, seeking God's guidance and comfort for those affected by recent events in Southern California, including an earthquake. He implores the congregation to unite in prayer for the local and broader communities, emphasizing God's sovereignty and grace during difficult times.",
+      "keywords": ["prayer", "opening", "community", "guidance", "earthquake"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Philippians 1",
+      "start_time": 1472,
+      "type": "scripture",
+      "description": "The congregation is invited to read Philippians 1. This passage emphasizes the importance of unity and striving together for the faith of the gospel. The focus is on living a life that reflects Christ's teachings and supporting one another in faith.",
+      "keywords": ["scripture", "philippians", "unity", "gospel", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Philippians 1"]
+    },
+    {
+      "title": "Message: Striving Together for the Faith of the Gospel (Philippians 1:27)",
+      "start_time": 1485,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers an inspiring sermon on the theme 'Striving Together for the Faith of the Gospel.' He discusses the importance of unity within the church as a collective team of believers working towards a common goal. Moore shares personal anecdotes and biblical insights, encouraging each member to contribute to the mission of the church.",
+      "keywords": ["sermon", "faith", "gospel", "unity", "church"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Philippians 1:27"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3398,
+      "type": "prayer",
+      "description": "As the service concludes, Pastor Moore leads a heartfelt closing prayer. He extends gratitude for the gathered community and invites everyone to reflect on the message shared during the service. The prayer seeks God's blessings on the congregation as they go forth in faith.",
+      "keywords": ["prayer", "closing", "community", "faith", "blessing"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

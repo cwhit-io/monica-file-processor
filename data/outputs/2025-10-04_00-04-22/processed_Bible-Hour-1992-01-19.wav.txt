@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Every Valley",
+      "start_time": 82,
+      "type": "music",
+      "description": "The sanctuary choir delivers a heartfelt performance of 'Every Valley'. This moving piece sets a joyful and reflective tone for the service, inviting the congregation to prepare their hearts for worship.",
+      "keywords": ["choir", "every valley", "worship", "music"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Every Valley"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: All Your Anxiety",
+      "start_time": 275,
+      "type": "music",
+      "description": "Marilyn Wong offers a solo rendition of 'All Your Anxiety'. This song beautifully expresses themes of trust and reliance on God, resonating deeply with the audience amidst the reflective atmosphere.",
+      "keywords": ["solo", "all your anxiety", "music", "worship"],
+      "performers": ["Marilyn Wong"],
+      "songs": ["All Your Anxiety"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Each One, Reach One",
+      "start_time": 439,
+      "type": "music",
+      "description": "Susan Toy performs 'Each One, Reach One'. The song encourages personal outreach and connection within the faith community, emphasizing the call to share the Gospel with others.",
+      "keywords": ["solo", "each one reach one", "music", "outreach"],
+      "performers": ["Susan Toy"],
+      "songs": ["Each One, Reach One"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Bliss and Blisters of Singleness (1 Corinthians 7)",
+      "start_time": 972,
+      "type": "sermon",
+      "description": "Pastor Russell Moore continues his series on singleness with a deep exploration of 1 Corinthians 7. He addresses the societal perceptions of singleness, its advantages, and the freedom it brings in serving God without distraction. The sermon encourages singles to recognize their unique opportunities in advancing the Gospel amidst today’s challenges.",
+      "keywords": ["singleness", "1 Corinthians", "freedom", "Gospel", "church"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 7"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3378,
+      "type": "prayer",
+      "description": "The service transitions to a moment of prayer where an invitation is given for those seeking a relationship with Christ. This prayer encourages participants to open their hearts and connect with God, reinforcing the themes shared in the sermon.",
+      "keywords": ["prayer", "invitation", "salvation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3442,
+      "type": "prayer",
+      "description": "A closing prayer wraps up the service, inviting God's presence and guidance in the lives of those who attended. This heartfelt conclusion offers peace and encouragement, reinforcing the day's message.",
+      "keywords": ["prayer", "closing", "blessing"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

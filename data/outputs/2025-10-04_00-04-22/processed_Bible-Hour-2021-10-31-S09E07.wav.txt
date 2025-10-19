@@ -1,0 +1,84 @@
+{
+  "chapters": [
+    {
+      "title": "Message: Building a Kingdom Culture (Colossians 3)",
+      "start_time": 0,
+      "type": "sermon",
+      "description": "The sermon focuses on building a kingdom culture as emphasized in Paul's teachings from Colossians. It highlights the significance of belief over behavior, urging the congregation to seek eternal things rather than earthly distractions. The pastor elaborates on several practical steps toward living out one's faith and the importance of recognizing one's identity in Christ.",
+      "keywords": ["kingdom culture", "Colossians", "faith", "identity", "belief"],
+      "performers": ["[Pastor's Name]"],
+      "songs": [],
+      "scripture_references": ["Colossians 3"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 2278,
+      "type": "prayer",
+      "description": "The opening prayer sets the tone for the service, inviting God’s presence and asking for guidance and understanding as the congregation gathers to worship and learn. It emphasizes the need for divine intervention in the service.",
+      "keywords": ["prayer", "worship", "guidance", "divine presence"],
+      "performers": ["[Pastor's Name]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 2390,
+      "type": "music",
+      "description": "The choir performs a piece that uplifts the congregation, enhancing the worship atmosphere. The song encourages unity and focuses on spiritual themes central to the service.",
+      "keywords": ["choir", "worship", "unity", "spiritual"],
+      "performers": ["Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Song Title]",
+      "start_time": 2580,
+      "type": "music",
+      "description": "The congregation joins together in a hymn, fostering a sense of community and shared faith. The lyrics encourage worship and reflection, aligning with the themes addressed in the sermon.",
+      "keywords": ["congregational", "hymn", "worship", "community"],
+      "performers": ["Congregation"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Colossians 3",
+      "start_time": 2700,
+      "type": "scripture",
+      "description": "The scripture reading features a passage from Colossians 3, reinforcing the sermon’s theme of seeking eternal things and leading a kingdom-centered life. It serves as a foundational text for the congregation's understanding.",
+      "keywords": ["scripture", "Colossians", "reading", "faith"],
+      "performers": ["[Reader's Name]"],
+      "songs": [],
+      "scripture_references": ["Colossians 3"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2800,
+      "type": "prayer",
+      "description": "An invitation prayer extends a call to congregation members to respond to the message of the sermon. It encourages reflection and personal commitment to faith, emphasizing God's mercy and grace.",
+      "keywords": ["invitation", "prayer", "commitment", "faith"],
+      "performers": ["[Pastor's Name]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 2950,
+      "type": "music",
+      "description": "A solo performance brings a personal touch to the worship experience, allowing for individual reflection and emotional connection with the themes of faith and hope presented in the sermon.",
+      "keywords": ["solo", "worship", "reflection", "faith"],
+      "performers": ["[Soloist's Name]"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3100,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, thanking God for His presence and guidance throughout the worship. It seeks blessings for the congregation as they go out into their week, applying the message learned.",
+      "keywords": ["closing", "prayer", "blessings", "worship"],
+      "performers": ["[Pastor's Name]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

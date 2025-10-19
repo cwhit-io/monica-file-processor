@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Come, Now is the Time to Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with uplifting music inviting the congregation to worship. The choir sings lyrics that emphasize coming to God just as you are and reflect on themes of surrender and reverence. This sets a tone of worship and anticipation for the service ahead.",
+      "keywords": ["worship", "choir", "come", "God"],
+      "performers": ["Choir"],
+      "songs": ["Come, Now is the Time to Worship"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 431,
+      "type": "prayer",
+      "description": "The opening prayer is offered, focusing on the various struggles in people's hearts, acknowledging both joy and sorrow. It appeals for God's presence and guidance as the congregation prepares to worship and engage with the message of the sermon.",
+      "keywords": ["prayer", "worship", "hearts", "God"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["Psalm 145"]
+    },
+    {
+      "title": "Message: Saul’s Journey (Acts 9)",
+      "start_time": 747,
+      "type": "sermon",
+      "description": "In this lengthy sermon, the pastor discusses Saul's transformation from a persecutor to a follower of Christ. He explores the phases of Saul's new faith, emphasizing joy, growth through trials, and the importance of trust in God during challenging times. Real-life parallels encourage the congregation to reflect on their own journeys.",
+      "keywords": ["Saul", "transformation", "faith", "growth", "trials"],
+      "performers": ["Pastor Kelly"],
+      "songs": [],
+      "scripture_references": ["Acts 9"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3490,
+      "type": "prayer",
+      "description": "The closing prayer reflects on the message shared during the service and asks for strength and courage for the congregation. It emphasizes the commitment to grow in faith and to support each other, recognizing the various struggles faced by the members.",
+      "keywords": ["closing", "prayer", "strength", "faith"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

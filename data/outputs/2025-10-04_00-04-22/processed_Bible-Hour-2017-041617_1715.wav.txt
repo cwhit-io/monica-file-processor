@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Risen",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir leads the congregation in a powerful rendition of 'Risen,' celebrating the resurrection of Jesus and His everlasting presence in the lives of believers. The energy of the music resonates throughout the gathering, uplifting spirits and drawing attention to the central theme of hope and victory in faith.",
+      "keywords": ["risen", "choir", "celebration", "Jesus", "hope"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Risen"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Victory is Here",
+      "start_time": 609,
+      "type": "music",
+      "description": "The choir delivers an enthusiastic performance of 'Victory is Here', emphasizing the triumphant nature of faith in Jesus. The lyrics reflect on overcoming obstacles and celebrating the power of resurrection, creating an atmosphere filled with praise and gratitude.",
+      "keywords": ["victory", "praise", "choir", "Jesus", "celebration"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Victory is Here"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Praise Him!",
+      "start_time": 846,
+      "type": "music",
+      "description": "The congregation joins together in a heartfelt hymn titled 'Praise Him!'. This song encourages unity and collective worship, inviting everyone to lift their voices in harmony, expressing love and reverence for God.",
+      "keywords": ["hymn", "worship", "congregational", "praise", "unity"],
+      "performers": [],
+      "songs": ["Praise Him!"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1028,
+      "type": "prayer",
+      "description": "The pastor leads the congregation in an opening prayer that sets the tone for the service. He invites attendees to focus their hearts on God, fostering an environment ripe for worship and receiving God's messages throughout the service.",
+      "keywords": ["prayer", "opening", "worship", "focus", "community"],
+      "performers": ["Kevin"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Bold Vision (2 Kings 6)",
+      "start_time": 1127,
+      "type": "sermon",
+      "description": "In this impactful message titled 'Bold Vision,' the pastor dives into the story of Elisha from 2 Kings 6. He explores themes of spiritual blindness, God's presence in struggles, and how believers can maintain faith during uncertain times. The sermon implores the audience to seek God's vision and strength amidst life's challenges, encouraging a deeper reliance on faith.",
+      "keywords": ["bold faith", "vision", "Elisha", "uncertainty", "God's presence"],
+      "performers": ["Kevin"],
+      "songs": [],
+      "scripture_references": ["2 Kings 6:1-23"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3518,
+      "type": "prayer",
+      "description": "Following the sermon, the pastor leads an invitation prayer, encouraging those who feel led to accept Jesus to open their hearts and commit to Him. It emphasizes the simplicity and significance of surrendering one's life to Christ, offering an important moment for personal reflection and decision.",
+      "keywords": ["invitation", "prayer", "commitment", "Jesus", "surrender"],
+      "performers": ["Kevin"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Series",
+      "start_time": 3541,
+      "type": "announcement",
+      "description": "The pastor shares exciting details about the upcoming series that will focus on relationships. He invites the congregation to join, highlighting the importance of building stronger connections and the insights that will be provided for personal growth. This sets anticipation for the topics to come.",
+      "keywords": ["announcement", "upcoming", "series", "relationships", "growth"],
+      "performers": ["Kevin"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

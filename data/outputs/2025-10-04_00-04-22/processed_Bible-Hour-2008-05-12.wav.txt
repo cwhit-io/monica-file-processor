@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: All We Need Is You",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir leads the congregation in a powerful worship song, emphasizing the theme of reliance on Christ. Repeated lyrics drive home the message that in times of need, all we truly require is His presence. The enthusiasm of the choir inspires the congregation to join in their worship.",
+      "keywords": ["worship", "choir", "Jesus", "need", "praise"],
+      "performers": ["Choir"],
+      "songs": ["All We Need Is You"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Amazing Grace",
+      "start_time": 630,
+      "type": "music",
+      "description": "The choir continues with a beloved hymn, 'Amazing Grace,' celebrating the transformative power of God's grace in our lives. The lyrics resonate with the congregation, encouraging a reflective atmosphere. This song serves as a reminder of redemption and hope for all believers.",
+      "keywords": ["grace", "redemption", "hope", "hymn", "worship"],
+      "performers": ["Choir"],
+      "songs": ["Amazing Grace"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 942,
+      "type": "prayer",
+      "description": "The service is anchored with an opening prayer, inviting God's presence and guidance. The leader expresses gratitude for the community and the opportunity to come together in worship. This sets a spiritual tone for the service, encouraging everyone to engage earnestly.",
+      "keywords": ["prayer", "worship", "community", "God's presence"],
+      "performers": ["Lead Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Feelings of Grace",
+      "start_time": 990,
+      "type": "music",
+      "description": "The choir performs a heartfelt rendition that expresses feelings of gratitude and grace in their lives. This uplifting performance emphasizes the significance of God's mercy and love, enhancing the congregation's worship experience. The warmth of the music beautifully complements the atmosphere.",
+      "keywords": ["grace", "mercy", "choir", "worship"],
+      "performers": ["Choir"],
+      "songs": ["Feelings of Grace"],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Mission Trip Experiences",
+      "start_time": 1060,
+      "type": "testimony",
+      "description": "Two members share personal testimonies from their recent mission trip to Nairobi, Kenya. They recount transformative experiences and the deep impact of connecting with children in need. Their stories highlight God's love in action and inspire others to seek similar opportunities.",
+      "keywords": ["testimony", "mission", "Nairobi", "children", "faith"],
+      "performers": ["Stephanie Struck", "Amanda"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Acts 2",
+      "start_time": 1799,
+      "type": "scripture",
+      "description": "The congregation reads a passage from Acts 2, which discusses the early church's commitment to teaching, fellowship, and worship. This reading underlines the foundation of community in faith and the importance of gathering together for spiritual growth.",
+      "keywords": ["Acts", "scripture", "community", "early church"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Acts 2"]
+    },
+    {
+      "title": "Message: The Design of the Church (Acts 2)",
+      "start_time": 1808,
+      "type": "sermon",
+      "description": "The pastor delivers an insightful sermon focused on God's design for the church, drawing examples from the Book of Acts. He discusses the need for community, teaching, and mutual support among believers. Practical applications encourage the congregation to embody these principles.",
+      "keywords": ["church", "design", "Acts", "community", "teaching"],
+      "performers": ["Lead Pastor"],
+      "songs": [],
+      "scripture_references": ["Acts 2:41-47"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3520,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, asking for God's guidance as attendees leave. The leader reflects on the teachings shared and prays for their application in daily life. This prayer reinforces the message and sends the congregation out with encouragement.",
+      "keywords": ["prayer", "closing", "community", "God's guidance"],
+      "performers": ["Lead Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: The Lord Thy God",
+      "start_time": 83,
+      "type": "music",
+      "description": "The sanctuary choir opens with a joyful medley entitled 'The Lord Thy God.' This uplifting piece emphasizes God's might and joyfulness, inviting the congregation into a spirit of worship and praise. The lyrics celebrate the presence of God among His people, affirming His power and love.",
+      "keywords": ["choir", "God", "worship", "medley", "joy"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["The Lord Thy God"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: What a Friend We Have in Jesus",
+      "start_time": 362,
+      "type": "music",
+      "description": "The congregation participates in singing 'What a Friend We Have in Jesus,' a hymn that reflects on the comfort and solace found in Christ. This familiar tune enhances the atmosphere of worship as attendees lift their voices in unity, acknowledging their reliance on Jesus as their friend and savior.",
+      "keywords": ["hymn", "Jesus", "congregational", "worship", "friend"],
+      "performers": [],
+      "songs": ["What a Friend We Have in Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: In Return",
+      "start_time": 570,
+      "type": "music",
+      "description": "Miss Jenny Crawford presents a heartfelt solo entitled 'In Return.' The song shares a powerful message about the transformative gifts received from God in exchange for our brokenness. Jenny's rendition adds a personal touch to the service, stirring reflection and gratitude in the hearts of the listeners.",
+      "keywords": ["solo", "Jenny Crawford", "transformative", "worship", "joy"],
+      "performers": ["Jenny Crawford"],
+      "songs": ["In Return"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Only Jesus",
+      "start_time": 1049,
+      "type": "music",
+      "description": "Brian Losen performs the stirring solo 'Only Jesus.' This song emphasizes the sufficiency of Jesus in meeting our deepest needs and the joy He brings to our lives. Brian's heartfelt performance draws the congregation closer to reflecting on their relationship with Christ, solidifying the message of hope and fulfillment.",
+      "keywords": ["solo", "Brian Losen", "Jesus", "hope", "worship"],
+      "performers": ["Brian Losen"],
+      "songs": ["Only Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Resisting Temptation (Romans 6)",
+      "start_time": 1596,
+      "type": "sermon",
+      "description": "Pastor Russell Moore gives an engaging sermon focused on 'Resisting Temptation' from Romans 6. He discusses how Christians can overcome sin through understanding their new identity in Christ. The message emphasizes the importance of knowledge about sin's consequences and the power found in grace to live a victorious Christian life.",
+      "keywords": ["sermon", "temptation", "Romans", "grace", "identity"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Romans 6"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3446,
+      "type": "prayer",
+      "description": "In closing, Pastor Russell Moore leads the congregation in a heartfelt prayer. He emphasizes gratitude for Jesus' sacrifice and invites those seeking salvation to trust in Christ's redemptive work. This moment encapsulates the service's themes of grace, hope, and the importance of a personal relationship with God.",
+      "keywords": ["closing", "prayer", "salvation", "Jesus", "grace"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

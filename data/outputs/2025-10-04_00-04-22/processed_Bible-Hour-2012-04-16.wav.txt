@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with upbeat music that sets an inviting atmosphere for the congregation. This lively introduction calls members to prepare their hearts and minds for worship as they gather together in community. The music energizes and uplifts the spirit of the attendees.",
+      "keywords": ["music", "worship", "community", "invitation", "atmosphere"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Welcome and Community Updates",
+      "start_time": 30,
+      "type": "announcement",
+      "description": "Kelly Bird welcomes the congregation back to the Bible Hour, expressing gratitude for their presence. He shares community updates, including fundraising efforts for the Kenya Nairobi team and recounts the successes and experiences from the previous Easter weekend.",
+      "keywords": ["welcome", "community", "fundraising", "updates", "Easter"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 148,
+      "type": "music",
+      "description": "The choir leads the congregation in a spirited song that emphasizes praise. The lyrics are centered on glorifying God and establishing a tone of worship within the church. This musical moment invites everyone to join in the collective expression of faith.",
+      "keywords": ["choir", "praise", "worship", "song"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Philippians 4",
+      "start_time": 174,
+      "type": "scripture",
+      "description": "A reading from Philippians 4 is shared, presenting key themes of rejoicing, anxiety, and prayer. This scripture serves as the foundation for the upcoming sermon, highlighting the importance of unity and spiritual strength in the community.",
+      "keywords": ["Philippians", "scripture", "rejoice", "anxiety", "prayer"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Philippians 4"]
+    },
+    {
+      "title": "Message: Standing Firm in Faith (Philippians 4:1-9)",
+      "start_time": 996,
+      "type": "sermon",
+      "description": "In this sermon, Kelly Bird emphasizes the importance of standing firm in faith, living in harmony, and rejecting anxiety through a life of prayer. Drawing from Philippians, he discusses practical commands for believers to grow spiritually and maintain joy regardless of circumstances. The message encourages the congregation to reflect on their relationship with God and with each other.",
+      "keywords": ["faith", "sermon", "Philippians", "harmony", "joy"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Philippians 4:1-9"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3518,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, inviting the congregation to reflect and seek God's presence in their lives. This prayer emphasizes themes of unity, guidance, and spiritual strength, encouraging members to carry the message of the sermon into their daily lives.",
+      "keywords": ["prayer", "closing", "unity", "spirituality", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

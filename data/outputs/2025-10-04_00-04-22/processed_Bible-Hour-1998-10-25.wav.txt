@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Celebrating Your Victory",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir performs a joyful song celebrating the victory of Jesus, emphasizing themes of freedom and love. The repetitive lyrics reflect a communal joy, inviting the congregation to engage in worship through song.",
+      "keywords": ["celebrate", "victory", "Jesus", "love", "freedom"],
+      "performers": ["Choir"],
+      "songs": ["Celebrating Your Victory"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 426,
+      "type": "prayer",
+      "description": "The service transitions into an opening prayer, inviting God’s presence and acknowledging His holiness. The prayer sets the tone for the worship service, encouraging the congregation to focus their hearts and minds on God.",
+      "keywords": ["prayer", "opening", "worship", "God", "holy"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Assurance of Salvation (1 Thessalonians 1)",
+      "start_time": 935,
+      "type": "sermon",
+      "description": "The sermon explores the theme of assurance of salvation through a study of 1 Thessalonians 1. The speaker identifies eight marks of true salvation, encouraging the congregation to reflect on their own faith and relationship with God, while guiding seekers in their understanding of Christianity.",
+      "keywords": ["assurance", "salvation", "Thessalonians", "faith", "spirituality"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["1 Thessalonians 1"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3425,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for His presence and guidance throughout the service. The prayer emphasizes the importance of faith and invites attendees to reflect on their relationship with God.",
+      "keywords": ["closing", "prayer", "worship", "God", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

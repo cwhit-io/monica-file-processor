@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Come, Christians, join to sing",
+      "start_time": 61,
+      "type": "music",
+      "description": "The sanctuary choir, directed by Mr. Ron Hackett, performs the uplifting hymn 'Come, Christians, join to sing'. This joyful song brings the congregation together in worship, encouraging participation through singing and praising. The lively music sets a celebratory tone for the service.",
+      "keywords": ["choir", "worship", "sing", "music", "hymn"],
+      "performers": ["Ron Hackett"],
+      "songs": ["Come, Christians, join to sing"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Oh, how I love Jesus",
+      "start_time": 321,
+      "type": "music",
+      "description": "The congregation joins in singing 'Oh, how I love Jesus'. This beloved hymn emphasizes the personal relationship with Jesus Christ and the affection believers have for Him. The engaging melody and heartfelt lyrics lead the community into a deeper expression of their faith.",
+      "keywords": ["congregation", "hymn", "worship", "Jesus", "love"],
+      "performers": [],
+      "songs": ["Oh, how I love Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Recognition of Jeff and Jennifer Vaughn",
+      "start_time": 463,
+      "type": "announcement",
+      "description": "During the service, Pastor Rick takes a moment to recognize Jeff and Jennifer Vaughn for their dedicated service as Sunday school superintendents. Their contributions to the church community are acknowledged and appreciated while introducing Jim and Linda Pearson as the new leaders of the Sunday school ministry.",
+      "keywords": ["announcement", "recognition", "leadership", "Vaughn", "Pearson"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Second Generation",
+      "start_time": 705,
+      "type": "music",
+      "description": "The youth choir known as Second Generation performs, showcasing the talents of the church's young singers. Their dedication is highlighted, especially as many of them prepare for summer mission trips. The performance underscores the church's commitment to youth and music ministry.",
+      "keywords": ["youth", "choir", "music", "performance", "ministry"],
+      "performers": ["Second Generation"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Missy Vickery's Graduation Song",
+      "start_time": 1201,
+      "type": "music",
+      "description": "Missy Vickery, a graduating senior from Black Hawk Christian School, performs a beautiful solo. Her song serves as a farewell tribute, sharing her vocal talents as she prepares to move and commence her next chapter in life. The heartfelt performance resonates with the congregation.",
+      "keywords": ["solo", "graduation", "Missy Vickery", "music", "farewell"],
+      "performers": ["Missy Vickery"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1403,
+      "type": "prayer",
+      "description": "The congregation comes together for an opening prayer led by the pastor. This significant moment sets the spiritual tone for the service, inviting God's presence and guidance. The prayer reflects themes of worship, gratitude, and the hearts' readiness to receive wisdom from His word.",
+      "keywords": ["prayer", "opening", "worship", "community", "grace"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Worth of a Woman (Proverbs 31)",
+      "start_time": 1547,
+      "type": "sermon",
+      "description": "Pastor Rick begins a deep dive into Proverbs 31, exploring the profound worth of a godly woman. He emphasizes her value beyond societal definitions and articulates the responsibilities and priorities she embodies. The sermon encourages both men and women to honor God through their actions and relationships.",
+      "keywords": ["sermon", "Proverbs", "worth", "woman", "value"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Proverbs 31"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3511,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, inviting the congregation to reflect on the messages shared. This prayer serves as a final communal moment, asking for God's guidance in implementing the sermon’s teachings into daily life and nurturing their spiritual journeys.",
+      "keywords": ["prayer", "closing", "reflection", "worship", "community"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

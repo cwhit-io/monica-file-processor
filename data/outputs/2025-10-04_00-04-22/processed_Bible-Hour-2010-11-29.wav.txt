@@ -1,0 +1,74 @@
+{
+  "chapters": [
+    {
+      "title": "Upbeat Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat, lively music set that creates an inviting atmosphere for the congregation. It's a call to gather and prepare for the worship experience ahead.",
+      "keywords": ["music", "worship", "invitation", "gathering"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Pastor Jeff Carroll and The Awakening",
+      "start_time": 30,
+      "type": "interview",
+      "description": "Pastor Jeff Carroll discusses the beginnings and vision of The Awakening ministry in Huntington. He shares excitement about their growth and outreach, including a new homeless shelter initiative that serves the community's needs.",
+      "keywords": ["Jeff Carroll", "The Awakening", "Huntington", "community", "outreach"],
+      "performers": ["Jeff Carroll"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 483,
+      "type": "prayer",
+      "description": "The congregation is led in an opening prayer that emphasizes gratitude for God's word and a desire to be transformed by it. It sets the tone for the church service as a place of worship and learning.",
+      "keywords": ["prayer", "worship", "gratitude", "transformation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Micah 5:1-5",
+      "start_time": 740,
+      "type": "scripture",
+      "description": "The text of Micah chapter five is read aloud, focusing on the prophecy concerning the coming ruler from Bethlehem. The reading prepares the congregation for the sermon by highlighting themes of hope and divine promise.",
+      "keywords": ["Micah", "prophecy", "Bethlehem", "ruler", "promise"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Micah 5"]
+    },
+    {
+      "title": "Message: Hope for Israel and the Church (Micah 5)",
+      "start_time": 758,
+      "type": "sermon",
+      "description": "The sermon explores God’s covenant with Israel, the significance of Bethlehem, and how these prophecies are fulfilled in Christ. The pastor encourages listeners to recognize hope amidst despair and the importance of Christ's coming for all humanity, emphasizing God's faithfulness to His promises.",
+      "keywords": ["sermon", "Micah", "hope", "Israel", "Christ", "covenant"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Micah 5"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3480,
+      "type": "prayer",
+      "description": "A heartfelt invitation prayer is offered, allowing individuals to reflect on their connection with God and consider accepting Christ into their lives. The prayer emphasizes God’s grace and the opportunity for redemption.",
+      "keywords": ["invitation", "prayer", "redemption", "grace"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Worship: Closing Music",
+      "start_time": 3545,
+      "type": "music",
+      "description": "The service concludes with closing worship music, encouraging the congregation to reflect on the message received and to respond in worship. This time fosters community and reinforces the themes of the service.",
+      "keywords": ["closing", "worship", "music", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

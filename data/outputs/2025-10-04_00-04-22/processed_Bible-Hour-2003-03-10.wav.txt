@@ -1,0 +1,96 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Upbeat Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat music segment that sets a joyful atmosphere for the congregation. This lively music invites everyone to engage and prepare their hearts for worship. The energy in the room suggests anticipation for the spiritual experiences to come.",
+      "keywords": ["worship", "music", "joyful", "congregation", "service"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Special Worship Segment",
+      "start_time": 75,
+      "type": "music",
+      "description": "A special choir performance delivers an impactful worship experience. The music resonates deeply, drawing the congregation closer to the spirit of worship. This segment highlights the power of communal singing in expressing faith and gratitude to God.",
+      "keywords": ["choir", "worship", "community", "praise", "God"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Stories of Transformation (Baptism)",
+      "start_time": 330,
+      "type": "sermon",
+      "description": "Teaching pastor Mitch discusses the significance of personal transformation through faith, emphasizing the importance of public baptism as a declaration of one's relationship with Christ. He shares impactful personal stories and encourages the congregation to reflect on their own faith journeys, stressing that baptism is a powerful symbol of new life in Christ.",
+      "keywords": ["baptism", "faith", "transformation", "stories", "Christ"],
+      "performers": ["Mitch"],
+      "songs": ["[]"],
+      "scripture_references": ["Romans 6", "1 Peter 3:21"]
+    },
+    {
+      "title": "Choir: Reflective Worship",
+      "start_time": 736,
+      "type": "music",
+      "description": "The music resumes with a reflective worship segment that encourages the congregation to meditate on their spiritual journeys. The lyrics invite participants to connect with their personal experiences of faith and God's love. This moment serves as a bridge to deeper introspection before the upcoming baptisms.",
+      "keywords": ["reflection", "worship", "meditation", "faith", "spirituality"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "baptism: Baptism: Ben Imer",
+      "start_time": 1300,
+      "type": "baptism",
+      "description": "Ben Imer is baptized, sharing his story of faith and commitment to Christ. This significant moment is a celebration of his journey and the impact of the church community in his life. The atmosphere is filled with encouragement and love as witnesses cheer for this important step in Ben's faith.",
+      "keywords": ["baptism", "Ben Imer", "faith", "community", "celebration"],
+      "performers": ["Mitch"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Testimony: Lori Reid",
+      "start_time": 1809,
+      "type": "testimony",
+      "description": "Lori Reid shares her personal testimony of struggles and faith. She recounts her journey from hardship to healing through God's grace. Her authentic story inspires the congregation, highlighting the transformative power of faith and community support in overcoming life's challenges.",
+      "keywords": ["testimony", "Lori Reid", "struggle", "faith", "transformation"],
+      "performers": ["Lori Reid"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "baptism: Baptism: Lori Reid",
+      "start_time": 1824,
+      "type": "baptism",
+      "description": "Lori Reid is baptized, symbolizing her public declaration of faith and her commitment to living a life aligned with Christ. This moving moment is a testament to her transformation and the support from the congregation. The community celebrates her new beginning with enthusiasm.",
+      "keywords": ["baptism", "Lori Reid", "faith", "celebration", "community"],
+      "performers": ["Mitch"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Joyful Worship Celebration",
+      "start_time": 1845,
+      "type": "music",
+      "description": "The choir leads a joyful worship segment, inviting the congregation to participate in uplifting praise. The music and lyrics celebrate the fresh starts represented by the recent baptisms. This celebration fosters a sense of unity and joy among the attendees, bringing everyone together in worship.",
+      "keywords": ["joy", "worship", "celebration", "community", "praise"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 2954,
+      "type": "prayer",
+      "description": "The pastor offers an opening prayer, thanking God for the transformative work taking place through the service. This moment of prayer invites God's presence into the gathering, allowing the congregation to prepare their hearts for the message and worship ahead.",
+      "keywords": ["prayer", "opening", "God", "service", "community"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

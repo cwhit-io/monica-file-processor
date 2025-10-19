@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Trumpet Trio: Stand Up, Stand Up for Jesus",
+      "start_time": 78,
+      "type": "music",
+      "description": "The service begins with a beautiful performance by a trumpet trio who play 'Stand Up, Stand Up for Jesus'. The uplifting tune sets the atmosphere for the Bible Hour, inviting congregants to engage in worship and fellowship.",
+      "keywords": ["music", "trumpet", "worship", "praise"],
+      "performers": ["Scott Schindler"],
+      "songs": ["Stand Up, Stand Up for Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: All Hail the Power of Jesus' Name",
+      "start_time": 122,
+      "type": "music",
+      "description": "The choir performs 'All Hail the Power of Jesus' Name'. The reverberating voices create a powerful atmosphere of worship, encouraging the congregation to reflect on the majesty and power of Jesus.",
+      "keywords": ["music", "choir", "worship", "Jesus"],
+      "performers": ["Choir"],
+      "songs": ["All Hail the Power of Jesus' Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: For All the World",
+      "start_time": 242,
+      "type": "music",
+      "description": "Kerry Johnson captivates the audience with a solo performance of 'For All the World'. The poignant lyrics emphasize themes of peace and love, resonating with the struggles faced by many.",
+      "keywords": ["music", "solo", "Kerry Johnson", "peace"],
+      "performers": ["Kerry Johnson"],
+      "songs": ["For All the World"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Restoring Godly Leadership in the Church (1 Timothy 5:17-25)",
+      "start_time": 967,
+      "type": "sermon",
+      "description": "Pastor Russell Moore shares a compelling message on 'Restoring Godly Leadership in the Church'. He discusses the importance of honoring, protecting, and rebuking church leaders to maintain integrity within the church, using 1 Timothy 5 as a scriptural foundation. The sermon emphasizes accountability and the process of restoration to uplift the church and its members.",
+      "keywords": ["leadership", "sermon", "1 Timothy", "restoration", "integrity"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 5:17-25"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3419,
+      "type": "prayer",
+      "description": "In an invitation prayer, Pastor Moore leads the congregation in a heartfelt prayer, encouraging those who have made decisions for Christ to acknowledge their faith. This moment emphasizes the personal aspect of faith and the importance of community support.",
+      "keywords": ["prayer", "invitation", "faith", "community"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Church Events",
+      "start_time": 512,
+      "type": "announcement",
+      "description": "The service highlights upcoming events at Black Hawk Baptist Church, including special musical performances and film discussions. Participants are encouraged to engage in the community and support church activities throughout the summer.",
+      "keywords": ["announcement", "events", "community", "Black Hawk Baptist Church"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

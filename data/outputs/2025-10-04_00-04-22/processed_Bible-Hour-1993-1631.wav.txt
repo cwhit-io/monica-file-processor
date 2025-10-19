@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: We Believe",
+      "start_time": 72,
+      "type": "music",
+      "description": "The sanctuary choir and orchestra perform the powerful song 'We Believe,' emphasizing the core Christian beliefs about the Father, Son, and Spirit. The lyrics reflect a deep sense of faith and community, inviting worshipers to join in expressing their beliefs together.",
+      "keywords": ["choir", "we believe", "worship", "faith", "community"],
+      "performers": ["Sanctuary Choir", "Orchestra"],
+      "songs": ["We Believe"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Heart That Is Breaking",
+      "start_time": 1010,
+      "type": "music",
+      "description": "A poignant solo performance brings heart-touching lyrics that speak of compassion and understanding for those suffering and lonely. The message of the song conveys God's love and presence in the midst of struggles, resonating deeply with the congregation.",
+      "keywords": ["solo", "heart", "breaking", "love", "suffering"],
+      "performers": ["Margie Isaacson"],
+      "songs": ["Heart That Is Breaking"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1288,
+      "type": "prayer",
+      "description": "The opening prayer sets a reflective tone for the service, inviting God into the hearts and minds of the congregation. It emphasizes our need for divine guidance and expresses gratitude for the opportunity to gather in worship.",
+      "keywords": ["prayer", "worship", "gathering", "gratitude", "divine"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Heart of a Heroin (Esther)",
+      "start_time": 1270,
+      "type": "sermon",
+      "description": "The sermon explores the life and choices of Esther, focusing on her flaws and the grace of God that allowed her to rise as a heroine. The speaker delves into important truths about decision-making, God's sovereignty, and the impact of obedience in the face of challenges. Esther is portrayed not as a perfect character but as someone whose journey reflects God's ability to work through imperfections.",
+      "keywords": ["Esther", "sermon", "obedience", "grace", "faith"],
+      "performers": ["Tim Tetter"],
+      "songs": [],
+      "scripture_references": ["Esther 1", "Esther 2", "Esther 4"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3300,
+      "type": "prayer",
+      "description": "An invitation prayer encourages individuals to reflect on their personal relationship with Jesus and consider accepting Him as their Savior. It emphasizes God's desire for a connection with each person and offers a moment of decision within the service.",
+      "keywords": ["invitation", "Jesus", "Savior", "relationship", "decision"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: All for Jesus",
+      "start_time": 3360,
+      "type": "music",
+      "description": "The congregation participates in a heartfelt hymn, 'All for Jesus.' This communal expression of faith allows worshipers to reaffirm their commitment to live for Christ. The hymn encapsulates surrender and devotion, fostering unity and a spirit of worship.",
+      "keywords": ["hymn", "congregational", "worship", "commitment", "Jesus"],
+      "performers": [],
+      "songs": ["All for Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3433,
+      "type": "prayer",
+      "description": "The closing prayer concludes the service with gratitude for the gathered community and the messages shared. It asks for God's continued guidance and blessing in the lives of the attendees as they leave with newfound inspiration and commitment.",
+      "keywords": ["closing", "prayer", "gratitude", "guidance", "blessing"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

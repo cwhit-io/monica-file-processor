@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Wonderful Merciful Savior",
+      "start_time": 63,
+      "type": "music",
+      "description": "The sanctuary choir performs 'Wonderful Merciful Savior,' creating an atmosphere of worship and reflection. The lyrics emphasize God's mercy and strength, inviting the congregation to engage with the divine presence. The song's essence centers on the comfort and salvation found in Christ.",
+      "keywords": ["choir", "worship", "mercy", "savior", "song"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Wonderful Merciful Savior"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Calvary's Love",
+      "start_time": 339,
+      "type": "music",
+      "description": "A heartfelt solo performance of 'Calvary's Love' reflects on the sacrificial love of Christ. The song carries themes of redemption and healing, creating a moment of deep introspection for the congregation. The powerful lyrics underscore the permanence of Christ's love throughout history.",
+      "keywords": ["solo", "Calvary's Love", "redemption", "sacrifice", "worship"],
+      "performers": ["Unknown"],
+      "songs": ["Calvary's Love"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Staff Updates",
+      "start_time": 625,
+      "type": "announcement",
+      "description": "Updates on church staff transitions are shared, introducing Jean Cheryl, who will focus on pastoral care, and Kip Klein, who is taking charge of student ministries. The church community is encouraged to pray for these new staff members as they begin their roles.",
+      "keywords": ["staff", "updates", "church", "Jean Cheryl", "Kip Klein"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Patriotic Celebration Invitation",
+      "start_time": 696,
+      "type": "announcement",
+      "description": "The upcoming Patriotic Celebration is announced, inviting the congregation to celebrate God's work in America. The event is highlighted as an opportunity for fellowship and reflection on the nation's heritage and future under God's guidance.",
+      "keywords": ["Patriotic Celebration", "invitation", "America", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 768,
+      "type": "prayer",
+      "description": "The opening prayer sets the tone for the service, focusing on the might and power of God. The congregation is led to reflect on God's omnipotence and to prepare their hearts for worship and teaching.",
+      "keywords": ["prayer", "opening", "worship", "God's power"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Power Shock (Psalm 89)",
+      "start_time": 830,
+      "type": "sermon",
+      "description": "Pastor Tim Teder delivers a compelling sermon on 'Power Shock,' exploring high-impact encounters with God’s power as illustrated in Psalm 89. He recounts stories from scripture, emphasizing the magnitude of God's presence, authority, creation, and protection that should impact believers today. The message invites the congregation to reflect on their personal experiences with God's power.",
+      "keywords": ["sermon", "power", "God", "encounter", "Psalm 89"],
+      "performers": ["Tim Teder"],
+      "songs": [],
+      "scripture_references": ["Psalm 89"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3299,
+      "type": "prayer",
+      "description": "The closing prayer reflects on the themes shared during the service, inviting the congregation to internalize God's power in their lives. It serves as a moment of commitment to live under the awareness of God's strength and love.",
+      "keywords": ["prayer", "closing", "God's power", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3307,
+      "type": "prayer",
+      "description": "An invitation prayer encourages those seeking spiritual guidance or wishing to establish a relationship with God to respond. It emphasizes the importance of personal connection with Christ and supports those considering major life decisions.",
+      "keywords": ["invitation", "prayer", "relationship", "God"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

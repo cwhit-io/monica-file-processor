@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [unknown]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with uplifting music, setting a positive tone for the congregation. The lively atmosphere encourages an engaging and enthusiastic environment, prompting joy and participation from the audience.",
+      "keywords": ["music", "uplifting", "joy", "participation"],
+      "performers": ["[unknown]"],
+      "songs": ["[unknown]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Choir: [unknown]",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir continues with an engaging performance, inviting the congregation to join in worship through song. The overall spirit is one of celebration and joy as members of the church come together to exalt their faith.",
+      "keywords": ["worship", "song", "celebration", "choir"],
+      "performers": ["[unknown]"],
+      "songs": ["[unknown]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Solo: [unknown]",
+      "start_time": 147,
+      "type": "music",
+      "description": "A solo performance captivates the congregation, adding a personal touch to the worship experience. The sincerity in the singer's voice resonates with the audience, reinforcing themes of faith and commitment.",
+      "keywords": ["solo", "worship", "faith", "commitment"],
+      "performers": ["[unknown]"],
+      "songs": ["[unknown]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 262,
+      "type": "prayer",
+      "description": "The opening prayer invites God's presence into the service, emphasizing gratitude and the collective aspirations of the church community. A heartfelt petition is made for guidance and wisdom in the coming year.",
+      "keywords": ["prayer", "gratitude", "guidance", "community"],
+      "performers": ["[unknown]"],
+      "songs": ["[unknown]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Message: [the Holy Spirit] (Mark 1:8-15)",
+      "start_time": 1272,
+      "type": "sermon",
+      "description": "The sermon marks the beginning of a series on the Holy Spirit, where the speaker delves into Jesus' baptism and its implications. Emphasizing the identity and role of the Holy Spirit, the message challenges the congregation to reflect on their relationships with God.",
+      "keywords": ["sermon", "Holy Spirit", "baptism", "Mark 1"],
+      "performers": ["[unknown]"],
+      "songs": ["[unknown]"],
+      "scripture_references": ["Mark 1:8-15"]
+    },
+    {
+      "title": "Choir: [unknown]",
+      "start_time": 3480,
+      "type": "music",
+      "description": "A closing musical performance by the choir reinforces the themes of the sermon. The congregation is encouraged to reflect on the message through expressive worship, fostering a sense of unity and spiritual uplift.",
+      "keywords": ["closing", "worship", "choir", "unity"],
+      "performers": ["[unknown]"],
+      "songs": ["[unknown]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3539,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service with a plea for strength and guidance as the congregation heads into the new year. It emphasizes the importance of aligning with God's will and encourages individuals to support one another in their spiritual journeys.",
+      "keywords": ["closing", "prayer", "guidance", "support"],
+      "performers": ["[unknown]"],
+      "songs": ["[unknown]"],
+      "scripture_references": ["[]"]
+    }
+  ]
+}
+```

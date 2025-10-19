@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: How Great Thou Art",
+      "start_time": 75,
+      "type": "music",
+      "description": "The congregation comes together in worship as the choir performs 'How Great Thou Art.' The atmosphere is filled with joy and praise, inviting all to reflect on the greatness of God. This powerful hymn brings unity and reverence among the attendees.",
+      "keywords": ["worship", "choir", "Great", "God", "music"],
+      "performers": ["Sounds of Heritage"],
+      "songs": ["How Great Thou Art"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: O Lord, You Are",
+      "start_time": 215,
+      "type": "music",
+      "description": "The Sounds of Heritage continue to uplift the congregation with their music, performing 'O Lord, You Are.' The focus of this piece is on acknowledging the image of God and His creation, encouraging listeners to worship Him. The music captivates the audience, enhancing the worship experience.",
+      "keywords": ["worship", "God", "song", "choir", "music"],
+      "performers": ["Sounds of Heritage"],
+      "songs": ["O Lord, You Are"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Because of Who You Are",
+      "start_time": 1354,
+      "type": "music",
+      "description": "In a heartfelt performance of 'Because of Who You Are,' the choir expresses gratitude and reverence for God's presence. This song emphasizes personal relationship and devotion, drawing the audience into a reflective space. The music serves as a powerful reminder of God's faithfulness.",
+      "keywords": ["worship", "gratitude", "relationship", "faithfulness", "music"],
+      "performers": ["Sounds of Heritage"],
+      "songs": ["Because of Who You Are"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1652,
+      "type": "prayer",
+      "description": "Pastor Rick Hawks leads the congregation in an opening prayer, invoking God's Spirit to cleanse and renew hearts. The prayer focuses on spiritual rejuvenation and guidance, setting a tone of surrender and worship for the service ahead. It is a heartfelt plea for God's influence over the day's proceedings.",
+      "keywords": ["prayer", "worship", "cleansing", "spirituality", "guidance"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Matthew 7",
+      "start_time": 1826,
+      "type": "scripture",
+      "description": "The scripture reading is taken from Matthew chapter 7, where Jesus warns of false teachers. This passage serves as a foundation for the upcoming sermon, emphasizing the importance of discernment in faith. The reading sets the stage for a deep dive into biblical truths.",
+      "keywords": ["scripture", "Matthew", "Jesus", "warning", "false teachers"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 7"]
+    },
+    {
+      "title": "Message: Beware of False Teachers (Matthew 7:15-23)",
+      "start_time": 1832,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a compelling sermon on the dangers of false teachers, drawing from Matthew 7:15-23. He contrasts appearance and substance, urging the congregation to be discerning. The message challenges listeners to examine their faith and ensure their understanding aligns with scripture, highlighting genuine faith over mere profession.",
+      "keywords": ["sermon", "false teachers", "discernment", "faith", "Jesus"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Matthew 7:15-23"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3442,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Rick Hawks. This prayer reflects on the insights gained from the sermon, asking for wisdom and discernment in the congregation’s walk with God. It encapsulates the themes of the day and sends the participants forth with a renewed spirit.",
+      "keywords": ["closing", "prayer", "worship", "discernment", "wisdom"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Amen",
+      "start_time": 3590,
+      "type": "music",
+      "description": "The congregation raises their voices in unison during the closing hymn 'Amen,' sealing their worship experience with a strong affirmation. The music embodies a sense of togetherness and commitment to the teachings shared. It's a powerful end to a spiritually enriching hour.",
+      "keywords": ["music", "Amen", "worship", "unity", "congregation"],
+      "performers": ["Sounds of Heritage"],
+      "songs": ["Amen"],
+      "scripture_references": []
+    }
+  ]
+}
+```

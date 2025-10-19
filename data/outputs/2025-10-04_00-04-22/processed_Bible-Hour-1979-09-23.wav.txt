@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: O Glorious Love",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir performs 'O Glorious Love,' a beautiful song that expresses the grandeur of God’s love and the hope it brings to believers. The performance is directed by Mr. Don Kruger, and the congregation is invited to reflect on the powerful message of the lyrics.",
+      "keywords": ["choir", "love", "worship", "hope"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["O Glorious Love"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: No One Ever Cared for Me Like Jesus",
+      "start_time": 339,
+      "type": "music",
+      "description": "A solo performance of 'No One Ever Cared for Me Like Jesus' showcases the deep personal relationship believers have with Christ. The singer shares heartfelt sentiments that illustrate the unwavering love and support found in Jesus.",
+      "keywords": ["solo", "love", "Jesus", "devotion"],
+      "performers": ["Dave Miller"],
+      "songs": ["No One Ever Cared for Me Like Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Group: I Stand Amazed in the Presence",
+      "start_time": 1202,
+      "type": "music",
+      "description": "The Black Hawk Singers lift their voices in 'I Stand Amazed in the Presence,' a hymn that celebrates the wonder of Jesus’ love and sacrifice. The group's performance evokes a sense of awe and gratitude among the congregation.",
+      "keywords": ["hymn", "worship", "awe", "Jesus"],
+      "performers": ["Black Hawk Singers"],
+      "songs": ["I Stand Amazed in the Presence"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3376,
+      "type": "prayer",
+      "description": "Pastor David Jeremiah leads the congregation in an opening prayer, inviting God’s presence into the service. The prayer emphasizes the need for spiritual awakening and understanding through the teachings of the day.",
+      "keywords": ["prayer", "opening", "worship", "God"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: John 3",
+      "start_time": 1442,
+      "type": "scripture",
+      "description": "The passage from John chapter 3 is read aloud, highlighting the encounter between Jesus and Nicodemus. It sets the stage for the sermon, focusing on the themes of spiritual rebirth and the need for transformation.",
+      "keywords": ["scripture", "John", "Nicodemus", "rebirth"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["John 3"]
+    },
+    {
+      "title": "Message: Why a Man Must Be Born Again to Get into Heaven (John 3)",
+      "start_time": 1420,
+      "type": "sermon",
+      "description": "Pastor Jeremiah delivers a profound sermon on the necessity of spiritual rebirth as taught in John 3. He explores the implications of being 'born again,' addressing common misunderstandings and emphasizing the deep transformation it represents for believers.",
+      "keywords": ["sermon", "born again", "Nicodemus", "spirituality", "heaven"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["John 3:1-13"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3393,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, where the congregation is encouraged to reflect on the message shared. Pastor Jeremiah prays for those making spiritual decisions and invites them to seek a personal relationship with Jesus.",
+      "keywords": ["prayer", "closing", "reflection", "Jesus"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Invitation to Write",
+      "start_time": 3420,
+      "type": "announcement",
+      "description": "Pastor Jeremiah invites viewers and congregation members to connect by writing in with their decisions or questions. He emphasizes the church's commitment to support those seeking spiritual guidance, ensuring that no one is alone on their journey.",
+      "keywords": ["announcement", "write", "support", "decisions"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

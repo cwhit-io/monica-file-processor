@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: His Love Endures Forever",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir leads the congregation in a spirited worship song celebrating the everlasting love of God. The song emphasizes God's faithfulness and strength, inspiring the community to join in praise. This uplifting moment sets a tone of joy and gratitude for the service.",
+      "keywords": ["choir", "worship", "praise", "love", "God"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["His Love Endures Forever"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 366,
+      "type": "prayer",
+      "description": "The senior pastor, Kelly Bird, opens the service with a prayer, inviting the congregation to focus their hearts on worship. He expresses gratitude for the opportunity to gather and notes the power of God's presence within the community. This sets a reflective atmosphere as the service unfolds.",
+      "keywords": ["prayer", "worship", "congregation", "gratitude", "God"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Broken Dreams and New Life (1 Thessalonians 2)",
+      "start_time": 588,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird delivers a heartfelt sermon on the theme of broken dreams and the hope found in Christ. He discusses personal stories and biblical lessons from 1 Thessalonians, encouraging the congregation to bring their burdens to God for healing. The message emphasizes transformation and renewal through faith.",
+      "keywords": ["sermon", "brokenness", "hope", "transformation", "faith"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["1 Thessalonians 2"]
+    },
+    {
+      "title": "Choir: Take My Life",
+      "start_time": 3486,
+      "type": "music",
+      "description": "The choir performs a beautiful rendition of 'Take My Life,' inviting the congregation to submit their lives and desires to God. The song's lyrics inspire reflection and commitment, as the worshippers prepare their hearts for further teaching and engagement with the message.",
+      "keywords": ["choir", "worship", "dedication", "surrender", "God"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["Take My Life"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Blessed Be Your Name",
+      "start_time": 3664,
+      "type": "music",
+      "description": "The congregation rises to sing 'Blessed Be Your Name,' a hymn reflecting on God's goodness in both joyful and challenging times. This participatory worship reinforces the community's shared faith and reliance on God's faithfulness through all seasons of life.",
+      "keywords": ["hymn", "worship", "community", "faithfulness", "God"],
+      "performers": [],
+      "songs": ["Blessed Be Your Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3585,
+      "type": "prayer",
+      "description": "Pastor Kelly Bird concludes the service with a closing prayer, urging the congregation to go forth with the message of hope they have received. He prays for strength and guidance as they navigate their lives and relationships, seeking to embody the teachings shared during the service.",
+      "keywords": ["prayer", "closing", "community", "strength", "guidance"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

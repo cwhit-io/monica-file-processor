@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Let It Rise",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat music performance by the choir. The enthusiastic atmosphere sets the tone for worship, inviting the congregation to engage fully. This uplifting segment emphasizes themes of joy and community worship through music.",
+      "keywords": ["choir", "worship", "joy", "community", "music"],
+      "performers": ["Choir"],
+      "songs": ["Let It Rise"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Trials and Joy (James 1)",
+      "start_time": 301,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird shares a heartfelt sermon based on James 1, focusing on the theme of finding joy in trials. He reflects on personal experiences and biblical teachings, emphasizing that enduring faith leads to growth and character. The sermon serves as an encouragement for listeners to trust God amidst challenges, urging them to 'consider it all joy.'",
+      "keywords": ["trials", "faith", "joy", "endurance", "James", "growth"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["James 1:2-4", "1 Corinthians 10:13"]
+    },
+    {
+      "title": "Solo: Taste and Hope",
+      "start_time": 3179,
+      "type": "music",
+      "description": "A solo performance captures the essence of hope and faith during challenging times. The lyrics emphasize reliance on God and the strength found in His presence. This segment reflects the overall message of the service, intertwining beautifully with the themes discussed in the sermon.",
+      "keywords": ["hope", "faith", "strength", "God", "worship"],
+      "performers": ["Corbin"],
+      "songs": ["Taste and Hope"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3506,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer led by Pastor Kelly. He expresses gratitude for God's love and legacy, and encourages the congregation to carry the message of hope into their daily lives. This moment serves as a call to action for the community to live out their faith.",
+      "keywords": ["prayer", "gratitude", "faith", "community", "God"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

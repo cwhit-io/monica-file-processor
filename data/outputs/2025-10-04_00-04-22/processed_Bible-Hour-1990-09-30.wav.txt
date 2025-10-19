@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: A Mighty Fortress",
+      "start_time": 155,
+      "type": "music",
+      "description": "The sanctuary choir presents 'A Mighty Fortress,' a powerful hymn celebrating the strength and protection of God. As the congregation listens, they are reminded of faith's resilience against life's challenges. The performance is met with applause, showcasing the impact of music in worship.",
+      "keywords": ["choir", "hymn", "God", "strength", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["A Mighty Fortress"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: My Faith Is Built",
+      "start_time": 411,
+      "type": "music",
+      "description": "The congregation sings hymn number 404, 'My Faith Is Built,' reflecting on their belief and trust in Jesus Christ. The lyrics echo the truth that faith is founded on Christ's righteousness, encouraging attendees to reinforce their commitment to God through song.",
+      "keywords": ["faith", "hymn", "Jesus", "trust", "commitment"],
+      "performers": [],
+      "songs": ["My Faith Is Built"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: My Jesus, I Love Thee",
+      "start_time": 570,
+      "type": "music",
+      "description": "David and Debbie Johnson perform the instrumental duet 'My Jesus, I Love Thee.' This heartfelt piece exemplifies devotion and love for Jesus, providing a moment of reflection for the congregation. The skilled performance highlights their musical talent and spiritual sincerity.",
+      "keywords": ["instrumental", "Jesus", "love", "devotion", "duet"],
+      "performers": ["David Johnson", "Debbie Johnson"],
+      "songs": ["My Jesus, I Love Thee"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Rejoice in the Lord",
+      "start_time": 1067,
+      "type": "music",
+      "description": "The congregation joyfully sings 'Rejoice in the Lord,' celebrating the hope and promises of God. Through this spirited hymn, participants express their faith in God's faithfulness and rejoice together in anticipation of His return. The atmosphere is filled with joy and unity.",
+      "keywords": ["joy", "worship", "faith", "God's promises", "unity"],
+      "performers": [],
+      "songs": ["Rejoice in the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1189,
+      "type": "prayer",
+      "description": "In an opening prayer, the congregation is led to express gratitude for God's faithfulness and healing within their community. The prayer encourages attendees to focus on worship and learning, setting a spiritual tone for the service and inviting God's presence.",
+      "keywords": ["prayer", "gratitude", "community", "worship", "God's presence"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: God's Anger on Hold (Psalm 78:38-39)",
+      "start_time": 136,
+      "type": "sermon",
+      "description": "Tim Teder delivers a powerful message titled 'God's Anger on Hold.' He explores God's incredible patience with humanity, citing biblical examples such as Moses, David, and Peter. His teaching emphasizes the importance of recognizing and responding to God's grace, encouraging the congregation to cultivate their own patience.",
+      "keywords": ["sermon", "patience", "God", "grace", "forgiveness"],
+      "performers": ["Tim Teder"],
+      "songs": [],
+      "scripture_references": ["Psalm 78:38-39"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3511,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer led by a staff member. The congregation is invited to reflect on the message of God's patience, committing to live out their faith with perseverance and gratitude. The prayer solidifies the day's learning and asks for strength to embody God's teachings.",
+      "keywords": ["closing", "prayer", "reflection", "faith", "perseverance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

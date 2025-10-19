@@ -1,0 +1,96 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: The Star-Spangled Banner",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with the iconic national anthem performed by the choir, evoking a sense of patriotism and remembrance on this Memorial Day weekend.",
+      "keywords": ["national anthem", "patriotism", "Memorial Day", "choir"],
+      "performers": ["Choir"],
+      "songs": ["The Star-Spangled Banner"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Rejoice, Rejoice, the Lord is King",
+      "start_time": 406,
+      "type": "music",
+      "description": "The congregation joins together to sing joyous hymns, celebrating the reign of Christ. This lively participation enhances the worship experience by fostering community spirit.",
+      "keywords": ["congregational hymn", "worship", "Christ", "joy", "participation"],
+      "performers": ["Congregation"],
+      "songs": ["Rejoice, Rejoice, the Lord is King"],
+      "scripture_references": []
+    },
+    {
+      "title": "Trio: Jesus is Walking with Me",
+      "start_time": 496,
+      "type": "music",
+      "description": "A ladies' trio performs a touching piece about the companionship and support of Jesus through life's struggles, reminding attendees of His enduring presence.",
+      "keywords": ["trio", "Jesus", "companionship", "support", "struggles"],
+      "performers": ["Ladies' Trio"],
+      "songs": ["Jesus is Walking with Me"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1286,
+      "type": "prayer",
+      "description": "The service transitions into an opening prayer where the congregation seeks God's presence, humility, and direction, setting the spiritual tone for the worship service.",
+      "keywords": ["prayer", "God", "worship", "humility", "gathering"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Corinthians 11",
+      "start_time": 1499,
+      "type": "scripture",
+      "description": "The pastor reads from 1 Corinthians 11, setting the foundation for the sermon. This passage addresses significant cultural and theological issues concerning worship in the church.",
+      "keywords": ["scripture", "1 Corinthians", "worship", "teaching"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 11"]
+    },
+    {
+      "title": "Message: Head Coverings in Worship (1 Corinthians 11)",
+      "start_time": 1519,
+      "type": "sermon",
+      "description": "The sermon focuses on the cultural significance of head coverings in worship, using Paul's teachings from 1 Corinthians to discuss gender roles, modesty, and the church's responsibility. The message encourages attendees to reflect on their identities and the importance of respectful participation in worship.",
+      "keywords": ["sermon", "head coverings", "gender roles", "modesty", "1 Corinthians"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 11:3-16"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3432,
+      "type": "prayer",
+      "description": "The pastor leads an invitation prayer, encouraging the congregation to accept Christ into their hearts. This intimate moment calls for personal reflection and commitment to faith.",
+      "keywords": ["invitation", "prayer", "commitment", "faith", "salvation"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events and Opportunities",
+      "start_time": 846,
+      "type": "announcement",
+      "description": "The service concludes with announcements about upcoming church events and opportunities for involvement. Members are encouraged to participate in programs that foster community and spiritual growth.",
+      "keywords": ["announcements", "events", "church", "community", "involvement"],
+      "performers": ["Pastor Rick Hawks", "Pete"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1304,
+      "type": "prayer",
+      "description": "The service ends with a closing prayer, thanking God for the worship experience and asking for His continued guidance in the lives of the congregation.",
+      "keywords": ["closing prayer", "thanksgiving", "guidance", "worship", "congregation"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

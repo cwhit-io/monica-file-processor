@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Special Music",
+      "start_time": 97,
+      "type": "music",
+      "description": "The service features special music provided by the sanctuary choir, enhancing the worship atmosphere. The choir engages the congregation with a heartfelt performance that sets a reflective tone for the service.",
+      "keywords": ["choir", "music", "worship", "special", "sanctuary"],
+      "performers": ["Sanctuary Choir"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Unknown Hymn",
+      "start_time": 884,
+      "type": "music",
+      "description": "The congregation participates in a devotional congregational hymn, fostering a spirit of unity and praise among attendees. The hymn serves as a moment for collective reflection and worship.",
+      "keywords": ["congregation", "hymn", "worship", "praise", "unity"],
+      "performers": [],
+      "songs": ["Unknown Hymn"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Power of Perspective (Philippians 1:9-11)",
+      "start_time": 1146,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a profound sermon on the power of perspective based on Philippians 1:9-11. He emphasizes the importance of choosing what to love and the transformative effect of viewing life through a God-centered lens, promoting joy amidst life's challenges.",
+      "keywords": ["perspective", "joy", "Philippians", "sermon", "Moore"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Philippians 1:9-11"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3397,
+      "type": "prayer",
+      "description": "The service concludes with an invitation prayer, where congregants are led in a moment of personal reflection and commitment. This time invites participants to respond to the message and seek a deeper relationship with Christ.",
+      "keywords": ["prayer", "invitation", "commitment", "reflection", "Christ"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3460,
+      "type": "prayer",
+      "description": "A closing prayer wraps up the service, encouraging attendees to carry the themes of the sermon into their daily lives. This prayer reinforces the message of joy and perspective as participants depart.",
+      "keywords": ["closing prayer", "service", "message", "joy", "perspective"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

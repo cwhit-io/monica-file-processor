@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 135,
+      "type": "music",
+      "description": "The sanctuary choir ministers in song, leading the congregation in a moment of worship and praise. This segment highlights the joyful atmosphere of the worship service and invites everyone to focus their hearts on glorifying God.",
+      "keywords": ["choir", "worship", "praise", "song"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: At Calvary",
+      "start_time": 481,
+      "type": "music",
+      "description": "A solo performance of the hymn 'At Calvary' is presented, providing a reflective moment on Christ’s sacrifice. The somber yet uplifting music encourages the congregation to meditate on the events of the Crucifixion and their significance in their faith.",
+      "keywords": ["Calvary", "hymn", "sacrifice", "worship"],
+      "performers": ["Denise Mitchell"],
+      "songs": ["At Calvary"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 706,
+      "type": "music",
+      "description": "A special solo performance captivates the audience, emphasizing the theme of drawing closer to God. The singer expresses heartfelt emotions in a song that resonates with the congregation, fostering a deeper connection with the divine.",
+      "keywords": ["solo", "worship", "song", "emotion"],
+      "performers": ["Kathy Hawks"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1495,
+      "type": "prayer",
+      "description": "The congregation joins in an opening prayer, lifting their voices to God in unity. This moment focuses on dedicating the service to Him, expressing gratitude for His presence and asking for guidance and blessing throughout the service.",
+      "keywords": ["prayer", "opening", "worship", "unity"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: His Ascension (Mark 16:19)",
+      "start_time": 1629,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a powerful sermon on the ascension of Jesus Christ, exploring its implications for believers today. He reflects on how Jesus' ascension signifies His authority, ongoing work, and intimate relationship with us as believers. The sermon entails personal anecdotes and biblical insights, emphasizing the theme of maintaining a close relationship with God.",
+      "keywords": ["ascension", "Jesus", "authority", "relationship"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Mark 16"]
+    },
+    {
+      "title": "Solo: I Miss My Time With You",
+      "start_time": 2911,
+      "type": "music",
+      "description": "A soloist performs 'I Miss My Time With You,' a heartfelt song reflecting God's longing for intimacy with His people. This musical segment creates a contemplative atmosphere as it reminds the congregation of the importance of personal time spent with God.",
+      "keywords": ["solo", "God", "intimacy", "worship"],
+      "performers": ["Kathy Hawks"],
+      "songs": ["I Miss My Time With You"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3465,
+      "type": "prayer",
+      "description": "The service culminates with a closing prayer, inviting the congregation to reflect on the message shared during the sermon. This prayer seeks God's guidance and strength for each individual as they leave to live out their faith in their daily lives.",
+      "keywords": ["closing prayer", "reflection", "faith", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

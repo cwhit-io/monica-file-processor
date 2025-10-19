@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Glory to God in the Highest",
+      "start_time": 175,
+      "type": "music",
+      "description": "The choir beautifully sings 'Glory to God in the Highest,' stirring hearts with energetic praise. Under the direction of Mr. Don Prueger, the choir lifts voices to emphasize the greatness of God. This anthem sets a reverent tone for the worship service that follows.",
+      "keywords": ["praise", "God", "choir", "worship", "anthem"],
+      "performers": ["Don Prueger"],
+      "songs": ["Glory to God in the Highest"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Sunshine Choir Performance",
+      "start_time": 341,
+      "type": "music",
+      "description": "The Sunshine Choir, comprised of first, second, and third graders, performs joyous music that captures children's hearts and minds. Training children in the Word through song, the choir's performance highlights the importance of instilling Christian values from a young age. Their music mostly comes from the Psalms.",
+      "keywords": ["children", "choir", "music", "Psalms", "training"],
+      "performers": ["Mrs. Clark", "Mrs. Wendell"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Lord, Make Me an Instrument of Thy Peace",
+      "start_time": 1095,
+      "type": "music",
+      "description": "David Miller performs 'Lord, Make Me an Instrument of Thy Peace,' a powerful piece that conveys a heartfelt prayer for peace. Modernized from ancient words by St. Francis of Assisi, this rendition speaks to serving God and others with compassion, making it a perfect fit for the service.",
+      "keywords": ["peace", "God", "David Miller", "instrument", "song"],
+      "performers": ["David Miller"],
+      "songs": ["Lord, Make Me an Instrument of Thy Peace"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1315,
+      "type": "prayer",
+      "description": "In the opening prayer, the pastor seeks God's guidance, asking that he may be an instrument in His hands during the service. The congregation joins in a moment of unity, preparing hearts and minds to hear God’s word and encouraging each other to serve the Lord.",
+      "keywords": ["prayer", "guidance", "unity", "God", "worship"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Conduct Worthy of the Gospel (Philippians 1)",
+      "start_time": 1350,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a sermon on the importance of conduct as Christians, drawing from Philippians 1. He emphasizes that our lives must reflect the gospel, encouraging the congregation to match their actions to their faith. Using the illustration of Elmer Gantry, he warns against hypocrisy and urges genuine obedience to God.",
+      "keywords": ["conduct", "gospel", "Philippians", "Rick Hawks", "Elmer Gantry"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Philippians 1"]
+    },
+    {
+      "title": "Solo: David Miller's Performance",
+      "start_time": 1296,
+      "type": "music",
+      "description": "David Miller returns to sing a poignant song, reminding the congregation of Jesus Christ's humble beginnings and His sacrificial love. The song's message encourages reflection on Christ's life and the call for believers to share the gospel with others.",
+      "keywords": ["Jesus", "sacrifice", "David Miller", "gospel", "reflection"],
+      "performers": ["David Miller"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3500,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, offering thanks for the message shared and asking for God’s strength and guidance as attendees leave. The pastor prays that the congregation will embody the teachings of Christ and follow His ways in their daily lives.",
+      "keywords": ["closing prayer", "thanksgiving", "guidance", "worship"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Guest Speaker",
+      "start_time": 5432,
+      "type": "announcement",
+      "description": "The pastor announces the upcoming visit of Dr. Robert Gromacki, a distinguished Bible teacher. The congregation is encouraged to attend next week’s service to gain insights from Dr. Gromacki, emphasizing the significance of learning from respected figures in the Christian community.",
+      "keywords": ["announcement", "guest speaker", "Bible", "Dr. Gromacki", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

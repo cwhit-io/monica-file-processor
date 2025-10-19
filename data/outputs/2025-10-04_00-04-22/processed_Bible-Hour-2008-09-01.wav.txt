@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service kicks off with upbeat music, setting a lively tone for the gathering. This energetic atmosphere welcomes attendees, fostering a spirit of joy and community as they come together for worship.",
+      "keywords": ["upbeat", "worship", "community", "music"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: New Series Introduction",
+      "start_time": 31,
+      "type": "announcement",
+      "description": "Pastor Kelly Bird introduces a brand new Sunday morning teaching series called 'Elemental'. He emphasizes the importance of spiritual maturity and outlines the purpose behind this teaching initiative, inviting everyone to engage with the forthcoming teachings.",
+      "keywords": ["Elemental", "teaching", "pastor", "spiritual maturity"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Spiritual Completion (Colossians 1:28)",
+      "start_time": 388,
+      "type": "sermon",
+      "description": "Pastor Kelly delivers a compelling message focusing on spiritual maturity and completion as the ultimate goal of faith. He encourages believers to move beyond conversion to a deeper commitment to discipleship, drawing on scriptural insights and personal anecdotes to explain the need for the church to promote spiritual growth.",
+      "keywords": ["spiritual maturity", "completion", "discipleship", "conversion"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Colossians 1:28"]
+    },
+    {
+      "title": "Choir: Jesus Messiah",
+      "start_time": 3167,
+      "type": "music",
+      "description": "The choir leads the congregation in singing 'Jesus Messiah', a powerful worship anthem celebrating the identity of Christ. This song invites attendees to reflect on Jesus' redemptive work and their calling to imitate Him.",
+      "keywords": ["Jesus Messiah", "worship", "choir", "redemption"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["Jesus Messiah"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1360,
+      "type": "prayer",
+      "description": "Pastor Kelly leads the congregation in an opening prayer, thanking God for His presence and seeking His guidance. This prayer sets a spiritual tone for the service, inviting the Holy Spirit to work in the hearts of the attendees.",
+      "keywords": ["prayer", "opening", "guidance", "spiritual presence"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Jesus Messiah (Reprise)",
+      "start_time": 3188,
+      "type": "music",
+      "description": "The music continues as the choir leads another round of 'Jesus Messiah', allowing the congregation to engage in worship. This reprise fosters a deeper connection to the themes presented in the sermon.",
+      "keywords": ["Jesus Messiah", "worship", "choir", "praise"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["Jesus Messiah"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3490,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Kelly, thanking God for the message received and asking for His help in applying the principles of spiritual growth and maturity in daily lives.",
+      "keywords": ["prayer", "closing", "thanksgiving", "application"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Introduction",
+      "start_time": 58,
+      "type": "music",
+      "description": "The service begins with a lively musical introduction, setting an upbeat tone for the gathering. Participants are welcomed and invited to engage with what lies ahead. This joyful start creates an inviting atmosphere as people prepare for the service.",
+      "keywords": ["music", "introduction", "upbeat", "welcome"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Ministry Opportunities",
+      "start_time": 89,
+      "type": "announcement",
+      "description": "Pastor Kelly Bird makes a heartfelt welcome to everyone joining the service. He expresses gratitude for the viewers and excitement about the upcoming year in ministry. He shares insights into the importance of giving and participating in church life.",
+      "keywords": ["announcement", "ministry", "welcome", "participation"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Importance of Giving (1 Corinthians 16)",
+      "start_time": 138,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird delivers a compelling sermon on the topic of giving, anchored in biblical principles from 1 Corinthians 16. He explores the motivations for giving and how it honors God. The message emphasizes that giving is a vital aspect of our worship and our faith journey.",
+      "keywords": ["giving", "sermon", "1 Corinthians", "faith", "worship"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 16"]
+    },
+    {
+      "title": "Choir: Winter Joy Song",
+      "start_time": 3586,
+      "type": "music",
+      "description": "The church choir performs a joyful and uplifting song that highlights themes of warmth and community during winter. This piece reinforces the sense of fellowship and joy among the congregation, bridging the message of giving with the spirit of togetherness.",
+      "keywords": ["choir", "song", "joy", "community"],
+      "performers": [],
+      "songs": ["Winter Joy Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 2070,
+      "type": "prayer",
+      "description": "The service includes an opening prayer led by Pastor Kelly Bird, inviting the congregation to focus their hearts and minds on God's guidance. This moment of prayer serves to commit the service to the Lord, asking for clarity and openness to His word.",
+      "keywords": ["prayer", "opening", "spiritual", "focus"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 2 Corinthians 8",
+      "start_time": 2194,
+      "type": "scripture",
+      "description": "A reading from 2 Corinthians 8 emphasizes the joy of giving amid poverty. This scripture illustrates how generosity arises from one's heart and the importance of offering oneself to God first before financial contributions.",
+      "keywords": ["scripture", "2 Corinthians", "giving", "joy"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["2 Corinthians 8"]
+    },
+    {
+      "title": "drama: Importance of Community Support",
+      "start_time": 1745,
+      "type": "drama",
+      "description": "A dramatic presentation highlights real-life scenarios reflecting the impact of community support and giving within the church. Participants portray various situations where generosity transforms lives, reinforcing the sermon’s message.",
+      "keywords": ["drama", "community", "support", "impact"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3556,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Kelly Bird. This prayer encapsulates the themes presented during the sermon and encourages attendees to embody the spirit of giving as they move forward in their lives.",
+      "keywords": ["prayer", "closing", "worship", "encouragement"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

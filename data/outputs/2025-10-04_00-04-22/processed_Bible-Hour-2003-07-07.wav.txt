@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unknown]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with the sound of ringing bells followed by upbeat music, creating a joyful atmosphere. The choir leads with song, introducing themes of hope and reverence that set the tone for the gathering.",
+      "keywords": ["bells", "music", "choir", "joy", "worship"],
+      "performers": ["Unknown"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unknown]",
+      "start_time": 90,
+      "type": "music",
+      "description": "Continuing the musical expression, the choir performs a heartfelt rendition of a song filled with poignant lyrics about love and faith. The congregation is invited to lift their voices and join in a celebration of God's grace.",
+      "keywords": ["choir", "praise", "song", "worship", "love"],
+      "performers": ["Unknown"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Unknown]",
+      "start_time": 252,
+      "type": "music",
+      "description": "As the service proceeds, the congregation participates in singing a hymn that reflects their identity in Christ. The lyrics highlight themes of belonging and the desire for connection with God, fostering a spirit of unity among attendees.",
+      "keywords": ["hymn", "congregation", "unity", "identity", "connection"],
+      "performers": ["Unknown"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 618,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, asking God to guide the hearts of the congregation. The prayer emphasizes the need for God’s presence to bind wandering hearts to Him, setting a spiritual focus for the service.",
+      "keywords": ["prayer", "opening", "guidance", "focus", "community"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 1021,
+      "type": "announcement",
+      "description": "The leader shares announcements about upcoming events, including a significant worship weekend and an upcoming six-week series on 'Real Love'. The message encourages involvement and sharing personal experiences of love.",
+      "keywords": ["upcoming", "events", "love", "involvement", "community"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: A Giving Heart (Colossians 1:10-12)",
+      "start_time": 1163,
+      "type": "sermon",
+      "description": "The sermon delves into the nature of a giving heart that responds to God's love through acts of generosity. It discusses the significance of giving time, talent, and treasure, reflecting on biblical principles and personal application. The speaker challenges the congregation to evaluate their priorities and embrace a life of gratitude and service.",
+      "keywords": ["sermon", "giving", "heart", "generosity", "gratitude"],
+      "performers": ["Stephen"],
+      "songs": [],
+      "scripture_references": ["Colossians 1:10-12"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3508,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, asking for a deeper understanding of God's will and the desire to give wholeheartedly. The prayer emphasizes reliance on God's guidance, encouraging the congregation to commit to a lifestyle of giving.",
+      "keywords": ["closing", "prayer", "commitment", "understanding", "giving"],
+      "performers": ["Stephen"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unknown]",
+      "start_time": 3552,
+      "type": "music",
+      "description": "The service ends with a choir piece, reinforcing the themes of the day through powerful music. It invites the congregation to reflect on the message shared and leave with a renewed spirit of worship.",
+      "keywords": ["choir", "conclusion", "worship", "reflection", "spirit"],
+      "performers": ["Unknown"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Anthem of Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an uplifting anthem presented by the choir under the direction of Mr. Don Kruger. The choir's harmonious blend invites the congregation into a spirit of worship and praise. It's a celebration of joy as the congregation immerses themselves in beautiful melodies.",
+      "keywords": ["worship", "choir", "music", "praise", "anthem"],
+      "performers": ["Mr. Don Kruger"],
+      "songs": ["Anthem of Worship"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: We Are One",
+      "start_time": 315,
+      "type": "music",
+      "description": "The new disciples from Moody Bible Institute lead the congregation in a heartfelt song affirming unity in the body of Christ. The lyrics highlight the shared faith and community of believers, encouraging everyone to embrace their oneness in the Spirit.",
+      "keywords": ["unity", "believers", "hymn", "community", "faith"],
+      "performers": ["New Disciples from Moody Bible Institute"],
+      "songs": ["We Are One"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Father's Love",
+      "start_time": 1472,
+      "type": "music",
+      "description": "In a touching solo, a member of the new disciples sings about the transforming power of the Father's love. The performance emphasizes surrender and dependence on God's guidance, inspiring the congregation to reflect on their own spiritual journey.",
+      "keywords": ["father's love", "surrender", "spiritual journey", "transformation", "worship"],
+      "performers": ["New Disciples from Moody Bible Institute"],
+      "songs": ["Father's Love"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Moody Bible Institute Disciples",
+      "start_time": 1242,
+      "type": "announcement",
+      "description": "Pastor David Geroma introduces the new disciples from Moody Bible Institute, who are ministering throughout the service. Their presence in the church adds a spirit of freshness and vitality, as they contribute musically and share their testimonies.",
+      "keywords": ["Moody Bible Institute", "disciples", "introduction", "ministry", "youth"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: John 17",
+      "start_time": 1671,
+      "type": "scripture",
+      "description": "The congregation hears a reading from the 17th chapter of John, which contains Jesus' prayer for His disciples. This powerful scriptural moment sets the stage for the subsequent sermon, emphasizing the deep connection between Christ's teachings and His followers.",
+      "keywords": ["John", "scripture reading", "prayer", "disciples", "teaching"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["John 17"]
+    },
+    {
+      "title": "Message: Christ's Prayer for You (John 17)",
+      "start_time": 1765,
+      "type": "sermon",
+      "description": "Pastor David Geroma delivers a profound sermon on the theme of Christ's prayer forHis disciples, based on John 17. He explores the significance of unity, God's protection from evil, and the mission of believers in the world. The message invites the congregation to consider their role in fulfilling Christ's prayer through active engagement in their community.",
+      "keywords": ["Christ", "prayer", "disciples", "mission", "unity"],
+      "performers": ["Pastor David Geroma"],
+      "songs": [],
+      "scripture_references": ["John 17"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3358,
+      "type": "prayer",
+      "description": "Following the sermon, Pastor Geroma leads the congregation in an invitation prayer. This moment provides an opportunity for individuals to respond personally to the message shared, asking for guidance and strength to live as faithful witnesses. It emphasizes the importance of prayer in the Christian journey.",
+      "keywords": ["prayer", "invitation", "response", "guidance", "faith"],
+      "performers": ["Pastor David Geroma"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3379,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Geroma, where he asks for God's blessing upon the congregation as they go forth into the world. This prayer serves as a reminder of the need for divine strength and wisdom in living out their faith in everyday life.",
+      "keywords": ["closing prayer", "blessing", "strength", "community", "faith"],
+      "performers": ["Pastor David Geroma"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

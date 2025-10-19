@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Upbeat Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat musical selection, setting a lively tone for the gathering. The choir leads the congregation in worship, inviting participants to engage in joyous praise. This opening music helps foster a sense of community and encourages attendees to prepare their hearts for the service ahead.",
+      "keywords": ["worship", "uplifting", "choir", "community", "music"],
+      "performers": ["Choir"],
+      "songs": ["Upbeat Worship"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Holy, Holy",
+      "start_time": 152,
+      "type": "music",
+      "description": "The choir continues with a powerful rendition of 'Holy, Holy,' emphasizing themes of reverence and worship. The evocative lyrics encourage participants to reflect on the holiness of God and His majesty. This segment deepens the worship experience, inviting a personal response from the congregation.",
+      "keywords": ["worship", "holy", "choir", "reflection", "praise"],
+      "performers": ["Choir"],
+      "songs": ["Holy, Holy"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: This Is How We Overcome",
+      "start_time": 990,
+      "type": "music",
+      "description": "The choir sings 'This Is How We Overcome,' reinforcing the theme of finding strength in faith. The uplifting melody and powerful lyrics inspire the congregation to embrace the message of hope and victory through Christ. This song serves as a reminder of the transformative power of faith in challenging times.",
+      "keywords": ["overcome", "faith", "choir", "strength", "hope"],
+      "performers": ["Choir"],
+      "songs": ["This Is How We Overcome"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Three Habits of Highly Destructive People (1 John 2:15-17)",
+      "start_time": 1070,
+      "type": "sermon",
+      "description": "Pastor Mitch presents the sermon titled 'Three Habits of Highly Destructive People,' focusing on the concepts of pride, power, and pleasure as discussed in 1 John 2:15-17. He invites the congregation to reflect on their own lives, using the metaphor of locked doors to represent the barriers created by these destructive habits. The message challenges attendees to reconsider what they desire and to seek true fulfillment through God's love.",
+      "keywords": ["pride", "power", "pleasure", "destructive habits", "1 John"],
+      "performers": ["Mitch"],
+      "songs": [],
+      "scripture_references": ["1 John 2:15-17"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 50,
+      "type": "prayer",
+      "description": "Mitch leads an opening prayer, inviting the presence of God into the service. He expresses gratitude for the opportunity to gather and seeks divine guidance for the message that will be shared. This prayer sets a spiritual tone, encouraging the congregation to open their hearts to God's word.",
+      "keywords": ["prayer", "opening", "gathering", "gratitude", "guidance"],
+      "performers": ["Mitch"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: Power of Control",
+      "start_time": 180,
+      "type": "drama",
+      "description": "A drama segment illustrates the dynamics of power and control in relationships. Characters struggle with their desires and the implications of their actions, prompting the audience to reflect on their own experiences with control. This engaging representation serves to underline the sermon topics of pride and power.",
+      "keywords": ["drama", "power", "control", "relationships", "reflection"],
+      "performers": ["Dramatic Group"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2450,
+      "type": "prayer",
+      "description": "Mitch leads an invitation prayer, calling attendees to respond to the message shared. He encourages individuals to surrender their struggles with pride, power, and pleasure to God. This prayer serves as a spiritual call to action, inviting a deeper connection with faith and community.",
+      "keywords": ["invitation", "prayer", "surrender", "call to action", "faith"],
+      "performers": ["Mitch"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Ending Worship",
+      "start_time": 2760,
+      "type": "music",
+      "description": "The choir concludes the service with a powerful worship song, inviting the congregation to join in a final expression of praise. This moment encapsulates the themes of the service, bringing closure while encouraging ongoing reflection on the message shared. The uplifting atmosphere leaves attendees feeling energized and inspired.",
+      "keywords": ["ending", "worship", "choir", "praise", "inspiration"],
+      "performers": ["Choir"],
+      "songs": ["Ending Worship"],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,74 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with uplifting music, welcoming the congregation and setting a positive tone for the gathering. This music aims to engage the hearts of those present, inviting them into an atmosphere of worship.",
+      "keywords": ["worship", "music", "congregation", "praise"],
+      "performers": ["Choir"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "announcement: Church Resources and Events",
+      "start_time": 30,
+      "type": "announcement",
+      "description": "Steve Webster shares important updates about church resources and upcoming events, such as the Dicking Deeper resource and an apologetics seminar. He emphasizes the church's commitment to providing support and opportunities for fellowship and growth.",
+      "keywords": ["events", "resources", "community", "growth"],
+      "performers": ["Steve Webster"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 169,
+      "type": "music",
+      "description": "The choir performs a powerful song that emphasizes themes of transformation and faith. This segment is meant to inspire and uplift the congregation, reinforcing the messages shared earlier.",
+      "keywords": ["faith", "transformation", "worship"],
+      "performers": ["Choir"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 273,
+      "type": "music",
+      "description": "Another musical offering takes place, adding to the worship experience. The heartfelt lyrics resonate with the congregation, encouraging reflection on their personal faith journeys.",
+      "keywords": ["worship", "lyrics", "praise"],
+      "performers": ["Choir"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Message: Jesus is the Light of the World (John 8)",
+      "start_time": 610,
+      "type": "sermon",
+      "description": "In a profound message, Steve reflects on the meaning of Jesus being the light of the world. He discusses scripture passages that emphasize Christ's nature, his promises, and the implications for believers' lives. The sermon concludes with a call to action, encouraging the congregation to shine their light in the world.",
+      "keywords": ["Jesus", "light", "faith", "John 8"],
+      "performers": ["Steve Webster"],
+      "songs": ["[]"],
+      "scripture_references": ["John 8"]
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 2653,
+      "type": "music",
+      "description": "Following the sermon, the choir leads the congregation in a stirring worship song. The lyrics reflect a deep reliance on God, inviting the congregation to express their collective faith and need for divine guidance.",
+      "keywords": ["worship", "faith", "community"],
+      "performers": ["Choir"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2708,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer led by Steve. He reflects on the messages shared, asks for God's guidance and comfort for those in need, and encourages the congregation to carry the light of Christ into their daily lives.",
+      "keywords": ["prayer", "closing", "guidance"],
+      "performers": ["Steve Webster"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    }
+  ]
+}

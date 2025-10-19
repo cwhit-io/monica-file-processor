@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a vibrant upbeat music segment that sets a positive and energetic tone for the gathering. The congregation is invited to engage in a spirit of worship and joy.",
+      "keywords": ["worship", "music", "joy", "praise"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: \"You Are Worthy\"",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir performs a beautiful rendition of 'You Are Worthy', emphasizing the worthiness of God through heartfelt lyrics. The congregation joins in reflecting on God's greatness and mercy.",
+      "keywords": ["choir", "worthy", "God", "worship"],
+      "performers": ["[]"],
+      "songs": ["You Are Worthy"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 826,
+      "type": "prayer",
+      "description": "The pastor leads the congregation in an opening prayer, inviting everyone to connect with God and reflect on His provision and guidance in their lives. It creates a sacred moment for worship.",
+      "keywords": ["prayer", "opening", "connection", "guidance"],
+      "performers": ["Kelly Bird"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: God's Warnings and Guidance (Micah 1-2)",
+      "start_time": 1587,
+      "type": "sermon",
+      "description": "In this impactful sermon, Pastor Kelly Bird explores the book of Micah, emphasizing God's warnings and the need for the faithful to embrace His guidance. He reflects on idolatry and warns against schemes that hurt others, encouraging the congregation to listen to God's voice.",
+      "keywords": ["Micah", "sermon", "warnings", "guidance", "idolatry"],
+      "performers": ["Kelly Bird"],
+      "songs": ["[]"],
+      "scripture_references": ["Micah 6:6-8", "Exodus 20:17", "Exodus 22:26", "Proverbs 1:23", "Proverbs 6:12"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3501,
+      "type": "prayer",
+      "description": "The pastor leads an invitation prayer, encouraging individuals to reflect on their hearts and be open to God's transformation in their lives. A moment for personal response to the sermon is provided.",
+      "keywords": ["invitation", "prayer", "transformation", "reflection"],
+      "performers": ["Kelly Bird"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Closing Worship",
+      "start_time": 3531,
+      "type": "music",
+      "description": "The service concludes with a powerful closing worship song led by the choir. The song inspires a sense of hope and gratitude as the congregation reflects on the message and prepares to go forth into the week.",
+      "keywords": ["closing", "worship", "choir", "hope", "gratitude"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

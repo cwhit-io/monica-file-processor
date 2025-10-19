@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Open Up the Heavens",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir leads the congregation in a powerful song expressing the desire to see God's glory. The lyrics reflect a longing for divine presence, with imagery of rivers flowing from the heart of God, filling every part of their lives.",
+      "keywords": ["worship", "heavens", "glory", "presence", "choir"],
+      "performers": ["Choir"],
+      "songs": ["Open Up the Heavens"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Good Good Father",
+      "start_time": 290,
+      "type": "music",
+      "description": "A soloist sings heartfelt lyrics about God's unconditional love and greatness. The song conveys themes of reassurance and identity, affirming that God knows our needs and is a loving father to us, evoking a deep sense of comfort.",
+      "keywords": ["father", "love", "identity", "comfort", "solo"],
+      "performers": ["Soloist"],
+      "songs": ["Good Good Father"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: O Come to the Altar",
+      "start_time": 591,
+      "type": "music",
+      "description": "The congregation joins together in a moving hymn inviting all to come to the altar for healing and repentance. The lyrics encourage leaving burdens at the altar and embracing forgiveness through Jesus Christ, highlighting themes of hope and redemption.",
+      "keywords": ["altar", "forgiveness", "redemption", "congregation", "worship"],
+      "performers": ["Congregation"],
+      "songs": ["O Come to the Altar"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Great Is Thy Faithfulness",
+      "start_time": 1219,
+      "type": "music",
+      "description": "The congregation lifts their voices in worship, declaring the faithfulness of God. The hymn speaks of God's unwavering presence through all seasons of life, reminding believers of His unwavering love and trustworthiness.",
+      "keywords": ["faithfulness", "worship", "God", "hymn", "congregation"],
+      "performers": ["Congregation"],
+      "songs": ["Great Is Thy Faithfulness"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Numbers 21",
+      "start_time": 1438,
+      "type": "scripture",
+      "description": "A passage from the Book of Numbers is read, recounting the Israelites' impatience and complaints against God during their journeys. The reading sets the stage for a sermon on the consequences of sin and God's provision for salvation.",
+      "keywords": ["Numbers", "scripture", "Israelites", "complain", "sin"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Numbers 21"]
+    },
+    {
+      "title": "Message: Look Up and Live (Numbers 21, John 3:14-16)",
+      "start_time": 1504,
+      "type": "sermon",
+      "description": "In a compelling sermon, the speaker discusses the significance of the bronze serpent and how it foreshadows the salvation provided through Christ. The message emphasizes confession, faith, and God's faithfulness, urging the congregation to trust in Jesus for eternal life.",
+      "keywords": ["sermon", "salvation", "Jesus", "faith", "confession"],
+      "performers": ["Unknown Speaker"],
+      "songs": [],
+      "scripture_references": ["Numbers 21", "John 3:14-16"]
+    },
+    {
+      "title": "Congregational Hymn: The Old Rugged Cross",
+      "start_time": 3241,
+      "type": "music",
+      "description": "The congregation comes together to sing a beloved hymn about the cross, reflecting on its significance in the Christian faith. The lyrics express a willingness to cherish the cross as a symbol of sacrifice and salvation, inviting all to embrace the grace it represents.",
+      "keywords": ["cross", "hymn", "sacrifice", "salvation", "congregation"],
+      "performers": ["Congregation"],
+      "songs": ["The Old Rugged Cross"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3490,
+      "type": "prayer",
+      "description": "In closing, a prayer of gratitude is offered, thanking God for provision and salvation through Jesus. The prayer seeks to encourage and empower the congregation to live faithfully, reminding them of the importance of daily devotion and commitment to Christ.",
+      "keywords": ["prayer", "thanksgiving", "salvation", "faith", "devotion"],
+      "performers": ["Unknown Speaker"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

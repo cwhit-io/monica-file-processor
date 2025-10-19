@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 30,
+      "type": "music",
+      "description": "The service opens with dramatic and upbeat music, reflecting a joyful atmosphere. The energy invites the congregation to engage as they prepare for the service. This lively music helps set the tone for the experience ahead.",
+      "keywords": ["music", "upbeat", "choir"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 149,
+      "type": "music",
+      "description": "Continuing from the previous segment, the music becomes more focused as a selection is performed, highlighting the theme of connection and cultural exchange. The congregation is invited into a moment of harmony, celebrating unity through song.",
+      "keywords": ["song", "solo", "unity"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 868,
+      "type": "prayer",
+      "description": "The service transitions into an opening prayer, invoking a sense of community and collective purpose among the attendees. The prayer emphasizes a desire for spiritual engagement and responsiveness to God's word throughout the service.",
+      "keywords": ["prayer", "community", "engagement"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: God’s Call to Elijah (1 Kings 17:1-16)",
+      "start_time": 1141,
+      "type": "sermon",
+      "description": "In this profound sermon, the speaker explores God's calling of Elijah during a turbulent time. Themes of faith, provision, and the importance of standing firm in one's beliefs are discussed, particularly in the face of challenges and societal pressure. The message intertwines personal narratives and biblical teachings to inspire the congregation.",
+      "keywords": ["Elijah", "faith", "provision", "sermon"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": ["1 Kings 17:1-16"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3487,
+      "type": "prayer",
+      "description": "The invitation prayer encourages individuals to reflect on their personal needs and offers a moment to seek support. This intimate plea underscores the church's commitment to being a resource for emotional and spiritual guidance in times of need.",
+      "keywords": ["invitation", "needs", "support"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Song Title]",
+      "start_time": 3559,
+      "type": "music",
+      "description": "The service concludes with a congregational hymn, inviting everyone to join in song. This final music segment reinforces community bonds and shared faith, leaving attendees uplifted and connected as they depart.",
+      "keywords": ["hymn", "song", "congregation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

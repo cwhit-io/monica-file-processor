@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 30,
+      "type": "music",
+      "description": "The service begins with uplifting choir music, setting a welcoming and joyful atmosphere for the congregation. The melodies are rich and engaging, inviting everyone to reflect and prepare their hearts for worship.",
+      "keywords": ["choir", "music", "worship"],
+      "performers": ["Unknown"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [Matthew 28]",
+      "start_time": 58,
+      "type": "scripture",
+      "description": "The congregation receives a reading from the Gospel of Matthew. This passage emphasizes Jesus' command to make disciples, highlighting the mission and purpose of the church.",
+      "keywords": ["Matthew", "command", "discipleship"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["Matthew 28"]
+    },
+    {
+      "title": "Congregational Hymn: [Song Title]",
+      "start_time": 65,
+      "type": "music",
+      "description": "The congregation participates in singing a well-loved hymn. The atmosphere is filled with unity and reverence as voices blend harmoniously in worship.",
+      "keywords": ["hymn", "congregation", "worship"],
+      "performers": ["Unknown"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Transformed Living (Romans 12:9-21)",
+      "start_time": 266,
+      "type": "sermon",
+      "description": "The pastor delivers a heartfelt message on Romans 12:9-21, focusing on what it means to live a transformed life in Christ. Key themes include responding to persecution with love and supporting one another in community. The sermon challenges listeners to embody these principles in their daily lives.",
+      "keywords": ["transformation", "Romans", "love", "community"],
+      "performers": ["Pastor Unknown"],
+      "songs": [],
+      "scripture_references": ["Romans 12:9-21"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1239,
+      "type": "prayer",
+      "description": "The service transitions to an opening prayer where the pastor invites God's presence and guidance over the message and the congregation. This sets a tone of humility and reverence for the gathering.",
+      "keywords": ["prayer", "opening", "service"],
+      "performers": ["Pastor Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 3561,
+      "type": "music",
+      "description": "The choir returns to lead a final piece of music, enabling a moment of reflection and gratitude as the service draws to a close. The music serves to uplift and inspire the congregation.",
+      "keywords": ["choir", "music", "worship"],
+      "performers": ["Unknown"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

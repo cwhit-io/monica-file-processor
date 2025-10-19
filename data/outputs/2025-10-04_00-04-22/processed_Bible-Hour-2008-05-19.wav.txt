@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Worship Song",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a joyous choir rendition encouraging everyone to lift their voices in praise. The atmosphere is set for worship as the congregation is invited to join in singing praises to God, promoting a spirit of unity and celebration right from the start.",
+      "keywords": ["worship", "choir", "praise", "singing", "unity"],
+      "performers": ["Choir"],
+      "songs": ["Worship Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Now is the Time",
+      "start_time": 91,
+      "type": "music",
+      "description": "The congregation participates in a hymn that emphasizes the importance of coming together for worship. It invites individuals from all walks of life to unite in exalting the Lord, instilling a message of inclusivity and devotion to God.",
+      "keywords": ["congregation", "hymn", "worship", "unity", "praise"],
+      "performers": ["Congregation"],
+      "songs": ["Now is the Time"],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: Kids’ Church Experience",
+      "start_time": 908,
+      "type": "drama",
+      "description": "The service includes a playful dramatization led by the children, illustrating the storytelling aspect of faith. Participants engage in sound effects and actions as they narrate a biblical story, promoting engagement with the Scriptures in a lively manner.",
+      "keywords": ["children", "drama", "engagement", "storytelling", "faith"],
+      "performers": ["Children's Ministry"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Ephesians 4",
+      "start_time": 1877,
+      "type": "scripture",
+      "description": "A biblical reading from the book of Ephesians is presented, focusing on themes of calling and unity in the body of Christ. This reading serves as a prelude to the sermon, providing a scriptural foundation for the message to follow.",
+      "keywords": ["Ephesians", "scripture", "unity", "calling"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Ephesians 4"]
+    },
+    {
+      "title": "Message: Living a Life Worthy of Your Calling (Ephesians 4)",
+      "start_time": 1961,
+      "type": "sermon",
+      "description": "The sermon delves into Ephesians 4, emphasizing the importance of humility, gentleness, and unity among believers. It challenges the congregation to reflect their character and conduct as Christians in their daily lives, shedding light on the significance of living in harmony within the body of Christ.",
+      "keywords": ["Ephesians", "calling", "humility", "unity", "conduct"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Ephesians 4"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3445,
+      "type": "prayer",
+      "description": "The service continues with an opening prayer that establishes a spiritual foundation for the day’s worship. The prayer focuses on seeking God’s presence, asking for the ability to reflect His character and love as a community.",
+      "keywords": ["prayer", "worship", "community", "God's presence"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: It is Well with My Soul",
+      "start_time": 1400,
+      "type": "music",
+      "description": "A heartfelt solo presents the hymn 'It is Well with My Soul,' delivering a powerful message of peace and reassurance in God's presence. The congregation is invited to reflect on the lyrics and the comfort they bring to life's trials.",
+      "keywords": ["solo", "hymn", "peace", "God's presence"],
+      "performers": ["Soloist"],
+      "songs": ["It is Well with My Soul"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3459,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that reaffirms the themes of unity, peace, and living out one’s faith in everyday life. The pastor asks for God’s guidance and strength for the congregation as they depart to apply the message they have received.",
+      "keywords": ["closing prayer", "unity", "peace", "faith"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Hold the Flame of Freedom High",
+      "start_time": 113,
+      "type": "music",
+      "description": "The sanctuary choir performs a patriotic anthem titled 'Hold the Flame of Freedom High,' emphasizing the theme of freedom both in a national context and in relation to faith in Christ. This performance sets a reflective mood for the service, honoring America's freedoms.",
+      "keywords": ["choir", "freedom", "patriotic", "anthem"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Hold the Flame of Freedom High"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Water Color Ponies",
+      "start_time": 400,
+      "type": "music",
+      "description": "Brian Losen delivers a heartfelt solo performance of 'Water Color Ponies,' which reflects on childhood memories and the passage of time. This song resonates with themes of nostalgia and the fleeting nature of innocence, creating a poignant atmosphere.",
+      "keywords": ["solo", "nostalgia", "childhood", "memories"],
+      "performers": ["Brian Losen"],
+      "songs": ["Water Color Ponies"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: A Faith that Won't Be Forgotten (Deuteronomy 6:4-9)",
+      "start_time": 867,
+      "type": "sermon",
+      "description": "Associate pastor Tim Tetter challenges the congregation to cultivate a faith that will last through generations by basing it on truth, driven by passion, and lived genuinely. He emphasizes Moses' instructions to Israel in Deuteronomy 6, highlighting the Shema's importance in forming a community grounded in faithfulness.",
+      "keywords": ["faith", "Moses", "Deuteronomy", "truth", "passion"],
+      "performers": ["Tim Tetter"],
+      "songs": [],
+      "scripture_references": ["Deuteronomy 6:4-9"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3433,
+      "type": "prayer",
+      "description": "In a reflective closing prayer, the congregation is encouraged to connect with God personally. There is an invocation for those who have made decisions to trust in Christ, inviting them into a deeper relationship with the Savior.",
+      "keywords": ["prayer", "closing", "invitation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "announcement: Upcoming Series on Worship",
+      "start_time": 26,
+      "type": "announcement",
+      "description": "Pastor Kelly introduces an upcoming six-week series on worship, titled 'Fully Surrendered, Completely in Awe.' This series will explore what it means to lead a life of worship beyond just the church service, involving families and communities.",
+      "keywords": ["worship", "series", "surrendered", "God", "family"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: Perspectives on God",
+      "start_time": 384,
+      "type": "drama",
+      "description": "A drama segment unfolds various perspectives on God, showcasing a range of beliefs and questions about His nature, presence, and care. The dialogues illustrate differing views from individuals struggling with their understanding of God.",
+      "keywords": ["God", "perspective", "drama", "faith", "questions"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 841,
+      "type": "prayer",
+      "description": "The pastor leads an opening prayer, expressing gratitude for the opportunity to gather and seek God's presence. This prayer aims to prepare the congregation for a meaningful worship experience.",
+      "keywords": ["prayer", "opening", "gratitude", "worship"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Nearness of God (Psalm 145)",
+      "start_time": 949,
+      "type": "sermon",
+      "description": "Pastor Kelly delivers a sermon on the theme of God's nearness and care for humanity. He emphasizes that God is not distant but intimately involved in our lives, referencing various scriptures to illustrate God's omnipresence and love.",
+      "keywords": ["God", "nearness", "Psalm", "faith", "care"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": ["Psalm 145", "Psalm 139:3-10", "1 Peter 5:7", "Isaiah 43"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2884,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, inviting attendees to engage with the message of God's nearness and care. The pastor expresses a desire for individuals to feel compelled to seek deeper understanding and connection with God.",
+      "keywords": ["prayer", "invitation", "seeking", "connection", "God"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Majesty and Power",
+      "start_time": 2957,
+      "type": "music",
+      "description": "The church choir performs a musical piece celebrating the majesty and power of God's kingdom. The song highlights themes of glory and divine authority, inviting the congregation to join in worship.",
+      "keywords": ["music", "choir", "worship", "kingdom", "glory"],
+      "performers": ["Church Choir"],
+      "songs": ["Majesty and Power"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: The Lord is God",
+      "start_time": 3144,
+      "type": "music",
+      "description": "The congregation participates in singing a hymn that reaffirms their faith in God. The lyrical focus is on the attributes of God as the King of Kings, fostering a collective expression of worship.",
+      "keywords": ["music", "hymn", "congregational", "worship", "faith"],
+      "performers": ["Congregation"],
+      "songs": ["The Lord is God"],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "scripture: Scripture Reading: [Genesis 1-8]",
+      "start_time": 0,
+      "type": "scripture",
+      "description": "The service begins by introducing the themes of the series and the importance of the Bible. Genesis chapters 1 through 8 are presented as the foundation of God's story, focusing on creation, the fall, and early humanity's relationship with God.",
+      "keywords": ["genesis", "creation", "fall", "bible", "story"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Genesis 1-8"]
+    },
+    {
+      "title": "Message: Understanding God's Creation and Humanity (Genesis 1-8)",
+      "start_time": 83,
+      "type": "sermon",
+      "description": "In this sermon, the speaker delves into the story of creation as described in Genesis. Emphasis is placed on God's nature as the Creator, the significance of mankind being made in His image, and the consequences of the first sin. The narrative unfolds the themes of justice, mercy, and the promise of redemption through Jesus.",
+      "keywords": ["god", "creation", "humanity", "sin", "redemption"],
+      "performers": ["Curtis"],
+      "songs": [],
+      "scripture_references": ["Genesis 1-8"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 2205,
+      "type": "prayer",
+      "description": "The opening prayer invites the congregation to focus on God's word and prepare their hearts for the message. It reflects on God's justice and mercy, thanking Him for the opportunity to be part of His story.",
+      "keywords": ["prayer", "worship", "god", "community", "focus"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2195,
+      "type": "prayer",
+      "description": "The closing prayer concludes the service with gratitude for God's word and the hope of salvation through Jesus. It emphasizes walking through the door of faith and living in light of God's promises.",
+      "keywords": ["prayer", "faith", "salvation", "jesus", "hope"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Jesus Saves",
+      "start_time": 232,
+      "type": "music",
+      "description": "The sanctuary choir performs a stirring piece affirming the core message of Christianity: that Jesus saves. Their harmonious voices filled the room, inviting the congregation into worship and reflection on this powerful truth.",
+      "keywords": ["choir", "jesus saves", "music", "worship", "praise"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Jesus Saves"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: All Hail the Power of Jesus' Name",
+      "start_time": 451,
+      "type": "music",
+      "description": "The congregation rises to sing 'All Hail the Power of Jesus' Name', a beloved hymn celebrating the majesty of Christ. The singing is uplifting, uniting the community in proclamation and devotion.",
+      "keywords": ["hymn", "all hail the power", "worship", "congregation", "jesus"],
+      "performers": ["Congregation"],
+      "songs": ["All Hail the Power of Jesus' Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: The Highest Call",
+      "start_time": 590,
+      "type": "music",
+      "description": "Celebration presents a solo performance of 'The Highest Call', reflecting the theme of living for Jesus regardless of the cost. The lyrics resonate with the call to dedicate one’s life fully to faith.",
+      "keywords": ["solo", "highest call", "worship", "jesus", "dedication"],
+      "performers": ["Celebration"],
+      "songs": ["The Highest Call"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1394,
+      "type": "prayer",
+      "description": "The leader offers an opening prayer, seeking God's presence and guidance. The congregation is invited to reflect and prepare their hearts for worship and the message to come.",
+      "keywords": ["prayer", "worship", "guidance", "congregation", "preparation"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Called to Mission (John 20)",
+      "start_time": 1702,
+      "type": "sermon",
+      "description": "Don Trot delivers a powerful sermon on the theme of missions, drawing from John 20. He emphasizes the responsibility of Christians to share the gospel and the urgency of the task at hand while encouraging believers to live out their faith actively.",
+      "keywords": ["sermon", "missions", "john 20", "gospel", "evangelism"],
+      "performers": ["Don Trot"],
+      "songs": [],
+      "scripture_references": ["John 20"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3498,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, inviting the congregation to commit their lives to Christ's mission. The prayer reflects a desire for strength and dedication to carry the message of Jesus into the world.",
+      "keywords": ["prayer", "closing", "commitment", "mission", "strength"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Lessons on Assurance",
+      "start_time": 3519,
+      "type": "music",
+      "description": "The congregation is invited to sing along in a closing hymn reflecting on the theme of assurance in Christ. This powerful moment underscores the message of hope and salvation shared throughout the service.",
+      "keywords": ["hymn", "assurance", "worship", "congregation", "hope"],
+      "performers": ["Congregation"],
+      "songs": ["Lessons on Assurance"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 1000,
+      "type": "announcement",
+      "description": "The pastor shares information about upcoming church events and initiatives, encouraging participation and engagement in community activities and outreach programs.",
+      "keywords": ["announcements", "events", "community", "engagement", "outreach"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

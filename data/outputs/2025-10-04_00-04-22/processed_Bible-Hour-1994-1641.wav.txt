@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Mighty Praise",
+      "start_time": 101,
+      "type": "music",
+      "description": "The sanctuary choir opens the service with a powerful song, praising the Lord for His majesty and glory. The lyrics emphasize the worshiper's devotion and the uplifting nature of singing to God. It embodies the theme of praise that resonates throughout the service.",
+      "keywords": ["praise", "choir", "worship", "majesty", "glory"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Mighty Praise"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: All is Well",
+      "start_time": 353,
+      "type": "music",
+      "description": "The choir continues with a beautiful rendition of 'All is Well,' conveying a message of peace and hope with the arrival of Christ. The uplifting melody invites the congregation to reflect on the joy that the Christmas season brings.",
+      "keywords": ["All is Well", "peace", "hope", "Christ", "joy"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["All is Well"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Divorce Recovery Workshop",
+      "start_time": 554,
+      "type": "announcement",
+      "description": "Pastor Moore introduces the Divorce Recovery Workshop, a ministry offering support to individuals recovering from divorce. He shares insights on how the program has positively impacted lives, emphasizing the availability of guidance and assistance.",
+      "keywords": ["divorce", "recovery", "support", "ministry", "workshop"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Secret of Contentment (Philippians 4:10-12)",
+      "start_time": 745,
+      "type": "sermon",
+      "description": "Pastor Moore shares a sermon on the biblical concept of contentment, exploring its meaning and foundations through Philippians 4. He discusses Paul's journey of learning to be content in all circumstances and how modern society challenges this principle. The message encourages a focus on Christ as the source of true satisfaction.",
+      "keywords": ["contentment", "Philippians", "Paul", "sermon", "satisfaction"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Philippians 4:10-12"]
+    },
+    {
+      "title": "Solo: Press On",
+      "start_time": 919,
+      "type": "music",
+      "description": "A touching solo performance named 'Press On' emphasizes perseverance and faith in difficult times. The lyrics encourage the congregation to keep moving forward, trusting in God's strength and guidance.",
+      "keywords": ["Press On", "perseverance", "faith", "strength", "encouragement"],
+      "performers": ["Bob Vanetta"],
+      "songs": ["Press On"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3412,
+      "type": "prayer",
+      "description": "A heartfelt closing prayer reflecting on the message of contentment and gratitude for God's provision. The prayer emphasizes seeking strength from Christ and encourages the congregation to embrace the lessons learned.",
+      "keywords": ["prayer", "contentment", "gratitude", "strength", "Christ"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

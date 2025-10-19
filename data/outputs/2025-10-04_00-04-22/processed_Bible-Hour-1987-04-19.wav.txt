@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Hear the Bells Ringing",
+      "start_time": 322,
+      "type": "music",
+      "description": "The sanctuary choir joyfully sings 'Hear the Bells Ringing,' a celebratory piece emphasizing the resurrection of Christ. The lyrics remind us of the hope and joy brought by Jesus’ victory over death and the promise of new life. This song ushers in a spirit of praise and worship, setting the stage for the Easter message.",
+      "keywords": ["choir", "resurrection", "joy", "Easter"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Hear the Bells Ringing"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Joy to the World",
+      "start_time": 439,
+      "type": "music",
+      "description": "Continuing the Easter celebration, the choir performs 'Joy to the World,' a triumphant hymn declaring the resurrection of Christ. The exuberant melody and joyous lyrics express the celebration of new life and victory over sin, inviting the congregation to rejoice together in faith. It emphasizes the transformative power of the resurrection.",
+      "keywords": ["choir", "joy", "celebration", "Easter"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Joy to the World"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Glory in the Cross",
+      "start_time": 1547,
+      "type": "music",
+      "description": "Marilyn Wong performs 'Glory in the Cross,' a reflective piece that emphasizes the importance of embracing the sacrifice of Christ. The song beautifully articulates the theme of redemption and gratitude for the cross, encouraging listeners to reflect on their spiritual journey and the significance of Christ's suffering and glory.",
+      "keywords": ["solo", "cross", "redemption", "sacrifice"],
+      "performers": ["Marilyn Wong"],
+      "songs": ["Glory in the Cross"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1771,
+      "type": "prayer",
+      "description": "An opening prayer led by Pastor Rick focuses on humility and gratitude for the grace of God. He acknowledges human achievements while emphasizing the eternal significance of faith in Christ. The prayer seeks divine guidance in recognizing the resurrected power of Jesus in the lives of the congregation.",
+      "keywords": ["prayer", "grace", "humility", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Confidence in the Resurrection (Matthew 27:62-28:10)",
+      "start_time": 224,
+      "type": "sermon",
+      "description": "Pastor Rick delivers a powerful message titled 'Confidence in the Resurrection,' exploring the evidence and implications of Christ's resurrection. He discusses historical testimonies, scriptural prophecies, and the transformative impact of believing in the risen Christ. Through detailed analysis of scripture and personal conviction, he invites listeners to embrace their faith boldly.",
+      "keywords": ["sermon", "resurrection", "confidence", "Easter", "faith"],
+      "performers": ["Pastor Rick"],
+      "songs": [],
+      "scripture_references": ["Matthew 27:62-28:10"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3552,
+      "type": "prayer",
+      "description": "Pastor Rick leads an invitation prayer, encouraging those who feel called to accept Christ into their lives. He demonstrates compassion and sincerity, asking God to guide and transform hearts, emphasizing the significance of personal relationships with Jesus resulting from belief in His resurrection.",
+      "keywords": ["invitation", "prayer", "acceptance", "transformation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Mildred's Letter",
+      "start_time": 1378,
+      "type": "testimony",
+      "description": "Pastor Rick shares a heartfelt letter from Mildred, a resident of a nursing home, expressing her gratitude for the ministry of the Bible Hour. Her testimony illustrates the profound impact their broadcasts have on those unable to attend services, reminding the congregation of the far-reaching influence of their faith.",
+      "keywords": ["testimony", "Mildred", "impact", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Musical Events",
+      "start_time": 1284,
+      "type": "announcement",
+      "description": "Rick and Pete discuss the upcoming musical event titled 'Now I See You,' showcasing the resurrection message through a dramatic performance. They invite attendees to participate in this celebration, reinforcing the community's engagement in spiritual activities and the significance of celebrating Easter.",
+      "keywords": ["announcement", "musical", "Easter", "invitation"],
+      "performers": ["Rick", "Pete"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

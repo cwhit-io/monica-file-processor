@@ -1,0 +1,84 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: Everything That Has Breath",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with soft, gentle music that invites the congregation to prepare their hearts for worship. As the atmosphere fills with melodies, attendees are encouraged to greet one another and focus on the upcoming worship experience today.",
+      "keywords": ["worship", "welcome", "greeting", "community", "praise"],
+      "performers": ["Choir"],
+      "songs": ["Everything That Has Breath"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Praise God",
+      "start_time": 288,
+      "type": "music",
+      "description": "A vibrant musical performance captures the congregation's enthusiasm as they sing praises to God. This uplifting segment emphasizes themes of gratitude and celebration of God’s love, engaging everyone in joyous song.",
+      "keywords": ["praise", "worship", "joy", "hymn", "community"],
+      "performers": ["Choir"],
+      "songs": ["Praise God"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 664,
+      "type": "prayer",
+      "description": "The worship pastor invites the congregation to settle into a spirit of worship. An opening prayer dedicates the service to God, asking for His presence and guidance throughout the morning’s activities.",
+      "keywords": ["prayer", "worship", "dedication", "spirit", "community"],
+      "performers": ["Corbin Miller"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Matthew 5",
+      "start_time": 742,
+      "type": "scripture",
+      "description": "The congregation is prompted to read Matthew 5 together, focusing on the theme of 'being the light of the world.' This moment engages attendees in reflecting on the teachings of Jesus and their application in daily life.",
+      "keywords": ["scripture", "Matthew", "teaching", "light", "Jesus"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 5:14-16"]
+    },
+    {
+      "title": "Message: Being the Light of the World (Matthew 5)",
+      "start_time": 820,
+      "type": "sermon",
+      "description": "The sermon elaborates on Jesus’ message from Matthew 5, emphasizing the believer's role as light in the world. Various illustrations and practical applications are shared, inviting reflection on personal actions that glorify God.",
+      "keywords": ["sermon", "light", "deeds", "community", "faith"],
+      "performers": ["Corbin Miller"],
+      "songs": [],
+      "scripture_references": ["Matthew 5:14-16"]
+    },
+    {
+      "title": "Congregational Hymn: Thank You for Loving Me",
+      "start_time": 4626,
+      "type": "music",
+      "description": "The congregation joins together in a heartfelt hymn expressing gratitude for God’s love. This engaging music segment encourages a strong sense of community and devotion among worshippers.",
+      "keywords": ["thankfulness", "worship", "hymn", "community", "love"],
+      "performers": ["Congregation"],
+      "songs": ["Thank You for Loving Me"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 4952,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, asking God to empower the congregation to live out the message of being a light in their communities. It encourages reflection on their role as contributors to God’s kingdom.",
+      "keywords": ["closing", "prayer", "service", "empowerment", "community"],
+      "performers": ["Corbin Miller"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: We Will Remember",
+      "start_time": 4540,
+      "type": "music",
+      "description": "A powerful and reflective song resounds through the venue, creating a moment for attendees to contemplate God’s faithfulness and past blessings. This segment supports the theme of remembrance and gratitude.",
+      "keywords": ["memory", "praise", "worship", "testimony", "community"],
+      "performers": ["Choir"],
+      "songs": ["We Will Remember"],
+      "scripture_references": []
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Praise Him",
+      "start_time": 125,
+      "type": "music",
+      "description": "The sanctuary choir and orchestra lead the congregation in a joyful rendition of 'Praise Him.' This uplifting song emphasizes worship and gratitude towards Jesus, celebrating His love and goodness. The lyrics invite everyone to join in praising the Redeemer.",
+      "keywords": ["praise", "choir", "worship", "Jesus"],
+      "performers": ["Sanctuary Choir", "Orchestra"],
+      "songs": ["Praise Him"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: I Know Whom I Have Believed",
+      "start_time": 412,
+      "type": "music",
+      "description": "The congregation sings 'I Know Whom I Have Believed' led by Pastor Rick. This classic hymn reaffirms faith and confidence in God's promises, reminding worshippers of the assurance and hope found in believing in Christ. Each stanza brings forth a heartfelt expression of faith.",
+      "keywords": ["hymn", "faith", "worship", "Jesus"],
+      "performers": [],
+      "songs": ["I Know Whom I Have Believed"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Rise Up, O Men of God",
+      "start_time": 588,
+      "type": "music",
+      "description": "David and Debbie Johnson perform 'Rise Up, O Men of God,' an inspiring solo that calls for men to engage and take action in their faith. The music deeply resonates with the theme of spiritual awakening and responsibility, encouraging listeners to live out their faith boldly.",
+      "keywords": ["solo", "worship", "faith", "inspiration"],
+      "performers": ["Dave Johnson", "Debbie Johnson"],
+      "songs": ["Rise Up, O Men of God"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1295,
+      "type": "prayer",
+      "description": "The opening prayer sets the tone for the service, inviting the Holy Spirit to guide the worshippers. The prayer acknowledges God's holiness and expresses gratitude for His character and promises. It seeks divine intervention for healing and restoration for those in need.",
+      "keywords": ["prayer", "worship", "healing", "gratitude"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: John 8",
+      "start_time": 1512,
+      "type": "scripture",
+      "description": "Pastor Rick reads John 8:1-11, recounting the powerful narrative of the woman caught in adultery. This passage sets the context for the day’s sermon, highlighting themes of judgment, compassion, and forgiveness as Jesus responds to the accusers.",
+      "keywords": ["scripture", "John", "adultery", "forgiveness"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["John 8"]
+    },
+    {
+      "title": "Message: A Woman Who Came a Stones Throw from Death (John 8)",
+      "start_time": 1512,
+      "type": "sermon",
+      "description": "Pastor Rick delivers a powerful sermon, 'A Woman Who Came a Stones Throw from Death,' drawing from John 8. He explores the stigma and legalism faced by the woman caught in adultery, illustrating Jesus's radical compassion and the offering of a second chance. The sermon invites personal reflection on sin, forgiveness, and the love of Christ.",
+      "keywords": ["sermon", "compassion", "forgiveness", "Jesus", "adultery"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["John 8:1-11"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3534,
+      "type": "prayer",
+      "description": "The closing prayer concludes the service, thanking God for the message and asking for His grace throughout the week. It emphasizes the desire for attendees to live out their faith and to share the compassion they have received from God with others.",
+      "keywords": ["prayer", "closing", "thanksgiving", "God"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

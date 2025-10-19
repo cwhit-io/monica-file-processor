@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: God's Grace Shining Down",
+      "start_time": 291,
+      "type": "music",
+      "description": "The sanctuary choir performs a lively song celebrating God's grace shining down upon us. The uplifting music encourages the congregation, inviting them to embrace the joy of serving Jesus. This piece sets a joyful tone for the upcoming portions of the service.",
+      "keywords": ["grace", "choir", "uplifting", "God", "music"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["God's Grace Shining Down"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: There is Joy in Serving Jesus",
+      "start_time": 494,
+      "type": "music",
+      "description": "The congregation joins together in worship, singing 'There is Joy in Serving Jesus.' This hymn, reflecting on the joy found in service, brings a sense of unity and commitment among the participants, enhancing the spiritual atmosphere.",
+      "keywords": ["joy", "serving", "Jesus", "hymn", "congregational"],
+      "performers": [],
+      "songs": ["There is Joy in Serving Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Youth Choir: Celebrating Life in Jesus Christ",
+      "start_time": 756,
+      "type": "music",
+      "description": "The youth choir from Calvary Baptist Church presents an energetic performance about celebrating life in Jesus Christ. Their enthusiasm and talent showcase the next generation's commitment to faith and worship, encouraging all in attendance.",
+      "keywords": ["youth", "celebration", "life", "Jesus", "choir"],
+      "performers": ["Disciple Singers"],
+      "songs": ["Celebrating Life in Jesus Christ"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1783,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, inviting God's presence and guidance over the service. The prayer touches on themes of refuge in God and seeks healing for those burdened by grief or guilt, emphasizing the need for divine intervention.",
+      "keywords": ["prayer", "God", "healing", "guidance", "refuge"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Proverbs 4:20-27",
+      "start_time": 2003,
+      "type": "scripture",
+      "description": "The scripture reading focuses on Proverbs 4:20-27, stressing the importance of guarding one's heart as the source of life. This passage reflects the essence of the message to be shared, setting the stage for further exploration of its themes.",
+      "keywords": ["Proverbs", "heart", "scripture", "reading", "wisdom"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Proverbs 4:20-27"]
+    },
+    {
+      "title": "Message: Managing Ourselves (Proverbs 4)",
+      "start_time": 1949,
+      "type": "sermon",
+      "description": "In this sermon on Proverbs 4, the speaker emphasizes the necessity of managing one's heart and life. He shares personal insights and biblical wisdom, focusing on the heart as the master control center and the importance of guarding it against negative influences.",
+      "keywords": ["Proverbs", "heart", "wisdom", "management", "sermon"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Proverbs 4"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3542,
+      "type": "prayer",
+      "description": "An invitation prayer is offered for those wishing to accept Christ. The prayer emphasizes the importance of inviting Jesus into one's heart, marking a significant moment for many who respond to the call for spiritual renewal.",
+      "keywords": ["invitation", "prayer", "Christ", "salvation", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3561,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that reaffirms the day's teachings and worship. It encapsulates the spirit of the gathering, thanking God for His word and the community of believers, and asking for strength to walk in faith.",
+      "keywords": ["closing", "prayer", "community", "God", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Congregational Hymn: [Music]",
+      "start_time": 89,
+      "type": "music",
+      "description": "The service begins with a heartfelt congregational hymn, inviting the congregation to participate in worship. The music sets an uplifting atmosphere for the service, allowing everyone to come together in praise and reflection. This moment of communal worship is a vital part of the church experience, creating unity and shared joy among attendees.",
+      "keywords": ["worship", "hymn", "celebration", "community", "God"],
+      "performers": [],
+      "songs": ["Music"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Faithfulness of God in Salvation (Romans 8)",
+      "start_time": 1175,
+      "type": "sermon",
+      "description": "The sermon focuses on the unshakeable faithfulness of God regarding salvation, emphasizing the security believers find in their relationship with Christ. Using Romans 8 as a foundation, the speaker unfolds the truths of God's foreknowledge, predestination, and the assurance of glorification. Listeners are encouraged to trust in God's sovereign plan, reminding them of the powerful love that anchors their faith.",
+      "keywords": ["faithfulness", "salvation", "God", "predestination", "security"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Romans 8:28-39"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3536,
+      "type": "prayer",
+      "description": "The service concludes with a sincere closing prayer, seeking God's guidance and expressing gratitude for His faithfulness. The prayer encompasses themes of understanding God's will and the mystery of His workings in believers' lives. This moment allows the congregation to reflect and commit their service to the Lord.",
+      "keywords": ["prayer", "gratitude", "guidance", "faithfulness", "worship"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Service Conclusion",
+      "start_time": 3540,
+      "type": "announcement",
+      "description": "In the final moments of the service, key announcements are shared to inform the congregation about upcoming events and initiatives. Despite the promotional nature, the focus remains on fostering a sense of community and encouraging participation in church activities. These announcements are vital for keeping the church family connected and engaged.",
+      "keywords": ["announcements", "community", "connection", "participation", "events"],
+      "performers": ["Craig Volker"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

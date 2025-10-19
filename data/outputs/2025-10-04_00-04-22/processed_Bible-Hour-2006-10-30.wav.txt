@@ -1,0 +1,74 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: Thank You for Your Cross",
+      "start_time": 77,
+      "type": "music",
+      "description": "The choir performs a heartfelt rendition of 'Thank You for Your Cross.' The lyrics express gratitude for Christ's sacrifice and the theme of redemption, stirring deep emotions in the congregation.",
+      "keywords": ["thankful", "cross", "Christ", "sacrifice", "redemption"],
+      "performers": ["Choir"],
+      "songs": ["Thank You for Your Cross"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Generous Living (Matthew 19)",
+      "start_time": 289,
+      "type": "sermon",
+      "description": "The sermon focuses on living generously as a response to God's generosity. The speaker engages the congregation with personal anecdotes and biblical references, highlighting the importance of sharing one's resources, time, and talents with others. The central scripture is Matthew 19, discussing the call to follow Christ and prioritize generosity over material possessions.",
+      "keywords": ["generosity", "living", "Matthew", "wealth", "greed"],
+      "performers": ["Kelly", "Mitch"],
+      "songs": [],
+      "scripture_references": ["Matthew 19:16-22"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting God's presence and asking for guidance throughout the service. The prayer emphasizes a spirit of generosity and receptiveness to God's word.",
+      "keywords": ["prayer", "guidance", "God", "generosity", "worship"],
+      "performers": ["[]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Matthew 19",
+      "start_time": 958,
+      "type": "scripture",
+      "description": "A scripture reading from Matthew 19 is shared, illustrating the story of the rich young ruler seeking eternal life. This reading sets the theological foundation for the sermon, emphasizing the biblical message of generosity.",
+      "keywords": ["scripture", "Matthew", "rich", "ruler", "eternal"],
+      "performers": ["[]"],
+      "songs": [],
+      "scripture_references": ["Matthew 19"]
+    },
+    {
+      "title": "Choir: Break Through",
+      "start_time": 2653,
+      "type": "music",
+      "description": "The choir performs 'Break Through,' a powerful song that conveys a desire for divine intervention and transformation in the lives of believers. The performance invites the congregation to reflect on their own spiritual journeys.",
+      "keywords": ["breakthrough", "transformation", "worship", "song", "God"],
+      "performers": ["Choir"],
+      "songs": ["Break Through"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3488,
+      "type": "prayer",
+      "description": "The closing prayer encapsulates the themes discussed during the service, asking for God's help in cultivating generous hearts among the congregation. It encourages attendees to reflect on their commitment to living generously.",
+      "keywords": ["closing", "prayer", "God", "generosity", "commitment"],
+      "performers": ["[]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 2966,
+      "type": "announcement",
+      "description": "Important upcoming events and opportunities for engagement in church activities are shared with the congregation. The announcement encourages participation in services and community outreach initiatives.",
+      "keywords": ["events", "participation", "community", "church", "outreach"],
+      "performers": ["[]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

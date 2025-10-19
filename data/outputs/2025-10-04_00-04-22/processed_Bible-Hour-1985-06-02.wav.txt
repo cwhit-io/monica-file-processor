@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: God Shall Wipe Away All Tears",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir sings a heartfelt piece about hope and divine comfort, focusing on the promise that God will wipe away all tears and sorrow. The lyrics convey a sense of faith and anticipation for a future without pain. The song reminds the congregation of the steadfastness of God's presence in times of trouble.",
+      "keywords": ["hope", "tears", "choir", "faith", "comfort"],
+      "performers": ["choir"],
+      "songs": ["God Shall Wipe Away All Tears"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: My Hope is Built",
+      "start_time": 203,
+      "type": "music",
+      "description": "The congregation joins together in singing hymn #423, 'My Hope is Built on Nothing Less.' This hymn reflects the Christian belief in the unwavering foundation of faith in Jesus Christ. The performance from both the choir and congregation creates a powerful atmosphere of worship and unity.",
+      "keywords": ["hymn", "faith", "worship", "congregational", "Jesus"],
+      "performers": ["congregation"],
+      "songs": ["My Hope is Built on Nothing Less"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Graduation Recognition",
+      "start_time": 634,
+      "type": "announcement",
+      "description": "John Sootch honors the high school and college graduates from the church, recognizing their achievements. The congregation is encouraged to show appreciation through applause, celebrating their hard work and accomplishments in education.",
+      "keywords": ["graduation", "achievement", "recognition", "honor", "church"],
+      "performers": ["John Sootch"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Prayer for Graduates",
+      "start_time": 771,
+      "type": "prayer",
+      "description": "A heartfelt prayer is offered for the graduates, asking for God's guidance as they embark on new journeys in life. The prayer emphasizes gratitude for their achievements and the importance of using their education for God's glory.",
+      "keywords": ["prayer", "graduates", "guidance", "gratitude", "God"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Finally Home",
+      "start_time": 896,
+      "type": "music",
+      "description": "Marilyn Wong performs the solo 'Finally Home,' a song that reflects on the joy and hope of eternal life with the Lord. The performance brings a personal touch to the service, moving the congregation with its themes of hope and reunion in heaven.",
+      "keywords": ["solo", "hope", "eternal life", "Marilyn Wong", "worship"],
+      "performers": ["Marilyn Wong"],
+      "songs": ["Finally Home"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Dying Thief (Luke 23)",
+      "start_time": 1740,
+      "type": "sermon",
+      "description": "Dr. John Sproul delivers a profound sermon based on Luke 23, exploring the theme of redemption through the dying thief on the cross. He discusses the significance of the thief's request for remembrance and highlights the themes of grace, repentance, and faith. The sermon emphasizes the hope that exists even in dire circumstances and the mercy of Jesus.",
+      "keywords": ["sermon", "redemption", "grace", "faith", "Luke 23"],
+      "performers": ["Dr. John Sproul"],
+      "songs": [],
+      "scripture_references": ["Luke 23"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3447,
+      "type": "prayer",
+      "description": "A closing prayer is offered, thanking God for the day's worship and the message delivered. The prayer also asks for guidance to apply the teachings of the sermon in daily life and to remain anchored in faith.",
+      "keywords": ["closing prayer", "worship", "thanksgiving", "guidance", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: People Need the Lord",
+      "start_time": 1415,
+      "type": "music",
+      "description": "Pete Coby performs a moving piece, 'People Need the Lord,' which conveys the message of evangelism and the urgency of sharing the gospel. The lyrics resonate with the audience, encouraging them to reflect on the importance of reaching out to those who feel lost.",
+      "keywords": ["solo", "evangelism", "gospel", "Pete Coby", "worship"],
+      "performers": ["Pete Coby"],
+      "songs": ["People Need the Lord"],
+      "scripture_references": []
+    }
+  ]
+}
+```

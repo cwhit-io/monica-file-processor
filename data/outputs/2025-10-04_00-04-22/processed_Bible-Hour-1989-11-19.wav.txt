@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Sing to the Lord and Be Not Silent",
+      "start_time": 128,
+      "type": "music",
+      "description": "The sanctuary choir performs a powerful rendition of the hymn 'Sing to the Lord and Be Not Silent,' inviting the congregation to express their gratitude through song. This uplifting music sets the tone for reflection and worship.",
+      "keywords": ["choir", "worship", "sing", "music", "praise"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Sing to the Lord and Be Not Silent"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: My Hope Is Built",
+      "start_time": 367,
+      "type": "music",
+      "description": "The congregation joins together in singing the hymn 'My Hope Is Built' (Hymn number 404). This heartfelt worship moment encourages attendees to focus on their faith and the foundation provided by Jesus Christ.",
+      "keywords": ["congregation", "hymn", "worship", "faith", "hope"],
+      "performers": ["Congregation"],
+      "songs": ["My Hope Is Built"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: A Woman Who Has Been Around, Comes Around (John 4:4-42)",
+      "start_time": 1647,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a profound sermon discussing the transformative encounter between Jesus and the Samaritan woman at the well. He explores themes of hurt, redemption, and the living water Jesus offers to those in spiritual need, emphasizing the value and worth bestowed by God amidst personal struggles.",
+      "keywords": ["Jesus", "woman", "Samaritan", "redemption", "hurt"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["John 4:4-42"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1651,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, invoking God's presence and guidance as the congregation prepares to engage with scripture and worship. The prayer reflects on the various hurts experienced in life and seeks divine comfort and worth for those affected.",
+      "keywords": ["prayer", "opening", "worship", "guidance", "comfort"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Burned by Dirt",
+      "start_time": 1256,
+      "type": "music",
+      "description": "A poignant solo performance titled 'Burned by Dirt' conveys deep emotional struggles and the healing power of Jesus. The song resonates with the themes of pain and redemption shared in the sermon, inviting reflection among the congregation.",
+      "keywords": ["solo", "pain", "redemption", "music"],
+      "performers": ["Lisa Reniker"],
+      "songs": ["Burned by Dirt"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3486,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for His presence and the message delivered. The prayer emphasizes the commitment to follow Christ and the importance of embracing His promises for a fulfilled life.",
+      "keywords": ["closing", "prayer", "thanksgiving", "commitment", "life"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: How Great Thou Art",
+      "start_time": 144,
+      "type": "music",
+      "description": "The Sanctuary Choir leads the congregation in a powerful rendition of 'How Great Thou Art'. This song emphasizes the greatness of God and serves as a heartfelt declaration of faith. The communal singing assures a collective expression of worship, drawing every heart into a unified acknowledgment of God's majesty.",
+      "keywords": ["worship", "choir", "God", "greatness", "song"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["How Great Thou Art"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: I Stand Amazed in the Presence",
+      "start_time": 217,
+      "type": "music",
+      "description": "The choir performs 'I Stand Amazed in the Presence', a song reflecting on the overwhelming love of Jesus. The lyrics lead the congregation to meditate on Christ’s sacrificial love and grace, reinforcing the theme of divine compassion and wonder in the love God has for humanity.",
+      "keywords": ["Jesus", "love", "worship", "grace", "sacrifice"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["I Stand Amazed in the Presence"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: O Glorious Love",
+      "start_time": 622,
+      "type": "music",
+      "description": "The ladies' trio sings 'O Glorious Love', a touching piece that articulates the depth of Christ's love. Through soulful melodies, the song invites listeners to appreciate the kindness and compassion of Jesus, urging them to worship and respond to His love throughout their lives.",
+      "keywords": ["Christ", "love", "worship", "soul", "grace"],
+      "performers": ["Ladies' Trio"],
+      "songs": ["O Glorious Love"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1444,
+      "type": "prayer",
+      "description": "The service opens with a heartfelt prayer of thanksgiving to God for His blessings, both physically and spiritually. The prayer acknowledges the past year’s harvest and emphasizes the importance of gratitude. It seeks blessings for the nation and a call for revival, uniting the congregation in shared reflection.",
+      "keywords": ["thanksgiving", "gratitude", "prayer", "blessings", "revival"],
+      "performers": ["Pastor Rick Off"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Transformative Power of Christ (1 Corinthians 6:9-11)",
+      "start_time": 1755,
+      "type": "sermon",
+      "description": "Pastor Rick Off preaches on the transformative power of Christ using 1 Corinthians 6:9-11. He discusses the harsh realities of unrighteousness but emphasizes the hope that comes with being washed, sanctified, and justified through faith in Jesus. The message highlights the opportunity for spiritual renewal and the profound change that belief in Christ can bring to an individual's life.",
+      "keywords": ["righteousness", "transformation", "Jesus", "1 Corinthians", "faith"],
+      "performers": ["Pastor Rick Off"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 6"]
+    },
+    {
+      "title": "Congregational Hymn: It Is Well with My Soul",
+      "start_time": 436,
+      "type": "music",
+      "description": "The congregation participates in singing 'It Is Well with My Soul', a powerful hymn that reassures believers of peace amid life's trials. This song serves as a comforting reminder of God's presence and steadfastness. Each stanza reflects the deep faith in God's goodness, bringing unity and solace to hearts gathered in worship.",
+      "keywords": ["hymn", "peace", "faith", "worship", "soul"],
+      "performers": [],
+      "songs": ["It Is Well with My Soul"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Invitation to Sing",
+      "start_time": 1416,
+      "type": "music",
+      "description": "The choir provides an invitation to sing along with their next anthem, encouraging participation as they lead the congregation in worship. The focus on joyful melodies creates an uplifting atmosphere, preparing hearts to engage more fully in the upcoming segments of the service.",
+      "keywords": ["invitation", "worship", "choir", "participation", "songs"],
+      "performers": ["Sanctuary Choir"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3521,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Rick Off, fostering a spirit of gratitude and commitment to follow Christ. Participants are invited to reflect on the message and personal decisions made during worship. The prayer seeks divine guidance and strength for the week ahead.",
+      "keywords": ["closing", "prayer", "thankfulness", "commitment", "guidance"],
+      "performers": ["Pastor Rick Off"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

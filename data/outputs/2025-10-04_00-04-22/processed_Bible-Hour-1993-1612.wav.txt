@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Opening Song",
+      "start_time": 105,
+      "type": "music",
+      "description": "The service starts with a choir performance that sets a reverent atmosphere for the gathering. The lyrics focus on worshipping the Lord and acknowledging His greatness. This opening song aims to prepare the hearts of the congregation for the message to come.",
+      "keywords": ["choir", "worship", "song"],
+      "performers": ["Chastel Choir"],
+      "songs": ["Opening Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Changed",
+      "start_time": 284,
+      "type": "music",
+      "description": "A soloist shares a powerful rendition of 'I've Been Changed,' expressing the transformative power of faith in Christ. The lyrics highlight the drastic change that faith brings to an individual's life, intended to resonate with the congregation's personal experiences of salvation.",
+      "keywords": ["solo", "testimony", "faith"],
+      "performers": ["Marilyn Wong", "Marsha Richard"],
+      "songs": ["I've Been Changed"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Millennium (Revelation 20)",
+      "start_time": 750,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers an in-depth sermon on the topic of 'The Millennium,' based on Revelation 20. He discusses the characteristics of the millennial reign of Christ, emphasizing themes of peace, justice, and the ultimate triumph of good over evil. The message explores biblical prophecies and the implications for the future, urging believers to find hope in the promises of God.",
+      "keywords": ["millennium", "Christ", "Revelation", "peace"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 20"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3438,
+      "type": "prayer",
+      "description": "A heartfelt invitation prayer is offered, calling individuals to accept Jesus Christ as their Savior. The prayer supports those who are ill and seeks divine intervention for all attendees. It serves as a gentle prompt for personal reflection and decision-making regarding faith.",
+      "keywords": ["prayer", "invitation", "salvation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Duet: I Am Not Worthy",
+      "start_time": 580,
+      "type": "music",
+      "description": "Marilyn Wong and Marsha Richard perform a moving duet titled 'I Am Not Worthy,' focusing on themes of humility and gratitude towards Christ’s sacrifice. The song reflects on the mercy and grace of God, inviting the congregation to consider their stance before God.",
+      "keywords": ["duet", "worship", "grace"],
+      "performers": ["Marilyn Wong", "Marsha Richard"],
+      "songs": ["I Am Not Worthy"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Powerful Change",
+      "start_time": 405,
+      "type": "music",
+      "description": "The congregation joins in singing a hymn centered on the theme of transformation through Christ. It provides an opportunity for collective worship, reinforcing the messages of the day through familiar melodies that encourage participation and reflection.",
+      "keywords": ["congregation", "hymn", "transformation"],
+      "performers": [],
+      "songs": ["Powerful Change"],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: Testimony of Faith",
+      "start_time": 440,
+      "type": "drama",
+      "description": "A dramatic presentation shares testimonies of individuals who experienced profound changes in their lives after accepting Christ. This segment illustrates the theme of the service and complements the sermon, providing real-life examples of faith in action.",
+      "keywords": ["drama", "testimony", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3456,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, inviting attendees to reflect on the message delivered and to seek God's guidance as they go about their week. This prayer wraps up the service with a sense of communal hope and divine blessing.",
+      "keywords": ["closing prayer", "community", "blessing"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

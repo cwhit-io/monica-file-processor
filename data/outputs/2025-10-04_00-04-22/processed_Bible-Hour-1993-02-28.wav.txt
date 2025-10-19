@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Special Music",
+      "start_time": 112,
+      "type": "music",
+      "description": "The sanctuary choir and the Cedar Building Chamber Orchestra come together to present uplifting and inspiring music. This performance creates an atmosphere of worship, drawing the congregation into a deep moment of reflection and praise.",
+      "keywords": ["choir", "orchestra", "special music", "inspiration", "worship"],
+      "performers": ["Cedar Building Chamber Orchestra", "Sanctuary Choir"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Thou Art Worthy",
+      "start_time": 495,
+      "type": "music",
+      "description": "The choir performs the anthem 'Thou Art Worthy,' celebrating the glory and worthiness of Christ. The combined efforts of the choir and orchestra lead the congregation in praising the majesty of God.",
+      "keywords": ["Thou Art Worthy", "anthem", "praise", "choir", "music"],
+      "performers": ["Cedar Building Chamber Orchestra", "Sanctuary Choir"],
+      "songs": ["Thou Art Worthy"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Living Lamb (Revelation 5)",
+      "start_time": 909,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a profound message on Revelation 5, elaborating on the theme of redemption and the character of Jesus as the living Lamb. The sermon explores the celestial vision of worship in heaven, depicting the ultimate triumph over evil and the promise of a joyous future for believers.",
+      "keywords": ["Revelation", "Jesus", "Lamb", "worship", "redemption"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 5"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3430,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer that invites God's presence and guidance. The prayer emphasizes gratitude for Jesus Christ's sacrifice and encourages participants to seek forgiveness and welcome the Lord into their hearts.",
+      "keywords": ["prayer", "opening", "gratitude", "invitation", "holy"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3450,
+      "type": "prayer",
+      "description": "During the invitation prayer, attendees are encouraged to reaffirm their faith in Christ. The prayer focuses on personal commitment and the desire for God’s presence in their lives, reinforcing the importance of making a decision for Christ.",
+      "keywords": ["invitation", "prayer", "commitment", "faith", "Jesus"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Bible Hour Resources",
+      "start_time": 3482,
+      "type": "announcement",
+      "description": "Various resources are announced, including spiritual guidance materials and sermon series available for those interested. Attendees are encouraged to reach out for support in their spiritual journey and to deepen their understanding of scriptural teachings.",
+      "keywords": ["resources", "spiritual growth", "announcements", "Bible Hour", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3530,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that emphasizes thanksgiving and invites God into the lives of all attendees. It encapsulates the message shared during the service and leaves participants with a sense of hope and encouragement.",
+      "keywords": ["closing", "prayer", "thanksgiving", "invitation", "hope"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

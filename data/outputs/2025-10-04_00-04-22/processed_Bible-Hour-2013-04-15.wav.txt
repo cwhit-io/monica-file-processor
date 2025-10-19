@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Come and Rise Up from the Grave",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir powerfully leads the congregation in a song focusing on the resurrection of Christ. The lyrics celebrate victory over sin and death, invoking a sense of hope and unity with the divine. This uplifting performance encourages the faithful to embrace their identity in Christ.",
+      "keywords": ["choir", "resurrection", "victory", "hope", "unity"],
+      "performers": ["Choir"],
+      "songs": ["Come and Rise Up from the Grave"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: I Will Rise",
+      "start_time": 480,
+      "type": "music",
+      "description": "The congregation joins in a heartfelt hymn, affirming their commitment to rise with Christ. The repeated phrases emphasize the resurrection theme, inviting worshippers to reflect on their new life through faith. The worship experience inspires participants to proclaim their joyous expectations of eternal life.",
+      "keywords": ["congregational", "hymn", "resurrection", "faith", "joy"],
+      "performers": ["Congregation"],
+      "songs": ["I Will Rise"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 704,
+      "type": "prayer",
+      "description": "The service opens with a prayer inviting God's presence into the gathering. The leader asks for guidance and blessings on the service and its participants, setting a reflective tone for the worship experience. The prayer emphasizes reliance on divine support and seeks spiritual connection.",
+      "keywords": ["prayer", "guidance", "spiritual", "connection", "worship"],
+      "performers": ["Leader"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Testing Genuine Faith (1 John)",
+      "start_time": 764,
+      "type": "sermon",
+      "description": "The pastor explores the themes of genuine faith as presented in 1 John, discussing how believers can test their faith through doctrinal and moral standards. The message emphasizes the importance of confession, the nature of sin, and the redemptive work of Christ. The sermon challenges attendees to examine their lives in light of biblical truth.",
+      "keywords": ["faith", "genuine", "sermon", "1 John", "confession"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["1 John 1:5-2:2", "2 Corinthians 13:5"]
+    },
+    {
+      "title": "Solo: The Victor's Crown",
+      "start_time": 3456,
+      "type": "music",
+      "description": "A solo performance of 'The Victor's Crown' beautifully underscores themes of divine victory and grace. The artist's evocative rendition captivates the audience, deepening their worship experience. The lyrics inspire reflection on God's power and the comfort found in His presence.",
+      "keywords": ["solo", "victory", "grace", "worship", "reflection"],
+      "performers": ["Solo Artist"],
+      "songs": ["The Victor's Crown"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3751,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that expresses gratitude for the worship experience. The leader asks for the congregation to carry the lessons learned into their daily lives and to seek continued strength and guidance from God. This intimate moment reinforces community bonds and dedication to faith.",
+      "keywords": ["closing", "prayer", "gratitude", "community", "faith"],
+      "performers": ["Leader"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Online Streaming Service",
+      "start_time": 3460,
+      "type": "announcement",
+      "description": "An announcement provides details about the church's online streaming service, inviting the congregation to share this opportunity with others. The leader emphasizes the importance of reaching a wider audience, particularly those unable to attend in person. This initiative aims to foster community and provide spiritual resources globally.",
+      "keywords": ["announcement", "streaming", "community", "engagement", "connection"],
+      "performers": ["Leader"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

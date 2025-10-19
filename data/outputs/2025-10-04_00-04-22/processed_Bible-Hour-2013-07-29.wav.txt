@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Intro",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with upbeat music that sets a joyful tone for the gathering. It welcomes the congregation and creates an atmosphere of anticipation and excitement for the events to follow.",
+      "keywords": ["music", "intro", "upbeat", "welcome", "joyful"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Educational Opportunities",
+      "start_time": 29,
+      "type": "announcement",
+      "description": "The speaker shares about two educational opportunities available through the church, including information about Black Hawk Christian School and the Lagos Institute of Biblical Studies. This promotes spiritual growth and community involvement.",
+      "keywords": ["education", "announcement", "Black Hawk", "Lagos Institute", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Unknown Title]",
+      "start_time": 283,
+      "type": "music",
+      "description": "The congregation participates in a hymn, singing together as a community, which fosters unity and worship. The music uplifts spirits and reinforces the message of worship in the service.",
+      "keywords": ["music", "hymn", "congregation", "worship", "unity"],
+      "performers": [],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Jesus as the True Vine (John 15)",
+      "start_time": 376,
+      "type": "sermon",
+      "description": "The sermon focuses on John 15, exploring the metaphor of Jesus as the true vine and the implications for believers' lives. The speaker emphasizes the importance of being connected to Christ for spiritual fruitfulness and growth, illustrating themes of pruning, prayer, and joy in God's mission.",
+      "keywords": ["sermon", "Jesus", "vine", "fruitfulness", "John 15"],
+      "performers": ["Josh Rang"],
+      "songs": [],
+      "scripture_references": ["John 15"]
+    },
+    {
+      "title": "Choir: Crown Him with Many Crowns",
+      "start_time": 3118,
+      "type": "music",
+      "description": "The choir performs 'Crown Him with Many Crowns', leading the congregation in a powerful worship experience that celebrates the majesty and sovereignty of Christ. The song enhances the overall atmosphere of reverence and praise during the service.",
+      "keywords": ["music", "choir", "worship", "praise", "majesty"],
+      "performers": ["[Choir]"],
+      "songs": ["Crown Him with Many Crowns"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3530,
+      "type": "prayer",
+      "description": "The service closes with a heartfelt prayer, thanking God for the time spent in worship and seeking protection and guidance for the congregation as they leave. This prayer reinforces the sense of community and connection with God.",
+      "keywords": ["prayer", "closing", "community", "thanksgiving", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

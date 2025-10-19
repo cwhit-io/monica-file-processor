@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "announcement: Black Hawk Christian School Overview",
+      "start_time": 30,
+      "type": "announcement",
+      "description": "Sam Barfell introduces Black Hawk Christian School, highlighting its commitment to academic excellence grounded in Scripture. He encourages families to consider enrollment and emphasizes the school's strong faculty and facilities. Barfell invites listeners to reach out for more information about the school's offerings.",
+      "keywords": ["Black Hawk Christian School", "education", "academic excellence", "Scripture"],
+      "performers": ["Sam Barfell"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Great Commission",
+      "start_time": 175,
+      "type": "scripture",
+      "description": "The congregation is reminded of the Great Commission, where Jesus instructs his followers to make disciples of all nations and baptize them in His name. This foundational scripture emphasizes the importance of teaching and embodying the faith in daily life.",
+      "keywords": ["Great Commission", "Jesus", "disciples", "baptism"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 28:18-20"]
+    },
+    {
+      "title": "Congregational Hymn: Praise the Lord",
+      "start_time": 231,
+      "type": "music",
+      "description": "The congregation engages in praise, singing a hymn that expresses gratitude and reverence to God. The lyrics focus on the steadfastness and goodness of the Lord, inviting worshippers to lift their voices and hearts in honor of God's enduring love.",
+      "keywords": ["hymn", "praise", "congregation", "worship"],
+      "performers": [],
+      "songs": ["Praise the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Your Grace Is Enough",
+      "start_time": 543,
+      "type": "music",
+      "description": "The choir performs 'Your Grace Is Enough,' celebrating God's unending grace and faithfulness. This heartfelt song reinforces the theme of reliance on God’s strength in both good and challenging times, encouraging attendees to trust in His provision.",
+      "keywords": ["grace", "choir", "worship", "faithfulness"],
+      "performers": ["Choir"],
+      "songs": ["Your Grace Is Enough"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 581,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, inviting God’s presence into the service and acknowledging the need for His guidance. The prayer sets the tone for worship, encouraging congregants to prepare their hearts for the message ahead.",
+      "keywords": ["prayer", "worship", "guidance", "presence"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Blessing the Lord at All Times (Psalm 34)",
+      "start_time": 882,
+      "type": "sermon",
+      "description": "The pastor emphasizes the importance of blessing the Lord in all aspects of life, as conveyed in Psalm 34. He discusses the implications of worshiping God continually, sharing personal stories and practical applications for congregation members to further engage with their faith.",
+      "keywords": ["sermon", "worship", "Psalm 34", "blessing", "faith"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Psalm 34"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3523,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, thanking God for His guidance and teachings shared during the gathering. It encourages attendees to carry the message into their week, praying for strength and grace as they apply it to their lives.",
+      "keywords": ["closing prayer", "thanksgiving", "guidance", "strength"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

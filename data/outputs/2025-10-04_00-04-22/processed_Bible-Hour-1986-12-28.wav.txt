@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Angels We Have Heard on High",
+      "start_time": 359,
+      "type": "music",
+      "description": "The choir performs the traditional Christmas carol 'Angels We Have Heard on High'. The congregation joins in as they harmonize to the joyful lyrics, celebrating the birth of Jesus as the angels sing. The atmosphere is filled with holiday cheer and reverence.",
+      "keywords": ["angels", "Christmas", "joy", "worship", "carol"],
+      "performers": [],
+      "songs": ["Angels We Have Heard on High"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Do You See What I See?",
+      "start_time": 546,
+      "type": "music",
+      "description": "The choir presents 'Do You See What I See?', telling the story of the birth of Jesus through the perspective of a little lamb. The performance is filled with enchanting melodies and reflects on the miraculous events surrounding the Savior's birth.",
+      "keywords": ["lamb", "star", "wonder", "birth", "Jesus"],
+      "performers": [],
+      "songs": ["Do You See What I See?"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Silent Celebration",
+      "start_time": 1298,
+      "type": "music",
+      "description": "A solo performance of 'Silent Celebration' is delivered, reflecting on the joyous mystery of the birth of Jesus. The singer conveys a sense of peace and happiness, highlighting the special celebration of his birth, evoking heartfelt emotions in the congregation.",
+      "keywords": ["silent", "celebration", "joy", "Christmas", "birth"],
+      "performers": ["Crystal Hull"],
+      "songs": ["Silent Celebration"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Shekinah Glory",
+      "start_time": 1664,
+      "type": "music",
+      "description": "The worship continues with a powerful solo performance of 'Shekinah Glory', which emphasizes the glory of Jesus Christ. The performance is uplifting, drawing attention to God's presence and glory through Jesus, engaging the congregation in worship.",
+      "keywords": ["glory", "worship", "Jesus", "presence", "shekinah"],
+      "performers": ["Crystal Hull"],
+      "songs": ["Shekinah Glory"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1989,
+      "type": "prayer",
+      "description": "The service transitions into a heartfelt opening prayer where the pastor seeks God's guidance and presence for the worship experience. Various needs within the community are lifted up, emphasizing a unified spirit in prayer as they prepare to receive God's word.",
+      "keywords": ["prayer", "community", "guidance", "worship", "needs"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Resurrection Living (1 Corinthians 15:29-34)",
+      "start_time": 2141,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a powerful sermon titled 'Resurrection Living', focusing on the implications of Christ's resurrection as a motivator for conversion and commitment. Using 1 Corinthians 15, he explores how belief in the resurrection shapes character and compels one to live faithfully for Christ.",
+      "keywords": ["resurrection", "conversion", "commitment", "1 Corinthians", "faith"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 15:29-34"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3411,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, inviting the congregation to bow their heads. The pastor expresses gratitude for God's presence and asks for strength and guidance in their spiritual walk. It's a moment of reflection and commitment to living out the message shared.",
+      "keywords": ["closing", "prayer", "gratitude", "community", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 874,
+      "type": "announcement",
+      "description": "The pastor shares information about upcoming events in the church, including a special seminar and guest performances. This segment reinforces the church community's active engagement and invites participation in future opportunities for growth and fellowship.",
+      "keywords": ["events", "seminar", "community", "fellowship", "engagement"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

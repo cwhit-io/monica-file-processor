@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Message: God's Call Through Life's Chaos (Judges 6)",
+      "start_time": 0,
+      "type": "sermon",
+      "description": "The message begins with the introduction of the new series on Gideon, highlighting the theme of feeling inadequate and God's calls amidst chaos. The speaker shares personal anecdotes while drawing parallels with Gideon's story, emphasizing the cycle of disobedience faced by the Israelites during the period of Judges. Encouraging the congregation, the speaker illustrates the importance of recognizing God's purpose even in difficult circumstances.",
+      "keywords": ["Gideon", "Israel", "chaos", "calling", "inadequacy", "cycles", "faith", "Lord"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["Judges 2:7-12", "Judges 6:11-16"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 928,
+      "type": "prayer",
+      "description": "The speaker leads the congregation in an opening prayer, inviting God's presence and guidance throughout the service. The prayer emphasizes unity, faith, and the need for divine intervention in personal and communal struggles.",
+      "keywords": ["prayer", "guidance", "unity", "faith", "divine"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Judges 6",
+      "start_time": 973,
+      "type": "scripture",
+      "description": "The speaker reads from Judges 6, focusing on the context of Gideon's story and the challenges faced by the Israelites under Midianite oppression. This scripture reading sets the stage for understanding Gideon's inadequacies and the call of God upon his life.",
+      "keywords": ["Judges", "Gideon", "Israelites", "Midianites", "oppression"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["Judges 6"]
+    },
+    {
+      "title": "drama: Gideon's Journey: Coward to Conqueror",
+      "start_time": 1001,
+      "type": "drama",
+      "description": "A dramatization of Gideon's hesitant journey as he transitions from fear and inadequacy to a willingness to accept God's call. The piece encapsulates Gideon's internal struggles and the dialogue with the angel, illustrating the themes of courage and divine purpose.",
+      "keywords": ["Gideon", "fear", "courage", "calling", "dramatization"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 1770,
+      "type": "prayer",
+      "description": "The speaker encourages the congregation to respond to God's invitation and calling in their lives. The prayer focuses on awakening the desire for spiritual growth and a deeper relationship with God, inviting individuals to surrender their inadequacies.",
+      "keywords": ["invitation", "spiritual growth", "surrender", "relationship", "prayer"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Uplifting Praise",
+      "start_time": 1827,
+      "type": "music",
+      "description": "The choir delivers an uplifting praise song, reinforcing the message of hope and God's call in midst of chaos. Their performance embodies the themes of faith and reliance on God’s strength.",
+      "keywords": ["praise", "hope", "faith", "choir", "worship"],
+      "performers": ["[Unknown]"],
+      "songs": ["Uplifting Praise"],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Personal Journey of Faith",
+      "start_time": 1965,
+      "type": "testimony",
+      "description": "A member of the congregation shares their personal journey of faith, focusing on moments of inadequacy and how they felt God's call in their own life. This testimony offers encouragement to others dealing with similar feelings.",
+      "keywords": ["testimony", "faith", "journey", "encouragement", "inadequacy"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2115,
+      "type": "prayer",
+      "description": "The closing prayer focuses on thanking God for His presence and the message shared throughout the service. It encourages the congregation to continue reflecting on their calling as they navigate their personal challenges and chaos.",
+      "keywords": ["closing prayer", "thanksgiving", "reflection", "God's presence", "service"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

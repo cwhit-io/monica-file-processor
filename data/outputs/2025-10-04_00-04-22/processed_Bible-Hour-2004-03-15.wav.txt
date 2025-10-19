@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with the joyful sounds of upbeat music, welcoming the congregation and setting an energetic tone for the morning. The atmosphere is filled with excitement as attendees gather to participate in the worship experience.",
+      "keywords": ["music", "welcome", "joyful", "service", "celebration"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 451,
+      "type": "prayer",
+      "description": "The pastor leads the congregation in an opening prayer, invoking God's presence and guidance for the service. This moment is a heartfelt invitation for all to connect with the divine as they prepare to engage in worship and learning.",
+      "keywords": ["prayer", "opening", "guidance", "worship", "presence"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Learning to Trust (Luke 1)",
+      "start_time": 1214,
+      "type": "sermon",
+      "description": "In a compelling message, the pastor explores the life of Mary, the mother of Jesus, emphasizing her obedience and trust in God's plan. Through scripture and personal reflections, the sermon challenges the congregation to consider their own responses to God's calling in their lives.",
+      "keywords": ["Mary", "trust", "obedience", "scripture", "faith"],
+      "performers": ["Pastor Kelly"],
+      "songs": [],
+      "scripture_references": ["Luke 1:26-38"]
+    },
+    {
+      "title": "interview: Testimony: Sherry's Story",
+      "start_time": 2505,
+      "type": "interview",
+      "description": "Sherry shares her personal journey of faith and resilience following the sudden loss of her husband. Her story highlights the comfort and strength she found in God amidst grief, providing a real-life example of trust and hope in challenging times.",
+      "keywords": ["testimony", "trust", "grief", "resilience", "faith"],
+      "performers": ["Sherry Merese"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: It Is Well With My Soul",
+      "start_time": 3180,
+      "type": "music",
+      "description": "The congregation joins together in singing 'It Is Well With My Soul,' a hymn that reflects trust and peace in the midst of life's trials. This powerful moment unites the attendees in worship, as they express their faith and hope in God's faithfulness.",
+      "keywords": ["hymn", "worship", "trust", "peace", "congregation"],
+      "performers": ["Sherry Merese and family"],
+      "songs": ["It Is Well With My Soul"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3536,
+      "type": "prayer",
+      "description": "As the service draws to a close, the pastor offers a closing prayer, thanking God for the time spent together and asking for His guidance as the congregation goes about their week. This prayer reinforces the themes of trust and obedience from the sermon.",
+      "keywords": ["prayer", "closing", "thankfulness", "guidance", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

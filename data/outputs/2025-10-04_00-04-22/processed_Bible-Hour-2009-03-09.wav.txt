@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with spirited music that lifts the atmosphere. The audience engages enthusiastically, setting a tone of worship and community. The music is an invitation for everyone to join in the praise of God.",
+      "keywords": ["music", "worship", "community", "praise", "choir"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 118,
+      "type": "music",
+      "description": "The choir leads the congregation in another uplifting song that echoes themes of God's unbroken praise. This portion allows the audience to participate actively and connect with the divine through song.",
+      "keywords": ["music", "choir", "praise", "worship", "song"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 752,
+      "type": "prayer",
+      "description": "The pastor welcomes everyone and leads them in an opening prayer. This moment invites the congregation to focus on God's word and the message of the day. It's a heartfelt request for divine guidance and understanding.",
+      "keywords": ["prayer", "opening", "worship", "God", "community"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Place of Israel in God's Plan (Romans 9-11)",
+      "start_time": 765,
+      "type": "sermon",
+      "description": "The sermon dives deep into the challenging doctrines of Romans 9-11, addressing God's relationship with Israel. The pastor explores themes of election and rejection, emphasizing the importance of faith over works. He shares that Israel remains significant in God's redemptive plan and invites reflection on the nature of salvation.",
+      "keywords": ["sermon", "Israel", "God's plan", "redemption", "faith"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Romans 9", "Romans 10", "Romans 11"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3449,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, where the pastor thanks God for His love and wisdom. The prayer encourages the congregation to internalize the message and trust in God's choices in their lives, reflecting on the call to be part of God's chosen people.",
+      "keywords": ["prayer", "closing", "God", "church", "community"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Song Title]",
+      "start_time": 3481,
+      "type": "music",
+      "description": "As the service wraps up, the congregation joins together in a final hymn. This reflects the communal spirit and sends everyone off with a sense of unity and divine praise.",
+      "keywords": ["music", "hymn", "worship", "community", "congregation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

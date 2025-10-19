@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Solo: There is a Savior",
+      "start_time": 100,
+      "type": "music",
+      "description": "Marcia Keough sings 'There is a Savior,' a piece that speaks to the hope and healing found in Jesus. The lyrics express messages of forgiveness and the presence of divine care during times of burden. This heartfelt performance aims to encourage listeners to find peace in their struggles.",
+      "keywords": ["savior", "hope", "forgiveness", "burdens", "joy"],
+      "performers": ["Marcia Keough"],
+      "songs": ["There is a Savior"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Israel Experience",
+      "start_time": 340,
+      "type": "announcement",
+      "description": "Gary and Becky Wollman share their experiences from their recent trip to Israel. They discuss the biblical significance of their visits to ancient sites and how their journey deepened their understanding of scripture. The anecdotes highlight the transformative power of biblical history in strengthening one's faith.",
+      "keywords": ["Israel", "testimony", "trip", "experience", "faith"],
+      "performers": ["Gary Wollman", "Becky Wollman"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Every Valley",
+      "start_time": 953,
+      "type": "music",
+      "description": "The choir performs 'Every Valley,' a beautifully arranged piece that reflects on God's promise to exalt the humble and bring comfort to the afflicted. This powerful hymn ties in themes of hope and divine intervention, resonating deeply with the congregation.",
+      "keywords": ["every valley", "hope", "comfort", "music", "choir"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Every Valley Shall Be Exalted"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Caring for the Widow (1 Timothy 5:3-16)",
+      "start_time": 1415,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delves into 1 Timothy 5:3-16, emphasizing the church's responsibility towards widows. He categorizes widows into three groups and discusses the criteria for church support. The message highlights the importance of compassion and biblical principles in caring for those in need, challenging the congregation to reflect on their responsibility to protect the vulnerable.",
+      "keywords": ["widow", "support", "church", "compassion", "1 Timothy"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 5:3-16"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3432,
+      "type": "prayer",
+      "description": "A collective prayer led by Pastor Moore inviting those who wish to accept Christ as Savior. The prayer emphasizes forgiveness and a personal response to the Gospel message. It seeks to guide individuals in their spiritual journey during the service.",
+      "keywords": ["prayer", "invitation", "acceptance", "forgiveness", "Gospel"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3448,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, expressing gratitude for the service and asking for continued guidance and strength for the congregation. The prayer encourages a focus on community and personal faith moving forward.",
+      "keywords": ["closing", "prayer", "gratitude", "community", "faith"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

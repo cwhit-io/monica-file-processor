@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Praise the Lord",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with lively and uplifting music as the choir praises the Lord. Congregants are encouraged to join in singing, creating a joyful atmosphere. The lyrics express themes of God's faithfulness, love, and eternal presence.",
+      "keywords": ["praise", "faithfulness", "choir", "worship"],
+      "performers": ["Choir"],
+      "songs": ["Praise the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Blessed Be Your Name",
+      "start_time": 288,
+      "type": "music",
+      "description": "Sung by a soloist, 'Blessed Be Your Name' reflects on God's goodness and faithfulness in all circumstances, including sorrow and joy. The heartfelt performance invites the congregation to reflect on their own experiences with gratitude towards God's blessings.",
+      "keywords": ["blessing", "gratitude", "worship", "faith"],
+      "performers": ["Soloist"],
+      "songs": ["Blessed Be Your Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Wonderful Merciful Savior",
+      "start_time": 918,
+      "type": "music",
+      "description": "The congregation joins together in singing 'Wonderful Merciful Savior,' a beautiful hymn that speaks to the love and divine nature of Jesus. The song emphasizes themes of mercy, grace, and the longing for a deeper relationship with God while inviting participation.",
+      "keywords": ["savior", "mercy", "hymn", "worship"],
+      "performers": [],
+      "songs": ["Wonderful Merciful Savior"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Hope of the Church (Ephesians 4:11-12)",
+      "start_time": 1184,
+      "type": "sermon",
+      "description": "The sermon focuses on the role of the church as a beacon of hope in a dark world. Emphasizing Ephesians 4:11-12, it encourages congregants to recognize their unique purpose and to engage in serving the community through their spiritual gifts.",
+      "keywords": ["church", "hope", "serving", "spiritual gifts"],
+      "performers": ["Mitch Cruz"],
+      "songs": [],
+      "scripture_references": ["Ephesians 4:11-12"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3535,
+      "type": "prayer",
+      "description": "In the closing prayer, the congregation is invited to reflect on the message shared during the sermon. The prayer seeks God's blessing for the community and empowerment for individuals to take action in their faith.",
+      "keywords": ["prayer", "community", "blessing", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

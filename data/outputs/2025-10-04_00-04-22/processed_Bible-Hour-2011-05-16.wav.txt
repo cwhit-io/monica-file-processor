@@ -1,0 +1,106 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, setting the tone for worship and reflection. The pastor invites the congregation to open their hearts and minds to God's presence as they embark on a journey of faith and transformation together.",
+      "keywords": ["prayer", "worship", "community", "faith", "reflection"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "testimony: Gina Grant",
+      "start_time": 221,
+      "type": "testimony",
+      "description": "Gina shares her powerful testimony of transformation through faith in Jesus Christ. She recounts her journey from skepticism to acceptance, highlighting the pivotal moment when her daughter's faith prompted her own surrender to God, leading to her desire for baptism.",
+      "keywords": ["testimony", "faith", "transformation", "baptism", "Gina Grant"],
+      "performers": ["Gina Grant"],
+      "songs": ["[]"],
+      "scripture_references": ["Romans 6:20-22"]
+    },
+    {
+      "title": "baptism: Gina Grant",
+      "start_time": 515,
+      "type": "baptism",
+      "description": "The congregation joyfully witnesses the baptism of Gina Grant, symbolizing her commitment and faith in Jesus Christ. Pastor Kelly emphasizes the significance of this act, celebrating the transformative power of faith in her life.",
+      "keywords": ["baptism", "celebration", "faith", "community", "Gina Grant"],
+      "performers": ["Pastor Kelly"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "testimony: Jonathan Burke",
+      "start_time": 550,
+      "type": "testimony",
+      "description": "Eleven-year-old Jonathan Burke shares his heartfelt testimony about believing in Jesus and his desire to be baptized. His sincerity and clarity resonate with the congregation, illustrating a young heart committed to faith in God.",
+      "keywords": ["testimony", "faith", "children", "community", "Jonathan Burke"],
+      "performers": ["Jonathan Burke"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "baptism: Jonathan Burke",
+      "start_time": 738,
+      "type": "baptism",
+      "description": "Jonathan Burke is baptized, marking a significant milestone in his spiritual journey. His family and the congregation support him, celebrating his public declaration of faith in Jesus Christ as he embraces his new life.",
+      "keywords": ["baptism", "celebration", "faith", "community", "Jonathan Burke"],
+      "performers": ["Pastor Kelly"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "testimony: Ryan Davis",
+      "start_time": 801,
+      "type": "testimony",
+      "description": "Ryan Davis shares his journey of faith, detailing the hardships he faced and how God's grace transformed his life. His story serves as an encouragement to others, showcasing the power of redemption and a renewed purpose.",
+      "keywords": ["testimony", "faith", "redemption", "growth", "Ryan Davis"],
+      "performers": ["Ryan Davis"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "baptism: Ryan Davis",
+      "start_time": 1156,
+      "type": "baptism",
+      "description": "Ryan Davis is baptized, a public testament to his faith and commitment to follow Jesus. As he emerges from the water, the congregation expresses their joy, recognizing the significance of this moment in his spiritual journey.",
+      "keywords": ["baptism", "faith", "community", "celebration", "Ryan Davis"],
+      "performers": ["Pastor Kelly"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Choir: You Have Overcome",
+      "start_time": 1164,
+      "type": "music",
+      "description": "The choir delivers a powerful song, 'You Have Overcome,' celebrating the victory and glory of Jesus. The congregation is encouraged to join in worship, lifting their voices together in praise and adoration.",
+      "keywords": ["music", "worship", "choir", "victory", "Jesus"],
+      "performers": ["Choir"],
+      "songs": ["You Have Overcome"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Message: Spiritual Leadership (1 Timothy 4:6-16)",
+      "start_time": 1860,
+      "type": "sermon",
+      "description": "Pastor Kelly delivers a compelling sermon on the importance of spiritual leadership as outlined in 1 Timothy 4:6-16. He emphasizes the need for leaders to stay close to the truth, avoid speculation, and engage in spiritual disciplines to effectively guide their communities.",
+      "keywords": ["sermon", "leadership", "spiritual growth", "1 Timothy", "truth"],
+      "performers": ["Pastor Kelly"],
+      "songs": ["[]"],
+      "scripture_references": ["1 Timothy 4:6-16"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3440,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, where the pastor expresses gratitude for the testimonies shared and the presence of God throughout the service. He prays for strength and guidance for the congregation as they grow in their faith.",
+      "keywords": ["prayer", "closing", "community", "faith", "gratitude"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    }
+  ]
+}
+```

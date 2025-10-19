@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Unknown Title",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir performs a stirring piece celebrating the ministry of the Black Hawk Baptist Church. Led by Mr. Don Kruger, the choir's uplifting harmonies set a joyous tone for the gathering.",
+      "keywords": ["choir", "worship", "music", "ministry", "celebration"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Unknown Title"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Only Jesus Can Satisfy Your Soul",
+      "start_time": 117,
+      "type": "music",
+      "description": "Soloist Lena Peterson shares a heartfelt rendition of 'Only Jesus Can Satisfy Your Soul.' This song emphasizes the importance of finding true satisfaction and peace through Jesus Christ, resonating with the congregation.",
+      "keywords": ["Jesus", "satisfaction", "peace", "soul", "worship"],
+      "performers": ["Lena Peterson"],
+      "songs": ["Only Jesus Can Satisfy Your Soul"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Matthew 6",
+      "start_time": 1204,
+      "type": "scripture",
+      "description": "The congregation reads together from Matthew 6:19-24, focusing on the biblical teachings about treasures and their significance. This moment prepares hearts for the subsequent message.",
+      "keywords": ["scripture", "Matthew", "reading", "treasures", "Bible"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 6:19-24"]
+    },
+    {
+      "title": "Message: How to Be Poor and Yet Rich (Matthew 6)",
+      "start_time": 1499,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers a powerful sermon about finding true wealth in spiritual treasures rather than earthly possessions. He emphasizes the importance of where we invest our resources and how it reflects our hearts. With profound insights into Scripture, he encourages the congregation to prioritize divine over worldly pursuits.",
+      "keywords": ["sermon", "wealth", "spiritual", "treasure", "investment"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Matthew 6"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3414,
+      "type": "prayer",
+      "description": "Pastor Jeremiah leads the congregation in an invitation prayer, encouraging those who have not yet accepted Christ to open their hearts to Him. This moment of reflection is a call to commitment and faith.",
+      "keywords": ["prayer", "invitation", "commitment", "faith", "reflection"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3361,
+      "type": "prayer",
+      "description": "In the closing prayer, Pastor Jeremiah expresses gratitude for the message shared and asks for God's guidance as the congregation goes forth. This prayer serves as a final blessing over the service.",
+      "keywords": ["prayer", "closing", "blessing", "guidance", "thanksgiving"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

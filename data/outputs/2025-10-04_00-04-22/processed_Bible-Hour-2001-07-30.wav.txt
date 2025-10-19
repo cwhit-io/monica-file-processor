@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Congregational Hymn: [unknown]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an uplifting congregational hymn, inviting the congregation to join in worship. The music sets a joyful tone, infusing the atmosphere with a sense of community and unity in faith.",
+      "keywords": ["worship", "congregation", "hymn"],
+      "performers": [],
+      "songs": ["unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [unknown]",
+      "start_time": 147,
+      "type": "music",
+      "description": "The choir leads the congregation in a heartfelt performance, focusing on the themes of surrender and faithfulness. The lyrics encourage attendees to reflect on their personal relationship with God and the act of worship.",
+      "keywords": ["choir", "surrender", "faithfulness"],
+      "performers": ["unknown"],
+      "songs": ["unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 386,
+      "type": "prayer",
+      "description": "The speaker leads an opening prayer, emphasizing the need for daily surrender to God. The prayer invites the congregation to reflect on their personal commitment and relationship with Jesus.",
+      "keywords": ["surrender", "prayer", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Surrendered Families (Romans 12:1-2)",
+      "start_time": 854,
+      "type": "sermon",
+      "description": "In a powerful sermon, the speaker discusses what it means to have a surrendered family, referencing Romans 12. The message explores how to live out worship beyond church walls, focusing on the challenges of surrender in family dynamics and the importance of leading by example.",
+      "keywords": ["family", "surrender", "worship", "Romans"],
+      "performers": ["Eric Hall"],
+      "songs": [],
+      "scripture_references": ["Romans 12"]
+    },
+    {
+      "title": "drama: Panel Discussion: Family Dynamics",
+      "start_time": 1628,
+      "type": "drama",
+      "description": "A panel discussion features members of the congregation discussing various aspects of family dynamics and the challenges of maintaining a surrendered heart at home. Each participant shares personal stories and biblical insights, fostering a deeper understanding of the topic.",
+      "keywords": ["panel", "family", "discussion", "testimony"],
+      "performers": ["Brian Denny", "Karen Beck", "Chris Wright", "Scott Schindler", "Sarah Siegeland"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2910,
+      "type": "prayer",
+      "description": "The service transitions into an invitation prayer, encouraging attendees to reflect on their relationship with God and consider their personal surrender. It emphasizes the importance of responding to God's call.",
+      "keywords": ["invitation", "reflection", "surrender"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [unknown]",
+      "start_time": 2947,
+      "type": "music",
+      "description": "The choir returns to perform another song that echoes the themes of family and surrender. The congregation is invited to join in, reinforcing the message of the day through music.",
+      "keywords": ["choir", "worship", "surrender"],
+      "performers": ["unknown"],
+      "songs": ["unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3280,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, summarizing the themes discussed throughout the service. It encourages the congregation to live out their faith in their families and daily lives.",
+      "keywords": ["closing", "prayer", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

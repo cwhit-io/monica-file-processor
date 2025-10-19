@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: All Hail the Power of Jesus’ Name",
+      "start_time": 252,
+      "type": "music",
+      "description": "The Sanctuary Choir leads the congregation in a powerful rendition of 'All Hail the Power of Jesus’ Name', celebrating the glory of Jesus. This uplifting choir piece fosters a spirit of worship and reverence, drawing attendees into a collective praise moment. The harmony and enthusiasm of the choir create an inspiring atmosphere.",
+      "keywords": ["choir", "praise", "Jesus", "worship", "glory"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["All Hail the Power of Jesus’ Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Crown Him with Many Crowns",
+      "start_time": 413,
+      "type": "music",
+      "description": "The congregation joins together to sing 'Crown Him with Many Crowns', reinforcing themes of majesty and worship. Guided by the pastor, this hymn invites everyone to express their faith collectively, emphasizing unity in spirit and purpose. The congregation's voices blend beautifully, creating a heartfelt worship experience.",
+      "keywords": ["hymn", "worship", "congregation", "faith", "unity"],
+      "performers": [],
+      "songs": ["Crown Him with Many Crowns"],
+      "scripture_references": []
+    },
+    {
+      "title": "Ensemble: Celebrate Life",
+      "start_time": 580,
+      "type": "music",
+      "description": "A new ensemble performs 'Celebrate Life', introducing fresh energy and excitement to the service. The upbeat song encourages audiences to appreciate life’s precious moments and glorify God’s gifts. It sets a joyful tone for worship, reminding everyone of the beauty in everyday blessings.",
+      "keywords": ["ensemble", "celebrate", "life", "joy", "worship"],
+      "performers": [],
+      "songs": ["Celebrate Life"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1306,
+      "type": "prayer",
+      "description": "Pastor Rick offers an opening prayer that invokes a spirit of peace and healing for congregants facing personal struggles. He intercedes for specific individuals in need of encouragement, comfort, and divine guidance. The prayer is an integral part of the service, establishing a heartfelt connection with God.",
+      "keywords": ["prayer", "peace", "healing", "encouragement", "community"],
+      "performers": ["Rick Locks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Corinthians 13",
+      "start_time": 191,
+      "type": "scripture",
+      "description": "The pastor reads from 1 Corinthians 13, commonly referred to as the love chapter, highlighting the qualities defined in the text. This scripture serves as the foundation for today's message on love, setting the stage for deeper teaching on its attributes and significance in the Christian life.",
+      "keywords": ["scripture", "love", "1 Corinthians", "teaching", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 13"]
+    },
+    {
+      "title": "Message: Love is Not Self-Seeking (1 Corinthians 13)",
+      "start_time": 1485,
+      "type": "sermon",
+      "description": "Pastor Rick delivers a compelling sermon focused on the characteristics of love as described in 1 Corinthians 13. He emphasizes that true love is patient, kind, and sensitive to others, challenging listeners to reflect on their own behaviors and attitudes. The message encourages congregants to embody a love that prioritizes others over self.",
+      "keywords": ["sermon", "love", "1 Corinthians", "patience", "kindness"],
+      "performers": ["Rick Locks"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 13:4-8"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3538,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, encouraging anyone who feels a tug on their heart to draw closer to God. Pastor Rick leads this prayer, inviting those who want to accept Christ into their hearts or make a spiritual decision to do so. It’s a moment of reflection and openness to receiving divine grace.",
+      "keywords": ["invitation", "prayer", "grace", "decision", "spiritual"],
+      "performers": ["Rick Locks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Jesus, You Are Our Lord",
+      "start_time": 1283,
+      "type": "music",
+      "description": "The service concludes with a choir performance of 'Jesus, You Are Our Lord'. This heartfelt song captures the essence of worship and devotion, leaving the congregation in a spirit of praise and gratitude. The uplifting tone provides a final call to embody the message of love in their everyday lives.",
+      "keywords": ["choir", "Jesus", "worship", "devotion", "gratitude"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Jesus, You Are Our Lord"],
+      "scripture_references": []
+    }
+  ]
+}
+```

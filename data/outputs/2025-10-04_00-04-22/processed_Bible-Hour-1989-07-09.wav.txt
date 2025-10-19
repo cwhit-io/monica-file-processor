@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Beautiful Savior",
+      "start_time": 304,
+      "type": "music",
+      "description": "The choir beautifully performs 'Beautiful Savior', expressing the reverence and love for Christ. The song emphasizes the qualities of Jesus as our beautiful Savior amidst life's challenges. The congregation is engaged, reflecting on the song's themes of hope and admiration.",
+      "keywords": ["choir", "beautiful", "savior", "Jesus", "worship"],
+      "performers": ["Black Hawk Baptist Church Sanctuary Choir"],
+      "songs": ["Beautiful Savior"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Blessed Be the Name of the Lord",
+      "start_time": 520,
+      "type": "music",
+      "description": "The congregation joyfully sings 'Blessed Be the Name of the Lord' as a vibrant expression of worship. This hymn resonates with themes of praise and the exultation of God's name. It fosters a spirit of unity and celebration among church members.",
+      "keywords": ["congregation", "hymn", "worship", "praise", "fellowship"],
+      "performers": [],
+      "songs": ["Blessed Be the Name of the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: My Redeemer is Faithful and True",
+      "start_time": 1246,
+      "type": "music",
+      "description": "A heartfelt solo performance of 'My Redeemer is Faithful and True' uplifts the congregation, reminding them of God's unwavering faithfulness. The lyrics resonate deeply with listeners, reinforcing trust in God's promises. This introspective moment allows for personal reflection.",
+      "keywords": ["solo", "redeemer", "faithful", "God", "music"],
+      "performers": ["Kevin Rowe"],
+      "songs": ["My Redeemer is Faithful and True"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1440,
+      "type": "prayer",
+      "description": "The opening prayer sets a sincere tone for the service, inviting God’s presence and guidance. It addresses corporate and individual sins while seeking renewal and strength. The community gathers in a spirit of humility and worship.",
+      "keywords": ["prayer", "worship", "community", "renewal", "humility"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Running the Real Race (Hebrews 12:1-2)",
+      "start_time": 1610,
+      "type": "sermon",
+      "description": "Pastor Rick delivers a challenging sermon titled 'Running the Real Race', focusing on Hebrews 12:1-2. He emphasizes perseverance in faith and the need for focus on Jesus, likening the Christian journey to an athletic competition. The message calls congregants to overcome obstacles and run their race with purpose.",
+      "keywords": ["sermon", "running", "race", "faith", "perseverance"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Hebrews 12:1-2"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3560,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, asking for God’s continued guidance and strength for the congregation. It reinforces the themes of the sermon while encouraging members to carry the message of faith into their daily lives.",
+      "keywords": ["prayer", "closing", "guidance", "community", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

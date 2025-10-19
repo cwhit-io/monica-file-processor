@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat music segment that sets a joyful atmosphere for the congregation. It invites everyone to focus on the worship experience and prepares their hearts for the messages to come.",
+      "keywords": ["music", "worship", "joy", "service", "gathering"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Clinton Foppel and Kelly Bird",
+      "start_time": 31,
+      "type": "interview",
+      "description": "Kelly Bird welcomes Clinton Foppel to discuss Remedy FM, an online platform aimed at reaching youth through music and conversation. They reflect on the impact of technology in ministry and share stories of lives changed through their outreach efforts.",
+      "keywords": ["Remedy FM", "youth", "interview", "Kelly Bird", "Clinton Foppel"],
+      "performers": ["Kelly Bird", "Clinton Foppel"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "baptism: Anna Hasford",
+      "start_time": 629,
+      "type": "baptism",
+      "description": "Anna Hasford shares her testimony before being baptized by her brother Jason. She recounts her journey of faith and the transformative moments that led her to publicly affirm her commitment to Jesus Christ.",
+      "keywords": ["baptism", "testimony", "Anna Hasford", "faith", "Jason"],
+      "performers": ["Anna Hasford", "Jason"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Unnamed]",
+      "start_time": 892,
+      "type": "music",
+      "description": "The congregation joins in a hymn, expressing their collective worship and gratitude. This moment allows attendees to engage in sung worship together, enhancing the sense of community and faith.",
+      "keywords": ["hymn", "worship", "congregational", "community", "faith"],
+      "performers": [],
+      "songs": ["[Unnamed]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Hope and Justice (Micah 3-4)",
+      "start_time": 1229,
+      "type": "sermon",
+      "description": "The sermon begins with an exploration of the prophet Micah's messages of judgment and hope. The speaker emphasizes the importance of justice, warning against complacency and illustrating how God calls His people to righteousness.",
+      "keywords": ["Micah", "sermon", "hope", "justice", "judgment"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Micah 3-4"]
+    },
+    {
+      "title": "Congregational Hymn: [Unnamed]",
+      "start_time": 3430,
+      "type": "music",
+      "description": "Concluding the service, the congregation unites in a final hymn. This musical segment serves to solidify the themes of hope, redemption, and community worship experienced during the service.",
+      "keywords": ["hymn", "worship", "community", "final", "faith"],
+      "performers": [],
+      "songs": ["[Unnamed]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3473,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Kelly Bird, asking for God's guidance and strength for the week ahead. This moment helps solidify the themes discussed and encourages the congregation to apply them in daily life.",
+      "keywords": ["prayer", "closing", "guidance", "community", "faith"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

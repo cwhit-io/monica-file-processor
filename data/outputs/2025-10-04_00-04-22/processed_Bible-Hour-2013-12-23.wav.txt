@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with a powerful choir performance, setting a tone of reverence and excitement. The congregation is encouraged to engage their hearts and minds as they prepare for worship during this special new year's service.",
+      "keywords": ["music", "worship", "choir", "service"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: New Year and Family Series",
+      "start_time": 30,
+      "type": "announcement",
+      "description": "The speaker welcomes the congregation and introduces the theme of the January teaching series focusing on family. Emphasis is placed on the importance of families and the roles of men in scriptural contexts.",
+      "keywords": ["announcement", "family", "teaching series", "new year"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 175,
+      "type": "music",
+      "description": "The choir returns to deliver another moving piece, enhancing the spiritual atmosphere of the service and inviting the congregation to participate in worship through song.",
+      "keywords": ["music", "choir", "worship"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Who is Jesus? (Hebrews 2)",
+      "start_time": 569,
+      "type": "sermon",
+      "description": "The sermon, based on Hebrews chapter 2, addresses profound questions about the identity of Jesus and the implications of His role as the Savior. The speaker reflects on the nature of Jesus, our relationship with Him, and the radical message of Christmas—the death of death through Christ.",
+      "keywords": ["sermon", "Hebrews", "Jesus", "Christmas", "identity"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["Hebrews 2:1-4", "Hebrews 2:5-16"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1209,
+      "type": "prayer",
+      "description": "Following the sermon introduction, an opening prayer is offered to invite God's presence and blessings upon the teaching and the congregation.",
+      "keywords": ["prayer", "opening", "worship"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Hebrews 2",
+      "start_time": 1251,
+      "type": "scripture",
+      "description": "The congregation stands to read from Hebrews chapter 2, emphasizing the foundational truths about Jesus and His significance to humanity.",
+      "keywords": ["scripture", "Hebrews", "reading"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["Hebrews 2"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3000,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, reiterating themes of God's love and the hope offered through Jesus. The congregation is encouraged to carry these truths into their daily lives.",
+      "keywords": ["prayer", "closing", "worship"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 3229,
+      "type": "music",
+      "description": "The choir performs a final uplifting piece, allowing the congregation to reflect on the message of the service and rejoice in worship as they depart.",
+      "keywords": ["music", "choir", "worship"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

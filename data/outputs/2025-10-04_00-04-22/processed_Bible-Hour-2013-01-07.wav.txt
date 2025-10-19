@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [upbeat music]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with an upbeat choir performance, setting a joyful tone for the gathering. This music energizes the congregation as they prepare for the service ahead.",
+      "keywords": ["choir", "upbeat", "music", "joyful", "service"],
+      "performers": ["Choir"],
+      "songs": ["upbeat music"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [upbeat music]",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir continues with another segment of lively music, enhancing the atmosphere of worship. The joyful melodies invite the congregation to fully engage in the service.",
+      "keywords": ["choir", "music", "worship", "joyful", "service"],
+      "performers": ["Choir"],
+      "songs": ["upbeat music"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Family Design (Various)",
+      "start_time": 197,
+      "type": "sermon",
+      "description": "In this insightful message, the pastor addresses the biblical design for family amidst cultural challenges. Focusing on the importance of parenting and nurturing relationships, the sermon encourages families to understand their convictions and navigate the modern world's pressures with God's guidance.",
+      "keywords": ["family", "parenting", "culture", "sermon", "God"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Healing is in Your Hands]",
+      "start_time": 390,
+      "type": "music",
+      "description": "The choir presents a heartfelt rendition of 'Healing is in Your Hands,' a touching song that reflects on reliance and faith in God. The performance inspires reflection on healing and divine support in times of need.",
+      "keywords": ["choir", "healing", "faith", "worship", "God"],
+      "performers": ["Choir"],
+      "songs": ["Healing is in Your Hands"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Lord, I Need You]",
+      "start_time": 2945,
+      "type": "music",
+      "description": "A solo performance of 'Lord, I Need You' emphasizes personal reliance on God. The lyrics express vulnerability and a deep need for divine guidance and strength in daily life, resonating deeply with the congregation.",
+      "keywords": ["solo", "worship", "need", "God", "strength"],
+      "performers": ["Soloist"],
+      "songs": ["Lord, I Need You"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3505,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer, asking for God's guidance and blessing on the congregation as they navigate their family lives. The pastor encourages everyone to take the lessons learned into their week ahead.",
+      "keywords": ["prayer", "closing", "guidance", "blessing", "family"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

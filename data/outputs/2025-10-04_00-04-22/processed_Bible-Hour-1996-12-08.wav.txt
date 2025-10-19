@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with a moment of reflection, inviting attendees to consider the concept of rescue in their lives. This opening prayer sets the tone for the message focused on spiritual rescue through God's grace.",
+      "keywords": ["opening", "reflection", "prayer", "rescue", "spiritual"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Spiritual Rescue (Ephesians 2:1-10)",
+      "start_time": 93,
+      "type": "sermon",
+      "description": "Pastor Moore delivers a powerful message on spiritual rescue, exploring Ephesians 2:1-10. He explains the need for spiritual salvation, detailing God's grace as the means of rescue. The sermon underscores the significance of faith in Jesus for salvation and the transformation that follows.",
+      "keywords": ["sermon", "spiritual", "rescue", "grace", "Ephesians", "salvation", "faith", "God"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": ["Ephesians 2:1-10"]
+    },
+    {
+      "title": "Solo: Rescue Song",
+      "start_time": 857,
+      "type": "music",
+      "description": "A heartfelt solo performance reflects on the theme of rescue, emphasizing the work of Christ in saving individuals from sin. The emotional delivery conveys a deep sense of hope and healing through faith.",
+      "keywords": ["solo", "rescue", "song", "Christ", "hope"],
+      "performers": ["Chris"],
+      "songs": ["Rescue Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3330,
+      "type": "prayer",
+      "description": "An invitation prayer is offered for those seeking spiritual rescue. The pastor guides attendees in a reflective prayer, encouraging them to sincerely express their desire for salvation through Christ.",
+      "keywords": ["invitation", "prayer", "salvation", "rescue", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3502,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for the message of salvation and the grace offered to all. The pastor encourages ongoing faith and commitment to living a life that reflects God's love.",
+      "keywords": ["closing", "prayer", "thanks", "God", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

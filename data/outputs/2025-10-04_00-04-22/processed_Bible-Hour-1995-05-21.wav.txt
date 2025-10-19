@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unknown Song]",
+      "start_time": 54,
+      "type": "music",
+      "description": "The choir leads the congregation in a passionate song, reflecting themes of longing and the search for truth in the midst of change. The lyrics express a desire for divine presence and comfort.",
+      "keywords": ["choir", "song", "light", "love", "truth"],
+      "performers": ["Choir"],
+      "songs": ["Unknown Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: The Governor's Clemency",
+      "start_time": 597,
+      "type": "drama",
+      "description": "In this dramatic interlude, a discussion unfolds about a man named Joe who has received clemency from the governor, bringing hope and anticipation for a new beginning. The interaction showcases themes of freedom and redemption.",
+      "keywords": ["joe", "governor", "clemency", "freedom", "redemption"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [You've Got to Let Somebody Love You]",
+      "start_time": 729,
+      "type": "music",
+      "description": "A solo performance captivates the audience with the heartfelt message of needing love before it's too late. The singer expresses deep emotions tied to relationships and the urgency of connection.",
+      "keywords": ["love", "urgent", "solo", "relationship", "emotion"],
+      "performers": ["Unknown"],
+      "songs": ["You've Got to Let Somebody Love You"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Truth and Freedom (Ephesians 2:1-5)",
+      "start_time": 1252,
+      "type": "sermon",
+      "description": "The sermon deep dives into the concept of truth as a liberating force in one's life. Using Ephesians 2:1-5, the speaker challenges common beliefs about human nature and emphasizes the need for a savior, illustrating how falsehoods can hold people captive and the transformational power of knowing the truth.",
+      "keywords": ["truth", "freedom", "Ephesians", "savior", "captivity"],
+      "performers": ["Pastor Unknown"],
+      "songs": [],
+      "scripture_references": ["Ephesians 2:1-5"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3314,
+      "type": "prayer",
+      "description": "The service culminates with an invitation to prayer, encouraging individuals to seek forgiveness and transformation through Christ. The prayer invites participants to commit their lives to God and opens the door for spiritual renewal.",
+      "keywords": ["prayer", "invitation", "forgiveness", "spiritual", "renewal"],
+      "performers": ["Pastor Unknown"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

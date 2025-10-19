@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: It Is Well With My Soul",
+      "start_time": 27,
+      "type": "music",
+      "description": "The choir performed the beloved hymn 'It Is Well With My Soul,' encouraging congregants to reflect on the deep peace found in faith despite life's challenges. The heartfelt performance emphasized themes of hope and reassurance, making it a powerful moment of worship.",
+      "keywords": ["choir", "hymn", "faith", "comfort", "worship"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["It Is Well With My Soul"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: My Walk with God",
+      "start_time": 398,
+      "type": "music",
+      "description": "Keith, a talented young soloist, shared a stirring rendition of 'My Walk with God.' His performance highlighted the theme of personal connection with the divine, emphasizing the joy and guidance that comes with walking in faith.",
+      "keywords": ["solo", "faith", "worship", "personal", "divine"],
+      "performers": ["Keith"],
+      "songs": ["My Walk with God"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Jesus is the Sweetest Name I Know",
+      "start_time": 852,
+      "type": "music",
+      "description": "The congregation joyfully sang 'Jesus is the Sweetest Name I Know,' a hymn celebrating the sweetness and comfort found in Jesus. The communal nature of this worship moment created an atmosphere of unity and joy as attendees praised together.",
+      "keywords": ["congregational", "hymn", "Jesus", "worship", "unity"],
+      "performers": [],
+      "songs": ["Jesus is the Sweetest Name I Know"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Outreach Evangelism Program",
+      "start_time": 1116,
+      "type": "announcement",
+      "description": "Pastor David Jeremiah encouraged the congregation to participate in an upcoming outreach evangelism program. He emphasized the importance of every believer being equipped to share their faith and the opportunity to grow in their ministry skills for the glory of God.",
+      "keywords": ["outreach", "evangelism", "training", "church", "participation"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: John 6:1-14",
+      "start_time": 1444,
+      "type": "scripture",
+      "description": "The congregation stood to read John 6:1-14, recounting the miraculous feeding of the 5,000. This passage sets the stage for understanding not only the miraculous act but also the deeper spiritual lessons of reliance on Christ.",
+      "keywords": ["scripture", "feeding of the 5000", "miracle", "John", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["John 6:1-14"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1612,
+      "type": "prayer",
+      "description": "Pastor Jeremiah led an opening prayer, seeking God’s guidance and blessings for the service. The prayer was a heartfelt petition for spiritual nourishment and attentiveness to the truths shared during the service.",
+      "keywords": ["prayer", "opening", "guidance", "blessings", "worship"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Feeding of the 5,000 (John 6:1-14)",
+      "start_time": 1668,
+      "type": "sermon",
+      "description": "Pastor Jeremiah's sermon focused on the miracle of the feeding of the 5,000, emphasizing God's provision in times of need. He explored the themes of faith, compassion, and community, highlighting how Jesus meets our needs when we bring what we have to Him. This deep and insightful teaching encourages believers to trust in God's sufficiency in all circumstances.",
+      "keywords": ["sermon", "feast", "miracle", "faith", "John"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["John 6:1-14"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3372,
+      "type": "prayer",
+      "description": "The service concluded with a closing prayer led by Pastor Jeremiah, expressing gratitude for God's word and a call for His presence in the lives of the congregation. This reflective moment invited attendees to commit their hearts to Christ and seek His leading in their daily lives.",
+      "keywords": ["closing", "prayer", "gratitude", "church", "commitment"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: It's Real, My God is Real",
+      "start_time": 177,
+      "type": "music",
+      "description": "The sanctuary choir performs the uplifting song 'It's Real, My God is Real.' The lyrics express the certainty of faith and the personal connection believers have with God. Through heartfelt melodies, the choir encourages the congregation to reflect on the reality of their spiritual experiences.",
+      "keywords": ["choir", "it's real", "faith", "God", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["It's Real, My God is Real"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: I Stand Amazed in the Presence",
+      "start_time": 424,
+      "type": "music",
+      "description": "The congregation joins together in worship, singing 'I Stand Amazed in the Presence.' This hymn emphasizes the awe and gratitude believers feel for the sacrifice of Jesus. The congregation participates wholeheartedly, lifting their voices in unity as they reflect on God's love and grace.",
+      "keywords": ["congregational hymn", "worship", "Jesus", "sacrifice", "grace"],
+      "performers": [],
+      "songs": ["I Stand Amazed in the Presence"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Amazing Grace",
+      "start_time": 582,
+      "type": "music",
+      "description": "A solo performance of 'Amazing Grace' captures the profound message of redemption and hope. The heartfelt rendition highlights the journey from lost to found, emphasizing God's grace in transforming lives. This cherished hymn resonates deeply with the congregation, reinforcing their faith and trust in God's mercy.",
+      "keywords": ["solo", "amazing grace", "redemption", "hope", "faith"],
+      "performers": ["Lisa Renicker"],
+      "songs": ["Amazing Grace"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1391,
+      "type": "prayer",
+      "description": "The opening prayer sets a reverent tone for the service, inviting the presence of God. The prayer expresses gratitude for Jesus and seeks strength and encouragement for the congregation. It emphasizes the importance of worship and the need for spiritual refreshment during the service.",
+      "keywords": ["opening prayer", "worship", "strength", "encouragement", "gratitude"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Waiting, Watching, Working (2 Thessalonians 3)",
+      "start_time": 130,
+      "type": "sermon",
+      "description": "In this sermon titled 'Waiting, Watching, Working,' the pastor explores themes of responsibility in light of Christ's return. He emphasizes the importance of prayer and work, encouraging the congregation to actively engage in their faith. Through scriptural teachings from 2 Thessalonians 3, he addresses the urgency of living a life that glorifies God until His return.",
+      "keywords": ["sermon", "waiting", "watching", "working", "responsibility"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["2 Thessalonians 3"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3492,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, expressing gratitude for the message received. It asks for God’s guidance as members depart and encourages them to live out their faith actively. This moment reinforces the significance of maintaining a prayerful attitude beyond the walls of the church.",
+      "keywords": ["closing prayer", "gratitude", "guidance", "faith", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

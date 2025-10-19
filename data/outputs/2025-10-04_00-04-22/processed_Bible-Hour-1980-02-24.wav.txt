@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Solo: Precious Jesus",
+      "start_time": 47,
+      "type": "music",
+      "description": "Narwhal performs a heartfelt song titled 'Precious Jesus'. The lyrics express deep devotion and reliance on Jesus as a friend, joy, and source of strength. It emphasizes the relationship with Christ and the comfort He brings amidst life's challenges.",
+      "keywords": ["jesus", "music", "devotion", "strength", "comfort"],
+      "performers": ["Narwhal"],
+      "songs": ["Precious Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Jesus the Resurrection",
+      "start_time": 636,
+      "type": "music",
+      "description": "The congregation passionately sings 'Jesus the Resurrection', celebrating the life and salvation found in Jesus. The lyrics highlight resurrection themes that resonate with the joy and hope of Christian faith, creating an uplifting worship atmosphere.",
+      "keywords": ["jesus", "resurrection", "worship", "salvation", "congregation"],
+      "performers": ["Congregation"],
+      "songs": ["Jesus the Resurrection"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: I Am Willing",
+      "start_time": 987,
+      "type": "music",
+      "description": "The Millers present a moving solo titled 'I Am Willing', conveying a message of submission to God's will. The song's theme is about being open to God's direction and the transformative process of faith, illustrating a deep spiritual journey.",
+      "keywords": ["willingness", "submission", "faith", "spiritual", "transformation"],
+      "performers": ["David Miller", "Peggy Miller"],
+      "songs": ["I Am Willing"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Colossians 2",
+      "start_time": 1236,
+      "type": "scripture",
+      "description": "A reading from Colossians chapter 2, where important themes of faith and spiritual growth are introduced. The verses emphasize the importance of being rooted in Christ and receiving encouragement through love, setting the stage for the subsequent message.",
+      "keywords": ["colossians", "scripture", "faith", "growth", "encouragement"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Colossians 2"]
+    },
+    {
+      "title": "Message: The Agony and the Ecstasy of Caring (Colossians 2)",
+      "start_time": 1236,
+      "type": "sermon",
+      "description": "In this impactful sermon, the pastor explores the Apostle Paul's deep concern for the spiritual well-being of the Colossians. He discusses the importance of love, assurance of faith, and knowledge of Christ, emphasizing the need for encouragement and unity among believers.",
+      "keywords": ["paul", "colossians", "sermon", "faith", "love"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Colossians 2"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1336,
+      "type": "prayer",
+      "description": "The pastor leads the congregation in an opening prayer, asking for God's blessing on the service and the understanding of His Word. This moment sets a solemn and reflective tone, inviting the presence of God into the worship.",
+      "keywords": ["prayer", "worship", "blessing", "pastor", "congregation"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Special Recognition of Young Athletes",
+      "start_time": 846,
+      "type": "announcement",
+      "description": "The pastor acknowledges the achievements of the school's seventh and eighth-grade girls basketball team, celebrating their success as league champions. This moment highlights the importance of community support and encouragement for youth in sports.",
+      "keywords": ["recognition", "announcements", "basketball", "youth", "community"],
+      "performers": ["Pastor David Jeremiah", "Mike Johnson", "Joelle Prayola"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1421,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer delivered by the pastor. This prayer encompasses gratitude for the gathering and requests continued guidance and encouragement for all attendees as they go about their week.",
+      "keywords": ["closing prayer", "gratitude", "guidance", "community", "worship"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

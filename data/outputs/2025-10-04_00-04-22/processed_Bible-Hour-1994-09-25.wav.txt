@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: I Will Declare It to the Nations",
+      "start_time": 116,
+      "type": "music",
+      "description": "The choir expresses their commitment to proclaim the news of Jesus Christ through the song 'I Will Declare It to the Nations'. The lyrics emphasize the urgency and importance of sharing the gospel with all people. This powerful musical segment sets a tone of worship and urgency for the message that follows.",
+      "keywords": ["choir", "worship", "gospel", "proclamation", "music"],
+      "performers": ["Choir"],
+      "songs": ["I Will Declare It to the Nations"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Who Will Tell Them",
+      "start_time": 718,
+      "type": "music",
+      "description": "A solo performance of 'Who Will Tell Them' highlights the plight of those who have yet to hear the gospel. The singer passionately conveys the call to evangelism, urging the congregation to reflect on how they can reach out to those who are lost. This emotional piece serves as a poignant reminder of the church's mission.",
+      "keywords": ["solo", "evangelism", "gospel", "song", "call"],
+      "performers": ["Marilyn Wong"],
+      "songs": ["Who Will Tell Them"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Commitment to Evangelism (Romans 8:29)",
+      "start_time": 626,
+      "type": "sermon",
+      "description": "Pastor Russell Moore discusses the importance of personal evangelism and makes a compelling case for it through five reasons. He addresses how making a commitment to evangelism shapes character to be more Christ-like, reveals the church's unique identity, and infuses purpose into the Christian life. The sermon challenges attendees to recognize the Holy Spirit's role in empowering them as witnesses for Christ.",
+      "keywords": ["evangelism", "commitment", "Christian", "gospel", "Holy Spirit"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Romans 8:29"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3100,
+      "type": "prayer",
+      "description": "An opening prayer invites God's presence into the service and asks for guidance in making personal commitments to evangelism. The prayer emphasizes the desire for hearts to be stirred towards sharing the gospel and acknowledges the challenges faced in today's society.",
+      "keywords": ["prayer", "opening", "commitment", "guidance", "evangelism"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Personal Witness Encouragement",
+      "start_time": 3410,
+      "type": "testimony",
+      "description": "Pastor Moore encourages individuals to share their personal testimonies as a powerful tool for evangelism. He outlines the simple three-part structure of a testimony, emphasizing its importance in witnessing to others. This segment serves as a practical guide for believers to engage others with their faith stories.",
+      "keywords": ["testimony", "personal", "witness", "sharing", "evangelism"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3490,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, asking for the strength and courage to live out the commitments made during the service. Effective prayers for the empowerment of the attendees to spread the gospel are emphasized, encouraging them to take action in their mission fields.",
+      "keywords": ["closing", "prayer", "commitment", "action", "gospel"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Next Week's Evangelism Training",
+      "start_time": 3520,
+      "type": "announcement",
+      "description": "An announcement is made regarding a forthcoming training session focused on equipping congregants for personal evangelism. The session aims to provide practical tools and strategies for sharing the gospel effectively in everyday life.",
+      "keywords": ["training", "announcement", "evangelism", "equip", "session"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

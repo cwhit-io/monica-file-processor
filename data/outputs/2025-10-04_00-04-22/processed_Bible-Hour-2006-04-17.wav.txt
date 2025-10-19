@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Congregational Hymn: He Lived, He Died",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with uplifting music that encourages the congregation to lift their voices and celebrate the joy of Easter. The upbeat rock music sets a celebratory tone as attendees prepare for the message ahead.",
+      "keywords": ["music", "celebrate", "Easter", "joy"],
+      "performers": [],
+      "songs": ["He Lived, He Died"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 905,
+      "type": "prayer",
+      "description": "An opening prayer collective sense of gratitude for the resurrection of Jesus Christ is offered. The speaker expresses hope for the gathering, invoking God's presence and guidance as they celebrate the gift of eternal life and the power of the resurrection.",
+      "keywords": ["opening", "prayer", "gratitude", "resurrection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Truth of Easter (1 Corinthians 15)",
+      "start_time": 972,
+      "type": "sermon",
+      "description": "The sermon highlights the core message of Easter, firmly centering on the gospel and the clarity it provides. The speaker emphasizes the life, death, and resurrection of Jesus Christ, illustrating how these truths offer hope and redemption to all. Using 1 Corinthians 15, he connects the resurrection to believers' lives, asking the congregation to embrace the truth and experience transformation.",
+      "keywords": ["Easter", "sermon", "resurrection", "truth", "hope"],
+      "performers": ["[Speaker Name]"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 15:1-4"]
+    },
+    {
+      "title": "Choir: He Lived, He Died",
+      "start_time": 3215,
+      "type": "music",
+      "description": "The choir performs a moving rendition of the song, reiterating the powerful truths of Jesus's life, death, and resurrection. The atmosphere is filled with worship, allowing the congregation to reflect on these fundamental aspects of their faith during this significant moment.",
+      "keywords": ["choir", "resurrection", "worship", "music"],
+      "performers": ["[Choir Name]"],
+      "songs": ["He Lived, He Died"],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: The Power of Resurrection",
+      "start_time": 3483,
+      "type": "drama",
+      "description": "A dramatic presentation showcases stories of lives transformed by the resurrection of Christ. As different individuals share their experiences, the congregation witnesses the profound impact of faith on brokenness, hopeless situations, and the gift of new life.",
+      "keywords": ["drama", "testimony", "transformation", "resurrection"],
+      "performers": ["[Actors' Names]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3565,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for the messages shared and the hope found in the resurrection. Attendees are encouraged to carry the Easter message into their lives, committing to live in the joy and transformation offered through faith in Christ.",
+      "keywords": ["closing", "prayer", "thanksgiving", "resurrection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

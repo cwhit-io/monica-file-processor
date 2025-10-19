@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Uncontainable",
+      "start_time": 60,
+      "type": "music",
+      "description": "The choir performs the song 'Uncontainable', celebrating the greatness and majesty of God. Lyrics reflect on God's power illustrated through nature, evoking awe and reverence. The congregation participates in worship, joining their voices in harmonizing praise.",
+      "keywords": ["choir", "worship", "God", "majesty", "power"],
+      "performers": ["Choir"],
+      "songs": ["Uncontainable"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Indescribable",
+      "start_time": 533,
+      "type": "music",
+      "description": "The choir continues with the song 'Indescribable', exploring themes of God's vastness and incomparable nature. The lyrics speak of marveling at creation and experiencing the boundless love of the Creator. This performance encourages deep reflection on God's unchangeable character.",
+      "keywords": ["choir", "worship", "God", "creation", "love"],
+      "performers": ["Choir"],
+      "songs": ["Indescribable"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: What's So Great About Salvation? (1 Peter 1:10-12)",
+      "start_time": 269,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird delivers a compelling sermon on the theme of salvation, diving deep into the essence of what it means to be saved. He reflects on personal stories, illustrating the value and significance of spiritual salvation compared to physical rescue. Emphasizing the importance of gratitude and the need to share the message of salvation, the sermon calls the congregation to a deeper appreciation of their faith.",
+      "keywords": ["salvation", "1 Peter", "grace", "faith", "Jesus"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["1 Peter 1:10-12"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1738,
+      "type": "prayer",
+      "description": "The opening prayer invites God's presence and guidance into the service. The pastor seeks a deeper understanding of salvation for the congregation and expresses gratitude for God’s grace. This prayer sets a reflective and respectful tone for the service ahead.",
+      "keywords": ["prayer", "God", "guidance", "grace", "service"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Peter 1",
+      "start_time": 1581,
+      "type": "scripture",
+      "description": "The congregation listens attentively as the pastor reads from 1 Peter 1, focusing on the themes of hope and salvation. This scripture reading underlines the importance of faith in Christ and connects to the sermon’s message about the grace of salvation.",
+      "keywords": ["scripture", "1 Peter", "salvation", "hope", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Peter 1"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3544,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service with a heartfelt reflection on the day's message about salvation. The pastor asks for strength to live out their faith and for opportunities to share the good news. This prayer reinforces community and commitment to serving God.",
+      "keywords": ["prayer", "closure", "faith", "community", "gratitude"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

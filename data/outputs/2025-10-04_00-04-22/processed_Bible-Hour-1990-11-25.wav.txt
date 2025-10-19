@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Medley of Songs",
+      "start_time": 0,
+      "type": "music",
+      "description": "The sanctuary choir opens the service with a medley of uplifting songs, including 'The Greatest Thing.' The music sets a joyful and celebratory mood, inviting the congregation to join in praise and worship, enhancing the atmosphere of fellowship and community.",
+      "keywords": ["choir", "medley", "praise", "worship", "community"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["The Greatest Thing"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Joyful Praise",
+      "start_time": 551,
+      "type": "music",
+      "description": "The congregation sings Hymn number 228, continuing the theme of joy and thanksgiving. This musical participation fosters a sense of unity among the attendees as they lift their voices in collective worship, rejoicing in the Lord's goodness.",
+      "keywords": ["hymn", "praise", "congregation", "unity", "joy"],
+      "performers": [],
+      "songs": ["Joyful Praise"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Holy is He",
+      "start_time": 644,
+      "type": "music",
+      "description": "Steve and Maria Gardner present a heartfelt solo entitled 'Holy is He.' The performance emphasizes the holiness and greatness of God, allowing the congregation to reflect and worship in the divine presence. Their emotive rendition provides a moment of spiritual connection.",
+      "keywords": ["solo", "Steve Gardner", "Maria Gardner", "worship", "holiness"],
+      "performers": ["Steve Gardner", "Maria Gardner"],
+      "songs": ["Holy is He"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Let Them See Jesus",
+      "start_time": 1857,
+      "type": "music",
+      "description": "In a moving performance, Steve Gardner sings 'Let Them See Jesus.' The song focuses on the importance of reflecting Christ in our lives, encouraging the congregation to let the love and grace of Jesus shine through them, which reinforces the theme of Christian witness and testimony.",
+      "keywords": ["solo", "Steve Gardner", "testimony", "Jesus", "reflection"],
+      "performers": ["Steve Gardner"],
+      "songs": ["Let Them See Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1739,
+      "type": "prayer",
+      "description": "The service transitions to an opening prayer led by the pastor. This prayer seeks God's blessings for the service, its leaders, and attendees, as well as comfort for those in need within the congregation. It sets a spiritual tone for the worship and teaching that will follow.",
+      "keywords": ["prayer", "blessings", "comfort", "congregation", "opening"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Building Up Treasures in Heaven (Matthew 6:19-24)",
+      "start_time": 2260,
+      "type": "sermon",
+      "description": "Associate Pastor Jim Pearson delivers a message focusing on 'Are You Building Up Treasures in Heaven?' He emphasizes the futility of hoarding earthly possessions in contrast to storing treasures in heaven. The sermon invites reflection on one's priorities and relationship with wealth.",
+      "keywords": ["sermon", "treasures", "heaven", "Matt 6", "Jim Pearson"],
+      "performers": ["Jim Pearson"],
+      "songs": [],
+      "scripture_references": ["Matthew 6:19-24"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3511,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, where the pastor leads the congregation in thanking God for the message and music, seeking guidance to apply the sermon’s truths in their lives. It is a moment of reflection and commitment to living out faith.",
+      "keywords": ["closing", "prayer", "thanksgiving", "commitment", "guided"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 1250,
+      "type": "announcement",
+      "description": "The pastors share upcoming events and guest appearances, inviting the congregation to participate in future services and concerts. This keeps the community informed and engaged, highlighting a commitment to fellowship and spiritual growth.",
+      "keywords": ["announcement", "events", "guest", "congregation", "engagement"],
+      "performers": ["Pastor", "Jim Pearson"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

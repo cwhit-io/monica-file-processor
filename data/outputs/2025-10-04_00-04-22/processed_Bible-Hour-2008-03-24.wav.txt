@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Hosanna",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with the choir leading a spirited rendition of 'Hosanna.' This song invites the congregation to participate in worship, setting a tone of praise and celebration. The repetitive and joyful phrases prepare hearts to welcome God's presence.",
+      "keywords": ["hosanna", "worship", "joy", "praise"],
+      "performers": ["Choir"],
+      "songs": ["Hosanna"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 73,
+      "type": "prayer",
+      "description": "The opening prayer expresses a heartfelt invitation for God's presence among the congregation. The prayer acknowledges God's role as the savior and healer, seeking a transformative experience for all attendees. It's a communal plea for divine guidance and purpose.",
+      "keywords": ["opening", "invitation", "presence", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: I Will Worship You",
+      "start_time": 121,
+      "type": "music",
+      "description": "The choir leads the congregation in 'I Will Worship You,' a powerful song expressing unwavering faith and dedication to God. The lyrics emphasize worship during trials and tribulations, encouraging believers to stand firm in their faith despite life's challenges.",
+      "keywords": ["worship", "faith", "devotion", "strength"],
+      "performers": ["Choir"],
+      "songs": ["I Will Worship You"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: It Is Well With My Soul",
+      "start_time": 546,
+      "type": "music",
+      "description": "The congregation joins in singing 'It Is Well With My Soul.' This solemn hymn reflects deep trust in God amidst life's storms, highlighting themes of peace and comfort through faith. The worship highlights the collective heart of the community as they sing together.",
+      "keywords": ["hymn", "peace", "comfort", "trust"],
+      "performers": [],
+      "songs": ["It Is Well With My Soul"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Blessing Song",
+      "start_time": 821,
+      "type": "music",
+      "description": "In a reflective moment, a soloist sings a blessing song that speaks to the struggles and joys of life. The lyrics convey heartfelt gratitude and a resolve to continue praising God, showcasing the importance of worship in every season of life.",
+      "keywords": ["blessing", "gratitude", "worship", "struggles"],
+      "performers": ["Soloist"],
+      "songs": ["Blessing Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Birth of the Church (Acts 1)",
+      "start_time": 1458,
+      "type": "sermon",
+      "description": "The sermon focuses on Acts 1 and explores the pivotal moment after Christ's resurrection when the apostles are instructed to wait for the Holy Spirit. Emphasizing themes of waiting, empowerment, and purpose, the speaker encourages attendees to embrace their roles as witnesses in the world.",
+      "keywords": ["Acts", "apostles", "Holy Spirit", "empowerment"],
+      "performers": ["Steve Longbreak"],
+      "songs": [],
+      "scripture_references": ["Acts 1"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3497,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service with thanks for the message and encouragement to be witnesses for Christ. It requests God’s continued guidance and blessings over the congregation, affirming their commitment to live out their faith in daily life.",
+      "keywords": ["closing", "commitment", "guidance", "blessing"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

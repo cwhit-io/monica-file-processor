@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: At the Name of Jesus",
+      "start_time": 119,
+      "type": "music",
+      "description": "The choir, Reflection, presents a moving piece titled 'At the Name of Jesus', emphasizing themes of redemption and the power of Christ's name. The lyrics resonate with the audience, highlighting the deliverance and hope found through Jesus.",
+      "keywords": ["choir", "Jesus", "redemption", "hope", "music"],
+      "performers": ["Reflection"],
+      "songs": ["At the Name of Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: I Don’t Know Why Jesus Loved Me",
+      "start_time": 440,
+      "type": "music",
+      "description": "A solo performance features the heartfelt song 'I Don’t Know Why Jesus Loved Me', expressing gratitude for Christ's unwavering love and sacrifice. The emotional delivery connects deeply with the congregation, stirring reflections of personal faith.",
+      "keywords": ["solo", "love", "sacrifice", "faith", "music"],
+      "performers": ["[Unknown]"],
+      "songs": ["I Don’t Know Why Jesus Loved Me"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 629,
+      "type": "announcement",
+      "description": "Important announcements are shared regarding upcoming events, including concerts and performances featuring notable artists. The congregation is encouraged to participate in these enriching community activities and enhance their fellowship.",
+      "keywords": ["announcements", "events", "community", "concerts", "fellowship"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Ephesians 5",
+      "start_time": 1005,
+      "type": "scripture",
+      "description": "The congregation is invited to open their Bibles for a reading from Ephesians chapter 5. This scripture sets the stage for the forthcoming sermon, emphasizing the biblical perspective on marriage.",
+      "keywords": ["scripture", "Ephesians", "Bible", "marriage", "teaching"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["Ephesians 5"]
+    },
+    {
+      "title": "Message: Husbands Who Give Hope (Ephesians 5:25-28)",
+      "start_time": 1010,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a powerful message on the role of husbands in marriage from Ephesians 5. He emphasizes the importance of loving one's wife in an understanding way, drawing parallels to Christ's love for the church. The message resonates with teachings on commitment, emotional connection, and the detrimental effects of neglecting the marriage relationship.",
+      "keywords": ["sermon", "marriage", "husbands", "love", "Ephesians"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Ephesians 5:25-28"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3404,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer, inviting the congregation to reflect on the message shared. The pastor petitions for God's presence in their lives and encourages personal commitments to growth and understanding within their relationships.",
+      "keywords": ["prayer", "closing", "reflection", "commitment", "faith"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

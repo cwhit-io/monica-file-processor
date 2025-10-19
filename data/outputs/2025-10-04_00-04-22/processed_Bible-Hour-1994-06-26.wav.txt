@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Not Identified]",
+      "start_time": 73,
+      "type": "music",
+      "description": "The service begins with uplifting music performed by the sanctuary choir, setting a tone of worship and encouraging fellowship among attendees. This segment embodies the spirit of community and reflection on God's truths through song.",
+      "keywords": ["choir", "worship", "fellowship", "encouragement"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Not Identified"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Not Identified]",
+      "start_time": 408,
+      "type": "music",
+      "description": "A poignant solo performance follows, featuring heartfelt lyrics that resonate with themes of sorrow and hope, reminding listeners of God's promises in times of trouble. The music draws a connection between human pain and divine comfort.",
+      "keywords": ["solo", "comfort", "hope", "pain"],
+      "performers": ["Scott Schindler"],
+      "songs": ["Not Identified"],
+      "scripture_references": ["Revelation 21:4"]
+    },
+    {
+      "title": "Message: [Response to God's Truth] (James 1:19-27)",
+      "start_time": 943,
+      "type": "sermon",
+      "description": "The sermon addresses how Christians should respond to the truth of God's Word, highlighting the challenges of defensiveness and complacency. Through teachings from James, the message encourages listeners to pursue transformation rather than mere information and emphasizes the importance of being doers of the Word.",
+      "keywords": ["James", "responsiveness", "sermon", "transformation"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["James 1:19-27", "Nehemiah 8"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3484,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer led by Pastor Russell Moore. Attendees are invited to reflect on their commitment to trust in God and seek forgiveness for their sins, fostering a sense of community and spiritual support.",
+      "keywords": ["prayer", "forgiveness", "community", "commitment"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

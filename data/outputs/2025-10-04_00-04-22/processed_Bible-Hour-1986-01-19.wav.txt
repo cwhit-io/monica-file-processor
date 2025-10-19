@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Oh, Come All Ye Faithful",
+      "start_time": 120,
+      "type": "music",
+      "description": "The choir performs the anthem 'Oh, Come All Ye Faithful,' inviting worshippers to participate in celebrating the joy of faith. The thematic focus is on gathering together as faithful believers, emphasizing the importance of worship and praise to God. The uplifting melody encourages heartfelt singing from the congregation.",
+      "keywords": ["choir", "worship", "faithful", "community", "praise"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Oh, Come All Ye Faithful"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Hallelujah",
+      "start_time": 543,
+      "type": "music",
+      "description": "The congregation joins in a spirited rendition of a well-loved hymn, singing praises with joy and enthusiasm. The repetitive refrains encourage participation and foster a sense of unity among worshippers. The hymn serves to uplift spirits and reinforce the joyous atmosphere of worship.",
+      "keywords": ["congregation", "hymn", "worship", "joy", "praise"],
+      "performers": [],
+      "songs": ["Hallelujah"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Praise in Peace",
+      "start_time": 928,
+      "type": "music",
+      "description": "Kevin Rowe performs a reflective solo song titled 'Praise in Peace,' meditating on God's grace and the comfort it brings to believers. The performance highlights the need for personal connection with God and encourages listeners to seek His presence daily. This moment adds a contemplative nature to the service.",
+      "keywords": ["solo", "grace", "peace", "worship", "music"],
+      "performers": ["Kevin Rowe"],
+      "songs": ["Praise in Peace"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1698,
+      "type": "prayer",
+      "description": "The congregation is led in an opening prayer, acknowledging God's holiness and sovereignty. The prayer focuses on seeking God's guidance and blessing over the service, inviting His presence among worshippers. This solemn moment sets a tone of reverence and genuine worship as hands are raised in prayer.",
+      "keywords": ["prayer", "worship", "congregation", "guidance", "blessing"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Corinthians 7",
+      "start_time": 2010,
+      "type": "scripture",
+      "description": "Pastor Rick Hawks reads from 1 Corinthians chapter 7, verses 10 to 16. This reading serves as a foundational text for the sermon that follows, laying out core principles regarding marriage and divorce. The exposure to scripture emphasizes the importance of God's Word in guiding personal and relational decisions.",
+      "keywords": ["scripture", "1 Corinthians", "marriage", "divorce", "teaching"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 7:10-16"]
+    },
+    {
+      "title": "Message: Understanding Marriage and Divorce (1 Corinthians 7)",
+      "start_time": 2013,
+      "type": "sermon",
+      "description": "Pastor Hawks delivers a sermon exploring the biblical teachings on marriage, divorce, and reconciliation based on 1 Corinthians 7. He discusses the permanence of marriage, the implications of divorce, and God's sovereign design for relationships. Through engaging examples and scriptural references, the message calls for a deeper understanding of commitment and divine purpose in marriage.",
+      "keywords": ["sermon", "marriage", "divorce", "reconciliation", "1 Corinthians"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 7:10-16"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3535,
+      "type": "prayer",
+      "description": "In the closing prayer, Pastor Hawks asks for God's continued guidance and blessing on the congregation as they leave. This prayer reinforces the sermon’s themes about grace, forgiveness, and commitment in relationships, encouraging everyone to carry these lessons into their daily lives. It's a moment of reflection and dedication.",
+      "keywords": ["closing prayer", "congregation", "blessing", "commitment", "grace"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Ongoing Support for Ministry",
+      "start_time": 3642,
+      "type": "announcement",
+      "description": "The announcer shares updates about the ministry, inviting support and engagement from the congregation. With a focus on community and outreach, this segment provides encouragement to get involved in supporting the church's mission and its impact both locally and globally. It emphasizes the power of partnership in faith.",
+      "keywords": ["announcement", "support", "ministry", "outreach", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

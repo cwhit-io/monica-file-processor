@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Tis So Sweet to Trust in Jesus",
+      "start_time": 98,
+      "type": "music",
+      "description": "The sanctuary choir performs a heartfelt rendition of 'Tis So Sweet to Trust in Jesus,' inviting the congregation into a moment of worship. The lyrics express deep trust in Jesus and highlight the comfort found in faith. This uplifting performance sets the tone for the service.",
+      "keywords": ["choir", "worship", "trust", "Jesus", "faith"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Tis So Sweet to Trust in Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: He's More Than Wonderful",
+      "start_time": 372,
+      "type": "music",
+      "description": "A solo performance of 'He's More Than Wonderful' follows, conveying the singer's deep admiration for Jesus. The song captures the awe and love that many believers feel towards Christ, emphasizing His unparalleled goodness and faithfulness. This moment resonates with the congregation's desire to celebrate their Savior.",
+      "keywords": ["solo", "wonderful", "Jesus", "faithfulness", "admiration"],
+      "performers": ["Unknown"],
+      "songs": ["He's More Than Wonderful"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 694,
+      "type": "prayer",
+      "description": "The opening prayer focuses on the congregation’s connection with God, emphasizing the importance of sincere communication with the Heavenly Father. It requests divine guidance, strength, and comfort for all present, setting a reverent atmosphere for the service and inviting the presence of God.",
+      "keywords": ["prayer", "congregation", "guidance", "comfort", "God"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Corinthians 4",
+      "start_time": 2126,
+      "type": "scripture",
+      "description": "The scripture reading from 1 Corinthians chapter 4 is presented, focusing on themes of humility and the roles of believers in Christ. This reading prepares the hearts of the listeners for the upcoming sermon, highlighting the importance of recognizing that all believers are called to serve without seeking personal glory.",
+      "keywords": ["scripture", "1 Corinthians", "humility", "service", "believers"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 4"]
+    },
+    {
+      "title": "Message: No Superstars (1 Corinthians 4:1-7)",
+      "start_time": 2138,
+      "type": "sermon",
+      "description": "The sermon, titled 'No Superstars,' elaborates on the ideas presented in 1 Corinthians 4. The pastor warns against elevating individuals in the church as superstars and emphasizes our role as ministers and stewards of God’s work. The message challenges the congregation to evaluate one another through God's perspective, promoting unity and humility.",
+      "keywords": ["sermon", "superstars", "humility", "church", "ministers"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 4:1-7"]
+    },
+    {
+      "title": "Solo: We Shall Behold Him",
+      "start_time": 1870,
+      "type": "music",
+      "description": "A soloist delivers a powerful rendition of 'We Shall Behold Him,' focusing on the anticipation of seeing Jesus face-to-face. The song captures the essence of Christian hope and the promise of eternal life. This performance inspires the congregation to reflect on their faith and the coming of Christ.",
+      "keywords": ["solo", "hope", "Jesus", "Christianity", "eternal life"],
+      "performers": ["Unknown"],
+      "songs": ["We Shall Behold Him"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2019,
+      "type": "prayer",
+      "description": "The closing prayer serves as a heartfelt reflection on the service, thanking God for His faithfulness and the encouragement found in worship. It seeks strength for the congregation to live faithfully and uphold the message of unity and service in their lives. This prayer wraps up the service on a hopeful note.",
+      "keywords": ["closing", "prayer", "thanksgiving", "faithfulness", "encouragement"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 940,
+      "type": "announcement",
+      "description": "Key announcements regarding upcoming church events and musical performances are shared. The congregation is informed about a concert event featuring Stephen Maria Gardner, highlighting further opportunities for community worship and engagement. This segment encourages participation and awareness of the church's activities.",
+      "keywords": ["announcements", "events", "concert", "community", "engagement"],
+      "performers": ["Pete", "Unknown"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

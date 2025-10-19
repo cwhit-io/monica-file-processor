@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Magnify the Lord",
+      "start_time": 92,
+      "type": "music",
+      "description": "The service begins with a powerful choir presentation, uplifting the congregation with the performance of 'Magnify the Lord'. This music sets the tone for an encouraging hour of worship and reflection, inspiring the attendees to focus on their faith.",
+      "keywords": ["choir", "worship", "music", "inspiration", "Magnify the Lord"],
+      "performers": ["Men's Singers Quartet"],
+      "songs": ["Magnify the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Introduction to Dr. Bob Provost",
+      "start_time": 240,
+      "type": "announcement",
+      "description": "The host expresses excitement about welcoming Dr. Bob Provost, known for his significant contributions to missions. He reflects on their past work together and emphasizes the importance of cross-cultural missions, encouraging attendees to listen closely to the insights shared during the service.",
+      "keywords": ["Dr. Bob Provost", "missions", "introduction", "community", "cross-cultural"],
+      "performers": ["Host"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Acts 17",
+      "start_time": 324,
+      "type": "scripture",
+      "description": "The Pastor reads from Acts 17, recounting how the Apostle Paul engaged with cultural idols and shared the message of the unknown God. This passage serves as a backdrop, highlighting the need to seize opportunities for evangelism in various contexts.",
+      "keywords": ["Acts", "Paul", "evangelism", "cultural engagement", "opportunity"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Acts 17"]
+    },
+    {
+      "title": "Message: Christ's Ministry to the Church (Revelation 1:12-16)",
+      "start_time": 984,
+      "type": "sermon",
+      "description": "In this engaging sermon, the speaker unfolds a vision of Christ's glorified appearance in Revelation. He emphasizes the significance of Christ's ministry to His church, touching on themes of intercession, purification, and the structure of church leadership. The message challenges believers to reflect Christ's glory in their lives and to engage actively in their communities.",
+      "keywords": ["Christ", "ministry", "Revelation", "intercession", "purification"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 1:12-16"]
+    },
+    {
+      "title": "Solo: [Unknown Title]",
+      "start_time": 3414,
+      "type": "music",
+      "description": "A heartfelt solo performance resonates with the congregation, evoking emotional responses and adding depth to the worship experience. This musical moment creates a reflective atmosphere, allowing attendees to meditate on the themes discussed earlier in the service.",
+      "keywords": ["solo", "worship", "reflection"],
+      "performers": ["Lisa Feeney"],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3436,
+      "type": "prayer",
+      "description": "The service transitions into an invitation prayer, encouraging attendees to reflect on their lives and consider their relationship with Christ. This moment serves as an opportunity for personal commitment, inviting individuals to seek forgiveness and deeper faith.",
+      "keywords": ["prayer", "invitation", "commitment", "faith", "forgiveness"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Selection]",
+      "start_time": 3484,
+      "type": "music",
+      "description": "The choir returns to lead the congregation in another powerful hymn, enriching the worship experience and drawing attendees closer to God. The music serves as a reminder of the themes articulated during the sermon, reinforcing unity and purpose in worship.",
+      "keywords": ["choir", "worship", "hymn"],
+      "performers": ["Men's Singers Quartet"],
+      "songs": ["[Selection]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3515,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, asking for God's blessing on the congregation as they leave. This prayer encapsulates the worship experience, sending attendees forth with a sense of purpose and mission to reflect Christ's love in their lives.",
+      "keywords": ["closing prayer", "blessing", "congregation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

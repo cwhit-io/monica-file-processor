@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Message: The Great Commission (Matthew 28:16-20)",
+      "start_time": 0,
+      "type": "sermon",
+      "description": "The sermon begins by discussing the Great Commission from Matthew 28. The preacher focuses on how believers can become distracted in their spiritual journeys. He emphasizes that Jesus called all people, regardless of their doubts or backgrounds, and reminds the congregation of their mission to make disciples of all nations, highlighting the importance of community and connection.",
+      "keywords": ["great commission", "discipleship", "mission", "jesus", "believers"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["Matthew 28:16-20"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 2317,
+      "type": "prayer",
+      "description": "The service transitions into an opening prayer, where the congregation is invited to seek guidance, reflect on their relationship with God, and prepare their hearts for worship and the message to come. The focus is on inviting God’s presence into the gathering.",
+      "keywords": ["prayer", "worship", "invitation", "reflection", "guidance"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Gentle Piano Music]",
+      "start_time": 2340,
+      "type": "music",
+      "description": "The choir performs a gentle and reflective piece, providing a moment of tranquility for the congregation to meditate and internalize the message of the sermon. This music enhances the worship atmosphere, allowing for personal reflection.",
+      "keywords": ["choir", "meditation", "worship", "music", "reflection"],
+      "performers": ["[Unknown]"],
+      "songs": ["Gentle Piano Music"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Precious Lord, Take My Hand]",
+      "start_time": 2390,
+      "type": "music",
+      "description": "The congregation joins in singing a well-loved hymn. This moment unites the church community in worship, expressing dependence on God's guidance through challenging journeys. The uplifting lyrics encourage believers to trust in God’s presence.",
+      "keywords": ["hymn", "worship", "congregation", "community", "trust"],
+      "performers": ["[Unknown]"],
+      "songs": ["Precious Lord, Take My Hand"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2480,
+      "type": "prayer",
+      "description": "The closing prayer encapsulates the themes of the service, asking for strength and guidance for the congregation to live out the Great Commission. The prayer encourages individuals to reflect on their roles in discipleship and community as they leave the service.",
+      "keywords": ["closing prayer", "strength", "guidance", "discipleship", "reflection"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

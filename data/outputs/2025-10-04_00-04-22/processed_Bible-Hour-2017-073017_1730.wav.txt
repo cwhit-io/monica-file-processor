@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unknown Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a choir performance that sets an inviting atmosphere for worship. The congregation joins together in song, lifting their voices to praise. This engaging moment encourages everyone to focus their hearts on worship.",
+      "keywords": ["choir", "worship", "music"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Unknown Title]",
+      "start_time": 61,
+      "type": "music",
+      "description": "The congregation participates in a hymn that resonates with the themes of peace and glory, reinforcing the message of the service. This meaningful song encourages reflection and unity among the attendees. The joy of music creates a vibrant worship experience.",
+      "keywords": ["hymn", "worship", "congregation", "music"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown Title]",
+      "start_time": 261,
+      "type": "music",
+      "description": "A solo performance captivates the audience, delivering a heartfelt message through music. The song highlights themes of triumph and resurrection, inviting the congregation to reflect on the power of faith. This moment adds depth and personal connection to the worship experience.",
+      "keywords": ["solo", "worship", "soloist", "music"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Finding Jesus in Me (Psalm 139)",
+      "start_time": 587,
+      "type": "sermon",
+      "description": "The pastor delivers a sermon based on Psalm 139, focusing on understanding one's identity as created by God. The message emphasizes self-acceptance and the importance of recognizing God's presence in our lives. Key points include God knowing, being with, and forming us intricately, encouraging a deeper relationship with God.",
+      "keywords": ["sermon", "Psalm 139", "identity", "God", "relationship", "acceptance"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["Psalm 139"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3305,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, calling attendees to reflect on personal commitments to God and inviting them into a deeper relationship. This moment serves as a transition from the sermon, encouraging introspection and spiritual connection.",
+      "keywords": ["prayer", "invitation", "reflection"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Unknown Title]",
+      "start_time": 3321,
+      "type": "music",
+      "description": "The congregation joins together in a hymn that expresses surrender and a desire to know God more deeply. This song reiterates themes of seeking God and finding strength in His presence. The heartfelt singing creates a powerful atmosphere of worship.",
+      "keywords": ["hymn", "congregation", "worship", "surrender"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3417,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that highlights gratitude and the desire for God's guidance in the coming week. This moment emphasizes community and collective faith as attendees prepare to return to their lives with renewed purpose.",
+      "keywords": ["prayer", "closing", "community"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

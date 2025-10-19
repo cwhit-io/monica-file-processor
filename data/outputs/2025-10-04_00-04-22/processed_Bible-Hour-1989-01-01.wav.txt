@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unknown Song]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a bell ringing followed by the choir leading the congregation in music. The focus is on worship, setting a tone of reverence and invitation for those gathered to engage with the Lord.",
+      "keywords": ["music", "worship", "choir", "celebration", "community"],
+      "performers": ["celebration"],
+      "songs": ["[Unknown Song]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Medley of Carols]",
+      "start_time": 300,
+      "type": "music",
+      "description": "After the choir's performance, the congregation continues worship with a soloist singing a medley of carols centered around 'Joy to the World'. This joyous celebration emphasizes the theme of hope and joy in the new year.",
+      "keywords": ["carols", "joy", "worship", "solo", "celebration"],
+      "performers": ["Chris Bone"],
+      "songs": ["[Medley of Carols]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 793,
+      "type": "prayer",
+      "description": "The pastor leads an opening prayer focusing on new beginnings as the congregation gathers on the first Sunday of the new year. The prayer highlights commitment to serving Jesus Christ and asking for God's guidance in the year ahead.",
+      "keywords": ["prayer", "new year", "commitment", "Jesus", "guidance"],
+      "performers": ["Rick"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [Joshua 14]",
+      "start_time": 806,
+      "type": "scripture",
+      "description": "The pastor invites the congregation to turn to Joshua 14, where the story of Caleb is shared. This scripture reading serves as the foundation for the upcoming sermon, emphasizing faith and dedication.",
+      "keywords": ["Joshua", "Caleb", "scripture", "faith", "dedication"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Joshua 14"]
+    },
+    {
+      "title": "Message: New Adventures (Joshua 14)",
+      "start_time": 810,
+      "type": "sermon",
+      "description": "In the sermon titled 'New Adventures', Pastor Rick encourages the congregation to embrace new opportunities presented in the new year. He reflects on Caleb's unwavering faith and commitment, emphasizing the importance of convictions, courage, and dedication to serving God.",
+      "keywords": ["sermon", "New Adventures", "Caleb", "faith", "commitment"],
+      "performers": ["Rick"],
+      "songs": [],
+      "scripture_references": ["Joshua 14"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3434,
+      "type": "prayer",
+      "description": "The service transitions to an invitation prayer, encouraging the congregation to make new commitments to their faith as the new year begins. The prayer is designed to guide individuals in inviting Christ into their lives and becoming resolute in their spiritual journey.",
+      "keywords": ["invitation", "prayer", "commitment", "faith", "new beginning"],
+      "performers": ["Rick"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unknown Song]",
+      "start_time": 3458,
+      "type": "music",
+      "description": "The service concludes with a final musical piece by the choir, reinforcing the themes of hope, faith, and the community's commitment to serving Jesus Christ in the new year.",
+      "keywords": ["music", "choir", "hope", "community", "commitment"],
+      "performers": ["celebration"],
+      "songs": ["[Unknown Song]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unknown Song]",
+      "start_time": 3668,
+      "type": "music",
+      "description": "In a joyful conclusion, the choir performs a vibrant piece of music. This segment aims to uplift and inspire the congregation, celebrating the new year with enthusiasm and worship.",
+      "keywords": ["music", "joy", "celebration", "uplift", "worship"],
+      "performers": ["celebration"],
+      "songs": ["[Unknown Song]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

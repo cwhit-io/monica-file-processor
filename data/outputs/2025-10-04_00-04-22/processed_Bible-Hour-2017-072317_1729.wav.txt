@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Friend of God",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir leads the congregation in a spirited rendition of 'Friend of God,' celebrating the deep relationship between God and His followers. The lyrics reflect themes of divine friendship and assurance, encouraging the worshippers to recognize their special standing before God.",
+      "keywords": ["friend", "God", "choir", "worship"],
+      "performers": ["Choir"],
+      "songs": ["Friend of God"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Good Good Father",
+      "start_time": 1140,
+      "type": "music",
+      "description": "A solo artist captures the congregation's attention with 'Good Good Father.' This emotive song speaks to the nature of God's love and care, drawing the listeners to reflect on their own relationship with the Divine, emphasizing trust and dependability.",
+      "keywords": ["father", "love", "trust", "solo"],
+      "performers": ["Solo Artist"],
+      "songs": ["Good Good Father"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Missionary Support",
+      "start_time": 662,
+      "type": "announcement",
+      "description": "The service transitions to a time of introducing missionaries who have been supported by the church. Their stories highlight the impact of faith and community, emphasizing the importance of missions and personal connections within the work of spreading the Gospel.",
+      "keywords": ["missions", "support", "introduction", "community"],
+      "performers": ["John Epley", "Catherine Epley", "Jim", "Becky"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Unidentified Song",
+      "start_time": 1373,
+      "type": "music",
+      "description": "Following the announcements, the choir performs another powerful piece, inspiring the congregation with praises and heartfelt melodies. The music fosters a spirit of joy and unity among attendees, enhancing the worshipful atmosphere.",
+      "keywords": ["choir", "worship", "praise", "song"],
+      "performers": ["Choir"],
+      "songs": ["Unidentified Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Yet (Psalm 22)",
+      "start_time": 1399,
+      "type": "sermon",
+      "description": "The sermon revolves around Psalm 22, addressing feelings of abandonment and suffering. The speaker emphasizes that Jesus understands our pain, encouraging the congregation to process their emotions through the truth of God's Word and the steadfastness of divine love.",
+      "keywords": ["sermon", "Psalm 22", "failure", "faith", "trust"],
+      "performers": ["Steve Webster"],
+      "songs": [],
+      "scripture_references": ["Psalm 22"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3566,
+      "type": "prayer",
+      "description": "In the closing prayer, the pastor lifts up the needs and concerns of the congregation, asking for God's comfort and assurance for those who have felt abandoned. This moment focuses on community intercession and deep reliance on God's faithfulness.",
+      "keywords": ["prayer", "community", "faithfulness", "spiritual"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

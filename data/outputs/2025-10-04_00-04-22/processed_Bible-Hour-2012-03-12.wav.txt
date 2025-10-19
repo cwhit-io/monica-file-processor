@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Upbeat Introduction",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a lively choir performance, setting an uplifting atmosphere for the congregation. This upbeat music invites everyone to engage with the program and fosters a sense of community. The energy of the choir performance serves to welcome attendees warmly and creates a joyful ambiance.",
+      "keywords": ["choir", "upbeat", "introduction", "worship", "community"],
+      "performers": ["Choir"],
+      "songs": ["Upbeat Introduction"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Welcome and Introduction",
+      "start_time": 31,
+      "type": "announcement",
+      "description": "Kelly Bird, the host, warmly welcomes everyone to the Bible Hour, expressing gratitude for the opportunity to share moments together. He introduces himself and briefly mentions the ministry's commitment to teaching God's Word and the vibrant community at Black Hawk Ministries.",
+      "keywords": ["welcome", "introduction", "Bible Hour", "Kelly Bird", "community"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Reflections on Eden",
+      "start_time": 182,
+      "type": "music",
+      "description": "The service transitions into a solo performance reflecting on the concept of Eden, invoking themes of longing and hope for a better existence. The contemplative lyrics resonate with the audience, drawing them into a moment of introspection about their spiritual journey.",
+      "keywords": ["solo", "Eden", "reflection", "longing", "spiritual journey"],
+      "performers": ["Unknown"],
+      "songs": ["Reflections on Eden"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Vision of Heaven",
+      "start_time": 660,
+      "type": "music",
+      "description": "A powerful solo follows, painting a vivid picture of the beauty and joy found in heaven. The message conveyed through the lyrics is one of hope and anticipation, encouraging the congregation to contemplate the blessings awaiting them in the afterlife.",
+      "keywords": ["solo", "heaven", "hope", "joy", "anticipation"],
+      "performers": ["Unknown"],
+      "songs": ["Vision of Heaven"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1153,
+      "type": "prayer",
+      "description": "The opening prayer is led, inviting God’s presence into the service. The congregation joins in unity as they seek divine guidance and illumination for the message that follows. This moment sets a focused tone for worship and reflection.",
+      "keywords": ["prayer", "opening", "guidance", "worship", "unity"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Spiritual Leadership Principles (Philippians 2)",
+      "start_time": 1157,
+      "type": "sermon",
+      "description": "In this comprehensive message, Kelly Bird discusses essential principles of spiritual leadership drawn from Philippians 2. He emphasizes genuine love, service, and the significance of character in leaders. Through practical insights and biblical teaching, he sheds light on what defines successful ministry leadership.",
+      "keywords": ["sermon", "spiritual leadership", "Philippians", "love", "service", "character"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Philippians 2:19-30"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3494,
+      "type": "prayer",
+      "description": "The closing prayer serves as a heartfelt conclusion to the service. The congregation unites in spirit, seeking God's conclusion, strength, and empowerment for their week ahead. This prayer encapsulates the themes of the message, encouraging application in daily lives.",
+      "keywords": ["prayer", "closing", "strength", "encouragement", "application"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Worship Celebration",
+      "start_time": 3524,
+      "type": "music",
+      "description": "The service concludes with a joyful choir piece that celebrates worship. The uplifting performance reinforces the message of hope and community, inviting the congregation to leave with a renewed spirit. This vibrant ending encapsulates the service's energy and themes.",
+      "keywords": ["choir", "celebration", "worship", "community", "joy"],
+      "performers": ["Choir"],
+      "songs": ["Worship Celebration"],
+      "scripture_references": []
+    }
+  ]
+}
+```

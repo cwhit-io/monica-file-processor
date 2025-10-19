@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Sing Me a Song About Jesus",
+      "start_time": 106,
+      "type": "music",
+      "description": "The sanctuary choir leads the congregation in a joyful and uplifting song celebrating Jesus. The lyrics invite worshippers to reflect on the beautiful things Jesus has done, creating an atmosphere of thanksgiving and praise. This passionate musical moment emphasizes community and collective worship.",
+      "keywords": ["choir", "worship", "Jesus", "music", "joy"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Sing Me a Song About Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Jesus is My Music",
+      "start_time": 341,
+      "type": "music",
+      "description": "A soloist performs 'Jesus is My Music,' sharing a heartfelt testimony through song about finding joy and purpose in Jesus. The lyrics express a deep personal connection with Christ and highlight how His presence transforms life into a melodic symphony. This piece moves the audience towards a spiritual reflection.",
+      "keywords": ["solo", "Jesus", "music", "transformation", "joy"],
+      "performers": ["Soloist"],
+      "songs": ["Jesus is My Music"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Two Meditations on the Cross",
+      "start_time": 970,
+      "type": "music",
+      "description": "The Handel Choir performs 'Two Meditations on the Cross' as a moving and introspective musical offering. This piece encourages the audience to meditate on the significance of the cross and what it means for their faith. The performance creates a powerful atmosphere of reverence and contemplation.",
+      "keywords": ["choir", "cross", "meditation", "worship", "faith"],
+      "performers": ["Handel Choir"],
+      "songs": ["Two Meditations on the Cross"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Qualifications for Elders (1 Timothy 3)",
+      "start_time": 1182,
+      "type": "sermon",
+      "description": "Pastor Russell Moore explores the essential qualifications for church leaders as outlined in 1 Timothy 3. Through a detailed examination of Scripture, he emphasizes the importance of character, relationships, and spiritual maturity in leadership roles. The sermon challenges attendees to evaluate their own lives against these godly standards and the significant impact of leadership on the church community.",
+      "keywords": ["sermon", "leadership", "1 Timothy", "character", "qualifications"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 3"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3425,
+      "type": "prayer",
+      "description": "As the service nears conclusion, the pastor leads an invitation prayer inviting anyone seeking a relationship with Christ to respond to the message shared earlier. This moment is a heartfelt appeal for spiritual commitment and connection with God, aiming to encourage attendees to embrace faith.",
+      "keywords": ["prayer", "invitation", "commitment", "faith", "spiritual"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3454,
+      "type": "prayer",
+      "description": "Pastor Moore offers a closing prayer that expresses gratitude for the message shared and seeks God's guidance for the congregation. This prayer encapsulates the themes of the service and reinforces the importance of applying the teachings in daily life.",
+      "keywords": ["prayer", "closing", "gratitude", "congregation", "blessing"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 53,
+      "type": "prayer",
+      "description": "The service begins with Jesus' words about authority and discipleship, setting the theme of the morning. The congregation is reminded of their purpose to make disciples and worship God wholeheartedly.",
+      "keywords": ["Jesus", "authority", "discipleship", "worship", "congregation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 28:18-20"]
+    },
+    {
+      "title": "Choir: I Will Worship You",
+      "start_time": 125,
+      "type": "music",
+      "description": "The choir powerfully sings ‘I Will Worship You,’ inviting the congregation to engage in heartfelt worship. The lyrics emphasize devotion and love for God, creating a reflective atmosphere.",
+      "keywords": ["worship", "choir", "praise", "devotion", "song"],
+      "performers": ["Choir"],
+      "songs": ["I Will Worship You"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: We Give You Praise",
+      "start_time": 587,
+      "type": "music",
+      "description": "A solo performance comes forward to sing ‘We Give You Praise,’ delivering a message of gratitude and glory to God. The worship fills the space with a sense of reverence and appreciation.",
+      "keywords": ["solo", "praise", "gratitude", "worship", "song"],
+      "performers": ["Soloist"],
+      "songs": ["We Give You Praise"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Living Surrendered (1 Peter 2:11-12)",
+      "start_time": 875,
+      "type": "sermon",
+      "description": "The pastor shares a powerful message focusing on the themes of surrender and living a life dedicated to God. Emphasizing the persecution faced by early Christians, the sermon outlines the importance of fully surrendering to Christ amid challenges and temptations.",
+      "keywords": ["surrender", "persecution", "1 Peter", "devotion", "message"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["1 Peter 2:11-12"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3540,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer. The pastor prays for strength to live a life that honors God and expresses His character in everyday choices.",
+      "keywords": ["prayer", "closing", "strength", "community", "worship"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

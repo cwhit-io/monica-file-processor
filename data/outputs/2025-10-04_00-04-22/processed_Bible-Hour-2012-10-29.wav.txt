@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with upbeat music that sets a lively and joyful atmosphere for the congregation. The audience responds with applause, introducing a welcoming environment for worship. This segment prepares hearts for the upcoming spiritual message and fellowship.",
+      "keywords": ["worship", "upbeat", "joyful", "music", "congregation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Unidentified Song",
+      "start_time": 60,
+      "type": "music",
+      "description": "The choir leads a powerful piece, engaging the congregation in worship through musical expression. The uplifting lyrics invite attendees to reflect on their faith and the community's shared beliefs.",
+      "keywords": ["choir", "worship", "music", "faith", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Gentle Piano Worship",
+      "start_time": 285,
+      "type": "music",
+      "description": "A gentle piano segment welcomes a moment of introspection and tranquility. The music creates a serene atmosphere, encouraging the congregation to connect intimately with their spirituality as they prepare for prayer.",
+      "keywords": ["piano", "gentle", "worship", "introspection", "spirituality"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: You Make Me New",
+      "start_time": 428,
+      "type": "music",
+      "description": "The congregation joins in singing 'You Make Me New,' reinforcing themes of renewal and transformation in their faith. The collective singing fosters a sense of community and shared purpose as they worship together.",
+      "keywords": ["congregational", "hymn", "renewal", "transformation", "worship"],
+      "performers": [],
+      "songs": ["You Make Me New"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 638,
+      "type": "prayer",
+      "description": "An opening prayer invites the congregation to bow their heads in reverence, expressing gratitude and readying their hearts to receive the Word of God. The leader emphasizes the importance of not just hearing but applying the teachings they are about to receive.",
+      "keywords": ["prayer", "gratitude", "worship", "Word of God", "application"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Obedience to God (James 1:22-25)",
+      "start_time": 765,
+      "type": "sermon",
+      "description": "The sermon emphasizes the significance of obedience to God's word, rooted in the scripture from James 1:22-25. The speaker shares personal anecdotes and theological insights, urging the congregation to not only hear but to put their faith into action.",
+      "keywords": ["sermon", "obedience", "faith", "James", "application"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["James 1:22-25"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3530,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for the message shared and asking for strength to apply the teachings in daily life. The congregation is invited to continue in fellowship, affirming their commitment to live out their faith.",
+      "keywords": ["closing prayer", "thanksgiving", "commitment", "fellowship", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

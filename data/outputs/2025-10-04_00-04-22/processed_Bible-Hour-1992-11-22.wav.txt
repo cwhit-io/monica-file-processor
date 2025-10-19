@@ -1,0 +1,64 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: Praise Him",
+      "start_time": 116,
+      "type": "music",
+      "description": "The sanctuary choir leads the congregation in a beautiful song titled 'Praise Him'. The lyrics emphasize the majesty and redemptive power of Jesus Christ. The choir's harmonies and heartfelt delivery create an atmosphere of worship, encouraging the congregation to join in the praise.",
+      "keywords": ["worship", "choir", "Jesus", "power", "praise"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Praise Him"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Excellent Greatness",
+      "start_time": 344,
+      "type": "music",
+      "description": "A solo performance by Denise Mitchell captivates the audience with the song 'Excellent Greatness.' She expresses awe for the power and love of God, reflecting on the significance of Christ's sacrifice. Her passionate rendition inspires deep feelings of gratitude and worship within the congregation.",
+      "keywords": ["solo", "worship", "God", "sacrifice", "awe"],
+      "performers": ["Denise Mitchell"],
+      "songs": ["Excellent Greatness"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Persecuted Church (Revelation 2:8-11)",
+      "start_time": 1086,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a powerful sermon on the church at Smyrna, emphasizing their unwavering faith amidst severe persecution. The message encourages the congregation to remain steadfast in their beliefs, highlighting how trials can purify faith. With biblical examples, he stresses the importance of courage and loyalty to Christ during times of adversity.",
+      "keywords": ["persecution", "faith", "Smyrna", "courage", "trials"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 2:8-11"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3412,
+      "type": "prayer",
+      "description": "An invitation prayer follows the sermon, inviting anyone who feels moved to commit their life to Christ. The pastor leads the congregation in a heartfelt prayer, emphasizing forgiveness and acceptance through Jesus. This moment creates a warm atmosphere for reflection and personal commitment.",
+      "keywords": ["commitment", "prayer", "forgiveness", "acceptance", "Jesus"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Decision to Trust Christ",
+      "start_time": 3444,
+      "type": "announcement",
+      "description": "Following the prayer, the program addresses those who may have made the decision to accept Christ. The pastor encourages them to share their experience and informs them about helpful resources available to support their spiritual journey, demonstrating the church's commitment to nurturing new believers.",
+      "keywords": ["decision", "trust", "resources", "support", "spiritual journey"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Closing Worship",
+      "start_time": 3539,
+      "type": "music",
+      "description": "The service concludes with a congregational hymn, allowing the entire congregation to join in collective worship. This moment fosters unity and reinforces the message of faith and perseverance discussed in the sermon. The uplifting music sends the attendees out with a sense of hope and community.",
+      "keywords": ["congregation", "hymn", "worship", "unity", "faith"],
+      "performers": [],
+      "songs": ["Closing Worship"],
+      "scripture_references": []
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Crown Him with Many Crowns",
+      "start_time": 176,
+      "type": "music",
+      "description": "The sanctuary choir and orchestra present a beautiful rendition of 'Crown Him with Many Crowns.' This uplifting music highlights the resurrection of Jesus Christ, inviting the congregation to reflect on His glory and majesty. The rich harmonies and orchestration create a celebratory atmosphere for the worship service.",
+      "keywords": ["music", "worship", "choir", "orchestra", "Easter"],
+      "performers": ["Sanctuary Choir", "Orchestra"],
+      "songs": ["Crown Him with Many Crowns"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Heartbeat",
+      "start_time": 197,
+      "type": "music",
+      "description": "A solo performance of 'Heartbeat' conveys themes of divine closeness and reassurance. The lyrics encourage the listener to recognize God's presence in every moment, celebrating the intimate relationship one can have with the Creator. The poignant delivery adds to the emotional depth of the song.",
+      "keywords": ["song", "heartbeat", "divinity", "intimacy", "worship"],
+      "performers": ["Unknown"],
+      "songs": ["Heartbeat"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Centurion",
+      "start_time": 643,
+      "type": "music",
+      "description": "The choir performs a powerful piece that reflects on the role of the centurion during the trial of Jesus. This dramatic song intertwines the poignant emotions of accountability and witness as the centurion grapples with the events surrounding Christ's crucifixion. It serves as a reflective moment in the service.",
+      "keywords": ["choir", "centurion", "drama", "Jesus", "crucifixion"],
+      "performers": ["Choir"],
+      "songs": ["Centurion"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: What a Difference One Day Can Make",
+      "start_time": 760,
+      "type": "music",
+      "description": "The choir presents 'What a Difference One Day Can Make,' capturing the essence of change and transformation that comes through the events of Holy Week. The song invites reflection on the significance of Christ’s sacrifice and how it alters the course of lives. The thoughtful lyrics resonate deeply with the congregation.",
+      "keywords": ["change", "sacrifice", "worship", "transformation", "Easter"],
+      "performers": ["Choir"],
+      "songs": ["What a Difference One Day Can Make"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: What a Difference a Day Can Make (Various Scriptures)",
+      "start_time": 1252,
+      "type": "sermon",
+      "description": "The sermon, 'What a Difference a Day Can Make,' reflects on the transformation brought about by Easter. The speaker draws parallels between biblical events and personal experiences, emphasizing the significance of Christ’s resurrection and its implications for believers. Listeners are encouraged to consider their own choices regarding faith and acceptance of Christ.",
+      "keywords": ["Easter", "resurrection", "faith", "transformation", "choice"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["Various"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2053,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service with a heartfelt appeal to God for guidance and strength in the lives of the congregation. It invokes a spirit of gratitude for the messages shared and the joy of Easter, solidifying the themes of redemption and hope.",
+      "keywords": ["prayer", "closing", "worship", "gratitude", "hope"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

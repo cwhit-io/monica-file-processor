@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Solo: How Excellent Is Thy Name",
+      "start_time": 161,
+      "type": "music",
+      "description": "Brenda Whitfield performs the song 'How Excellent Is Thy Name', celebrating the magnificence of God's name. The lyrics reflect on the beauty of creation and God's majesty. The performance is energized, inviting the congregation to praise.",
+      "keywords": ["brenda whitfield", "how excellent is thy name", "praise", "worship", "music"],
+      "performers": ["Brenda Whitfield"],
+      "songs": ["How Excellent Is Thy Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: I Give You Jesus",
+      "start_time": 778,
+      "type": "music",
+      "description": "Brenda Whitfield returns to the stage to perform 'I Give You Jesus', emphasizing the comfort and peace found in Jesus. The song highlights the struggles of life and the importance of turning to Christ as the ultimate source of solace.",
+      "keywords": ["brenda whitfield", "i give you jesus", "peace", "comfort", "worship"],
+      "performers": ["Brenda Whitfield"],
+      "songs": ["I Give You Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1758,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer invites God's presence into the service, acknowledging the needs of the congregation. The prayer seeks healing for those mourning and encourages humility before God, setting a reverent tone for worship.",
+      "keywords": ["prayer", "worship", "humility", "healing", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Proverbs 27",
+      "start_time": 1764,
+      "type": "scripture",
+      "description": "The scripture reading focuses on Proverbs 27:21, which discusses how praise tests a person's character. This important verse lays the foundation for the sermon topic on pride and humility, inviting reflection on personal responses to praise.",
+      "keywords": ["scripture", "proverbs", "humility", "praise"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Proverbs 27:21"]
+    },
+    {
+      "title": "Message: Managing Our Pride (Proverbs 27)",
+      "start_time": 1764,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a powerful sermon on the theme of pride using Proverbs 27. He reveals how pride is deceitful, destructive, and detestable in God's sight. Through real-life illustrations and biblical references, the message challenges listeners to confront their pride and embrace humility.",
+      "keywords": ["pride", "humility", "sermon", "proverbs", "rick hawks"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Proverbs 27:21", "Proverbs 16:18-19", "Proverbs 30:12", "James 4:6"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3503,
+      "type": "prayer",
+      "description": "An invitation prayer concludes the service, urging individuals to make a decision for Christ. The pastor prays for those seeking spiritual guidance, demonstrating compassion and the gospel's power. It is a moment for personal reflection and commitment.",
+      "keywords": ["invitation", "prayer", "commitment", "gospel"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: We Are Not Ashamed",
+      "start_time": 1300,
+      "type": "music",
+      "description": "The congregation joins in singing 'We Are Not Ashamed', proclaiming their faith and dedication to the gospel. This hymn serves to unite the members in expression of their belief, reinforcing the sermon’s themes of boldness and trust in God.",
+      "keywords": ["congregational hymn", "we are not ashamed", "gospel", "worship", "unity"],
+      "performers": [],
+      "songs": ["We Are Not Ashamed"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3601,
+      "type": "prayer",
+      "description": "In the closing prayer, gratitude is expressed for the service and the messages shared. The pastor asks for God's continued guidance and support for those searching for faith, encouraging community and personal connection to Christ.",
+      "keywords": ["closing prayer", "gratitude", "faith", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

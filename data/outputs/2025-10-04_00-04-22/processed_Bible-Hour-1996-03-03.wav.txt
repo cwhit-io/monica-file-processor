@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Praise the Lord",
+      "start_time": 105,
+      "type": "music",
+      "description": "The choir leads the congregation in a powerful worship experience, emphasizing the greatness of God in their hearts. This uplifting song echoes the themes of gratitude and reverence, fostering an atmosphere of worship among the attendees. The repetition of praises helps to engage the congregation deeply in the moment.",
+      "keywords": ["choir", "praise", "worship", "God", "song"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Praise the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Praise Him in the Heights",
+      "start_time": 265,
+      "type": "music",
+      "description": "The congregation joins in a spirited hymn that celebrates God's glory and faithfulness. This communal singing experience encourages unity and collective worship, inviting everyone to lift their voices together in praise. The joyful atmosphere reinforces the church's sense of community and shared faith.",
+      "keywords": ["congregational", "hymn", "praise", "worship", "community"],
+      "performers": [],
+      "songs": ["Praise Him in the Heights"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 2 Corinthians 8",
+      "start_time": 313,
+      "type": "scripture",
+      "description": "The reader shares a portion of scripture from 2 Corinthians 8, where Paul encourages the church at Corinth to give to those in need. This reading sets the stage for a teaching moment about the principles of generosity and responding to God’s grace through giving.",
+      "keywords": ["scripture", "2 Corinthians", "giving", "Paul", "church"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["2 Corinthians 8"]
+    },
+    {
+      "title": "Message: Generosity and Grace (2 Corinthians 8)",
+      "start_time": 324,
+      "type": "sermon",
+      "description": "The sermon focuses on the biblical principles of generosity as illustrated by the Macedonian churches. The speaker emphasizes that true giving arises from an understanding of God’s grace, challenging common misconceptions about giving as a means to earn favor. Encouragement is given for individuals to prioritize generosity, even in hardship, reflecting a heart aligned with God's own generosity.",
+      "keywords": ["sermon", "Macedonia", "generosity", "grace", "giving"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["2 Corinthians 8"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 1944,
+      "type": "prayer",
+      "description": "The invitation prayer provides an opportunity for attendees to reflect on their personal commitments in response to the sermon. It invites listeners to seek God's guidance regarding their giving and to open their hearts to the leading of the Holy Spirit in their lives.",
+      "keywords": ["prayer", "invitation", "commitment", "reflection", "Spirit"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Testimony: Transformative Giving",
+      "start_time": 2008,
+      "type": "testimony",
+      "description": "A church member shares a personal story highlighting the impact of generous giving in their life. This testimony emphasizes the joy and fulfillment that comes from giving selflessly and how it has transformed their relationship with God. It's an inspiring reminder of the blessings that flow from obedience in generosity.",
+      "keywords": ["testimony", "giving", "transformation", "joy", "faith"],
+      "performers": ["Unnamed church member"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Announcement: Upcoming Events",
+      "start_time": 2900,
+      "type": "announcement",
+      "description": "The announcements introduce upcoming church events aimed at increasing fellowship and community engagement. Members are encouraged to participate in the various activities as a way to strengthen their relationships within the church and to serve others. These are important for building a vibrant church community.",
+      "keywords": ["announcement", "events", "community", "fellowship", "church"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Giving from the Heart",
+      "start_time": 3400,
+      "type": "music",
+      "description": "A solo performance encapsulates the themes of the day's message, focusing on the joy of giving from a place of gratitude. This heartfelt presentation resonates with the congregation, enhancing the spiritual atmosphere and reinforcing the message of the sermon.",
+      "keywords": ["solo", "giving", "joy", "worship", "gratitude"],
+      "performers": ["Solo Artist"],
+      "songs": ["Giving from the Heart"],
+      "scripture_references": []
+    }
+  ]
+}
+```

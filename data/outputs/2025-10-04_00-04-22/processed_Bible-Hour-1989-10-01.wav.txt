@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Jesus the Very Thought of Thee",
+      "start_time": 161,
+      "type": "music",
+      "description": "The sanctuary choir performed a beautiful piece titled 'Jesus the Very Thought of Thee.' The choir's harmonious voices filled the space, creating an uplifting atmosphere for the congregation as they reflected on the sweetness of Jesus' presence in their lives.",
+      "keywords": ["choir", "Jesus", "music", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Jesus the Very Thought of Thee"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: My Jesus, I Love Thee",
+      "start_time": 358,
+      "type": "music",
+      "description": "The congregation joined in singing 'My Jesus, I Love Thee' from the hymn book. This well-loved hymn allowed members to express their love for Jesus through song, fostering a sense of unity and devotion among all present.",
+      "keywords": ["congregational", "hymn", "worship", "love"],
+      "performers": [],
+      "songs": ["My Jesus, I Love Thee"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Not One",
+      "start_time": 518,
+      "type": "music",
+      "description": "Soloist Kevin Rowe delivered a powerful performance of 'Not One,' embodying the message of divine love and redemption. His heartfelt rendition resonated deeply with the congregation, reminding them of their reliance on God's grace.",
+      "keywords": ["solo", "redemption", "grace", "love"],
+      "performers": ["Kevin Rowe"],
+      "songs": ["Not One"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1061,
+      "type": "prayer",
+      "description": "The opening prayer set the tone for the service, inviting the congregation to unite in spirit and reflect on the themes of healing and hope. It acknowledged the struggles of community members while thanking God for His interventions in their lives.",
+      "keywords": ["prayer", "community", "healing", "hope"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Luke 7",
+      "start_time": 1373,
+      "type": "scripture",
+      "description": "A reading from Luke chapter 7, verses 36-50, recounting the story of a woman with a soiled reputation who experiences forgiveness through Jesus. This scripture lays the foundation for the sermon and encourages contemplation among the listeners.",
+      "keywords": ["Luke", "scripture", "forgiveness", "woman"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Luke 7:36-50"]
+    },
+    {
+      "title": "Message: A Soiled Reputation that Came Out Smelling Like a Rose (Luke 7:36-50)",
+      "start_time": 1355,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks shares a transformative message based on Luke 7:36-50, contrasting the lives of a self-righteous Pharisee and a repentant woman. Through five contrasts and four applications, he illustrates that awareness of sin, rather than the amount of sin, is crucial in understanding God's grace and forgiveness.",
+      "keywords": ["sermon", "forgiveness", "grace", "repentance", "Pharisee"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Luke 7:36-50"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3502,
+      "type": "prayer",
+      "description": "An invitation prayer was offered, inviting anyone who felt led to open their heart to Jesus. This moment provided a space for reflection and personal commitment, reinforcing the message of hope and redemption shared in the sermon.",
+      "keywords": ["prayer", "invitation", "commitment", "redemption"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3534,
+      "type": "prayer",
+      "description": "The closing prayer brought the service to an end, reinforcing the day's themes of grace and transformation. It asked for continued guidance and strength for attendees, as they seek to embody God's love in their daily lives.",
+      "keywords": ["prayer", "closing", "grace", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

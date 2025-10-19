@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Wonderful Merciful Savior",
+      "start_time": 101,
+      "type": "music",
+      "description": "The sanctuary choir performs 'Wonderful Merciful Savior,' showcasing their harmonies and spiritual depth. Featured soloists include Laurie Shimon and Rachel Macintosh, adding to the overall emotional impact of the worship experience.",
+      "keywords": ["choir", "worship", "music", "spiritual", "performance"],
+      "performers": ["Sanctuary Choir", "Laurie Shimon", "Rachel Macintosh"],
+      "songs": ["Wonderful Merciful Savior"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Legacy",
+      "start_time": 378,
+      "type": "music",
+      "description": "Laurie Shimon, a senior from Black Hawk Christian School, performs 'Legacy,' emphasizing the theme of leaving a spiritual legacy. Her heartfelt rendition conveys the importance of one's journey and the impact we have on others.",
+      "keywords": ["solo", "legacy", "graduation", "song"],
+      "performers": ["Laurie Shimon"],
+      "songs": ["Legacy"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Qualifications of an Excellent Pastor (1 Timothy 4:6-16)",
+      "start_time": 805,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a compelling message on the qualifications of a pastor, drawn from 1 Timothy 4:6-16. He emphasizes the importance of sound doctrine, personal godliness, and vigilance against false teachings, urging Timothy to stay resolute in his faith despite challenges.",
+      "keywords": ["sermon", "Paul", "Timothy", "pastor", "teaching"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 4:6-16"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3421,
+      "type": "prayer",
+      "description": "A heartfelt invitation prayer is offered, inviting individuals to accept Christ into their hearts. This moment serves as a pivotal point for those seeking spiritual guidance, emphasizing the significance of personal salvation and new beginnings.",
+      "keywords": ["prayer", "invitation", "salvation", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcements: Summer Events and Bible Character Cards",
+      "start_time": 661,
+      "type": "announcement",
+      "description": "Various announcements highlight upcoming summer events at Black Hawk Baptist Church, including the summer celebration and the annual Patriotic Panorama. Additionally, there's information about Bible character cards for children, emphasizing outreach and education.",
+      "keywords": ["announcements", "events", "summer", "education"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Sean and Tabby: Overcoming Challenges",
+      "start_time": 509,
+      "type": "testimony",
+      "description": "Students Sean and Tabby share their personal journeys at Black Hawk Christian School, discussing the challenges they faced and how they overcame them. Their testimonies inspire fellow students and the congregation, illustrating growth and resilience through faith.",
+      "keywords": ["testimony", "overcoming", "students", "faith"],
+      "performers": ["Sean", "Tabby"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Invitation",
+      "start_time": 992,
+      "type": "music",
+      "description": "An inspirational solo performance delivered during the invitation segment of the service, uplifting the congregation and encouraging reflection on personal faith and spiritual commitments.",
+      "keywords": ["song", "invitation", "worship", "spiritual"],
+      "performers": ["Laurie Shimon"],
+      "songs": ["Legacy"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3446,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, allowing attendees to reflect on the message and solidify their commitments to faith. This moment of collective prayer supports the community and encourages ongoing spiritual growth.",
+      "keywords": ["prayer", "closing", "community", "spiritual growth"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

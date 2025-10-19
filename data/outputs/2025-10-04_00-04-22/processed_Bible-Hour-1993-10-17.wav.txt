@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Special Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with special music from the choir, showcasing a heartfelt performance that emphasizes themes of hope and salvation. The congregation is invited to reflect on the uplifting message conveyed through song as they engage in worship together.",
+      "keywords": ["choir", "hope", "salvation", "worship", "music"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["N/A"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Special Duet",
+      "start_time": 389,
+      "type": "music",
+      "description": "A duet featuring Kevin Rowe and Denise Mitchell follows. Their harmonious voices deliver a touching performance that enriches the worship experience and encourages the congregation to connect deeper with the message of faith.",
+      "keywords": ["duet", "faith", "worship", "music"],
+      "performers": ["Kevin Rowe", "Denise Mitchell"],
+      "songs": ["N/A"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Selflessness (Philippians 2:1-11)",
+      "start_time": 1015,
+      "type": "sermon",
+      "description": "The sermon focuses on the theme of selflessness as illustrated in Philippians chapter 2. The pastor discusses the high standard of Christ's humility and encourages the congregation to adopt an attitude of considering others' interests above their own, drawing on personal anecdotes to convey the challenge of living this out in daily life.",
+      "keywords": ["selflessness", "humility", "Philippians", "Christ", "church"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Philippians 2:1-11"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3420,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by the pastor, with a focus on gratitude for Christ's sacrifice and a request for strength to embody the selflessness preached in the sermon. This moment serves as a final reflection for the congregation to commit the message to their hearts.",
+      "keywords": ["prayer", "gratitude", "sacrifice", "selflessness"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 3436,
+      "type": "announcement",
+      "description": "The pastor shares details about upcoming church events, including special music guests and ongoing sermon series. This moment invites community engagement and encourages congregants to remain involved in the life of the church.",
+      "keywords": ["events", "church", "community", "engagement"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

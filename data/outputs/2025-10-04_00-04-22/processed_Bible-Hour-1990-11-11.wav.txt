@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: This is the Day",
+      "start_time": 144,
+      "type": "music",
+      "description": "The sanctuary choir performs 'This is the Day,' creating a joyful atmosphere and inviting the congregation to reflect on the significance of the day. This uplifting performance sets the tone for the service, emphasizing themes of praise and worship.",
+      "keywords": ["choir", "music", "worship", "praise", "joy"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["This is the Day"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown]",
+      "start_time": 272,
+      "type": "music",
+      "description": "A solo performance captivates the congregation with heartfelt lyrics emphasizing Jesus as Lord and Savior. The emotional delivery encourages worship and reflection on the personal relationship with Christ.",
+      "keywords": ["solo", "Jesus", "worship", "Savior", "music"],
+      "performers": ["Jonathan Birchfield"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown]",
+      "start_time": 637,
+      "type": "music",
+      "description": "Another poignant solo performance adds to the worship experience. The song resonates with listeners, reinforcing themes of faith and devotion to God.",
+      "keywords": ["solo", "worship", "faith", "devotion", "music"],
+      "performers": ["Susan Toyrak Stump"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: When Satan Visits God (Job 1:6-12)",
+      "start_time": 1729,
+      "type": "sermon",
+      "description": "Pastor Tim Teder delivers a powerful message from Job 1:6-12 about the cosmic dialogue between God and Satan regarding devotion and integrity. Through Job's story, he explores the themes of suffering, spiritual curiosity, and the unseen realities of faith, encouraging believers to prepare for trials and embrace God’s sovereignty.",
+      "keywords": ["sermon", "Job", "Satan", "integrity", "faith", "suffering"],
+      "performers": ["Tim Teder"],
+      "songs": [],
+      "scripture_references": ["Job 1:6-12"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3461,
+      "type": "prayer",
+      "description": "An invitation prayer is offered for those seeking to commit or recommit their lives to Christ. The prayer emphasizes the importance of a personal relationship with God and provides a moment for reflection and acceptance of new faith.",
+      "keywords": ["prayer", "invitation", "faith", "commitment", "Christ"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "[Unknown]: [Unknown]",
+      "start_time": 3481,
+      "type": "music",
+      "description": "The service concludes with a closing piece of music, allowing the congregation to reflect on the message shared throughout the service. This final performance encourages a spirit of worship and gratitude.",
+      "keywords": ["music", "worship", "closing"],
+      "performers": ["Sanctuary Choir", "Jonathan Birchfield", "Susan Toyrak Stump"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3565,
+      "type": "prayer",
+      "description": "A closing prayer wraps up the service, asking for God's blessings on the congregation as they go forth. The prayer reinforces the themes of the sermon, reminding everyone to lean on their faith in trials.",
+      "keywords": ["closing", "prayer", "blessings", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

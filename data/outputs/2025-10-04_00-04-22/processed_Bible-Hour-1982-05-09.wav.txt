@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: because he loves us so",
+      "start_time": 138,
+      "type": "music",
+      "description": "The sanctuary choir leads with a heartfelt performance of 'because he loves us so.' Their voices ring out in praise, setting a tone of worship and gratitude that fills the congregation with a spirit of reverence and celebration, perfect for Mother's Day.",
+      "keywords": ["choir", "worship", "music", "Mother's Day", "gratefulness"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["because he loves us so"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: O Jesus, I have promised",
+      "start_time": 139,
+      "type": "music",
+      "description": "Alma Mater Peterson delivers a beautiful solo rendition of 'O Jesus, I have promised.' The song reflects deep commitment and the desire for divine companionship, resonating well with the congregation on this special day.",
+      "keywords": ["solo", "commitment", "worship", "music", "Mother's Day"],
+      "performers": ["Alma Mater Peterson"],
+      "songs": ["O Jesus, I have promised"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1286,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer led by Pastor Rick Hawks, focusing on gratitude for mothers and the nurturing love they provide. The prayer emphasizes the community’s appreciation and the spiritual significance of mothers in their lives.",
+      "keywords": ["prayer", "gratitude", "mothers", "community", "spirituality"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Value of Mothers (Proverbs 31)",
+      "start_time": 1612,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers an impactful sermon focusing on the value of mothers by exploring Proverbs 31. This message celebrates the multifaceted roles of women and their immense contributions as homemakers and caregivers, reinforcing the sanctity of motherhood.",
+      "keywords": ["sermon", "mothers", "Proverbs 31", "value", "family"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Proverbs 31:10-31"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3444,
+      "type": "prayer",
+      "description": "Pastor Rick Hawks leads the congregation in an invitation prayer, calling those who feel the need for salvation to reach out to Jesus Christ. This prayer emphasizes grace and the personal relationship with God, encouraging attendees to seek a deeper faith.",
+      "keywords": ["invitation", "prayer", "salvation", "faith", "grace"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Your Decision",
+      "start_time": 3468,
+      "type": "music",
+      "description": "The service concludes with a poignant solo performance titled 'Your Decision.' This song aligns with the invitation to reflect on personal faith and decisions regarding a relationship with Christ, offering a moment of introspection.",
+      "keywords": ["music", "solo", "faith", "reflection", "invitation"],
+      "performers": ["Unknown"],
+      "songs": ["Your Decision"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Program Closure",
+      "start_time": 3517,
+      "type": "announcement",
+      "description": "The program concludes with an informal farewell from Jack Gray, encouraging viewers to tune in weekly. He expresses appreciation to the sponsors and the importance of community support for the Bible Hour.",
+      "keywords": ["announcements", "farewell", "community", "support", "Bible Hour"],
+      "performers": ["Jack Gray"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

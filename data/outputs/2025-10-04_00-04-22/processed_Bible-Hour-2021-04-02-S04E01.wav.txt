@@ -1,0 +1,54 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: Soft Guitar Prelude",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with a soft guitar prelude, setting a peaceful atmosphere for the congregation. The gentle strumming creates a relaxed environment that invites reflection and preparation for worship. This introductory music serves to calm the hearts of those gathered.",
+      "keywords": ["guitar", "music", "worship", "atmosphere", "congregation"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Solo: Acoustic Guitar Melodies",
+      "start_time": 30,
+      "type": "music",
+      "description": "A solo acoustic guitar performance fills the space with melodic sounds, enhancing the worship experience. The guitar melodies blend beautifully, creating a serene backdrop for personal reflection. It invites attendees to engage in their own thoughts and prayers.",
+      "keywords": ["solo", "acoustic", "guitar", "melodies", "worship"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Choir: Acoustic Harmony",
+      "start_time": 90,
+      "type": "music",
+      "description": "The choir joins to offer a harmonious blend of acoustic sounds that captivates the audience. Their performance serves to lift spirits and unify the congregation in a shared experience of worship. The beautifully arranged acoustics create a moment of collective joy.",
+      "keywords": ["choir", "harmony", "worship", "music", "collective"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Choir: Gentle Piano Interlude",
+      "start_time": 878,
+      "type": "music",
+      "description": "A gentle piano interlude transitions the service into a reflective space, allowing members to contemplate the meanings of the earlier music. The soothing piano notes offer a pause for introspection and connection with the divine. This moment prepares hearts for the upcoming sermon.",
+      "keywords": ["piano", "interlude", "reflection", "sermon", "worship"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Message: The Importance of Community (Acts 2:42-47)",
+      "start_time": 4057,
+      "type": "sermon",
+      "description": "The sermon focuses on the importance of community as expressed in Acts 2:42-47. The speaker emphasizes how fellowship, breaking bread, and prayer bind the church together. Through stories and meaningful applications, the message encourages congregants to build connections and support one another.",
+      "keywords": ["community", "Acts", "fellowship", "prayer", "support"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["Acts 2:42-47"]
+    }
+  ]
+}

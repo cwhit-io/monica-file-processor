@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Message: The Practical People Priority (Colossians 4:2-18)",
+      "start_time": 0,
+      "type": "sermon",
+      "description": "The sermon focuses on spiritual maturity and the importance of a practical faith. Using Colossians 4, the speaker highlights a formula for practical faith, emphasizing prayerfulness, mindfulness, thankfulness, and an evangelistic approach. He discusses the significance of relationships in our growth as Christians, illustrated by Paul's relationships with fellow believers.",
+      "keywords": ["Colossians", "prayer", "relationships", "faith", "evangelism"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["Colossians 4:2-18"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3600,
+      "type": "prayer",
+      "description": "A prayer to open the service, asking for guidance and blessings for the congregation and the message to be shared. The focus is on seeking God's presence and readiness to engage with the worship.",
+      "keywords": ["prayer", "guidance", "blessing", "worship"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Colossians 4",
+      "start_time": 3660,
+      "type": "scripture",
+      "description": "The selected scriptures from Colossians chapter 4 are read aloud, inviting the congregation to engage with the Word of God and understand its teachings.",
+      "keywords": ["Colossians", "scripture", "reading"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["Colossians 4"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3720,
+      "type": "prayer",
+      "description": "As the service concludes, a closing prayer is offered, thanking God for the message received and asking for the congregation's continued strength and guidance throughout the coming week.",
+      "keywords": ["prayer", "closing", "thanksgiving"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Medley of Songs",
+      "start_time": 42,
+      "type": "music",
+      "description": "The Sanctuary Choir, accompanied by the Chamber Orchestra from Cedarville College, presents a medley of songs expressing praise and worship. This uplifting performance aims to inspire worship in the congregation, underlining the importance of music in worship settings.",
+      "keywords": ["choir", "music", "worship", "praise", "singing"],
+      "performers": ["Sanctuary Choir", "Chamber Orchestra from Cedarville College"],
+      "songs": ["Medley of Songs"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Trumpet Duet",
+      "start_time": 109,
+      "type": "music",
+      "description": "A beautiful trumpet duet is performed, adding a distinct sound to the worship service. This instrumental piece enhances the atmosphere and prepares hearts for the message to come, serving as a reminder of the creativity of worship through various musical expressions.",
+      "keywords": ["trumpet", "duet", "music", "worship", "performance"],
+      "performers": [],
+      "songs": ["Trumpet Duet"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Worship (Revelation 4)",
+      "start_time": 658,
+      "type": "sermon",
+      "description": "Pastor Russell Moore explores Revelation chapter 4, discussing the theme of worship. He presents principles about humanity's intrinsic capacity to worship, misdirected worship, and contrasts earthly versus heavenly worship, highlighting the call to focus on true worship of God.",
+      "keywords": ["worship", "Revelation", "God", "heaven", "principles"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 4"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3450,
+      "type": "prayer",
+      "description": "The congregation joins in an opening prayer. They express gratitude and seek God’s guidance, particularly for those desiring a relationship with Him. The prayer sets a reflective tone for the service, inviting divine presence into the worship experience.",
+      "keywords": ["prayer", "worship", "gratitude", "guidance", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3468,
+      "type": "prayer",
+      "description": "As the service concludes, a closing prayer is offered. It invites God to continue to work in the hearts of individuals as they leave, reinforcing the themes of worship and commitment to living a life reflecting God's glory in daily actions.",
+      "keywords": ["prayer", "worship", "commitment", "God", "closing"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

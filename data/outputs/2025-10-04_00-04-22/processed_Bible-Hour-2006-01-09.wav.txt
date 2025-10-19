@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: He Came",
+      "start_time": 97,
+      "type": "music",
+      "description": "The Voices of Unity Choir, led by Marshall White, performs a vibrant song reflecting on the life and sacrifice of Jesus. The lyrics emphasize themes of worship, redemption, and the importance of offering everything to Him. This musical segment sets a tone of gratitude and reverence.",
+      "keywords": ["worship", "choir", "songs", "Jesus", "sacrifice"],
+      "performers": ["Voices of Unity Choir"],
+      "songs": ["He Came"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: That's Why We Bow Down",
+      "start_time": 245,
+      "type": "music",
+      "description": "Continuing their powerful worship, the choir sings a moving piece that illustrates the importance of reverence and submission to Christ. The repeated refrain reinforces the message of devotion and the significance of Christ's sacrifice for salvation.",
+      "keywords": ["worship", "choir", "submission", "devotion", "sacrifice"],
+      "performers": ["Voices of Unity Choir"],
+      "songs": ["That's Why We Bow Down"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Transformed Living (Romans 12:1-21)",
+      "start_time": 861,
+      "type": "sermon",
+      "description": "In this engaging sermon, the speaker explores the theme of transformed living as emphasized in Romans 12, urging the congregation to embody sincere love, to hate evil, and to cling to what is good. The message highlights personal transformation and spiritual maturity, illustrating the connection between internal faith and external actions. Practical examples and scriptural references are woven throughout to encourage personal reflection and commitment to Christ-like living.",
+      "keywords": ["transformation", "Romans", "love", "evil", "spiritual growth"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["Romans 12:1-21"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3544,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer that invites God to transform hearts and guide the congregation in their spiritual journeys. The prayer expresses gratitude and a desire for the church community to embody the messages shared throughout the day.",
+      "keywords": ["prayer", "transformation", "gratitude", "community"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

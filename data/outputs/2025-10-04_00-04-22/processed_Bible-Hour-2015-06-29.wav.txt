@@ -1,0 +1,54 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: Amazing Love",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir performs a heartfelt rendition of 'Amazing Love', celebrating the depth of God's forgiveness and love. The lyrics reflect themes of redemption and grace that resonate deeply with the congregation.",
+      "keywords": ["choir", "forgiveness", "love", "praise", "grace"],
+      "performers": ["Choir"],
+      "songs": ["Amazing Love"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: You Are My King",
+      "start_time": 333,
+      "type": "music",
+      "description": "The choir continues with a powerful worship song, 'You Are My King', inviting the congregation to join in praising the sovereignty of Jesus. The uplifting melody and lyrics reinforce the theme of Christ's central role in believers' lives.",
+      "keywords": ["worship", "Jesus", "king", "sovreignty", "praise"],
+      "performers": ["Choir"],
+      "songs": ["You Are My King"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: It's All Because of Jesus",
+      "start_time": 907,
+      "type": "music",
+      "description": "A soloist delivers the poignant song 'It's All Because of Jesus', reflecting on the transformative power of faith. The lyrics express gratitude for salvation and new life through Jesus, encouraging personal reflection among the audience.",
+      "keywords": ["solo", "Jesus", "transformation", "salvation", "faith"],
+      "performers": ["Soloist"],
+      "songs": ["It's All Because of Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Salt and Light (Matthew 5:13-16)",
+      "start_time": 3505,
+      "type": "sermon",
+      "description": "The pastor delivers an inspiring sermon on being 'Salt and Light' in the world, based on the teachings of Matthew 5:13-16. This message encourages believers to actively demonstrate their faith through good works and positive influence in their communities.",
+      "keywords": ["sermon", "faith", "salt", "light", "community"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Matthew 5:13-16"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3529,
+      "type": "prayer",
+      "description": "A closing prayer wraps up the service, encouraging the congregation to carry the message of the day with them into the week. The prayer emphasizes themes of guidance and strength to be ambassadors of faith in everyday life.",
+      "keywords": ["prayer", "closing", "guidance", "faith", "strength"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

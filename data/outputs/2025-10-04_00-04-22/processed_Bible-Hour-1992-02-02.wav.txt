@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Message: The Bliss and Blisters of Singleness (1 Corinthians 7)",
+      "start_time": 54,
+      "type": "sermon",
+      "description": "Pastor Moore explores the complexities of singleness, combining scriptural insights and personal anecdotes. He discusses the emotional struggles faced by singles, especially those longing for marriage, and emphasizes the importance of embracing these challenges while maintaining faith. The sermon serves as an encouragement to those navigating the ups and downs of being single.",
+      "keywords": ["singleness", "Paul", "1 Corinthians", "loneliness", "marriage"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 7"]
+    },
+    {
+      "title": "Choir: My Faith is Found a Resting Place",
+      "start_time": 79,
+      "type": "music",
+      "description": "The choir leads the congregation in a powerful rendition of 'My Faith is Found a Resting Place.' The performance uplifts the spirit, encouraging worshippers to find solace and assurance in their faith, regardless of life's uncertainties. The harmonies and melodies create a rich atmosphere of worship.",
+      "keywords": ["choir", "faith", "worship", "resting place"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["My Faith is Found a Resting Place"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: It Must Be Love",
+      "start_time": 100,
+      "type": "music",
+      "description": "Lynn Roll performs 'It Must Be Love,' sharing a heartfelt message about the unconditional love of God. The song emphasizes how divine love transcends human flaws and shortcomings, inviting listeners to reflect on their relationship with God. It serves as a reminder of the grace and acceptance found in His love.",
+      "keywords": ["Lynn Roll", "God", "love", "grace"],
+      "performers": ["Lynn Roll"],
+      "songs": ["It Must Be Love"],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Testimony: Divorce Recovery Workshops",
+      "start_time": 707,
+      "type": "interview",
+      "description": "Tom Leach discusses the Divorce Recovery Workshops being offered at Black Hawk Church. He shares insights on the pain of divorce and how the program helps individuals navigate their healing. Tom's testimony offers hope and encouragement to those struggling with the aftermath of divorce, emphasizing support and community.",
+      "keywords": ["divorce", "healing", "support", "workshops"],
+      "performers": ["Tom Leach"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3380,
+      "type": "prayer",
+      "description": "In a heartfelt invitation prayer, the pastor encourages individuals to reflect on their personal relationship with Jesus Christ. He leads the congregation in a prayer of confession and acceptance, inviting anyone seeking salvation to open their hearts to Christ's love and forgiveness.",
+      "keywords": ["prayer", "invitation", "salvation", "Jesus"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3450,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, asking for God's guidance and blessings on the week ahead. The pastor encourages the congregation to carry the message of hope and faith into their daily lives, committing their worries and intentions to God.",
+      "keywords": ["closing", "prayer", "blessing", "faith"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

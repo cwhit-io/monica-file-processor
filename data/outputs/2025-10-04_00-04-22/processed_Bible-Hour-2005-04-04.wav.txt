@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 30,
+      "type": "music",
+      "description": "The service begins with dramatic music setting a reflective atmosphere for the congregation. The choir leads the worship in a heartfelt musical piece, engaging everyone in worship and celebration. The melody uplifts spirits and prepares the hearts for the message ahead.",
+      "keywords": ["drama", "music", "worship", "choir"],
+      "performers": ["Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Music: [Song Title]",
+      "start_time": 63,
+      "type": "music",
+      "description": "A lively music segment follows, inviting the congregation to join in spirited worship. This upbeat piece encourages participation and joy among the attendees, allowing them to express their faith through song.",
+      "keywords": ["music", "worship", "joy", "participation"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Craved the Word, Not the World (1 Peter 2:1-3)",
+      "start_time": 289,
+      "type": "sermon",
+      "description": "The sermon addresses cravings, drawing a comparison between worldly desires and spiritual nourishment. Using a personal story about his child, the speaker emphasizes the importance of craving God's word over worldly temptations. This message encourages self-reflection about personal desires and the need for spiritual growth.",
+      "keywords": ["cravings", "world", "word", "spiritual growth", "1 Peter"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["1 Peter 2:1-3"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 856,
+      "type": "prayer",
+      "description": "The speaker leads a heartfelt opening prayer, asking for God's guidance and clarity. The congregation joins in, seeking a connection with God as they prepare to delve deeper into the message. This moment of prayer sets a tone of reverence and expectation.",
+      "keywords": ["prayer", "guidance", "reverence"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [1 Peter 2]",
+      "start_time": 887,
+      "type": "scripture",
+      "description": "The speaker reads from 1 Peter, highlighting the significance of the word of God in the life of believers. This scripture serves as the foundation for the sermon, emphasizing themes of growth and spiritual nourishment.",
+      "keywords": ["1 Peter", "scripture", "reading"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["1 Peter 2"]
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 3503,
+      "type": "music",
+      "description": "As the service draws to a close, the choir presents another musical piece, echoing the themes of the sermon and inviting the congregation to reflect on their faith journey. This song encourages praise and worship, reinforcing the message of craving God’s word.",
+      "keywords": ["choir", "worship", "reflection"],
+      "performers": ["Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3557,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, asking God for strength to avoid worldly cravings and to desire His word. The speaker invokes a blessing upon the congregation, encouraging them to implement the message in their daily lives.",
+      "keywords": ["prayer", "blessing", "closing"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with the Apostle Paul's exhortation regarding the qualifications of church leaders, emphasizing their dedication and the roles they play in guiding the congregation. This sets the stage for a deeper discussion on church leadership and biblical principles.",
+      "keywords": ["apostle", "leadership", "church", "wisdom", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: The Majesty and Glory of Your Name",
+      "start_time": 119,
+      "type": "music",
+      "description": "The sanctuary choir and orchestra perform a beautiful piece called 'The Majesty and Glory of Your Name.' This song reflects a deep reverence for God's creation and the honor bestowed upon humanity. It's a moment that uplifts the congregation and sets a tone of worship.",
+      "keywords": ["majesty", "glory", "worship", "choir", "orchestra"],
+      "performers": ["Sanctuary Choir", "Orchestra"],
+      "songs": ["The Majesty and Glory of Your Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: I'd Rather Have Jesus",
+      "start_time": 1146,
+      "type": "music",
+      "description": "Margie Isaacson sings 'I'd Rather Have Jesus,' expressing a heartfelt commitment to prioritize faith over worldly possessions. The solo reflects a powerful message of devotion that resonates with the congregation.",
+      "keywords": ["Jesus", "faith", "commitment", "devotion", "sacrifice"],
+      "performers": ["Margie Isaacson"],
+      "songs": ["I'd Rather Have Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Church Leadership (1 Timothy 3:1-7)",
+      "start_time": 1195,
+      "type": "sermon",
+      "description": "Pastor Russ Moore delves into 1 Timothy 3:1-7, discussing the qualifications for church leadership. He emphasizes the importance of character and spirituality over mere experience or age, rooting the message in biblical authority. The sermon provides practical insights into the nature and aspirations of godly leaders.",
+      "keywords": ["church leadership", "qualifications", "1 Timothy", "character", "authority"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 3:1-7"]
+    },
+    {
+      "title": "Solo: I'd Rather Have Jesus",
+      "start_time": 3420,
+      "type": "music",
+      "description": "The service ends with another rendition of 'I'd Rather Have Jesus,' reinforcing the theme of prioritizing faith and God's calling. Margie Isaacson's powerful vocals encourage the congregation to reflect on their own commitment to Christ.",
+      "keywords": ["Jesus", "faith", "commitment", "devotion", "reflection"],
+      "performers": ["Margie Isaacson"],
+      "songs": ["I'd Rather Have Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3430,
+      "type": "prayer",
+      "description": "As the service reaches its conclusion, an invitation prayer is offered, guiding congregation members who may be responding to the sermon or seeking a relationship with Christ. It is a moment of reflection and commitment, inviting individuals to take a step of faith.",
+      "keywords": ["invitation", "prayer", "commitment", "faith", "belonging"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3454,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for the message delivered and asking for guidance as the congregation seeks to apply the teachings in their lives. It serves as a final appeal for commitment and dedication to God's work.",
+      "keywords": ["closing", "prayer", "thanksgiving", "commitment", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

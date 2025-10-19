@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: We Come to Worship You",
+      "start_time": 132,
+      "type": "music",
+      "description": "The Sanctuary Choir performs a heartfelt piece titled 'We Come to Worship You,' setting a tone of reverence and unity as the congregation prepares for worship. The soft music envelops the space, inviting attendees to center their thoughts on the significance of their gathering.",
+      "keywords": ["worship", "choir", "fellowship", "music", "community"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["We Come to Worship You"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: O Worship the King",
+      "start_time": 496,
+      "type": "music",
+      "description": "The congregation joins together in singing 'O Worship the King,' a classic hymn that emphasizes the majesty and might of God. This segment encourages worshippers to reflect on God's greatness through communal singing and participation in the service.",
+      "keywords": ["hymn", "worship", "congregation", "songs", "praise"],
+      "performers": [],
+      "songs": ["O Worship the King"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Mirror",
+      "start_time": 633,
+      "type": "music",
+      "description": "An ensemble from Blackhawk Christian School named Mirror performs a solo, capturing the essence of discipleship and following Jesus. The lyrics challenge listeners to consider the cost of following Christ and His transformative power in their lives.",
+      "keywords": ["mirror", "discipleship", "song", "Jesus", "solo"],
+      "performers": ["Mirror", "Emily Pippen"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1165,
+      "type": "prayer",
+      "description": "The service transitions to an opening prayer, where the congregation bows their heads in reverence. The focus is on acknowledging God's presence, seeking guidance, and offering thankfulness for His promises and the fellowship of believers.",
+      "keywords": ["prayer", "guidance", "thanksgiving", "worship", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Crossroads of Decision (Jeremiah 6)",
+      "start_time": 1625,
+      "type": "sermon",
+      "description": "Dr. David Burnham delivers a profound sermon on the theme of making decisions at life's crossroads, drawing from Jeremiah 6. He emphasizes the importance of seeking God's ancient paths amid a world of change and deception, encouraging congregants to walk in alignment with God's commands for true peace and purpose.",
+      "keywords": ["sermon", "crossroads", "decision", "Jeremiah", "guidance"],
+      "performers": ["Dr. David Burnham"],
+      "songs": [],
+      "scripture_references": ["Jeremiah 6:16"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3511,
+      "type": "prayer",
+      "description": "As the service draws to a close, an invitation prayer is offered, inviting individuals to make personal commitments to Christ. This moment serves as a reflection of the sermon, providing an opportunity for attendees to accept Jesus and seek guidance in their spiritual walk.",
+      "keywords": ["invitation", "prayer", "commitment", "spiritual", "Jesus"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

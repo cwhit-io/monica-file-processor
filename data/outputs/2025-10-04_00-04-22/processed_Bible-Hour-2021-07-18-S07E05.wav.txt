@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "announcement: Welcome and Introduction",
+      "start_time": 0,
+      "type": "announcement",
+      "description": "Rick Raber welcomes everyone to Black Hawk Church for the service, acknowledging both those in attendance and watching online. He shares a bit about himself, highlighting his family and role within the church community. The opening sets a warm and inviting tone for the service.",
+      "keywords": ["welcome", "introduction", "Rick Raber", "family", "community"],
+      "performers": ["Rick Raber"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 780,
+      "type": "prayer",
+      "description": "Rick leads an opening prayer, thanking God for the written Word and the opportunity to gather. He asks the Holy Spirit to guide the message and to impact lives positively during the service. This prayer invites divine presence into the gathering.",
+      "keywords": ["prayer", "thanksgiving", "guidance", "Holy Spirit", "Word"],
+      "performers": ["Rick Raber"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Woman Caught in Adultery (John 7:53-8:11)",
+      "start_time": 823,
+      "type": "sermon",
+      "description": "Rick Raber delivers a powerful sermon on the account of the woman caught in adultery from the Gospel of John. He explores the themes of judgment, mercy, and the heart of Jesus as an advocate for sinners. The message challenges attendees to reflect on their own judgments and the call to extend grace to others.",
+      "keywords": ["sermon", "adultery", "judgment", "mercy", "Jesus", "grace"],
+      "performers": ["Rick Raber"],
+      "songs": [],
+      "scripture_references": ["John 7:53-8:11"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2492,
+      "type": "prayer",
+      "description": "Rick concludes the service with an invitation prayer, encouraging attendees to seek a relationship with Jesus. He asks for God’s help in dealing with personal sin and encourages believers to be open-hearted advocates for those who are lost, fostering a compassionate atmosphere.",
+      "keywords": ["invitation", "prayer", "relationship", "sin", "advocacy"],
+      "performers": ["Rick Raber"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

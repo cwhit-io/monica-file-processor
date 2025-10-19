@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unidentified Song]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a vibrant choir performance, filled with uplifting melodies. The music creates an atmosphere of worship and community among the congregation. The choir leads the audience in praise, setting a joyful tone for the gathering.",
+      "keywords": ["choir", "worship", "uplifting", "community", "melodies"],
+      "performers": ["[Unidentified Choir]"],
+      "songs": ["[Unidentified Song]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Unidentified Hymn]",
+      "start_time": 424,
+      "type": "music",
+      "description": "The congregation joins together in a heartfelt hymn, with powerful lyrics that resonate with the themes of love and mercy. This communal singing fosters a deep sense of connection among participants, drawing them towards a closer relationship with God.",
+      "keywords": ["hymn", "congregation", "connection", "love", "mercy"],
+      "performers": [],
+      "songs": ["[Unidentified Hymn]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 270,
+      "type": "prayer",
+      "description": "The opening prayer invites the presence of the Lord into the service, setting the spiritual atmosphere for the worship ahead. It emphasizes gratitude and the importance of connecting with God as a community. The prayer encourages attendees to open their hearts to worship.",
+      "keywords": ["opening", "prayer", "presence", "gratitude", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Living in Community (Matthew 28:18-20)",
+      "start_time": 554,
+      "type": "sermon",
+      "description": "This sermon focuses on the importance of living in community, based on biblical teachings. The speaker discusses how God designed people to connect with each other, highlighting the mission to make disciples. Various stories illustrate the significance of smaller group settings where individuals can grow together in faith.",
+      "keywords": ["community", "discipleship", "connection", "faith", "small groups"],
+      "performers": ["Jesse Hanna"],
+      "songs": [],
+      "scripture_references": ["Matthew 28:18-20", "Colossians 1:28"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2807,
+      "type": "prayer",
+      "description": "An invitation prayer encourages congregants to reflect on their personal relationship with God. It emphasizes the availability of spiritual guidance and community support. This prayer allows individuals to respond to the message shared during the service.",
+      "keywords": ["invitation", "prayer", "reflection", "relationship", "support"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Tim Rockwell: Role of Community",
+      "start_time": 2310,
+      "type": "testimony",
+      "description": "Tim shares his personal testimony about the significance of community during a challenging time for his family. He highlights the support and encouragement from his small group, illustrating how these relationships provided comfort and guidance in difficult circumstances.",
+      "keywords": ["testimony", "community", "support", "encouragement", "relationships"],
+      "performers": ["Tim Rockwell"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Joining Small Groups",
+      "start_time": 2651,
+      "type": "announcement",
+      "description": "An announcement is made encouraging attendees to join small groups. The message emphasizes the value of relationships formed in these settings and invites everyone to find their place within the church community for deeper connections.",
+      "keywords": ["announcement", "small groups", "community", "connection", "involvement"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Unidentified Closing Hymn]",
+      "start_time": 3362,
+      "type": "music",
+      "description": "The service concludes with a rousing closing hymn that involves the entire congregation. The words inspire hope and reinforce the themes of community and outreach, reminding everyone of their mission as they leave to impact the world.",
+      "keywords": ["closing hymn", "congregation", "hope", "outreach", "mission"],
+      "performers": [],
+      "songs": ["[Unidentified Closing Hymn]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

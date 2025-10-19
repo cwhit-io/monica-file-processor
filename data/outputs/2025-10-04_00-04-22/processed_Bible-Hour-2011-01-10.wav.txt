@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Upbeat Opening",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat musical piece performed by the choir, setting a celebratory atmosphere. The music aims to uplift and engage the congregation for the worship experience.",
+      "keywords": ["music", "choir", "worship", "opening"],
+      "performers": ["Choir"],
+      "songs": ["Upbeat Opening"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Ministry Update",
+      "start_time": 31,
+      "type": "announcement",
+      "description": "The pastor welcomes everyone and shares exciting updates about the church's impact in the community. Spotlighting efforts to teach scriptures and support local families, he emphasizes the heart for the church and its ministries.",
+      "keywords": ["announcement", "community", "ministry", "church"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Stuart Cruz",
+      "start_time": 76,
+      "type": "interview",
+      "description": "The pastor interviews Stuart Cruz, a senior pastor from County Line Church of God. They discuss Stuart's journey into ministry and the unique calling his church has in the community, focusing on restoring lives and serving local needs.",
+      "keywords": ["interview", "Stuart Cruz", "community", "ministry"],
+      "performers": ["Pastor", "Stuart Cruz"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Excess and God's Nature (Genesis 1:26-27; Ephesians 1:5-8; 1 John 3:1)",
+      "start_time": 550,
+      "type": "sermon",
+      "description": "The sermon explores the theme of excess in human behavior, suggesting it reflects the image of a God who is excessively merciful and gracious. The pastor uses scripture to illustrate how God's nature fosters this characteristic in humanity, encouraging the congregation to embody mercy and grace in their own lives.",
+      "keywords": ["sermon", "excess", "grace", "mercy", "Genesis", "Ephesians", "1 John"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Genesis 1:26-27", "Ephesians 1:5-8", "1 John 3:1"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 736,
+      "type": "prayer",
+      "description": "The pastor leads the congregation in an invitation prayer, encouraging open hearts and minds during the ministry. This prayer seeks divine guidance and a sensitive response to God's message shared through the sermon.",
+      "keywords": ["prayer", "invitation", "God", "heart"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Worship Together",
+      "start_time": 780,
+      "type": "music",
+      "description": "The congregation joins together in a heartfelt hymn, fostering unity and an atmosphere of worship. The hymn invites members to express their faith collectively, reflecting on the themes shared in the sermon.",
+      "keywords": ["music", "hymn", "congregation", "worship"],
+      "performers": ["Congregation"],
+      "songs": ["Worship Together"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 873,
+      "type": "prayer",
+      "description": "In the closing prayer, the pastor reflects on the message delivered during the service, thanking God for His grace and asking for guidance to apply its teachings. The prayer encapsulates the congregation's commitment to embodying God's qualities in their daily lives.",
+      "keywords": ["prayer", "closing", "God", "commitment"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

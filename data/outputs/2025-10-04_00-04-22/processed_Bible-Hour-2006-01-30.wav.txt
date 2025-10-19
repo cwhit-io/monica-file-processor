@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Hallelujah]",
+      "start_time": 30,
+      "type": "music",
+      "description": "The service opens with a choir performance of 'Hallelujah', setting a spiritual atmosphere for the congregation. The repetitive praise focuses on gratitude for all that has been done and sent forth, engaging the audience in worship and reflection.",
+      "keywords": ["choir", "hallelujah", "worship", "music"],
+      "performers": ["Choir"],
+      "songs": ["Hallelujah"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Transform Living]",
+      "start_time": 379,
+      "type": "music",
+      "description": "Following the choir, the congregation joins in singing a hymn titled 'Transform Living', focusing on themes of faith and perseverance amidst life's difficulties. The song emphasizes a collective willingness to trust in God's guidance and strength.",
+      "keywords": ["congregational", "hymn", "faith", "perseverance"],
+      "performers": [],
+      "songs": ["Transform Living"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Transformed Living (Romans 12:9-21)",
+      "start_time": 750,
+      "type": "sermon",
+      "description": "The sermon focuses on the concept of transformed living as described in Romans 12:9-21. The preacher emphasizes the importance of love, devotion, and community within the Christian life, providing practical applications for living out faith in a supportive environment. Personal stories enhance the message, highlighting the transformative power of faith.",
+      "keywords": ["transformed", "living", "Romans", "community", "love"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": ["Romans 12:9-21"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1312,
+      "type": "prayer",
+      "description": "An engaging opening prayer invites the congregation to seek God's presence and guidance throughout the service. The prayer emphasizes the need for humility, receptivity, and a transformative experience through God's word.",
+      "keywords": ["prayer", "opening", "guidance", "humility"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3395,
+      "type": "prayer",
+      "description": "The invitation prayer calls attendees to reflect on their personal struggles and encourages them to seek God's strength and community support. It highlights the power of prayer in building a strong connection with God and with others during times of hardship.",
+      "keywords": ["prayer", "invitation", "support", "community"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Closing Hymn]",
+      "start_time": 3549,
+      "type": "music",
+      "description": "The service concludes with a solo performance of a closing hymn, allowing the congregation to reflect on the message of transformed living and the importance of support and hope within their community. This final song reinforces the themes of faith and unity.",
+      "keywords": ["solo", "closing", "hymn", "faith"],
+      "performers": ["Soloist"],
+      "songs": ["Closing Hymn"],
+      "scripture_references": []
+    }
+  ]
+}
+```

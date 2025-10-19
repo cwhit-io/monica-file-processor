@@ -1,0 +1,96 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Introduction Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat music track, creating a welcoming and cheerful atmosphere for attendees. It sets the mood for the morning and encourages participation and engagement from the congregation.",
+      "keywords": ["music", "introduction", "upbeat", "welcome", "service"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Welcome and Introduction",
+      "start_time": 31,
+      "type": "announcement",
+      "description": "Kelly Bird, the senior pastor, warmly welcomes the congregation to the Bible Hour. He emphasizes the importance of discipleship and the series on doctrine from the Book of Romans that will unfold over the following weeks.",
+      "keywords": ["welcome", "Kelly Bird", "discipleship", "Roman series", "announcement"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 194,
+      "type": "prayer",
+      "description": "The service continues with a heartfelt opening prayer led by the pastor, inviting the congregation to open their hearts to God's teaching and guidance during the service. It reflects a tone of reverence and anticipation.",
+      "keywords": ["prayer", "opening", "worship", "invitation", "God's guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [MUSIC]",
+      "start_time": 284,
+      "type": "music",
+      "description": "The choir performs a spirited piece, enhancing the worship experience. The music engages the congregation, encouraging them to participate both musically and spiritually.",
+      "keywords": ["choir", "music", "worship", "congregational participation", "praise"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["MUSIC"],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Ken and Alice Cole's Mission Work",
+      "start_time": 314,
+      "type": "testimony",
+      "description": "Ken and Alice Cole share their testimony about their long-standing mission work in the Philippines and Thailand. The congregation receives a warm introduction to their dedicated service, reinforcing the importance of global outreach.",
+      "keywords": ["testimony", "mission", "Ken Cole", "Alice Cole", "outreach"],
+      "performers": ["Ken Cole", "Alice Cole"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Why Disciples Need Doctrine (Romans 1:1-17)",
+      "start_time": 400,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird delivers a powerful sermon focused on the necessity of doctrine for discipleship, using Romans as the foundational text. He emphasizes that doctrine is vital for understanding God's truth and living an impactful life, navigating through significant themes including the gospel and righteousness.",
+      "keywords": ["sermon", "doctrine", "discipleship", "Romans", "Kelly Bird"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Romans 1:1-17"]
+    },
+    {
+      "title": "Choir: [Oh the Wonderful Cross]",
+      "start_time": 2976,
+      "type": "music",
+      "description": "The choir leads the congregation in a reflective piece, 'Oh the Wonderful Cross.' This moment encourages worship and gratitude for the sacrifice of Jesus, reinforcing the sermon themes of grace and redemption.",
+      "keywords": ["choir", "worship", "music", "grace", "Jesus"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Oh the Wonderful Cross"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3429,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, asking for God's guidance and the application of the sermon in the lives of the congregation. It serves to seal the message of the day and send attendees forth in faith.",
+      "keywords": ["prayer", "closing", "guidance", "application", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Sermon Preview",
+      "start_time": 3463,
+      "type": "announcement",
+      "description": "As the service wraps up, Kelly Bird highlights the focus of the next week's sermon, transitioning from condemnation to the understanding of moral righteousness. He invites the congregation to return for deeper exploration of biblical truths.",
+      "keywords": ["announcement", "next week", "sermon", "moral righteousness", "invitation"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

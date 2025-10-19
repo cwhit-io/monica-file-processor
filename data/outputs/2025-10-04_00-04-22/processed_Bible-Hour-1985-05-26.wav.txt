@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Pomp and Circumstance",
+      "start_time": 118,
+      "type": "music",
+      "description": "The sanctuary choir performs a moving rendition of 'Pomp and Circumstance,' creating a moment of reflection and inspiration for the congregation. This piece sets a celebratory tone for the service.",
+      "keywords": ["choir", "pomp", "circumstance", "worship", "inspiration"],
+      "performers": ["sanctuary choir"],
+      "songs": ["Pomp and Circumstance"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Beneath the Cross of Jesus",
+      "start_time": 526,
+      "type": "music",
+      "description": "The congregation joins together in singing the hymn 'Beneath the Cross of Jesus.' This powerful anthem evokes a sense of unity among worshippers as they reflect on the significance of Christ's sacrifice.",
+      "keywords": ["hymn", "congregational", "worship", "Jesus", "sacrifice"],
+      "performers": [],
+      "songs": ["Beneath the Cross of Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown Title]",
+      "start_time": 701,
+      "type": "music",
+      "description": "Denise Mitchell shares an upbeat solo selection that brings joy and energy to the service. The performance uplifts the congregation, inviting them into a heartfelt worship experience.",
+      "keywords": ["solo", "worship", "Denise Mitchell", "joy", "music"],
+      "performers": ["Denise Mitchell"],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Special Events at the Church",
+      "start_time": 880,
+      "type": "announcement",
+      "description": "The service transitions to an announcement session where the associate pastor discusses various upcoming events at the church. Special focus is given to the Super 60s ministry and the Holy Land trip, highlighting opportunities for fellowship.",
+      "keywords": ["events", "church", "ministry", "fellowship", "super 60s"],
+      "performers": ["George Lantman"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Church of the End Times (Revelation 3)",
+      "start_time": 1155,
+      "type": "sermon",
+      "description": "Dr. David Breeze delivers a poignant sermon focusing on the message to the church of Philadelphia from Revelation 3. He emphasizes God's sovereignty and the importance of keeping faith amidst instability, encouraging believers to hold fast to their faith.",
+      "keywords": ["sermon", "Revelation", "Breeze", "church", "faith"],
+      "performers": ["Dr. David Breeze"],
+      "songs": [],
+      "scripture_references": ["Revelation 3"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3464,
+      "type": "prayer",
+      "description": "A heartfelt invitation prayer led by the host encourages congregation members to reflect on their spiritual relationship with God. The prayer emphasizes forgiveness and committing to a personal relationship with Jesus.",
+      "keywords": ["prayer", "invitation", "spiritual", "forgiveness", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3480,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, prompting the congregation to leave with renewed spirit and encouragement for their daily lives. It subtly reinforces the themes of the message delivered earlier.",
+      "keywords": ["prayer", "closing", "encouragement", "worship", "ministry"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

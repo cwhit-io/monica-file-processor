@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Worship Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat worship segment that sets a welcoming atmosphere for the congregation. The music invites everyone to participate in communal worship, fostering a sense of togetherness and spirituality. This opening music primes the hearts of attendees for the upcoming messages.",
+      "keywords": ["worship", "service", "music", "community", "celebration"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Church Events",
+      "start_time": 115,
+      "type": "announcement",
+      "description": "Pastor Kelly shares important announcements regarding various church activities. He highlights the Coffee Q&A for newcomers, the Quest ministry for young adults, and the Common Ground worship on Wednesday nights, aimed at inviting community participation. The announcements emphasize connection and growth within the church family.",
+      "keywords": ["announcements", "Coffee Q&A", "Quest", "Common Ground", "community"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: He's Alive",
+      "start_time": 347,
+      "type": "music",
+      "description": "The choir performs a spirited piece entitled 'He's Alive,' highlighting the resurrection of Christ. This song captures the celebratory essence of Easter and reinforces the theme of hope and renewal central to the Christian faith. The performance helps to deepen the congregation's engagement with the service.",
+      "keywords": ["Choir", "resurrection", "Easter", "hope", "praise"],
+      "performers": ["Choir"],
+      "songs": ["He's Alive"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: He Lives",
+      "start_time": 512,
+      "type": "music",
+      "description": "The congregation joins in singing 'He Lives,' a powerful hymn celebrating the living Christ. This segment creates a unified worship experience where attendees express their faith and joy collectively, reflecting on the presence of Christ in their lives.",
+      "keywords": ["hymn", "worship", "congregation", "praise", "faith"],
+      "performers": [],
+      "songs": ["He Lives"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The First Preacher (Acts 2)",
+      "start_time": 1012,
+      "type": "sermon",
+      "description": "Pastor Kelly delivers a compelling sermon on the significance of Peter's first message in Acts 2. He emphasizes themes of redemption and the transformative power of God's grace. Drawing on personal experiences, he illustrates how God can work through insecurities and past failures to accomplish His purpose.",
+      "keywords": ["sermon", "Peter", "Acts", "redemption", "grace"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": ["Acts 2"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3504,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer led by Pastor Kelly. He expresses gratitude for the gathering, encourages the congregation to seek God throughout the week, and prays for guidance and strength in living out their faith. This prayer fosters an attitude of reflection and commitment.",
+      "keywords": ["prayer", "closing", "faith", "community", "guidance"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

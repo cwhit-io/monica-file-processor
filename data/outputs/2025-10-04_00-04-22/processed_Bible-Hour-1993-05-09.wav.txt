@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Opening Hymn",
+      "start_time": 116,
+      "type": "music",
+      "description": "The service begins with the sanctuary choir leading the congregation in a lively hymn that encourages reflections on faith and community. The atmosphere is filled with praise as the choir performs, uplifting the spirits of everyone present. This moment sets the tone for the worship experience, reminding attendees of the joy and hope found in belief.",
+      "keywords": ["choir", "hymn", "worship", "community", "faith"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Let Me Walk With You", "When We All Get to Heaven"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Let Me Walk With You",
+      "start_time": 127,
+      "type": "music",
+      "description": "The choir song engages the congregation with heartfelt lyrics centered on walking in faith and the joys of eternal life. The music builds a sense of community, as everyone reflects on the lyrics and joins in jubilant praise. This segment invites all to embrace hope and trust in their spiritual journeys.",
+      "keywords": ["choir", "song", "faith", "eternal", "community"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Let Me Walk With You", "When We All Get to Heaven"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: When We All Get to Heaven",
+      "start_time": 302,
+      "type": "music",
+      "description": "The choir continues with the uplifting song 'When We All Get to Heaven,' celebrating the hope of eternal life. This joyful anthem encourages the congregation to rejoice in their faith and look forward to the promises of God. The atmosphere is charged with enthusiasm and anticipation for their spiritual futures.",
+      "keywords": ["choir", "heaven", "joy", "faith", "eternity"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["When We All Get to Heaven"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Today's Message"
+      "start_time": 497,
+      "type": "announcement",
+      "description": "Pastor Moore welcomes the congregation and shares insights on the significance of motherhood, introducing a book by Bob Vernon that explores societal attitudes towards mothers. He encourages open hearts and minds while setting the stage for the ensuing sermon, acknowledging the complexities surrounding motherhood in contemporary culture.",
+      "keywords": ["motherhood", "sermon", "society", "book", "announcement"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3377,
+      "type": "prayer",
+      "description": "Pastor Moore leads the congregation in an opening prayer, inviting God’s presence and guidance over the service. This moment is vital as it seeks divine blessing on the worship and the message ahead. It encourages the congregation to focus their hearts on the spiritual journey that lies ahead.",
+      "keywords": ["prayer", "guidance", "spiritual", "worship", "congregation"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Importance of Motherhood (Proverbs 15:20)",
+      "start_time": 857,
+      "type": "sermon",
+      "description": "In this impactful message, Pastor Moore emphasizes the denigration of motherhood in society and examines the vital role mothers play in shaping lives. Using biblical references, he passionately calls for a renewed appreciation of motherhood, encouraging mothers to embrace their God-given calling. His heartfelt sharing aims to uplift and inspire the congregation while addressing societal biases against mothering.",
+      "keywords": ["motherhood", "sermon", "appreciation", "Bible", "cultural critique"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Proverbs 15:20"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3308,
+      "type": "prayer",
+      "description": "Pastor Moore leads an invitation prayer, giving congregants a moment to reflect and respond to the message on motherhood. This prayer serves as a heartfelt appeal for personal commitment and renewal, inviting attendees to seek God’s guidance. It's a poignant moment that emphasizes openness to God’s work in their lives.",
+      "keywords": ["prayer", "invitation", "reflection", "commitment", "guidance"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3412,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Moore, thanking God for the insights shared and seeking His guidance in implementing the lessons learned about motherhood. This prayer serves as a means of sending off the congregation with hope and blessings, encouraging them to carry the message into their daily lives.",
+      "keywords": ["closing prayer", "thanksgiving", "blessings", "congregation", "hope"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

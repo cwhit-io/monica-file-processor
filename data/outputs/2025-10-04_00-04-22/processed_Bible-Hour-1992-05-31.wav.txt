@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Wonderful Merciful Savior",
+      "start_time": 101,
+      "type": "music",
+      "description": "The sanctuary choir presents the uplifting song 'Wonderful Merciful Savior.' Featured alongside the choir are Lori Scheiman and Rachel McIntosh, enhancing the worship atmosphere. The powerful lyrics and harmonious arrangement aim to draw the congregation into a reflective state of worship, celebrating the attributes of God.",
+      "keywords": ["choir", "worship", "God", "Savior", "Lori Scheiman"],
+      "performers": ["Sanctuary Choir", "Lori Scheiman", "Rachel McIntosh"],
+      "songs": ["Wonderful Merciful Savior"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Legacy",
+      "start_time": 779,
+      "type": "music",
+      "description": "Lori Scheiman, a senior at Black Hawk Christian School, delivers a touching solo performance of the song 'Legacy.' The song reflects on the importance of the legacy we leave behind with heartfelt lyrics. This poignant moment reinforces the themes of faith and commitment to God in the lives of the graduating seniors.",
+      "keywords": ["solo", "Lori Scheiman", "legacy", "seniors", "faith"],
+      "performers": ["Lori Scheiman"],
+      "songs": ["Legacy"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Qualifications of an Excellent Pastor (1 Timothy 4:6-16)",
+      "start_time": 770,
+      "type": "sermon",
+      "description": "Pastor Russell Moore continues the message series on the 'Qualifications of an Excellent Pastor,' focusing on 1 Timothy 4:6-16. He emphasizes the characteristics that define a good servant of Jesus Christ, touching on issues like diligence, godliness, and the significance of imparting knowledge through scripture. The sermon serves as both a challenge and a guide for pastors and church leaders to adhere to biblical teachings and lead effectively.",
+      "keywords": ["sermon", "Russell Moore", "pastor", "leadership", "1 Timothy"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 4:6-16"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3420,
+      "type": "prayer",
+      "description": "Pastor Moore leads the congregation in an Invitation Prayer, giving everyone an opportunity to reflect on their spiritual needs. The prayer invites individuals to seek a personal relationship with Christ and to find forgiveness and salvation. It becomes a moment for personal reflection and commitment among the attendees.",
+      "keywords": ["prayer", "invitation", "salvation", "reflection", "commitment"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3444,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt Closing Prayer led by Pastor Moore. He expresses gratitude for the message shared and the music presented, asking for God's guidance over the congregation in their week ahead. This prayer encapsulates the service's themes, encouraging all to remain faithful.",
+      "keywords": ["prayer", "closing", "gratitude", "congregation", "guidance"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Graduation and Events",
+      "start_time": 642,
+      "type": "announcement",
+      "description": "Several announcements are made regarding upcoming events, such as the graduation ceremony for Black Hawk Christian School. The program highlights the school's accomplishments and encourages attendance at future church events. It emphasizes the community's spirit and the importance of participation in school and church functions.",
+      "keywords": ["graduation", "announcement", "Black Hawk Christian School", "events", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

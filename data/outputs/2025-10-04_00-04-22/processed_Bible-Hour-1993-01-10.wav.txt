@@ -1,0 +1,36 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Solo: The Only Hope for the World",
+      "start_time": 88,
+      "type": "music",
+      "description": "Becky Wollman performs a heartfelt solo, expressing a deep yearning for divine hope in today's troubled world. The lyrics convey themes of seeking God with all one's heart and soul, emphasizing that Jesus is the only true source of salvation and peace. The emotional rendition resonates with the congregation's call to humble themselves and seek the Lord.",
+      "keywords": ["hope", "world", "jesus", "salvation", "cry"],
+      "performers": ["Becky Wollman"],
+      "songs": ["The Only Hope for the World"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Nature of Saving Faith (James 2)",
+      "start_time": 111,
+      "type": "sermon",
+      "description": "Dr. Homer Kent delivers a message on the complexity of faith, contrasting it with mere belief and emphasizing that genuine faith is evidenced through works. He explores the relationship between faith and actions, using biblical examples like Abraham and Rahab to illustrate that saving faith must manifest in our lives. The sermon encourages the congregation to reflect on their faith and strive for a faith that demonstrates itself through love and action.",
+      "keywords": ["faith", "works", "abraham", "rahab", "james"],
+      "performers": ["Dr. Homer Kent"],
+      "songs": [],
+      "scripture_references": ["James 2"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3357,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer, where congregants are invited to reflect on the message they just heard. The prayer emphasizes gratitude for God's work in their lives and implores God for the strength to exemplify a faith that is active and visible. It serves as an exhortation for the community to live out their beliefs.",
+      "keywords": ["prayer", "faith", "community", "strength", "gratitude"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

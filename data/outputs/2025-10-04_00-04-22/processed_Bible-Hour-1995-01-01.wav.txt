@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting the congregation to focus their hearts on worship and preparing for the message to be shared. The pastor expresses gratitude for God's presence and guidance as they enter the new year. This sets a reflective tone for the service.",
+      "keywords": ["opening", "prayer", "worship", "service", "gratitude"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Seven Predictions for 1995 (Romans 5:20)",
+      "start_time": 66,
+      "type": "sermon",
+      "description": "Pastor Moore presents seven predictions for the year 1995, emphasizing God's faithfulness, forgiveness, and love. He draws on scriptures to illustrate that regardless of life changes, God's mercy and ability to forgive persist. The message encourages congregants to trust in God's ongoing transformation and care in their lives throughout the year.",
+      "keywords": ["predictions", "God's love", "forgiveness", "faithfulness", "transformation"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": ["Romans 5:20", "Psalm 103", "Philippians 1:6", "Jeremiah 31:3", "Proverbs 3:5", "2 Peter 1:2"]
+    },
+    {
+      "title": "Solo: My Life is in Your Hands",
+      "start_time": 328,
+      "type": "music",
+      "description": "A heartfelt solo performance reflecting the singer's trust in God's guidance and love. The lyrics emphasize surrendering life and burdens to God, expressing faith in divine providence and hope for the future.",
+      "keywords": ["trust", "faith", "God's love", "surrender", "hope"],
+      "performers": ["Unknown"],
+      "songs": ["My Life is in Your Hands"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3214,
+      "type": "prayer",
+      "description": "The pastor leads an invitation prayer, encouraging attendees to commit their lives to Christ. He expresses a desire for those seeking a relationship with God to open their hearts to Jesus, promoting spiritual renewal and connection.",
+      "keywords": ["invitation", "prayer", "commitment", "renewal", "relationship"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Great is Thy Faithfulness",
+      "start_time": 871,
+      "type": "music",
+      "description": "The congregation joins in singing a beloved hymn celebrating God's unwavering faithfulness. As they sing, the atmosphere fills with a sense of unity and gratitude for the steadfast love of God, reminding everyone of His promises.",
+      "keywords": ["hymn", "faithfulness", "worship", "gratitude", "unity"],
+      "performers": ["Congregation"],
+      "songs": ["Great is Thy Faithfulness"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3192,
+      "type": "prayer",
+      "description": "As the service concludes, the pastor leads a closing prayer, thanking God for His presence and guidance during the service and committing the new year into His hands. He encourages the congregation to take the message of the day into their lives.",
+      "keywords": ["closing", "prayer", "thanksgiving", "guidance", "commitment"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Ministry Updates",
+      "start_time": 3513,
+      "type": "announcement",
+      "description": "The closing announcements inform the congregation of upcoming church events and ministries. This includes details about how to stay connected and seek support through the church community as they embark on a new year together.",
+      "keywords": ["ministry", "updates", "events", "community", "church"],
+      "performers": ["Jeff Carlson"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

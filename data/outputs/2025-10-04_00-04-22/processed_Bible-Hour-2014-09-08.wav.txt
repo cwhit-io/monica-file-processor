@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Mighty to Save",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a powerful choir performance of 'Mighty to Save', emphasizing themes of compassion and redemption. The congregation is encouraged to reflect on their need for God's mercy and love. This song sets the tone for the worship experience.",
+      "keywords": ["mighty", "compassion", "redemption", "choir", "worship"],
+      "performers": ["Choir"],
+      "songs": ["Mighty to Save"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Shine Your Light",
+      "start_time": 60,
+      "type": "music",
+      "description": "The choir continues with 'Shine Your Light', where the lyrics celebrate the message of hope that shines through Jesus Christ. This uplifting song calls everyone to be a beacon of light in the world, encouraging shared community and faith.",
+      "keywords": ["shine", "light", "hope", "community", "faith"],
+      "performers": ["Choir"],
+      "songs": ["Shine Your Light"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 376,
+      "type": "prayer",
+      "description": "Steve Webster leads the congregation in an opening prayer, inviting God's presence into the service and asking for guidance and enlightenment through the worship and word. This sets a reflective atmosphere for all present.",
+      "keywords": ["prayer", "worship", "guidance", "community", "invitation"],
+      "performers": ["Steve Webster"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Timothy 1",
+      "start_time": 381,
+      "type": "scripture",
+      "description": "A reading from 1 Timothy 1 highlights key themes of faith and the instructions of Paul to Timothy. It emphasizes the importance of understanding God's work and the transformative power of the gospel in the church.",
+      "keywords": ["1 Timothy", "Paul", "instructions", "faith", "transformative"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Timothy 1"]
+    },
+    {
+      "title": "Message: The Power of the One True Gospel (1 Timothy 1:12-16)",
+      "start_time": 540,
+      "type": "sermon",
+      "description": "Jesse Hannah delivers a powerful sermon centered on 1 Timothy, discussing the transformative nature of the gospel. He shares personal insights about God's mercy and grace, emphasizing that everyone, including the worst of sinners, can be redeemed through Christ. The message encourages living out faith in a community shaped by grace.",
+      "keywords": ["gospel", "mercy", "grace", "redemption", "faith"],
+      "performers": ["Jesse Hannah"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 1:12-16"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2830,
+      "type": "prayer",
+      "description": "Jesse Hannah leads an invitation prayer, inviting the congregation to respond to the message of the gospel. He encourages personal reflection and a commitment to embracing God's grace in their lives. This moment creates a space for individuals to seek deeper fellowship with God.",
+      "keywords": ["invitation", "prayer", "grace", "commitment", "reflection"],
+      "performers": ["Jesse Hannah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Amazing Grace",
+      "start_time": 3170,
+      "type": "music",
+      "description": "The service concludes with a congregational singing of 'Amazing Grace', a classic hymn celebrating the grace of God. The members of the congregation are encouraged to sing joyfully, reflecting on their own stories of redemption and grace. This powerful moment of unity emphasizes the themes of the service.",
+      "keywords": ["amazing", "grace", "hymn", "unity", "redemption"],
+      "performers": ["Congregation"],
+      "songs": ["Amazing Grace"],
+      "scripture_references": []
+    }
+  ]
+}
+```

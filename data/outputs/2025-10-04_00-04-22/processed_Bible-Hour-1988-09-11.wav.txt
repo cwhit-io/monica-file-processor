@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 316,
+      "type": "music",
+      "description": "The sanctuary choir presents a heartfelt song that captures the congregation's attention. This performance is a moment of worship, inviting everyone to reflect on the majesty of the Lord. The choir's harmony and dedication uplift the spirit of the service.",
+      "keywords": ["choir", "worship", "majesty", "music", "praise"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Lord, I Want to Thank You",
+      "start_time": 864,
+      "type": "music",
+      "description": "A solo performance expresses profound gratitude to the Lord. The lyrics convey a deep personal relationship with God, celebrating His love and guidance. The heartfelt delivery resonates with the audience, creating a moment of reflection and worship.",
+      "keywords": ["gratitude", "worship", "song", "love", "spiritual"],
+      "performers": ["Buddy Green"],
+      "songs": ["Lord, I Want to Thank You"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1502,
+      "type": "prayer",
+      "description": "The congregation comes together in a powerful opening prayer. The prayer focuses on the need for God’s presence and guidance throughout the service. It establishes a tone of humility and surrender, inviting everyone to engage with the Lord.",
+      "keywords": ["opening", "prayer", "congregation", "guidance", "worship"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [Colossians 3:22-4:1]",
+      "start_time": 1680,
+      "type": "scripture",
+      "description": "The reading of Colossians 3:22 through 4:1 emphasizes the importance of work and service. The scripture encourages the congregation to reflect on their labors and their relation to God. This reading sets the stage for the upcoming sermon on work's significance.",
+      "keywords": ["Colossians", "scripture", "reading", "work", "service"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Colossians 3:22-4:1"]
+    },
+    {
+      "title": "Message: Does My Work Matter to God? (Colossians 3:22-4:1)",
+      "start_time": 1766,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a compelling sermon that explores the relationship between work and faith. Drawing from Colossians, he urges the congregation to view their jobs as sacred assignments from the Lord. The message challenges listeners to understand that every task carries value in God's eyes, regardless of its nature.",
+      "keywords": ["sermon", "work", "God", "faith", "Colossians"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Colossians 3:22-4:1"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3510,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, where the congregation unites in acknowledging their reliance on God. The prayer encapsulates the themes of the service, emphasizing gratitude and the commitment to live out God's calling in their work.",
+      "keywords": ["closing", "prayer", "congregation", "commitment", "God"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

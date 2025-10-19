@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Message: Why Not Now? (Acts 16:22-34)",
+      "start_time": 0,
+      "type": "sermon",
+      "description": "The sermon focuses on Acts chapter 16, including the story of Paul and Silas in Philippi. The speaker discusses themes of suffering and steadfastness, detailing how they faced imprisonment yet chose to praise God. The message challenges listeners to be faithful in adversity and to recognize God's presence through trials.",
+      "keywords": ["acts", "paul", "silas", "suffering", "steadfastness"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["Acts 16:22-34"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 2198,
+      "type": "prayer",
+      "description": "The opening prayer sets a tone of reverence and prepares the congregation for the service ahead. It invites God's presence and guidance, creating an atmosphere of unity and expectation among the participants.",
+      "keywords": ["prayer", "worship", "community", "invitation"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "baptism: [Unnamed Participants]",
+      "start_time": 2063,
+      "type": "baptism",
+      "description": "A joyous baptism service follows the sermon, where individuals come forward to publicly declare their faith. Each baptism symbolizes new beginnings and the community's support in their spiritual journey. The atmosphere is filled with celebration and worship.",
+      "keywords": ["baptism", "faith", "community", "celebration"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2187,
+      "type": "prayer",
+      "description": "The closing prayer encapsulates the service, thanking God for the worship, the message shared, and the lives touched through baptism. It seeks God's continued guidance and presence in the lives of the congregation as they disperse.",
+      "keywords": ["prayer", "gratitude", "guidance", "fellowship"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,94 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: Revival in the Land",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a choir performance titled 'Revival in the Land.' The song expresses a message of hope and freedom, inviting the congregation to join in and celebrate revival in their lives and community.",
+      "keywords": ["choir", "revival", "freedom", "hope", "community"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Revival in the Land"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Hallelujah, Thine the Glory",
+      "start_time": 313,
+      "type": "music",
+      "description": "The congregation raises their voices in singing 'Hallelujah, Thine the Glory,' a hymn that celebrates the glory and grace of God. The verses reflect the community's desire for spiritual revival and renewal.",
+      "keywords": ["hymn", "congregation", "worship", "praise", "revival"],
+      "performers": ["Congregation"],
+      "songs": ["Hallelujah, Thine the Glory"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 373,
+      "type": "prayer",
+      "description": "The service transitions into an opening prayer, inviting the presence of God into the gathering. The prayer encompasses themes of gratitude and a request for guidance and blessings upon the service.",
+      "keywords": ["prayer", "gratitude", "guidance", "blessing"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Joshua 23",
+      "start_time": 796,
+      "type": "scripture",
+      "description": "The scripture reading focuses on Joshua 23:1-9, 14, where Joshua addresses the elders of Israel about God's faithfulness and the importance of holding fast to His promises.",
+      "keywords": ["Joshua", "scripture", "faithfulness", "promise", "Israel"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Joshua 23:1-9", "Joshua 23:14"]
+    },
+    {
+      "title": "Message: The Faithfulness of God (Joshua 23)",
+      "start_time": 820,
+      "type": "sermon",
+      "description": "Reverend Ron Scarf delivers a powerful sermon about 'The Faithfulness of God' based on Joshua 23. He emphasizes God's integrity, the importance of obedience, and the need for the community to remember their history and remain steadfast in their faith.",
+      "keywords": ["sermon", "faithfulness", "God", "obedience", "Joshua"],
+      "performers": ["Reverend Ron Scarf"],
+      "songs": [],
+      "scripture_references": ["Joshua 23:1-9", "Joshua 23:14"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3445,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, encouraging those who wish to accept Christ as their Savior to pray along. It is a moment of reflection and commitment to faith.",
+      "keywords": ["invitation", "commitment", "prayer", "salvation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Trumpet Solo",
+      "start_time": 711,
+      "type": "music",
+      "description": "A solo trumpet performance by Gary Kance adds a reflective and uplifting moment to the service, enhancing the worship experience with a beautiful melody.",
+      "keywords": ["trumpet", "solo", "music", "worship"],
+      "performers": ["Gary Kance"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3421,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for His faithfulness throughout the service and asking for His continued guidance in the lives of the congregation.",
+      "keywords": ["closing", "prayer", "thankfulness", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Overview of Upcoming Events",
+      "start_time": 373,
+      "type": "announcement",
+      "description": "During the service, several upcoming events at Black Hawk Baptist Church are announced, inviting the congregation to participate in special services and musical performances throughout the summer.",
+      "keywords": ["events", "church", "music", "community", "participation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

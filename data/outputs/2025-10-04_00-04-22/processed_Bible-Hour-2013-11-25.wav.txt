@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Joy to the World",
+      "start_time": 113,
+      "type": "music",
+      "description": "The choir leads the congregation with a beautiful rendition of 'Joy to the World.' The joyful lyrics invite worshippers to celebrate the arrival of the King, reinforcing the message of hope and joy found in the Christmas season.",
+      "keywords": ["joy", "worship", "Christmas", "choir", "King"],
+      "performers": ["Black Hawk Church Choir"],
+      "songs": ["Joy to the World"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Musical Performance",
+      "start_time": 1042,
+      "type": "music",
+      "description": "A soloist captivates the audience with a heartfelt performance during the offering. The song is designed to encourage giving and reflects the importance of generosity in supporting the ministry, especially as the church sends members to serve abroad.",
+      "keywords": ["offering", "solo", "generosity", "worship", "ministry"],
+      "performers": ["Drahho"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 2 Corinthians 9",
+      "start_time": 1271,
+      "type": "scripture",
+      "description": "The congregation reads from 2 Corinthians 9, focusing on the themes of generosity and joyful giving. This scripture emphasizes the importance of readiness and the blessings that come from giving to others with a thankful heart.",
+      "keywords": ["scripture", "2 Corinthians", "giving", "thankfulness", "generosity"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["2 Corinthians 9"]
+    },
+    {
+      "title": "Message: The Heart of Giving (2 Corinthians 9)",
+      "start_time": 1304,
+      "type": "sermon",
+      "description": "The pastor delves into 2 Corinthians 9, exploring the spirit of giving. He challenges the congregation to reflect on their readiness to help others and embrace a lifestyle characterized by generosity and thankful hearts. The message encourages believers to facilitate thanksgiving and worship through their actions.",
+      "keywords": ["sermon", "giving", "thankfulness", "Corinthians", "generosity"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["2 Corinthians 9"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 971,
+      "type": "prayer",
+      "description": "The congregation gathers in prayer, guided by the pastor, expressing gratitude for God's grace and asking for His guidance as they enter into a time of worship and the Word. The prayer emphasizes the importance of a thankful heart in the life of the believer.",
+      "keywords": ["prayer", "gratitude", "worship", "guidance", "congregation"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: All My Hope Is in You",
+      "start_time": 3011,
+      "type": "music",
+      "description": "The congregation passionately sings 'All My Hope Is in You,' expressing their reliance on God's strength and love. This hymn fosters a spirit of unity and devotion, allowing worshippers to collectively declare their faith through song.",
+      "keywords": ["hymn", "congregational", "hope", "worship", "community"],
+      "performers": ["Congregation"],
+      "songs": ["All My Hope Is in You"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Lead On, O King Eternal",
+      "start_time": 3277,
+      "type": "music",
+      "description": "This spirited hymn, 'Lead On, O King Eternal,' inspires the congregation to march forward in faith. It reinforces themes of leadership, divine guidance, and the church's commitment to serve as Christ's representatives in the world.",
+      "keywords": ["hymn", "faith", "leadership", "worship", "congregation"],
+      "performers": ["Congregation"],
+      "songs": ["Lead On, O King Eternal"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2980,
+      "type": "prayer",
+      "description": "In closing prayer, the pastor leads the congregation in an expression of gratitude and commitment to Christ. The prayer serves as a final plea for God's blessing over the church and the work He calls them to do.",
+      "keywords": ["closing prayer", "gratitude", "commitment", "blessing", "congregation"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

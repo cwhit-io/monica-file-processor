@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Selection",
+      "start_time": 30,
+      "type": "music",
+      "description": "An energetic and uplifting piece of music sets a joyful tone for the service. The congregation engages as they express their enthusiasm through clapping and singing.",
+      "keywords": ["music", "upbeat", "celebration"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Website Information",
+      "start_time": 177,
+      "type": "announcement",
+      "description": "Pastor Kelly introduces himself and discusses various communication avenues, including the church's website, while expressing gratitude for the community's support and involvement.",
+      "keywords": ["announcement", "community", "website"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: March Series Conclusion",
+      "start_time": 273,
+      "type": "announcement",
+      "description": "The pastor announces the upcoming conclusion of a series centered on the priesthood of all believers. He encourages participation and shares anticipation for the concluding message.",
+      "keywords": ["announcement", "series", "priesthood"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Uplifting Hymn",
+      "start_time": 403,
+      "type": "music",
+      "description": "The choir performs an uplifting hymn, drawing the congregation into a shared experience of worship. This song reinforces themes of faith and community support.",
+      "keywords": ["hymn", "worship", "choir"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Inspiring Anthem",
+      "start_time": 410,
+      "type": "music",
+      "description": "An inspiring anthem performed by the choir continues to uplift and energize the congregation. The music fosters an environment of reflection and devotion.",
+      "keywords": ["anthem", "inspiration", "choir"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Priestly Living (Ephesians 6:5-9)",
+      "start_time": 681,
+      "type": "sermon",
+      "description": "Pastor Kelly delivers a substantial message on the priesthood of all believers, focusing on how individuals can serve in their workplace. He uses scripture to emphasize the importance of obedience to God and serving others with humility.",
+      "keywords": ["sermon", "priesthood", "Ephesians", "service", "workplace"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Ephesians 6:5-9"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3519,
+      "type": "prayer",
+      "description": "In the closing prayer, Pastor Kelly expresses gratitude and seeks guidance for the congregation to embody the message of being priestly representatives in their daily lives.",
+      "keywords": ["prayer", "closing", "gratitude"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

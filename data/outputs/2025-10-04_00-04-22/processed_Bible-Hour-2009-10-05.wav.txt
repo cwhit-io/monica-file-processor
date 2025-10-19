@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with lively and upbeat worship music that sets a positive tone for the congregation. It engages attendees, inviting them into a spirit of praise and celebration as they gather together in the church.",
+      "keywords": ["worship", "music", "celebration"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Gentle Worship",
+      "start_time": 30,
+      "type": "music",
+      "description": "Gentle music plays, creating a serene atmosphere conducive for prayer and reflection. This softer style encourages the congregation to connect with the spirit and prepare their hearts for the message to come.",
+      "keywords": ["gentle", "serene", "reflection"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 261,
+      "type": "prayer",
+      "description": "The leader guides the congregation in a heartfelt opening prayer, focusing on God's sovereignty and grace. This prayer emphasizes the need for humility, forgiveness, and a desire for a closer relationship with God among the attendees.",
+      "keywords": ["prayer", "humility", "forgiveness"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Message: A Sovereign Shepherd (Isaiah 40)",
+      "start_time": 364,
+      "type": "sermon",
+      "description": "The sermon explores Isaiah 40, focusing on God as a sovereign shepherd who offers comfort and hope. It addresses the tendency towards idolatry, encouraging a deeper longing for God and a recognition of His supremacy over idols. The speaker draws connections to Jesus, emphasizing His role as the fulfillment of God's promise.",
+      "keywords": ["idolatry", "comfort", "God", "Isaiah", "shepherd"],
+      "performers": ["Steve Webster"],
+      "songs": ["[]"],
+      "scripture_references": ["Isaiah 40"]
+    },
+    {
+      "title": "Congregational Hymn: Strength Will Rise",
+      "start_time": 2928,
+      "type": "music",
+      "description": "The congregation sings the hymn 'Strength Will Rise,' which centers on waiting patiently for the Lord. This congregational participation reinforces the theme of reliance on God's strength and enduring hope through challenging times.",
+      "keywords": ["hymn", "strength", "waiting"],
+      "performers": ["Corbin"],
+      "songs": ["Strength Will Rise"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3384,
+      "type": "prayer",
+      "description": "A closing prayer is offered, invoking God's blessings upon the congregation. It emphasizes the need for continued support in overcoming idolatry and seeking a genuine relationship with Jesus.",
+      "keywords": ["closing", "blessing", "support"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "announcement: Upcoming Encouragement",
+      "start_time": 3413,
+      "type": "announcement",
+      "description": "The leader shares upcoming initiatives to support the congregation in their walk against idolatry. This includes daily encouragements and resources to help deepen their spiritual journey together.",
+      "keywords": ["announcement", "support", "encouragement"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Closing Hymn",
+      "start_time": 3421,
+      "type": "music",
+      "description": "The service concludes with a closing hymn that reflects on the message of casting down idols and seeking God. The congregation participates in unison, reinforcing their commitment to worship.",
+      "keywords": ["hymn", "commitment", "worship"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    }
+  ]
+}
+```

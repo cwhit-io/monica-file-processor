@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat music number, welcoming everyone to the Sunday morning worship at Black Hawk Baptist Church. It sets a positive tone, inviting congregants to prepare their hearts for worship and the message.",
+      "keywords": ["worship", "music", "welcome", "service", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 162,
+      "type": "music",
+      "description": "The choir performs a spirited piece that captivates the audience, bringing the congregation into a deeper worship experience. The music highlights the theme of faithfulness and God's goodness, engaging everyone to join in praise.",
+      "keywords": ["choir", "faithfulness", "praise", "worship", "music"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 313,
+      "type": "music",
+      "description": "Another powerful performance from the choir follows, prompting applause from the congregation. This segment of joyful singing reinforces the message of unity and celebration within the church body.",
+      "keywords": ["choir", "celebration", "unity", "music", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Song Title]",
+      "start_time": 509,
+      "type": "music",
+      "description": "The congregation participates in a heartfelt hymn, lifting their voices together in worship. This shared experience strengthens community ties and encourages individual reflection on God’s faithful love.",
+      "keywords": ["hymn", "congregation", "worship", "community", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 604,
+      "type": "prayer",
+      "description": "An opening prayer is offered, inviting God’s presence into the service. The prayer emphasizes themes of gratitude and a desire for guidance as the congregation navigates their faith journey together.",
+      "keywords": ["prayer", "gratitude", "guidance", "worship", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Early Church's Mission (Acts 5:12-42)",
+      "start_time": 877,
+      "type": "sermon",
+      "description": "The pastor delivers an impactful sermon based on Acts chapter 5, focusing on the mission of the early church and the importance of obedience to God amidst persecution. He emphasizes a mindset committed to spreading the gospel and discusses the consequences of purity and the power of faith.",
+      "keywords": ["sermon", "Acts", "mission", "obedience", "faith"],
+      "performers": ["Pastor Kelly"],
+      "songs": [],
+      "scripture_references": ["Acts 5"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3411,
+      "type": "prayer",
+      "description": "The service moves into an invitation prayer, encouraging individuals to reflect on their relationship with God and calling on them to seek Him for guidance and strength. It aims to foster a deeper commitment to live out their faith actively.",
+      "keywords": ["invitation", "prayer", "commitment", "faith", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 3498,
+      "type": "music",
+      "description": "The service concludes with a final uplifting musical number by the choir. This piece serves as a joyful send-off, reinforcing the themes of the service and encouraging the congregation to go forth with purpose.",
+      "keywords": ["choir", "closing", "worship", "joy", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Thou Art Worthy",
+      "start_time": 0,
+      "type": "music",
+      "description": "The sanctuary choir presents the worship piece 'Thou Art Worthy'. The repeated refrain emphasizes the holiness and worthiness of God, setting a reflective tone for the service. The choir's harmonies create a powerful atmosphere of praise and reverence.",
+      "keywords": ["choir", "worship", "praise", "God", "Thou Art Worthy"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Thou Art Worthy"],
+      "scripture_references": []
+    },
+    {
+      "title": "Handbell Choir: Two Meditations from the Cross",
+      "start_time": 361,
+      "type": "music",
+      "description": "The handbell choir performs 'Two Meditations from the Cross', adding a unique instrumental touch to the worship experience. This piece creatively reflects on the themes of sacrifice and love represented in the Easter season, enhancing the service's meditation.",
+      "keywords": ["handbells", "instrumental", "Easter", "sacrifice", "meditation"],
+      "performers": ["Handbell Choir"],
+      "songs": ["Two Meditations from the Cross"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: There is Peace",
+      "start_time": 997,
+      "type": "music",
+      "description": "Becky Wollman shares a soulful rendition of 'There is Peace'. The song brings a comforting message, inviting the congregation to reflect on the serenity found in faith. Its heartfelt delivery resonates deeply with the audience.",
+      "keywords": ["solo", "peace", "faith", "reflection", "Becky Wollman"],
+      "performers": ["Becky Wollman"],
+      "songs": ["There is Peace"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Leadership Qualifications (1 Timothy 3)",
+      "start_time": 1130,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers an in-depth message on the qualifications for church leadership as outlined in 1 Timothy 3. He emphasizes the importance of managing one's household with dignity and respect as a reflection of one's ability to lead in the church. Through various examples and teachings, he challenges aspiring leaders to carefully consider their family dynamics and personal integrity.",
+      "keywords": ["sermon", "leadership", "1 Timothy 3", "household", "respect"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 3"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3421,
+      "type": "prayer",
+      "description": "Pastor Russell Moore leads the congregation in an invitation prayer, guiding those who wish to accept Christ into their lives. This moment of prayer is a connective point for the spirit of worship and reflection on personal faith decisions.",
+      "keywords": ["prayer", "invitation", "faith", "savior", "congregation"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3447,
+      "type": "prayer",
+      "description": "In the closing prayer, Pastor Moore thanks God for the message shared and prays for the congregation to carry the teachings forward in their lives. This prayer serves as a summary of the service and a blessing for the week ahead.",
+      "keywords": ["closing prayer", "blessing", "thanksgiving", "service", "God"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Upbeat Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat worship song that sets a joyous atmosphere, engaging the congregation. The lively music encourages participation and uplifts spirits, inviting all to focus on the joy of worship.",
+      "keywords": ["worship", "joy", "upbeat", "congregation", "participation"],
+      "performers": ["Choir"],
+      "songs": ["Upbeat Worship"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Call to Worship",
+      "start_time": 120,
+      "type": "music",
+      "description": "A congregational hymn is sung, inviting everyone to partake in a unified call to worship. The lyrics emphasize themes of commitment and following God's lead, reinforcing the gathering's purpose.",
+      "keywords": ["hymn", "worship", "unification", "commitment", "God"],
+      "performers": [],
+      "songs": ["Call to Worship"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 936,
+      "type": "prayer",
+      "description": "The opening prayer sets the tone for the service, inviting God's presence and guidance. The congregation joins in a heartfelt appeal for encouragement and courage to heed God's call in their lives.",
+      "keywords": ["prayer", "opening", "guidance", "family", "presence"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Go Boldly (Acts 1:4-8)",
+      "start_time": 1256,
+      "type": "sermon",
+      "description": "The sermon focuses on God's call to action, urging believers to 'go' and share the message of hope and redemption. Using Acts 1:4-8, it discusses the empowerment received through the Holy Spirit and the importance of being a witness in one's community and beyond.",
+      "keywords": ["sermon", "go", "witness", "Acts", "Holy Spirit"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Acts 1:4-8"]
+    },
+    {
+      "title": "drama: Neighborly Encounter",
+      "start_time": 2681,
+      "type": "drama",
+      "description": "A relatable skit unfolds depicting a conversation between neighbors discussing life's challenges and spiritual openness. It illustrates the complexities of witnessing and sharing faith in everyday interactions, highlighting humor and honesty.",
+      "keywords": ["drama", "neighbor", "conversation", "faith", "humor"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3352,
+      "type": "prayer",
+      "description": "The closing prayer emphasizes gratitude and the call to action everyone felt during the service. It encourages attendees to carry the message of hope into their daily lives, seeking opportunities to serve and witness.",
+      "keywords": ["prayer", "closing", "gratitude", "service", "witness"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Following You",
+      "start_time": 3369,
+      "type": "music",
+      "description": "The service draws to a close with a congregational hymn reflecting the commitment to follow God's path despite challenges. The congregation joins together in moving lyrics that reinforce the theme of dedication.",
+      "keywords": ["hymn", "follow", "commitment", "dedication", "community"],
+      "performers": [],
+      "songs": ["Following You"],
+      "scripture_references": []
+    }
+  ]
+}
+```

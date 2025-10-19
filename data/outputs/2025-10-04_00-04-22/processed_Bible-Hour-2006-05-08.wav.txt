@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Eerie Music]",
+      "start_time": 0,
+      "type": "music",
+      "description": "An eerie music piece sets a reflective atmosphere at the start of the service, allowing the congregation to settle into the space.",
+      "keywords": ["eerie", "atmosphere", "reflective"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Upbeat Rock Music]",
+      "start_time": 30,
+      "type": "music",
+      "description": "An upbeat rock music plays, energizing the congregation with a lively rhythm. The music captures the spirit of worship and prepares hearts for the message ahead.",
+      "keywords": ["upbeat", "worship", "energy"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 119,
+      "type": "prayer",
+      "description": "The opening prayer invites the congregation to focus their hearts and minds on God as they prepare for worship and teaching. It establishes a sacred space for the service.",
+      "keywords": ["prayer", "worship", "focus"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 137,
+      "type": "music",
+      "description": "The choir performs a powerful song, drawing the congregation into a deeper experience of worship. The lyrics resonate with themes of worthiness and praise.",
+      "keywords": ["choir", "worship", "song"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Heart of God (Joshua 5:1-12)",
+      "start_time": 397,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird shares an engaging message based on Joshua 5, emphasizing God's concern for the heart over external appearances. He reflects on biblical characters like David and Gideon as examples of faith without reliance on physical prowess. The sermon explores the importance of humility and spiritual readiness as the Israelites prepare for battle.",
+      "keywords": ["Joshua", "heart", "faith", "David", "Gideon"],
+      "performers": ["Kelly Bird"],
+      "songs": ["[]"],
+      "scripture_references": ["Joshua 5"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 740,
+      "type": "prayer",
+      "description": "The closing prayer encourages the congregation to reflect on the message shared. It invites them to commit their hearts to God and seek His guidance in their daily lives.",
+      "keywords": ["prayer", "closing", "commitment"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Praise Song]",
+      "start_time": 757,
+      "type": "music",
+      "description": "The choir leads the congregation in an uplifting song of praise. The powerful lyrics proclaim God’s greatness and encourage the attendees to respond in worship.",
+      "keywords": ["choir", "praise", "worship"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

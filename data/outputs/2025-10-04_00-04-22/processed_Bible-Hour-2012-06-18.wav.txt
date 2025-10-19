@@ -1,0 +1,36 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: How Deep the Father's Love for Us",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir leads the congregation in a heartfelt rendition of 'How Deep the Father's Love for Us', focusing on the depth of God's love and sacrifice. The music invites worshippers to reflect on the grace and mercy given to them through Christ's sacrifice. The atmosphere is uplifting and reverent, fostering a deep sense of community in worship.",
+      "keywords": ["choir", "worship", "God's love", "sacrifice", "congregation"],
+      "performers": ["Church Choir"],
+      "songs": ["How Deep the Father's Love for Us"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Justice Issues (Isaiah 1)",
+      "start_time": 478,
+      "type": "sermon",
+      "description": "In this sermon on justice issues, the pastor explores themes of equity, compassion, and responsibility toward vulnerable populations. Using Isaiah chapter 1 as a foundational text, he illustrates God's expectations for His people to care for the fatherless and the oppressed. He emphasizes that genuine worship must be reflected in how Christians live and act in society.",
+      "keywords": ["justice", "Isaiah", "compassion", "fatherless", "worship"],
+      "performers": ["Steve Webster"],
+      "songs": [],
+      "scripture_references": ["Isaiah 1"]
+    },
+    {
+      "title": "Congregational Hymn: We Must Go",
+      "start_time": 3258,
+      "type": "music",
+      "description": "The congregation joins in singing 'We Must Go', a powerful anthem that encourages believers to take action for justice and serve those in need. The lyrics inspire a commitment to move beyond mere words to tangible actions that reflect God's love and justice in the world. It serves as a call to live out faith actively.",
+      "keywords": ["congregational", "hymn", "action", "justice", "worship"],
+      "performers": ["Congregation"],
+      "songs": ["We Must Go"],
+      "scripture_references": []
+    }
+  ]
+}
+```

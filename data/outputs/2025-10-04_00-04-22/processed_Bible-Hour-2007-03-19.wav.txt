@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Mighty to Save",
+      "start_time": 198,
+      "type": "music",
+      "description": "The choir leads a powerful rendition of 'Mighty to Save,' emphasizing God's ability to transform lives and provide salvation. The lyrics encourage the congregation to recognize the strength and hope found in Christ. This uplifting moment sets a spiritual tone for the gathering.",
+      "keywords": ["choir", "mighty", "save", "worship", "praise"],
+      "performers": ["Choir"],
+      "songs": ["Mighty to Save"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Amazing Grace",
+      "start_time": 523,
+      "type": "music",
+      "description": "The choir continues with a heartfelt performance of 'Amazing Grace,' celebrating the theme of redemption and grace in the Christian faith. The congregation joins in singing, creating a unifying and reverent atmosphere of worship and gratitude.",
+      "keywords": ["choir", "amazing", "grace", "worship", "redemption"],
+      "performers": ["Choir"],
+      "songs": ["Amazing Grace"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 406,
+      "type": "prayer",
+      "description": "The senior pastor, Kelly Bird, welcomes everyone and leads the opening prayer, asking for guidance and the presence of the Holy Spirit. This prayer sets the stage for a meaningful worship experience and invites the congregation to prepare their hearts.",
+      "keywords": ["prayer", "opening", "worship", "guidance"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Matthew 28",
+      "start_time": 147,
+      "type": "scripture",
+      "description": "The scripture reading includes the Great Commission from Matthew 28, emphasizing the call to discipleship and outreach. Jesus’ words about making disciples serve as a reminder of the church's mission and the responsibility of believers.",
+      "keywords": ["scripture", "Matthew", "Great Commission", "discipleship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 28:18-20"]
+    },
+    {
+      "title": "Message: Turning an Audience into an Army (Romans 1)",
+      "start_time": 1136,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks shares a powerful message on transforming churchgoers from passive audience members into active participants in the faith. Drawing from Romans 1, he emphasizes that every believer is 'called' and equipped for service, encouraging the congregation to recognize their individual roles in the Great Commission.",
+      "keywords": ["sermon", "audience", "army", "service", "evangelism"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Romans 1"]
+    },
+    {
+      "title": "Choir: Congregational Hymn: I Surrender All",
+      "start_time": 3520,
+      "type": "music",
+      "description": "The congregation engages in a worshipful rendition of 'I Surrender All,' reflecting the desire to submit fully to God's will. This hymn reinforces the sermon’s message, inviting everyone to commit their lives to Christ's service and purpose.",
+      "keywords": ["congregational hymn", "worship", "surrender"],
+      "performers": ["Congregation"],
+      "songs": ["I Surrender All"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3538,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Rick Hawks, asking for strength and guidance for the congregation as they go out into their communities. This prayer highlights the call to be active in faith and service, synthesizing the service's message.",
+      "keywords": ["prayer", "closing", "commission", "community"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

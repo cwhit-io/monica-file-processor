@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: The God that bridges us",
+      "start_time": 28,
+      "type": "music",
+      "description": "The choir performs a powerful piece that emphasizes themes of hope and divine presence. The lyrics speak to the assurance of God's return and the longing for a future with Him. It's a stirring melody that uplifts the congregation, prompting reflections on faith and the assurance of salvation.",
+      "keywords": ["choir", "God", "hope", "future", "salvation"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["The God that bridges us"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Walk with Me",
+      "start_time": 484,
+      "type": "music",
+      "description": "Ron Hackett, the tenor soloist, shares a heartfelt prayer through the song 'Walk with Me'. This poignant performance invites listeners to reflect on companionship with God, emphasizing the desire for divine guidance in life's journey. The lyrics encourage deep personal connection with God and the importance of staying close to Him.",
+      "keywords": ["solo", "prayer", "guidance", "God", "love"],
+      "performers": ["Ron Hackett"],
+      "songs": ["Walk with Me"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: God and His Children",
+      "start_time": 1322,
+      "type": "music",
+      "description": "The Men Singers Quartet performs 'God and His Children', a heartwarming composition celebrating the bond between God and believers. The rich harmonies and uplifting lyrics reflect joy and assurance found in God's love, reinforcing the theme of community among His followers.",
+      "keywords": ["quartet", "God", "children", "joy", "love"],
+      "performers": ["Men Singers Quartet"],
+      "songs": ["God and His Children"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: James 4",
+      "start_time": 1545,
+      "type": "scripture",
+      "description": "The congregation turns to the book of James for the scripture reading, focusing on the causes of conflict and unanswered prayers. This reading establishes the context for the subsequent sermon, reminding participants of the spiritual implications of their motives and interactions.",
+      "keywords": ["scripture", "James", "conflict", "unanswered", "prayer"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["James 4:1-3"]
+    },
+    {
+      "title": "Message: Why Are My Prayers Not Answered? (James 4)",
+      "start_time": 1591,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah addresses the common struggle of unanswered prayer. He identifies six key barriers to prayer being heard, including sin, skepticism, selfishness, and relational strife. Through biblical insights, he encourages the congregation to reflect on their personal lives and align their prayers with God's will.",
+      "keywords": ["prayer", "unanswered", "sin", "skepticism", "selfishness"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["James 4:1-3", "Psalm 66:18", "1 Peter 3:7"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3431,
+      "type": "prayer",
+      "description": "In this invitation prayer, Pastor Jeremiah calls the congregation to reflect on their relationship with Christ. He invites those who feel the need for personal commitment to take a step of faith and accept Jesus into their lives, emphasizing God's desire for a personal relationship with every individual.",
+      "keywords": ["invitation", "prayer", "commitment", "faith", "Jesus"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3445,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, affirming the messages shared throughout the service. Pastor Jeremiah thanks God for the opportunity to gather and prays for the continued spiritual growth of the congregation. This closing moment seeks God's blessing on their lives as they depart.",
+      "keywords": ["closing", "prayer", "blessing", "faith", "community"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Worship Songs]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir opens the service with a series of worship songs uplifting the congregation. The focus is on worshiping God and encouraging unity among believers through music. The lyrics express devotion to God, emphasizing the theme of communal worship.",
+      "keywords": ["worship", "choir", "unity", "songs", "devotion"],
+      "performers": ["Choir"],
+      "songs": ["Worship Songs"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [We Are Christians]",
+      "start_time": 843,
+      "type": "music",
+      "description": "The congregation joins together in a heartfelt hymn, reaffirming their identity as Christians. The hymn fosters a sense of community and collective faith among the attendees. This segment encourages participation and reflects on their shared beliefs.",
+      "keywords": ["hymn", "Christian", "community", "faith"],
+      "performers": ["Congregation"],
+      "songs": ["We Are Christians"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: [Transformed Living] (Romans 12)",
+      "start_time": 929,
+      "type": "sermon",
+      "description": "The pastor addresses the congregation about transformed living based on Romans 12, discussing the importance of love, community, and being devoted to one another. Utilizing personal anecdotes, he emphasizes a call to action for believers to engage actively in their faith with diligence and zeal. The message highlights practical applications of Christian values in everyday life, encouraging unity and spiritual growth.",
+      "keywords": ["transformed", "living", "Romans", "community", "love"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Romans 12"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3405,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by a pastoral team member. This prayer encapsulates the messages shared during the service, calling for God’s guidance and grace over the congregation as they move forward in their faith journey. The prayer focuses on humility, diligence, and a commitment to honoring God.",
+      "keywords": ["prayer", "closing", "guidance", "grace"],
+      "performers": ["Bob Purdy"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Musical Reflection]",
+      "start_time": 3528,
+      "type": "music",
+      "description": "A soloist performs a reflective piece that brings the service to a close. This musical reflection allows the congregation to meditate on the themes of the service, fostering a moment of personal connection with God. The song encourages quiet contemplation and inspires attendees to carry forward the messages discussed.",
+      "keywords": ["solo", "reflection", "meditation", "musical"],
+      "performers": ["Soloist"],
+      "songs": ["Musical Reflection"],
+      "scripture_references": []
+    }
+  ]
+}
+```

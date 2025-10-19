@@ -1,0 +1,64 @@
+{
+  "chapters": [
+    {
+      "title": "Congregational Hymn: [Unknown]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat congregational hymn that invites everyone into a spirit of worship. The congregation joins in singing powerful lyrics that express devotion and joy in God. This segment sets a warm and welcoming tone for the service ahead.",
+      "keywords": ["worship", "joy", "congregation", "music"],
+      "performers": [],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unknown]",
+      "start_time": 141,
+      "type": "music",
+      "description": "The choir takes the stage for a vibrant performance, engaging the congregation with a moving piece that emphasizes themes of worship and devotion. This musical interlude allows the congregation to reflect and prepare their hearts for the message that follows.",
+      "keywords": ["choir", "worship", "song", "praise"],
+      "performers": [],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Grace of God (Judges 6-8)",
+      "start_time": 308,
+      "type": "sermon",
+      "description": "Steve Webster delivers a passionate sermon centered on the life of Gideon, exploring his flaws and the incredible grace of God. He discusses how Gideon’s doubts resonate with us and highlights lessons on faith and grace, using insights from Hebrews. The message reflects on how our identity is rooted in God's grace rather than our failures.",
+      "keywords": ["Gideon", "grace", "faith", "sermon", "Bible"],
+      "performers": ["Steve Webster"],
+      "songs": [],
+      "scripture_references": ["Judges 6", "Judges 7", "Judges 8", "Hebrews 11:32-34"]
+    },
+    {
+      "title": "Congregational Hymn: [We Will Remember]",
+      "start_time": 3519,
+      "type": "music",
+      "description": "The congregation participates in a heartfelt rendition of 'We Will Remember', focusing on remembrance and gratitude for God's faithfulness. This segment encourages attendees to reflect on their personal experiences with God's grace, celebrating his unwavering love through music.",
+      "keywords": ["worship", "remembrance", "congregation", "grace"],
+      "performers": [],
+      "songs": ["We Will Remember"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3452,
+      "type": "prayer",
+      "description": "The service concludes with a solemn closing prayer, where attendees are invited to pray together. The pastor emphasizes the importance of receiving God's grace and peace as they move forward into the week. This powerful moment fosters a sense of community and spiritual reflection.",
+      "keywords": ["prayer", "community", "grace", "peace"],
+      "performers": ["Steve Webster"],
+      "songs": [],
+      "scripture_references": ["Romans 16:20"]
+    },
+    {
+      "title": "Choir: [Unknown]",
+      "start_time": 3506,
+      "type": "music",
+      "description": "The choir closes the service with a brief performance that reinforces themes of faithfulness and gratitude. The music echoes uplifting sentiments, resonating with the congregation as they prepare to leave this time of worship.",
+      "keywords": ["choir", "music", "faithfulness", "worship"],
+      "performers": [],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    }
+  ]
+}

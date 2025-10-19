@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: God Exalted Him",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with a powerful choir performance of 'God Exalted Him', blending heartfelt lyrics with a strong melody that sets the atmosphere for worship. This song invites the congregation to reflect on the majesty of God and His sacrificial love through Christ. The choir's harmonies lift spirits, creating a moment of connection with the divine.",
+      "keywords": ["choir", "God", "exalted", "praise", "worship"],
+      "performers": ["Ladies' Chorus"],
+      "songs": ["God Exalted Him"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Like a River Glorious",
+      "start_time": 346,
+      "type": "music",
+      "description": "Following the first music segment, the choir continues with 'Like a River Glorious', delivering a rich and uplifting tune that emphasizes God's peace and guidance in believers' lives. The song encourages introspection and assurance, reminding the congregation of God's everlasting promise to provide comfort and strength.",
+      "keywords": ["choir", "peace", "guidance", "God", "worship"],
+      "performers": ["Ladies' Chorus"],
+      "songs": ["Like a River Glorious"],
+      "scripture_references": []
+    },
+    {
+      "title": "Celebration: We're Going to Rise",
+      "start_time": 529,
+      "type": "music",
+      "description": "The celebration group performs a jubilant number, 'We're Going to Rise', filled with hope and excitement about future glory. The lively lyrics proclaim the anticipation of resurrection and eternal life, inspiring the congregation to look forward joyfully to united fellowship with Christ. The vibrant delivery enhances the uplifting message.",
+      "keywords": ["celebration", "hope", "resurrection", "joy", "worship"],
+      "performers": ["Celebration"],
+      "songs": ["We're Going to Rise"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 868,
+      "type": "prayer",
+      "description": "Pastor Moore leads an opening prayer, lifting the congregation in gratitude and asking for divine guidance throughout the service. The prayer is heartfelt and encourages the congregation to focus their hearts and minds on God's presence and to be receptive to His message. It establishes a spirit of community and reverence.",
+      "keywords": ["prayer", "opening", "community", "guidance", "worship"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Romans 5",
+      "start_time": 1299,
+      "type": "scripture",
+      "description": "A scripture reading from Romans chapter 5 is presented, focusing on the themes of grace and redemption. This passage outlines the significance of grace as overcoming sin, reinforcing the core message of the service. The reading serves to prepare the hearts of the congregation for the upcoming sermon.",
+      "keywords": ["scripture", "grace", "redemption", "Bible", "Romans"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Romans 5"]
+    },
+    {
+      "title": "Message: Understanding the Power of Grace (Romans 8:29-30)",
+      "start_time": 1306,
+      "type": "sermon",
+      "description": "Pastor Moore delivers a profound sermon titled 'Understanding the Power of Grace', focusing on Romans 8:29-30. He elaborates on the transformative impact of God's grace in the believer's life, asserting that grace not only pardons sin but also perfects the believer. This sermon encourages attendees to embrace the grace that draws them closer to Jesus and molds them into His image.",
+      "keywords": ["sermon", "grace", "Romans", "transformation", "forgiveness"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Romans 8:29-30"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3368,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer led by Pastor Moore. He expresses gratitude for the message shared and asks for the congregation to carry the lesson of grace with them throughout their week. The prayer invites reflection and commitment, reinforcing the community's bond in faith as they look to live out the teachings.",
+      "keywords": ["prayer", "closing", "gratitude", "community", "worship"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 3525,
+      "type": "announcement",
+      "description": "The final segment includes announcements about upcoming events in the church community. Details about special services and activities are shared, emphasizing fellowship and involvement opportunities. This segment serves to engage the congregation, encouraging active participation in church life and growth in faith together.",
+      "keywords": ["announcement", "events", "community", "church", "fellowship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

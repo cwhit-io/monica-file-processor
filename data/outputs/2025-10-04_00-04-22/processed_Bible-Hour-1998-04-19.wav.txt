@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Basics of Life",
+      "start_time": 112,
+      "type": "music",
+      "description": "The choir performs a heartfelt piece reflecting on the virtues of life and the need to return to fundamental values. The lyrics echo themes of moral clarity and the enduring hope that anchors faith amidst life's trials.",
+      "keywords": ["basics", "life", "values", "faith", "hope"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Basics of Life"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Do Right",
+      "start_time": 846,
+      "type": "music",
+      "description": "A soloist shares a stirring rendition of 'Do Right', emphasizing the importance of making ethical choices and living a life of integrity. The song encourages listeners to follow the guiding light of faith in their daily lives.",
+      "keywords": ["do right", "integrity", "faith", "choices"],
+      "performers": ["Unknown"],
+      "songs": ["Do Right"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Life in the Trenches (Romans 7)",
+      "start_time": 1101,
+      "type": "sermon",
+      "description": "Pastor Moore delivers a profound message on the struggle against sin, drawing from Romans 7. He discusses the challenges faced by believers, the duality of longing for righteousness while grappling with sin, and the hope found in Christ's grace as the ultimate solution to our struggles.",
+      "keywords": ["Romans", "sin", "struggle", "grace", "faith"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Romans 7"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3526,
+      "type": "prayer",
+      "description": "A solemn invitation prayer encourages participants to reflect on the day's message, inviting them to take a step closer to God. This moment allows individuals to seek personal renewal and commitment in their faith journey.",
+      "keywords": ["invitation", "renewal", "commitment", "faith"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

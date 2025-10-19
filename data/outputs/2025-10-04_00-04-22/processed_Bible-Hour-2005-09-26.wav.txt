@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Great is the Lord",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir begins with a powerful rendition of 'Great is the Lord', proclaiming His holiness and faithfulness. The song repeats themes of trust and glory, inviting the congregation to join in worship. As the verses unfold, the uplifting lyrics resonate with the audience, creating an atmosphere of reverence and joy.",
+      "keywords": ["worship", "greatness", "choir", "praise", "faithfulness"],
+      "performers": ["Choir"],
+      "songs": ["Great is the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Living a Life Beyond Ourselves (Romans 12:1-2)",
+      "start_time": 299,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird delivers a heartfelt message about serving others through the lens of Romans 12:1-2. He shares personal experiences and challenges the congregation to engage in the act of serving, emphasizing the importance of stepping beyond oneself to reflect Christ's love. The sermon encourages a mindset shift from selfishness to selflessness, outlining how gratitude and salvation empower us to serve.",
+      "keywords": ["service", "selflessness", "Romans", "gratitude", "transformational"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Romans 12:1-2"]
+    },
+    {
+      "title": "Congregational Hymn: It's All About You",
+      "start_time": 639,
+      "type": "music",
+      "description": "The congregation engages in song with 'It's All About You', a heartfelt hymn expressing devotion and surrender to Jesus. The lyrics reflect a commitment to prioritize God’s purpose above personal desires. As voices unite, the spirit of worship fills the auditorium, encouraging heartfelt participation from all present.",
+      "keywords": ["worship", "surrender", "congregational", "devotion", "praise"],
+      "performers": ["Congregation"],
+      "songs": ["It's All About You"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Thank You for the Cross",
+      "start_time": 878,
+      "type": "music",
+      "description": "The congregation sings 'Thank You for the Cross', expressing gratitude for Christ's sacrifice. This reflective hymn fosters a sense of thankfulness and reverence in the hearts of worshippers. The lyrics highlight themes of redemption and grace, deepening the worshippers' connection to the message of the cross.",
+      "keywords": ["gratitude", "cross", "redemption", "grace", "worship"],
+      "performers": ["Congregation"],
+      "songs": ["Thank You for the Cross"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Worthy is the Lamb",
+      "start_time": 942,
+      "type": "music",
+      "description": "The choir returns with a powerful performance of 'Worthy is the Lamb', celebrating the majesty of God. The song encapsulates themes of worship and recognition of Christ’s sacrificial love. The choir’s harmonies uplift the congregation, creating an enriching worship experience that invites all to join in praising the Lamb.",
+      "keywords": ["worship", "choir", "majesty", "sacrifice", "praise"],
+      "performers": ["Choir"],
+      "songs": ["Worthy is the Lamb"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 1174,
+      "type": "prayer",
+      "description": "An invitation prayer is led, asking God to draw believers closer and to open hearts to His calling. This prayer emphasizes the importance of responding to God's grace and serves as a transition from worship into personal reflection and commitment. The congregation is invited to engage deeply with God's presence.",
+      "keywords": ["prayer", "invitation", "commitment", "presence", "grace"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Great is the Lord (Reprise)",
+      "start_time": 1570,
+      "type": "music",
+      "description": "The choir brings back the powerful hymn 'Great is the Lord', reinforcing the themes of holiness and power in worship. This reprise serves as a powerful conclusion to the service, inviting all to once more proclaim the greatness of God together. The energy builds as the congregation joins in, completing the worshipful atmosphere.",
+      "keywords": ["worship", "greatness", "choir", "praise", "conclusion"],
+      "performers": ["Choir"],
+      "songs": ["Great is the Lord"],
+      "scripture_references": []
+    }
+  ]
+}
+```

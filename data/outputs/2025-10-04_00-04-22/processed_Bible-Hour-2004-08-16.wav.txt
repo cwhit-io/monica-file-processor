@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [MUSIC]",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir performs a significant piece that sets the tone for the service, inviting the congregation into a spirit of worship and reflection. This segment showcases their vocal harmonies and contributes to the overall atmosphere of the gathering.",
+      "keywords": ["choir", "worship", "music", "harmony"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["MUSIC"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Control Issues (1 Kings 19)",
+      "start_time": 300,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird delivers a powerful sermon exploring the theme of control and expectations through the story of Elijah. He addresses how personal expectations often clash with God's plans, leading to disappointment and spiritual struggle. The message encourages the congregation to relinquish control and trust in God's perfect timing and provision.",
+      "keywords": ["Elijah", "control", "expectations", "trust", "provision"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["1 Kings 19:1-2", "1 Kings 18"]
+    },
+    {
+      "title": "Choir: [MUSIC]",
+      "start_time": 3563,
+      "type": "music",
+      "description": "The choir returns to lead another musical piece, enhancing the worship experience and reinforcing the themes expressed in the sermon. Their performance is uplifting, encouraging the congregation to reflect on God's faithfulness and presence.",
+      "keywords": ["choir", "music", "worship", "faithfulness"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["MUSIC"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3660,
+      "type": "prayer",
+      "description": "In the closing prayer, Pastor Kelly Bird invites the congregation to lean on God amid life's challenges. He prays for strength, peace, and the ability to surrender control, highlighting the importance of faith in God's plans and timing.",
+      "keywords": ["prayer", "faith", "surrender", "strength"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

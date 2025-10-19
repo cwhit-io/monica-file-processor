@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: And Can It Be?",
+      "start_time": 299,
+      "type": "music",
+      "description": "The Sanctuary Choir performs the uplifting hymn 'And Can It Be?', which embodies themes of grace and redemption. The choir's harmonious tones create a worshipful atmosphere, inviting the congregation to reflect on the significance of God's sacrifice. The powerful message of the song emphasizes faith and the victory found in Jesus.",
+      "keywords": ["choir", "hymn", "grace", "redemption", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["And Can It Be?"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Put My Feet on a Solid Rock",
+      "start_time": 834,
+      "type": "music",
+      "description": "A solo performance of 'Put My Feet on a Solid Rock' follows, reinforcing the message of building one's faith on a firm foundation. The upbeat rhythm and joyful lyrics encourage the congregation to trust in God's unwavering support. This joyful expression serves as a reminder of the importance of faith in facing life's challenges.",
+      "keywords": ["solo", "faith", "foundation", "trust", "joy"],
+      "performers": ["Kevin Rowe"],
+      "songs": ["Put My Feet on a Solid Rock"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Unknown",
+      "start_time": 1068,
+      "type": "music",
+      "description": "A solo performance by Lynn Rowe adds a personal touch to the worship service. While the specific song title is not mentioned, the heartfelt delivery engages the audience and reinforces the themes of love and faith that resonate throughout the service.",
+      "keywords": ["solo", "music", "worship", "faith", "love"],
+      "performers": ["Lynn Rowe"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The War with the Devil (1 Peter 5:8-9)",
+      "start_time": 1446,
+      "type": "sermon",
+      "description": "Associate Pastor Tim Teder delivers the final message in a series on spiritual warfare, focusing on the theme of 'The War with the Devil.' Drawing from 1 Peter 5:8-9, he highlights the importance of being aware and alert to spiritual dangers, the need for strength in faith, and strategies for resisting temptation. Teder emphasizes God's power in facing adversities and encourages the congregation to stand firm in their beliefs.",
+      "keywords": ["spiritual warfare", "devil", "faith", "resistance", "1 Peter"],
+      "performers": ["Tim Teder"],
+      "songs": [],
+      "scripture_references": ["1 Peter 5:8-9"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3652,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer, inviting God’s guidance and blessing over the congregation. It serves as a moment of reflection to internalize the message while seeking strength to face spiritual battles in the week ahead. The prayer encapsulates the themes of the service and encourages individuals to trust in God's power and grace.",
+      "keywords": ["prayer", "guidance", "blessing", "strength", "trust"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Special Music",
+      "start_time": 297,
+      "type": "music",
+      "description": "The sanctuary choir performs a special piece that reflects faith standing strong through life's trials and challenges. The music uplifts the congregation and sets a tone of worship as attendees prepare their hearts for the message to follow.",
+      "keywords": ["faith", "trials", "worship", "choir"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Take the Name of Jesus with You",
+      "start_time": 564,
+      "type": "music",
+      "description": "The congregation joins in singing 'Take the Name of Jesus with You' over three selected stanzas. This hymn resonates with themes of hope and remembrance, uniting the worshippers in heartfelt praise.",
+      "keywords": ["Jesus", "hymn", "worship", "hope"],
+      "performers": [],
+      "songs": ["Take the Name of Jesus with You"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Broken and Spilled Out",
+      "start_time": 1302,
+      "type": "music",
+      "description": "A heartfelt solo titled 'Broken and Spilled Out' emphasizes sacrificial love and devotion. Through poignant lyrics, the soloist invites the congregation to reflect on the love and sacrifices of Christ.",
+      "keywords": ["broken", "love", "sacrifice", "solo"],
+      "performers": ["Pete"],
+      "songs": ["Broken and Spilled Out"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1621,
+      "type": "prayer",
+      "description": "The opening prayer acknowledges the Lord's presence and the brokenness experienced in life. It invites healing and reflects on the shared struggles within the community, asking God for strength and encouragement.",
+      "keywords": ["prayer", "healing", "community", "strength"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Corinthians 13",
+      "start_time": 1801,
+      "type": "scripture",
+      "description": "The congregation is led in the scripture reading of 1 Corinthians 13, known as the love chapter. This passage lays the foundation for understanding God's definition of love and its applications in life.",
+      "keywords": ["1 Corinthians", "love", "scripture", "God"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 13"]
+    },
+    {
+      "title": "Message: Love is Not Proud (1 Corinthians 13)",
+      "start_time": 1801,
+      "type": "sermon",
+      "description": "Pastor Rick unfolds the message titled 'Love is Not Proud', focusing on the attributes of love found in 1 Corinthians 13. He explains how love is characterized by humility, patience, kindness, and the rejection of envy and pride, challenging the congregation to embody these qualities in their lives.",
+      "keywords": ["sermon", "love", "humility", "patience"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 13:4-8"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3526,
+      "type": "prayer",
+      "description": "The closing prayer invites attendees to reflect on their relationship with God. It encourages them to open their hearts for Christ's love and to commit to walking in His ways after the message they just heard.",
+      "keywords": ["closing prayer", "commitment", "relationship", "Christ"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Church Updates and Opportunities",
+      "start_time": 698,
+      "type": "announcement",
+      "description": "Announcements provide updates on church activities, including choir registration and upcoming Bible study programs for different age groups. The announcements help keep the congregation informed and engaged in various ministries.",
+      "keywords": ["announcements", "church", "activities", "ministry"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

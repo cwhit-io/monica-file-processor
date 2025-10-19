@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer that sets the tone for reflection and worship. Attendees are reminded to consider their relationship with God and to seek renewal through rest. It's a moment of connection with the divine.",
+      "keywords": ["prayer", "worship", "God"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: To God Be All Glory",
+      "start_time": 176,
+      "type": "music",
+      "description": "Laurie Shimon performs a solo piece, delivering heartfelt lyrics that express devotion and gratitude to God. The song emphasizes themes of glory and praise, inviting listeners to join in worship through music.",
+      "keywords": ["solo", "Laurie Shimon", "praise", "worship"],
+      "performers": ["Laurie Shimon"],
+      "songs": ["To God Be All Glory"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: I Am Crucified With Christ",
+      "start_time": 641,
+      "type": "music",
+      "description": "A solo performance of 'I Am Crucified With Christ' reflects a deep commitment to faith and the transformative power of the cross. The lyrics remind the congregation of the profound experience of living in Christ.",
+      "keywords": ["solo", "music", "faith"],
+      "performers": [],
+      "songs": ["I Am Crucified With Christ"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Heart of God (Matthew 11:28-30)",
+      "start_time": 841,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a powerful sermon focusing on the heart of God and the importance of serving Him with sincerity and faithfulness. He uses scripture to explore how God desires our hearts and the nature of true faithfulness in our walk with Him.",
+      "keywords": ["sermon", "faithfulness", "God's heart", "Matthew 11"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Matthew 11:28-30", "1 Samuel 13", "Psalm 38", "Psalm 51", "Psalm 39", "Psalm 5", "Psalm 16", "Psalm 19", "Psalm 63", "Psalm 139"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3422,
+      "type": "prayer",
+      "description": "The closing prayer invites the congregation to reflect on the sermon and connect with God. It serves as a moment for personal commitments and prayers for strength in living out one's faith in everyday life.",
+      "keywords": ["prayer", "closing", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

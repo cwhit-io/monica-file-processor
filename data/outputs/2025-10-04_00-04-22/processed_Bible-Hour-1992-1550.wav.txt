@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Congregational Hymn: I Will Sing of My Redeemer",
+      "start_time": 84,
+      "type": "music",
+      "description": "The congregation rejoices in song with the hymn 'I Will Sing of My Redeemer,' which speaks to the themes of redemption and salvation. This vibrant hymn invites everyone to join in the celebration of God's love and grace for humanity. The singing fosters a spirit of unity and worship among attendees.",
+      "keywords": ["hymn", "redeemer", "singing", "congregation", "worship"],
+      "performers": ["Congregation"],
+      "songs": ["I Will Sing of My Redeemer"],
+      "scripture_references": []
+    },
+    {
+      "title": "Sanctuary Choir: Jesus Reigns",
+      "start_time": 117,
+      "type": "music",
+      "description": "The sanctuary choir presents 'Jesus Reigns,' a powerful anthem that exalts the kingship of Christ. The performance emphasizes themes of divine sovereignty and the joy of salvation. The music creates an uplifting atmosphere, encouraging the congregation to acknowledge the reign of Jesus in their lives.",
+      "keywords": ["choir", "Jesus", "reigns", "anthem", "sovereignty"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Jesus Reigns"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Beneath Your Blood",
+      "start_time": 543,
+      "type": "music",
+      "description": "Kevin Rowe offers a heartfelt solo performance of 'Beneath Your Blood,' a song reflecting on the atonement and mercy found in Christ's sacrifice. This contemplative piece invites listeners to embrace the themes of forgiveness and grace. The solo enhances the worship experience by fostering personal reflection.",
+      "keywords": ["solo", "blood", "forgiveness", "grace", "Kevin Rowe"],
+      "performers": ["Kevin Rowe"],
+      "songs": ["Beneath Your Blood"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Apostasy (1 Timothy 4:1-5)",
+      "start_time": 1085,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a transformative message on apostasy, exploring 1 Timothy 4:1-5. He discusses the elements of falling away from the faith and emphasizes the serious implications of departing from biblical truth. Through real-life examples and scriptural references, the sermon challenges listeners to examine their faith and commitment to God.",
+      "keywords": ["apostasy", "sermon", "1 Timothy", "faith", "Russell Moore"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 4:1-5"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3271,
+      "type": "prayer",
+      "description": "In an inviting opening prayer, the congregation collectively expresses their love and gratitude to God. The prayer sets the tone for the service, acknowledging God's sovereignty and grace. It serves as a call for divine assistance and guidance throughout the worship experience.",
+      "keywords": ["prayer", "opening", "gratefulness", "worship", "congregation"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3359,
+      "type": "prayer",
+      "description": "As the service concludes, a closing prayer is offered, bringing together the messages shared during worship and invoking God's presence in the lives of the believers. The prayer highlights a commitment to discipleship and salvation, prompting reflection on the day's teachings.",
+      "keywords": ["prayer", "closing", "commitment", "salvation", "reflection"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 570,
+      "type": "announcement",
+      "description": "The service transitions into announcements about upcoming church events, such as the Women's Retreat and the children's musical. Important details are shared about mission work and opportunities for congregation involvement. This segment encourages fellowship and community engagement among church members.",
+      "keywords": ["announcements", "events", "community", "mission", "involvement"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Jesus Reigns (Medley)",
+      "start_time": 3405,
+      "type": "music",
+      "description": "The choir performs a medley of songs celebrating Jesus’ reign, beautifully transitioning the service into final moments of worship. The combination of diverse musical pieces highlights the glory of Christ and encourages participation from the congregation. It's a fitting conclusion to a powerful service.",
+      "keywords": ["choir", "Jesus", "medley", "celebration", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

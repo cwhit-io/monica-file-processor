@@ -1,0 +1,64 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with upbeat music that sets a joyful tone for the congregation. The melodies uplift the spirits of the attendees, preparing their hearts for the worship experience that lies ahead. This segment serves as an invitation to engage in a communal celebration of faith.",
+      "keywords": ["music", "worship", "joyful", "celebration"],
+      "performers": ["Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir continues to lead the congregation in worship with a powerful song that resonates with messages of hope and adoration. The atmosphere becomes increasingly charged with a sense of community as voices blend together in praise.",
+      "keywords": ["choir", "praise", "worship", "community"],
+      "performers": ["Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 40,
+      "type": "prayer",
+      "description": "The opening prayer invites the congregation to connect deeply with God. The prayer emphasizes humility, surrender, and a desire for spiritual revelation, setting a reflective and worshipful tone as the service progresses.",
+      "keywords": ["prayer", "opening", "spiritual", "humility"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: A Fully Surrendered Walk (Ephesians 4:1)",
+      "start_time": 438,
+      "type": "sermon",
+      "description": "The sermon explores the theme of living a fully surrendered life as it relates to worship and daily actions. It delves into Ephesians 4:1, emphasizing the importance of walking in a manner worthy of God's calling. The speaker discusses unique aspects of worship, including unity, confession, faith, contentment, and redemptive living.",
+      "keywords": ["sermon", "surrender", "worship", "Ephesians", "faith"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["Ephesians 4:1"]
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 3477,
+      "type": "music",
+      "description": "The service culminates with a beautiful choir piece that encapsulates the essence of worship. The heartfelt performance transports attendees, allowing them to reflect on the teachings shared during the service. This musical act reinforces the message of living a life of worship.",
+      "keywords": ["music", "choir", "worship", "reflection"],
+      "performers": ["Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3403,
+      "type": "prayer",
+      "description": "In the closing prayer, the congregation is encouraged to live out the principles discussed throughout the service. The prayer highlights gratitude and calls for consistency between the professed faith and daily actions, as the service wraps up on a note of unity.",
+      "keywords": ["closing", "prayer", "gratitude", "faith"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: So Happy Day",
+      "start_time": 89,
+      "type": "music",
+      "description": "The service begins with a joyful choir performance celebrating the happiness of the Christian faith. The song emphasizes the joy found in worship and being in the presence of Jesus. The lyrics reflect the idea of redemption and the happiness brought by faith.",
+      "keywords": ["worship", "joy", "choir", "Jesus", "faith"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["So Happy Day"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 394,
+      "type": "music",
+      "description": "The choir continues to lead the congregation in worship, transitioning into another uplifting song that captures the essence of faith and the journey of a believer. The performance emphasizes God's love and guidance throughout life's trials.",
+      "keywords": ["worship", "faith", "choir", "God's love"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: God of Deliverance and Exaltation (1 Peter 5)",
+      "start_time": 643,
+      "type": "sermon",
+      "description": "The sermon focuses on God's promises of deliverance and exaltation, drawing from the experiences of Joseph in Genesis. The pastor outlines the hardships faced by believers throughout history, reiterating that despite trials, God offers rescue and rewards for faithfulness. Key biblical texts illustrate these themes, with an emphasis on hope and perseverance.",
+      "keywords": ["Joseph", "deliverance", "exaltation", "1 Peter", "faithfulness"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Peter 5:6-10", "Job 5"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3366,
+      "type": "prayer",
+      "description": "The service continues with an opening prayer, asking for God's presence and blessings over the worship time. The prayer focuses on the themes of justice, mercy, and the faithfulness of God as the congregation gathers together.",
+      "keywords": ["prayer", "blessings", "worship", "congregation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3483,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, which focuses on accepting Christ and growing in faith. The pastor invites attendees to pray for salvation and to trust in God's promises, reinforcing the message of deliverance and hope.",
+      "keywords": ["closing prayer", "faith", "salvation", "hope"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Ministry Opportunities",
+      "start_time": 3493,
+      "type": "announcement",
+      "description": "Following the closing prayer, the pastor shares various ministry opportunities for the congregation to get involved. These announcements highlight upcoming events, ways to serve, and support for the church community.",
+      "keywords": ["ministry", "opportunities", "announcement", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

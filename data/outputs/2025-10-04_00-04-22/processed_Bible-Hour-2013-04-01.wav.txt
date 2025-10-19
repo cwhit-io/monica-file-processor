@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Instrumental Opening",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat instrumental music performance, setting a positive and uplifting tone for the gathering. This piece energizes the attendees and prepares their hearts for worship.",
+      "keywords": ["music", "upbeat", "instrumental", "worship", "gathering"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Conversation with Josh Ring",
+      "start_time": 31,
+      "type": "interview",
+      "description": "A warm conversation takes place between the host and Josh Ring, who is part of the preaching team. They share their backgrounds, roles, and the significance of collaborative ministry, highlighting how they bring different perspectives to preaching.",
+      "keywords": ["Josh Ring", "preaching", "ministry", "background", "teamwork"],
+      "performers": ["Josh Ring"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unknown Song Title]",
+      "start_time": 285,
+      "type": "music",
+      "description": "The choir takes the stage to perform a moving piece that resonates deeply with the congregation. The melody and lyrics invite everyone into a spirit of worship, enhancing the connection among attendees.",
+      "keywords": ["choir", "performance", "worship", "congregation", "spiritual"],
+      "performers": ["[]"],
+      "songs": ["[Unknown Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: God's Incredibly Gracious Call (Galatians 1)",
+      "start_time": 396,
+      "type": "sermon",
+      "description": "The sermon focuses on the Apostle Paul's message to the Galatians about salvation by grace and not by works. The speaker emphasizes the radical nature of God's call and addresses performance-based mentality in faith communities. Practical applications are drawn from scripture, urging believers to find rest in God’s grace instead of striving for acceptance through works.",
+      "keywords": ["Galatians", "grace", "Paul", "salvation", "works"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["Galatians 1"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 620,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, asking for clarity and openness to the teachings of the day. The pastor reflects on the importance of hearing from God and the work of the Holy Spirit during the service.",
+      "keywords": ["prayer", "opening", "worship", "spiritual", "gathering"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unknown Song Title]",
+      "start_time": 2965,
+      "type": "music",
+      "description": "The choir performs a final piece that encapsulates the themes of the service, reinforcing the message of grace and community. The song invites participation and reflection, encouraging attendees to respond to the words and spirit of the music.",
+      "keywords": ["choir", "final performance", "worship", "community", "response"],
+      "performers": ["[]"],
+      "songs": ["[Unknown Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3253,
+      "type": "prayer",
+      "description": "In closing, a prayer is lifted to thank God for the message shared. It asks for strength and guidance as attendees head out, emphasizing the importance of carrying the grace learned into their daily lives.",
+      "keywords": ["closing prayer", "thanksgiving", "guidance", "grace", "worship"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

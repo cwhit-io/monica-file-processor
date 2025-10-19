@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 30,
+      "type": "music",
+      "description": "The service opens with a choir performance that sets a worshipful tone for the gathering. The congregation is invited to focus their hearts and minds on God.",
+      "keywords": ["worship", "choir", "music", "praise"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 207,
+      "type": "music",
+      "description": "A solo performance follows, further enriching the worship experience. The heartfelt lyrics resonate with the message of faith and hope, drawing the congregation deeper into worship.",
+      "keywords": ["solo", "worship", "faith", "hope"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Message: Standing Firm in the Face of Fear (Daniel 3)",
+      "start_time": 705,
+      "type": "sermon",
+      "description": "The sermon focuses on the biblical account of Shadrach, Meshach, and Abednego as they defy King Nebuchadnezzar's orders to worship an idol. The speaker emphasizes themes of faith, courage, and the importance of standing firm in one’s beliefs, even under pressure.",
+      "keywords": ["Daniel", "faith", "courage", "idolatry", "Shadrach", "Meshach", "Abednego"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["Daniel 3"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3466,
+      "type": "prayer",
+      "description": "The service is concluded with an opening prayer which invites God’s presence and guidance. The congregation is encouraged to seek deeper surrender and connection with Christ.",
+      "keywords": ["prayer", "worship", "Surrender", "God"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3532,
+      "type": "prayer",
+      "description": "The closing prayer encapsulates the themes of the sermon, praying for the strength to stand firm in faith. The congregation is sent out with blessings and a call to action to live boldly for Christ.",
+      "keywords": ["closing", "prayer", "blessing", "faith"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    }
+  ]
+}
+```

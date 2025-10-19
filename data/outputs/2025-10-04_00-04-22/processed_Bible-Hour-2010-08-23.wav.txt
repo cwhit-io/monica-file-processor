@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat music segment, inviting the congregation into a spirit of worship and anticipation. The vibrant melodies set a positive tone for the gathering, creating an atmosphere of community and joy. It's a time for attendees to connect with each other before the formalities of the service commence.",
+      "keywords": ["worship", "music", "community", "joy"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Welcome and Introduction",
+      "start_time": 31,
+      "type": "announcement",
+      "description": "Pastor Kelly Bird welcomes attendees to the Bible Hour with enthusiasm. He expresses gratitude for their presence and shares insights about the important work being done in student ministries led by Jesse Hanna. This introduction highlights the commitment of the church to nurture the spiritual growth of its youth.",
+      "keywords": ["welcome", "Bible Hour", "community", "youth", "ministries"],
+      "performers": ["Kelly Bird"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 197,
+      "type": "music",
+      "description": "The choir performs a stirring piece that captivates the audience and draws them deeper into a state of worship. The heartwarming harmonies and lyrics resonate with the message being prepared for the service, emphasizing themes of faith and reverence. It's a time for collective reflection and praise.",
+      "keywords": ["choir", "worship", "faith", "praise"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 371,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, acknowledging God's greatness and the need for His guidance in the service. The pastor emphasizes the contrast between God's perfection and human imperfection, setting a tone of humility and dependence on divine grace. This moment serves to center the congregation on the purpose of their gathering.",
+      "keywords": ["prayer", "humility", "grace", "guidance"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Pharaoh's Heart and Authority (Exodus 3-15)",
+      "start_time": 718,
+      "type": "sermon",
+      "description": "The sermon focuses on the story of Pharaoh, exploring his interactions with Moses and the implications of God's authority. Pastor Jesse Hanna unpacks the complexities of God's sovereignty, Pharaoh's stubbornness, and the significance of God's name, 'I AM'. Through this biblical narrative, he addresses themes of power, deliverance, and the nature of faith in difficult circumstances.",
+      "keywords": ["Pharaoh", "Moses", "authority", "sovereignty", "faith"],
+      "performers": ["Jesse Hanna"],
+      "songs": ["[]"],
+      "scripture_references": ["Exodus 3", "Exodus 4", "Exodus 6", "Exodus 5", "Exodus 12", "Exodus 14"]
+    },
+    {
+      "title": "Congregational Hymn: [Song Title]",
+      "start_time": 2944,
+      "type": "music",
+      "description": "The congregation joins in singing a beloved hymn that reinforces the themes of the sermon. The communal singing fosters a sense of unity and shared faith among attendees, inviting everyone to respond to the message with heartfelt praise. It’s a powerful time of worship where voices lift together in harmony.",
+      "keywords": ["hymn", "congregation", "unity", "worship"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3440,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, expressing gratitude for God's presence and guidance throughout the service. Pastor Jesse encourages the congregation to carry the message of hope and deliverance into their daily lives. This prayer aims to inspire and empower attendees to live out their faith.",
+      "keywords": ["closing", "gratitude", "empowerment", "faith"],
+      "performers": ["Jesse Hanna"],
+      "songs": ["[]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

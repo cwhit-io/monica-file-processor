@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: I Dream of a City Called Glory",
+      "start_time": 58,
+      "type": "music",
+      "description": "The choir performs a heartfelt rendition of 'I Dream of a City Called Glory,' expressing themes of hope and faith. The song paints a vivid picture of heavenly aspirations and the joy of eternal life. Listeners are invited to reflect on their personal journeys and the promise of divine fellowship.",
+      "keywords": ["choir", "glory", "hope", "faith", "eternity"],
+      "performers": ["Choir"],
+      "songs": ["I Dream of a City Called Glory"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 399,
+      "type": "prayer",
+      "description": "The opening prayer is offered, focusing on humility and dedication to worship. The speaker emphasizes the importance of being present before God and looks forward to learning opportunities throughout the service. This prayer sets an atmosphere of reverence and anticipation for spiritual growth.",
+      "keywords": ["prayer", "worship", "humility", "learning", "presence"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Importance of Church Community (Hebrews 10)",
+      "start_time": 476,
+      "type": "sermon",
+      "description": "The sermon explores the concept of community within the church, stressing the need for believers to gather and support one another. Using Hebrews 10, the speaker discusses the significance of fellowship, encouragement, and maintaining faith amidst societal changes. The message encourages active participation in church life and the importance of loving relationships.",
+      "keywords": ["church", "community", "fellowship", "encouragement", "Hebrews"],
+      "performers": ["Steve"],
+      "songs": [],
+      "scripture_references": ["Hebrews 10:19-25"]
+    },
+    {
+      "title": "Congregational Hymn: I Will Bless the Lord Forever",
+      "start_time": 1307,
+      "type": "music",
+      "description": "The congregation joins together to sing 'I Will Bless the Lord Forever,' a song that emphasizes trust in God and His deliverance. The communal singing fosters a sense of unity and reinforces the themes of faith and reliance on God's strength during challenges. This hymn uplifts hearts and invites a spirit of worship.",
+      "keywords": ["congregation", "hymn", "worship", "trust", "deliverance"],
+      "performers": ["Congregation"],
+      "songs": ["I Will Bless the Lord Forever"],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: Testimony: The Impact of Small Groups",
+      "start_time": 2185,
+      "type": "drama",
+      "description": "A testimony from a member about the transformative power of small groups in the church community. The speaker shares personal experiences of support and growth through intimate relationships formed in small groups. Emphasizing accountability, love, and practical wisdom, this testimony highlights how small groups foster deeper connections and spiritual maturity.",
+      "keywords": ["testimony", "small groups", "support", "accountability", "growth"],
+      "performers": ["Kathy"],
+      "songs": [],
+      "scripture_references": ["Acts 2:42-47"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2829,
+      "type": "prayer",
+      "description": "The closing prayer brings together themes of the service, asking for strength to carry forward the lessons learned about community and servitude. The prayer reinforces the commitment to support one another and embrace God's call to action, leaving the congregation with blessings and encouragement.",
+      "keywords": ["closing", "prayer", "community", "servitude", "blessing"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Compassion Sunday",
+      "start_time": 2889,
+      "type": "announcement",
+      "description": "An introduction to Compassion Sunday, encouraging the congregation to consider sponsoring children in need through Compassion International. The speaker shares personal experiences with child sponsorship and highlights its importance for providing support and resources to vulnerable children worldwide.",
+      "keywords": ["Compassion", "sponsorship", "children", "support", "announcement"],
+      "performers": ["Tanya"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Our Children Are the World",
+      "start_time": 3061,
+      "type": "music",
+      "description": "A solo performance captures the essence of the needs of children globally, inviting the audience to reflect on the impact of their actions. Through heartfelt lyrics, the song conveys a message of compassion and responsibility towards those less fortunate. This performance serves as a catalyst for discussion and action within the community.",
+      "keywords": ["children", "compassion", "world", "song", "responsibility"],
+      "performers": ["Carrie"],
+      "songs": ["Our Children Are the World"],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unknown Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with soft music played by the choir, setting a serene atmosphere for worship. The listeners are invited to reflect and prepare their hearts for the service ahead.",
+      "keywords": ["music", "worship", "choir"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Unknown Title]",
+      "start_time": 60,
+      "type": "music",
+      "description": "A congregational hymn follows, encouraging all present to join in song. The lyrics focus on the themes of unity and devotion to Christ, enhancing the communal spirit of worship.",
+      "keywords": ["hymn", "congregation", "unity"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 279,
+      "type": "prayer",
+      "description": "The opening prayer is offered, invoking God's presence among the congregation. The prayer emphasizes reliance on God and seeks spiritual strength and guidance for both the church and its members.",
+      "keywords": ["prayer", "opening", "guidance"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Strength out of Weakness (2 Corinthians 1:3-11)",
+      "start_time": 389,
+      "type": "sermon",
+      "description": "The sermon begins with a focus on the theme of 'squeezing strength out of weakness,' based on 2 Corinthians 1:3-11. The speaker encourages the congregation to recognize how God uses trials to foster comfort and strength, drawing parallels with personal experiences and scripture.",
+      "keywords": ["sermon", "strength", "weakness", "comfort", "2 Corinthians"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["2 Corinthians 1:3-11"]
+    },
+    {
+      "title": "Solo: [Unknown Title]",
+      "start_time": 1563,
+      "type": "music",
+      "description": "A solo performance enriched the service, offering a moment of reflection and worship. The music draws inspiration from biblical themes, aiding the congregation in deepening their connection to God.",
+      "keywords": ["solo", "music", "worship"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1836,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer. This prayer expresses gratitude for the message shared and asks for God’s continued guidance and empowerment for all attendees as they step into their week.",
+      "keywords": ["prayer", "closing", "gratitude"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

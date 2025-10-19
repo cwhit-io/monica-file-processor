@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Youth Celebration",
+      "start_time": 30,
+      "type": "music",
+      "description": "The service opens with a passionate introduction highlighting an upcoming youth choir celebration. Dr. Mitchell Crews expresses excitement for the talents and energy of the young performers, setting the stage for a joyful event centered on the arts.",
+      "keywords": ["youth", "choir", "celebration", "arts", "creativity"],
+      "performers": ["Marshall White"],
+      "songs": ["Youth Celebration"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Devising Ways to Reconcile (2 Samuel 14:14)",
+      "start_time": 388,
+      "type": "sermon",
+      "description": "Dr. Mitchell Crews delivers a compelling message focused on God's heart of reconciliation. Using the story of King David and his family, he explores themes of justice, mercy, and the concept of devising ways to bring back those who are estranged from God. Crews emphasizes the importance of our actions in reflecting God's grace towards others.",
+      "keywords": ["reconciliation", "grace", "mercy", "justice", "banishment"],
+      "performers": ["Dr. Mitchell Crews"],
+      "songs": [],
+      "scripture_references": ["2 Samuel 14:14"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 925,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, asking for God's guidance during the service. The congregation is invited to open their hearts and surrender to the teachings that will unfold, setting a reverent tone for the experience.",
+      "keywords": ["prayer", "guidance", "worship"],
+      "performers": ["Dr. Mitchell Crews"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: Banishment and Return",
+      "start_time": 1330,
+      "type": "drama",
+      "description": "A powerful drama illustrates the themes of banishment and the longing for return. The actors convey emotional stories of estrangement and reconciliation, reflecting on the struggles of being disconnected from loved ones and God.",
+      "keywords": ["drama", "estrangement", "reconciliation", "emotions", "family"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Amazing Grace",
+      "start_time": 2365,
+      "type": "music",
+      "description": "The congregation joins in singing the beloved hymn 'Amazing Grace.' The heartfelt lyrics resonate deeply as they reflect on themes of redemption, hope, and God's unmerited favor, encapsulating the sermon’s message.",
+      "keywords": ["hymn", "worship", "grace", "redemption", "congregation"],
+      "performers": ["Corbin"],
+      "songs": ["Amazing Grace"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2601,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, inviting God to bless the congregation as they embody the message of the day. The pastor encourages everyone to carry the themes of reconciliation and grace into their lives beyond the church.",
+      "keywords": ["closing prayer", "blessing", "reconciliation"],
+      "performers": ["Dr. Mitchell Crews"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

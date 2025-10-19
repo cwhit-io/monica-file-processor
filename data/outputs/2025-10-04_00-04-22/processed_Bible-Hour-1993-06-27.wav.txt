@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unknown]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a powerful performance by the sanctuary choir, filled with praise and worship, setting a tone of reverence and community. The choir's harmonies echo the themes of hope and anticipation.",
+      "keywords": ["choir", "praise", "worship", "community"],
+      "performers": ["sanctuary choir"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Special Music: [Unknown]",
+      "start_time": 280,
+      "type": "music",
+      "description": "Following the choir, a special musical presentation captivates the congregation. This performance highlights the gifts of the musicians, enhancing the worship experience and inviting reflection on God's grace.",
+      "keywords": ["music", "grace", "performance", "worship"],
+      "performers": ["Kevin Rowe", "Denise Mitchell", "Celebration"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Second Coming of Christ (Revelation 19)",
+      "start_time": 954,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a compelling sermon on the Second Coming of Christ, exploring its significance in Christian theology. Drawing from Revelation 19, he emphasizes the importance of understanding history through a biblical lens, framing Christ as the pivotal figure. The message culminates in a call to reflect on personal faith and the eternal implications of our decisions regarding Christ.",
+      "keywords": ["sermon", "second coming", "revelation", "faith", "history"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 19"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3431,
+      "type": "prayer",
+      "description": "In a moment of humility and reflection, an invitation prayer is offered to invite attendees to commit their lives to Christ. This prayer serves as an opportunity for personal connection and spiritual awakening, emphasizing the importance of seeking forgiveness and grace.",
+      "keywords": ["prayer", "invitation", "forgiveness", "commitment"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Unknown]",
+      "start_time": 3465,
+      "type": "music",
+      "description": "The service transitions into a congregational hymn, uniting the congregation in song. This moment fosters a sense of community and shared faith, allowing everyone to express their worship together with heartfelt devotion.",
+      "keywords": ["hymn", "congregation", "worship", "community"],
+      "performers": [],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3498,
+      "type": "prayer",
+      "description": "A closing prayer wraps up the service, reinforcing the themes of the message. This prayer invites God’s guidance and blessing, sending the congregation forth with a renewed sense of purpose and connection to Christ.",
+      "keywords": ["prayer", "closing", "blessing", "guidance"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

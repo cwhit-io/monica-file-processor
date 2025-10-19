@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with joyful and uplifting upbeat music to set the tone for worship. This music creates an inviting atmosphere as congregants gather and settle into their seats. It encourages everyone to engage in a spirit of celebration and anticipation for the service ahead.",
+      "keywords": ["worship", "music", "upbeat", "joy", "celebration"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 143,
+      "type": "prayer",
+      "description": "As Josh prepares to speak, a heartfelt opening prayer is offered, asking for God's guidance and clarity. The prayer emphasizes the importance of removing distractions and being open to the Word of God. It establishes a reverent tone for the message to follow.",
+      "keywords": ["prayer", "opening", "guidance", "worship", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Assurance of Salvation (1 John 5)",
+      "start_time": 323,
+      "type": "sermon",
+      "description": "In this sermon, the speaker dives into 1 John 5, discussing the purpose of John’s letter and the assurance of salvation. The message explores themes of love, obedience, and the significance of being born of God. The speaker articulates four key certainties that shape a believer's identity and behavior as part of God's family.",
+      "keywords": ["sermon", "1 John", "salvation", "love", "obedience"],
+      "performers": ["Josh"],
+      "songs": [],
+      "scripture_references": ["1 John 5:1-5"]
+    },
+    {
+      "title": "Choir: Worshipful Song",
+      "start_time": 2635,
+      "type": "music",
+      "description": "Following the sermon, the choir presents a worshipful piece that draws the congregation into an atmosphere of praise. The lyrics reflect the themes raised in the sermon, fostering a sense of gratitude and connection with God. This musical interlude enhances the worship experience and encourages communal reflection.",
+      "keywords": ["choir", "worship", "music", "praise", "community"],
+      "performers": ["Choir"],
+      "songs": ["Worshipful Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Closing Praise",
+      "start_time": 3224,
+      "type": "music",
+      "description": "The service culminates with a closing hymn sung by the congregation. This heartfelt expression of faith ties back to the messages shared during the service. It serves as a declaration of collective belief and encourages everyone to carry the spirit of worship into their week ahead, reinforcing their ties to the church community.",
+      "keywords": ["hymn", "closing", "worship", "congregational", "faith"],
+      "performers": [],
+      "songs": ["Closing Praise"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3468,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, inviting God's blessings upon the congregation as they depart. This prayer serves to remind everyone of the key messages from the service and encourages them to live out their faith throughout the week. A moment of quiet reflection is followed by a commitment to ongoing worship.",
+      "keywords": ["closing", "prayer", "blessing", "worship", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

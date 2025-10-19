@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "announcement: Introduction to Missions",
+      "start_time": 0,
+      "type": "announcement",
+      "description": "The speaker introduces the topic of missions, emphasizing the importance of being on mission in both local and global contexts. They share insights about the church's mission DNA and encouraging the congregation to remain engaged in various ministry activities.",
+      "keywords": ["mission", "community", "Black Hawk", "service", "support"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 217,
+      "type": "prayer",
+      "description": "A prayer is offered to dedicate the service to the Lord, seeking His guidance and blessings on the time spent together. The prayer highlights the excitement of new beginnings at the start of school.",
+      "keywords": ["prayer", "dedication", "new beginnings", "guidance", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: The Mitchells' Mission Work in Uganda",
+      "start_time": 327,
+      "type": "testimony",
+      "description": "Nate Mitchell shares his experiences as a missionary kid (MK) in Uganda, highlighting the joy of meeting people from diverse cultures. His father Caleb and mother Alair continue to share impactful stories about their ministry and the training of pastors in Uganda.",
+      "keywords": ["Uganda", "Mitchells", "mission", "testimony", "training"],
+      "performers": ["Nate Mitchell", "Caleb Mitchell", "Alair Mitchell"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 2 Peter 1",
+      "start_time": 1040,
+      "type": "scripture",
+      "description": "The congregation gathers to hear a scripture reading from 2 Peter 1, emphasizing the importance of God's Word and its authority in guiding believers. This sets the tone for the following teaching segment.",
+      "keywords": ["scripture", "2 Peter", "Word of God", "faith", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["2 Peter 1"]
+    },
+    {
+      "title": "Message: Being Salt and Light (Matthew 5)",
+      "start_time": 2490,
+      "type": "sermon",
+      "description": "The sermon focuses on Jesus' teaching from Matthew 5 about being salt and light in the world. The speaker explores the implications of this message for discipleship and addresses the necessity of preparing children to be effective witnesses in a secular society.",
+      "keywords": ["salt", "light", "discipleship", "Matthew 5", "children"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 5:13-16"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3120,
+      "type": "prayer",
+      "description": "An invitation prayer is offered to those who want to begin a relationship with Jesus. The speaker encourages individuals to respond to God's call, emphasizing the importance of accepting His grace.",
+      "keywords": ["invitation", "salvation", "Jesus", "grace", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3165,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for the time spent in His Word and asking for His guidance as the congregation goes out into the world. There is a call to action for continued engagement in mission work.",
+      "keywords": ["closing", "prayer", "call to action", "mission", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Gentle Music]",
+      "start_time": 3164,
+      "type": "music",
+      "description": "The service ends with a gentle music performance by the choir, setting a reflective mood as attendees prepare to leave. This musical piece serves as a reminder of the service's themes and the importance of continuing in faith.",
+      "keywords": ["music", "choir", "worship", "reflection"],
+      "performers": ["Choir"],
+      "songs": ["Gentle Music"],
+      "scripture_references": []
+    }
+  ]
+}
+```

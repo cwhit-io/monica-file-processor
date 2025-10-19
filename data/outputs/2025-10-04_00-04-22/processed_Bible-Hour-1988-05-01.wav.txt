@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Participation Sunday Medley",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a vibrant atmosphere as the choir leads a medley of hymns. The congregation participates enthusiastically, singing songs that depict the second coming of Christ. The music creates a sense of anticipation and joy as members come together to worship.",
+      "keywords": ["hymn", "participation", "worship", "choir", "Christ"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Hymn number 471", "Hymn number 673", "Hymn number 396"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: His Reign (Revelation 20:1-6)",
+      "start_time": 317,
+      "type": "sermon",
+      "description": "Pastor Rick delivers a powerful message on the reign of Christ based on Revelation 20:1-6. He discusses the significance of Christ's kingdom and what it means for believers. The teaching emphasizes hope and the promise of eternal life in the presence of God, encouraging the congregation to look forward to His return.",
+      "keywords": ["sermon", "kingdom", "Revelation", "Christ", "hope"],
+      "performers": ["Rick"],
+      "songs": [],
+      "scripture_references": ["Revelation 20:1-6"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1418,
+      "type": "prayer",
+      "description": "Pastor Rick leads the congregation in an opening prayer, inviting the presence of God into the service. This prayer sets a reverent tone, encouraging worship and reflection among the attendees as they seek to connect with the divine throughout the hour.",
+      "keywords": ["prayer", "worship", "service", "invitation", "connection"],
+      "performers": ["Rick"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Special Music",
+      "start_time": 1478,
+      "type": "music",
+      "description": "A solo performance captivates the congregation, adding a personal touch to the musical offerings of the service. The piece selected resonates with themes of praise and worship, inviting the audience to engage spiritually.",
+      "keywords": ["solo", "worship", "music"],
+      "performers": ["Marilyn Wong"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Special Music",
+      "start_time": 1598,
+      "type": "music",
+      "description": "The choir returns for another spirited musical performance, enhancing the worship experience for everyone present. This choir segment is filled with uplifting melodies that echo the themes discussed during the sermon.",
+      "keywords": ["choir", "worship", "music"],
+      "performers": ["Sanctuary Choir"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1718,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer led by Pastor Rick. This prayer expresses gratitude for the time spent in worship and reflection, as well as a commitment to live out the teachings discussed during the service.",
+      "keywords": ["closing", "prayer", "gratitude"],
+      "performers": ["Rick"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Praise Him",
+      "start_time": 1778,
+      "type": "music",
+      "description": "The congregation joins in singing a congregational hymn that celebrates God's glory and faithfulness. This time of collective worship fosters a sense of community and shared faith among attendees.",
+      "keywords": ["hymn", "congregational", "worship"],
+      "performers": [],
+      "songs": ["Praise Him"],
+      "scripture_references": []
+    }
+  ]
+}
+```

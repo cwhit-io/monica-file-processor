@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Go Tell It On The Mountain",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a festive performance by the choir singing 'Go Tell It On The Mountain.' The uplifting lyrics celebrate the birth of Jesus, encouraging everyone to spread the message of His arrival. The joyous atmosphere is heightened by the enthusiastic participation of the choir.",
+      "keywords": ["choir", "celebration", "Christmas", "joy", "music"],
+      "performers": ["Living Christmas Tree Choir"],
+      "songs": ["Go Tell It On The Mountain"],
+      "scripture_references": []
+    },
+    {
+      "title": "Ensemble: Special Music",
+      "start_time": 419,
+      "type": "music",
+      "description": "Following the choir, the service features a special musical duet performed by sisters Marsha Richard and Marilyn Wong. Their harmonious voices blend beautifully, providing a moment of reflection and worship. The performance enriches the Christmas spirit and invites the congregation into a deeper connection with the music.",
+      "keywords": ["duet", "sisters", "harmony", "Christmas", "music"],
+      "performers": ["Marsha Richard", "Marilyn Wong"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Accepting the Invitation (Isaiah 55)",
+      "start_time": 641,
+      "type": "sermon",
+      "description": "In this powerful sermon, Pastor Russell Moore focuses on Isaiah 55, examining God's invitation to accept Christ. He discusses prevalent themes of spiritual thirst and fulfillment found in Christ. The message encourages listeners to consider what truly satisfies their souls and invites them to embrace the gift of Jesus.",
+      "keywords": ["Isaiah", "invitation", "spiritual thirst", "Christ", "salvation"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Isaiah 55"]
+    },
+    {
+      "title": "Solo: Reflection Song",
+      "start_time": 1128,
+      "type": "music",
+      "description": "A reflective solo performance provides a moment for the congregation to meditate on the message shared during the sermon. The song captures the essence of Christmas, focusing on the love and sacrifice of Jesus. It serves as a reminder of the hope and joy that the season brings.",
+      "keywords": ["solo", "reflection", "Christmas", "hope", "love"],
+      "performers": ["Marsha Richard", "Marilyn Wong"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 1154,
+      "type": "prayer",
+      "description": "A heartfelt invitation prayer is offered, inviting individuals to accept Jesus into their hearts. This prayer emphasizes God’s love and the desire for all to know Him. It provides a personal moment for congregants to reflect on their own faith and relationship with Christ.",
+      "keywords": ["prayer", "invitation", "faith", "Christ", "love"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: The Message of Christmas",
+      "start_time": 1176,
+      "type": "drama",
+      "description": "A dramatic presentation emphasizes the core message of Christmas, bringing life to the story of Jesus' birth and its significance. The performers engage the audience as they narrate the events leading to Christ's arrival, highlighting themes of hope, joy, and redemption.",
+      "keywords": ["drama", "Christmas", "story", "hope", "redeemption"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3530,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that reinforces the messages shared throughout the service. The pastor prays for those who have made decisions regarding their faith and asks for blessings on the congregation. It’s a solemn and uplifting way to end the gathering.",
+      "keywords": ["closing", "prayer", "blessing", "faith", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

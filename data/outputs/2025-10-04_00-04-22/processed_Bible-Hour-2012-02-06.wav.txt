@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Piano Prelude",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat piano piece that sets a joyful tone for the gathering. This gentle yet uplifting music invites the congregation to prepare their hearts for worship. It's a moment to reflect on the week's challenges and joys.",
+      "keywords": ["music", "worship", "joy", "piano", "prelude"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 36,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, emphasizing the desire to recognize God's omnipresence and worthiness of praise. The leader seeks inspiration for both individual and corporate worship, fostering a spirit of gratitude and reflection among attendees.",
+      "keywords": ["prayer", "worship", "God", "inspiration", "gratitude"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Colossians 1",
+      "start_time": 202,
+      "type": "scripture",
+      "description": "The scripture reading from Colossians 1:15-20 is presented, highlighting the supremacy of Christ and His role in creation. This passage reinforces the theme of worship and sets the stage for the message that follows.",
+      "keywords": ["scripture", "Colossians", "Christ", "supremacy", "creation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Colossians 1:15-20"]
+    },
+    {
+      "title": "Congregational Hymn: If Our God is For Us",
+      "start_time": 268,
+      "type": "music",
+      "description": "The congregation joins in singing 'If Our God is For Us,' a powerful anthem reminding believers of God's unwavering support. The song's lyrics resonate with hope and encouragement, uplifting the community in shared faith and worship.",
+      "keywords": ["music", "hymn", "congregational", "worship", "faith"],
+      "performers": [],
+      "songs": ["If Our God is For Us"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Gospel's Advancement (Philippians 1)",
+      "start_time": 994,
+      "type": "sermon",
+      "description": "The sermon focuses on the advancement of the gospel as articulated by Paul in his letter to the Philippians. The speaker emphasizes the importance of perseverance in faith and how God uses trials for growth and testimony. Key themes include God's faithfulness, personal growth through hardship, and the communal responsibility in spreading the good news.",
+      "keywords": ["sermon", "gospel", "advancement", "Philippians", "growth"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": ["Philippians 1:1-14"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3465,
+      "type": "prayer",
+      "description": "The closing prayer reflects on the message shared and seeks God's guidance for the week ahead. The community is invited to commit their lives and service to God, expressing gratitude for His kindness and mercy.",
+      "keywords": ["prayer", "closing", "gratitude", "worship", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

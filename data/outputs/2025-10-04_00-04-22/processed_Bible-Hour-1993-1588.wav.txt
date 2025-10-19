@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: The Lord is My Shepherd",
+      "start_time": 68,
+      "type": "music",
+      "description": "The choir performs a stirring rendition of 'The Lord is My Shepherd,' reinforcing themes of comfort and divine guidance. The lyrical content reminds the congregation of God's presence in moments of fear and darkness, providing solace and reassurance through spiritual melodies.",
+      "keywords": ["choir", "comfort", "guidance", "scripture", "psalm"],
+      "performers": ["Choir"],
+      "songs": ["The Lord is My Shepherd"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Psalm 139",
+      "start_time": 395,
+      "type": "scripture",
+      "description": "Pastor Moore reads Psalm 139, emphasizing the sanctity of life through the divine knowledge of God. He reflects on how the Psalm reveals God's intimate involvement in the creation of life, underscoring the message of the day concerning abortion.",
+      "keywords": ["Psalm", "139", "sanctity", "life", "God"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Psalm 139:13-16"]
+    },
+    {
+      "title": "Message: Abortion in America (Psalm 139)",
+      "start_time": 451,
+      "type": "sermon",
+      "description": "In a profound sermon, Pastor Moore tackles the complex issue of abortion in America, grounding his message in scripture. He explores historical and cultural factors contributing to the abortion debate, articulating a Christian response grounded in Biblical principles and compassion for those affected.",
+      "keywords": ["abortion", "America", "Christianity", "compassion", "scripture"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": ["Psalm 139"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3387,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer led by Pastor Moore, inviting spiritual reflection and healing. The prayer seeks comfort for those dealing with the aftermath of abortion decisions, emphasizing God’s grace and the hope found in Him.",
+      "keywords": ["prayer", "healing", "grace", "comfort", "forgiveness"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

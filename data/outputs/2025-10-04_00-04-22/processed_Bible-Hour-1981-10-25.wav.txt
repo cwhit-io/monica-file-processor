@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Come Now Found of Every Blessing",
+      "start_time": 96,
+      "type": "music",
+      "description": "The choir leads the congregation in a hymn of praise, beautifully singing 'Come Now Found of Every Blessing'. This opening hymn sets the tone for worship and invites participants to reflect on God's blessings. The performance is an uplifting start to the service.",
+      "keywords": ["choir", "worship", "hymn", "praise", "blessing"],
+      "performers": ["Don Kruger"],
+      "songs": ["Come Now Found of Every Blessing"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: He Could Have Called 10,000 Angels",
+      "start_time": 534,
+      "type": "music",
+      "description": "Keith Brodygan performs a heartfelt solo of 'He Could Have Called 10,000 Angels'. His powerful rendition emphasizes the sacrifice of Jesus, bringing the congregation into a deeper understanding of Christ's love and sacrifice. The emotional delivery resonates within the hearts of those present.",
+      "keywords": ["solo", "sacrifice", "Jesus", "angels", "worship"],
+      "performers": ["Keith Brodygan"],
+      "songs": ["He Could Have Called 10,000 Angels"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Trust and Obey",
+      "start_time": 1441,
+      "type": "music",
+      "description": "The congregation joins in singing the beloved hymn 'Trust and Obey'. This familiar hymn focuses on the importance of faith and obedience in one's Christian journey. The collective voices of the church create a beautiful atmosphere of unity in worship.",
+      "keywords": ["congregational", "hymn", "faith", "obedience", "worship"],
+      "performers": [],
+      "songs": ["Trust and Obey"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1630,
+      "type": "prayer",
+      "description": "A prayer is offered to open the service, invoking God's presence and guidance over the proceedings. The prayer emphasizes trust in God's will and seeks enlightenment for the congregation throughout the service. It helps set a reverent tone for worship.",
+      "keywords": ["prayer", "opening", "guidance", "worship", "God"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Christ as Head of the Church (Colossians 1)",
+      "start_time": 1770,
+      "type": "sermon",
+      "description": "Evangelist Ron Susack delivers a profound message from Colossians 1, emphasizing the supremacy of Christ as the head of the church and over our lives. He discuses the necessity of surrendering to Christ's authority in all aspects, drawing on personal experiences and biblical truths. The sermon is a call to obedience and reflects on the importance of living under Christ's lordship.",
+      "keywords": ["sermon", "Christ", "church", "authority", "Colossians"],
+      "performers": ["Ron Susack"],
+      "songs": [],
+      "scripture_references": ["Colossians 1"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3427,
+      "type": "prayer",
+      "description": "Following the sermon, a closing prayer is offered to commit the message to God and seek His continued guidance. The prayer focuses on the need for the congregation to trust and obey God's word in their daily lives. It serves as a fitting conclusion to the worship service.",
+      "keywords": ["closing", "prayer", "commitment", "guidance", "trust"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: You've Got to Tell it Everywhere",
+      "start_time": 1191,
+      "type": "music",
+      "description": "The choir performs an enthusiastic song encouraging believers to share their faith with others. The message highlights the urgency and joy of evangelism, inspiring the congregation to actively proclaim the Gospel in their lives. It's a vibrant and uplifting moment during the service.",
+      "keywords": ["choir", "evangelism", "Gospel", "witness", "worship"],
+      "performers": [],
+      "songs": ["You've Got to Tell it Everywhere"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 1391,
+      "type": "announcement",
+      "description": "Details about future events are shared, including the upcoming visit from Dr. Wendell Kempton, who will speak about world evangelism. The announcements aim to foster engagement within the community and encourage participation in the ministry of the church.",
+      "keywords": ["announcement", "events", "community", "engagement", "ministry"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

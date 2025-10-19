@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Celebration",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with upbeat music, setting a joyful tone for the gathering. It engages the congregation, inviting them to participate in the spirit of celebration. This opening piece emphasizes the excitement and significance of the Resurrection Sunday.",
+      "keywords": ["music", "celebration", "Easter", "joy", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Welcome to Bible Hour",
+      "start_time": 31,
+      "type": "announcement",
+      "description": "The speaker welcomes everyone to the Bible Hour, expressing gratitude for the viewers and attendees. He reflects on the joy of celebrating the Resurrection and the personal connection with the audience. This introduction highlights the significance of the Easter message and encourages participation.",
+      "keywords": ["welcome", "Bible Hour", "Easter", "community", "celebration"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unidentified Song]",
+      "start_time": 150,
+      "type": "music",
+      "description": "The choir performs a stirring piece to enhance the atmosphere of worship. The music draws participants into a reflective state, focusing on the themes of resurrection and hope. This performance encapsulates the essence of celebration within the service.",
+      "keywords": ["choir", "worship", "Easter", "music", "celebration"],
+      "performers": ["Choir"],
+      "songs": ["Unidentified Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Bread of Life (John 6:35-37)",
+      "start_time": 406,
+      "type": "sermon",
+      "description": "The sermon dives into the profound meaning of the empty tomb and the bread of life, drawing from scripture to emphasize spiritual hunger and satisfaction through Christ. The speaker shares personal stories and scripture passages that illustrate the importance of trusting Jesus for fulfillment. They invite reflection on individual spiritual journeys and the transformative power of the resurrection.",
+      "keywords": ["sermon", "bread of life", "Easter", "spiritual hunger", "fulfillment"],
+      "performers": ["Unknown Pastor"],
+      "songs": [],
+      "scripture_references": ["John 6:35-37"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2702,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, encouraging attendees to respond personally to the message shared. The prayer seeks to open hearts to the truth and love of Jesus, emphasizing a renewal of commitment and seeking spiritual nourishment. It serves as a moment of reflection and invitation for deeper connection with God.",
+      "keywords": ["invitation", "prayer", "Easter", "commitment", "spiritual growth"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Gentle Worship: [Unidentified Song]",
+      "start_time": 2830,
+      "type": "music",
+      "description": "As a gentle piece of music begins, the congregation is invited into a moment of worship and reflection. This soothing melody facilitates a deep connection with God, allowing time for personal prayer and contemplation following the sermon’s powerful message. It encapsulates the spirit of worship that permeates the entire service.",
+      "keywords": ["gentle", "worship", "music", "reflection", "Easter"],
+      "performers": [],
+      "songs": ["Unidentified Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Gentle Piano: [Unidentified Song]",
+      "start_time": 3066,
+      "type": "music",
+      "description": "The service concludes with beautiful gentle piano music. This final piece creates a serene atmosphere, allowing attendees to reflect on the message shared throughout the service. It encourages a spirit of gratitude and worship, providing a fitting end to the celebration of Resurrection Sunday.",
+      "keywords": ["piano", "gentle", "worship", "reflection", "celebration"],
+      "performers": [],
+      "songs": ["Unidentified Song"],
+      "scripture_references": []
+    }
+  ]
+}
+```

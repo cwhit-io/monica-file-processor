@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Message: Counterculture (Various Scriptures)",
+      "start_time": 0,
+      "type": "sermon",
+      "description": "Pastor Kevin speaks about counterculture and the significant changes brought about by figures like Dr. Martin Luther King Jr. and Jesus. Highlighting the concept of grace in Christianity, he contrasts performance-based belief systems with a grace-based faith. The sermon emphasizes understanding one’s worth as being rooted in divine grace and extends a call for personal transformation in light of this truth.",
+      "keywords": ["counterculture", "grace", "Jesus", "MLK", "faith"],
+      "performers": ["Pastor Kevin"],
+      "songs": [],
+      "scripture_references": ["Various"]
+    },
+    {
+      "title": "Choir: Amazing Grace",
+      "start_time": 1863,
+      "type": "music",
+      "description": "The choir performs the well-loved hymn 'Amazing Grace,' filling the room with harmonies that reflect the themes of redemption and divine grace. This song serves as a profound reminder of the grace that covers all sins, allowing the congregation to reflect on their personal journeys and transformations.",
+      "keywords": ["amazing grace", "hymn", "choir"],
+      "performers": ["Church Choir"],
+      "songs": ["Amazing Grace"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1900,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer where attendees are invited to focus their hearts and minds on the themes of the day. The prayer emphasizes the need for divine guidance and the spirit of love among the congregation as they gather in fellowship.",
+      "keywords": ["prayer", "opening", "congregation", "guidance"],
+      "performers": ["Pastor Kevin"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Luke 15",
+      "start_time": 1950,
+      "type": "scripture",
+      "description": "A selected passage from Luke 15 is read, focusing on the parable of the prodigal son. This reading sets the stage for understanding God's grace and forgiveness, highlighting the deep love a father has for his son, regardless of mistakes.",
+      "keywords": ["Luke", "parable", "forgiveness", "son"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Luke 15"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2010,
+      "type": "prayer",
+      "description": "An invitation prayer encourages attendees to reflect on their relationship with God. This moment serves as both a call to action and an opportunity for personal confession, welcoming anyone who wishes to embrace the grace offered through faith.",
+      "keywords": ["invitation", "prayer", "reflection", "grace"],
+      "performers": ["Pastor Kevin"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: How Great Thou Art",
+      "start_time": 2055,
+      "type": "music",
+      "description": "The congregation joins in singing 'How Great Thou Art,' a powerful hymn that praises the majesty and grace of God. The shared experience strengthens community bonds and deepens individual worship, resonating with the message of grace and redemption shared in previous segments.",
+      "keywords": ["hymn", "worship", "congregational", "scale"],
+      "performers": ["Congregation"],
+      "songs": ["How Great Thou Art"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2100,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that encapsulates the day's themes, asking for God's continued presence and the spreading of His love through actions inspired by grace. The prayer encapsulates the heartfelt sentiments of everyone in attendance.",
+      "keywords": ["closing", "prayer", "grace", "sentiments"],
+      "performers": ["Pastor Kevin"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

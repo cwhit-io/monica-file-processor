@@ -1,0 +1,96 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [unknown]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with the ringing of a bell followed by the choir's uplifting performance. The audience is met with a sense of warmth as they settle in, making way for the subsequent musical offerings. This moment sets a joyful tone for the worship service.",
+      "keywords": ["choir", "worship", "music", "spiritual", "celebration"],
+      "performers": ["Pastor Don Kruger"],
+      "songs": ["[unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [unknown]",
+      "start_time": 200,
+      "type": "music",
+      "description": "The choir continues with another piece, engaging the audience's hearts and minds. This segment maintains the energy of the service as the congregation participates in the worship experience. The contributions of the choir enhance the overall atmosphere.",
+      "keywords": ["choir", "worship", "music", "spiritual", "celebration"],
+      "performers": ["Chamber Singers"],
+      "songs": ["[unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [unknown]",
+      "start_time": 408,
+      "type": "music",
+      "description": "The chamber singers perform a heartfelt song that reflects themes of love and redemption. The audience is captivated by the lyrics and harmonies crafted by the talented group. This moment invites deeper contemplation among those present.",
+      "keywords": ["chamber singers", "music", "worship", "love", "redemption"],
+      "performers": ["Chamber Singers"],
+      "songs": ["[unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 750,
+      "type": "prayer",
+      "description": "Pastor David Geromond leads the congregation in an opening prayer, thanking God for the opportunity to gather and worship. He expresses gratitude for the message that will follow and asks for God's presence to be felt throughout the service.",
+      "keywords": ["prayer", "worship", "thanksgiving", "fellowship", "grace"],
+      "performers": ["Pastor David Geromond"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [1 Kings 18]",
+      "start_time": 1530,
+      "type": "scripture",
+      "description": "The scripture reading is taken from 1 Kings chapter 18, verses 41 to 46. This passage sets the stage for the message that follows about the power of prayer and God's faithfulness. The reading emphasizes the importance of seeking God in times of need.",
+      "keywords": ["scripture", "1 Kings", "Elijah", "prayer", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Kings 18:41-46"]
+    },
+    {
+      "title": "Message: [What Happens When Men Pray?] (1 Kings 18)",
+      "start_time": 1577,
+      "type": "sermon",
+      "description": "In this impactful sermon, Pastor Geromond delves into the story of Elijah and the power of prayer. He discusses the importance of having the right perspective on prayer and how persistent prayer can lead to divine intervention. Drawing lessons from Elijah's experience, he challenges the congregation to deepen their prayer lives.",
+      "keywords": ["prayer", "Elijah", "sermon", "faith", "power"],
+      "performers": ["Pastor David Geromond"],
+      "songs": [],
+      "scripture_references": ["1 Kings 18"]
+    },
+    {
+      "title": "Congregational Hymn: [We Shall All Be Changed]",
+      "start_time": 3302,
+      "type": "music",
+      "description": "The congregational hymn, 'We Shall All Be Changed,' is sung with vigor. The lyrics remind the congregation of the transformative power of Christ and the hope of resurrection. This hymn reinforces the themes discussed in the sermon, allowing for reflection and worship.",
+      "keywords": ["hymn", "worship", "congregation", "transformation", "hope"],
+      "performers": [],
+      "songs": ["We Shall All Be Changed"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3397,
+      "type": "prayer",
+      "description": "Pastor Geromond concludes the service with a heartfelt closing prayer. He thanks God for the time spent together, the message shared, and seeks continued guidance and strength for the congregation. The prayer encapsulates the themes of the service and invites God's presence into the week ahead.",
+      "keywords": ["closing", "prayer", "thanksgiving", "worship", "blessing"],
+      "performers": ["Pastor David Geromond"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: [Community Updates]",
+      "start_time": 3452,
+      "type": "announcement",
+      "description": "Pastor Geromond shares important community updates and encourages the congregation to stay connected. He highlights upcoming events and invites all to participate actively in church life. The announcements foster a sense of belonging within the community.",
+      "keywords": ["announcements", "community", "updates", "engagement", "fellowship"],
+      "performers": ["Pastor David Geromond"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

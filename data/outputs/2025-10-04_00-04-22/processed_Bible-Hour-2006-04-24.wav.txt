@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unknown Song]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with eerie music, setting a contemplative atmosphere. It transitions into a choir performance that emphasizes gratitude and connection with God. The uplifting melodies encourage the congregation to reflect on their relationship with faith.",
+      "keywords": ["music", "choir", "worship", "God", "gratitude"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown Song]",
+      "start_time": 544,
+      "type": "music",
+      "description": "Following the sermon introduction, a solo performance expresses heartfelt appreciation for God's love and the privilege of being part of His family. The song reinforces themes of acceptance and divine care, encouraging the audience to reflect deeply on personal faith.",
+      "keywords": ["solo", "worship", "love", "God", "faith"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Glad You Asked (Various Questions)",
+      "start_time": 735,
+      "type": "sermon",
+      "description": "In this engaging sermon titled 'Glad You Asked,' the teaching pastors address various audience-submitted questions regarding faith and life. Key topics include the purpose of life, overcoming anxiety, the reliability of Scripture, and God's sovereignty amidst troubles. The session encourages interaction and promotes a deep dive into biblical teachings.',
+      "keywords": ["sermon", "faith", "questions", "God", "Scripture"],
+      "performers": ["Mitch", "Steve"],
+      "songs": [],
+      "scripture_references": ["Genesis 1:1", "Micah 6:8", "Philippians 4:6-8", "Ephesians 1:4-6", "2 Timothy 3:16-17"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3323,
+      "type": "prayer",
+      "description": "The service culminates with a heartfelt closing prayer, inviting the congregation to reflect on the message and seek God’s guidance. This concluding moment fosters a collective commitment to trust in God's plan and to support one another in their journeys.",
+      "keywords": ["prayer", "closure", "faith", "community"],
+      "performers": ["[Mitch]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

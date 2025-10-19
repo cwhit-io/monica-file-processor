@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "scripture: Scripture Reading: [Revelation 12:4]",
+      "start_time": 0,
+      "type": "scripture",
+      "description": "The service opens with a reading from Revelation 12, discussing the fall of angels and the ensuing battle. This sets a theological foundation for understanding spiritual warfare, highlighting the significance of demons as adversaries of God and humanity.",
+      "keywords": ["revelation", "angels", "spiritual warfare"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Revelation 12"]
+    },
+    {
+      "title": "Choir: [I've Been Changed]",
+      "start_time": 391,
+      "type": "music",
+      "description": "The choir performs a powerful anthem about transformation through faith titled 'I've Been Changed.' The lyrics express joy and gratitude for the resurrection power of Jesus that brings significant changes in the lives of believers.",
+      "keywords": ["choir", "transformation", "faith"],
+      "performers": ["sanctuary choir"],
+      "songs": ["I've Been Changed"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [God's Love Never Changes]",
+      "start_time": 719,
+      "type": "music",
+      "description": "A solo performance of 'God's Love Never Changes' conveys a message of hope and reassurance in God's constancy amidst life's uncertainties. The heartfelt delivery emphasizes the eternal and unchanging nature of God's love.",
+      "keywords": ["solo", "God's love", "hope"],
+      "performers": ["Laurie Scheiner"],
+      "songs": ["God's Love Never Changes"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Demon Possession and Exorcism (Mark 5:1-13, Mark 9:17-27)",
+      "start_time": 992,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a compelling sermon on demon possession and exorcism, focusing on biblical accounts from the Gospel of Mark. The sermon describes the nature of demons, their activity in the lives of unbelievers, and the importance of faith in overcoming evil forces.",
+      "keywords": ["demons", "exorcism", "faith"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Mark 5:1-13", "Mark 9:17-27"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3417,
+      "type": "prayer",
+      "description": "A closing invitation prayer leads participants into reflection and commitment to accepting Jesus Christ as their personal Savior. This prayer not only invites believers but also encourages those seeking faith to make a choice toward transformation and salvation.",
+      "keywords": ["prayer", "invitation", "salvation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Closing Remarks",
+      "start_time": 3527,
+      "type": "announcement",
+      "description": "The service concludes with closing remarks inviting the congregation to participate in future events and to write for additional resources. The emphasis is on continuing the spiritual journey and connecting with the church community.",
+      "keywords": ["announcements", "community", "resources"],
+      "performers": ["Phil Scholl"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Upbeat Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat worship session led by the choir, inviting the congregation to join in singing. The lively atmosphere sets a joyful tone for the gathering. Worshippers engage, lifting their voices in praise.",
+      "keywords": ["worship", "choir", "music", "celebration", "joy"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["Upbeat Worship"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Children's and Youth Ministries",
+      "start_time": 361,
+      "type": "announcement",
+      "description": "Kelly Bird introduces various children's and youth ministries at Blackhawk Ministries, highlighting their efforts in nurturing young minds with God's teachings. He emphasizes the importance of these programs for families and encourages participation.",
+      "keywords": ["children", "youth", "ministry", "Blackhawk", "opportunities"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Jesus to My Rescue",
+      "start_time": 572,
+      "type": "music",
+      "description": "The choir performs the song 'Jesus to My Rescue,' expressing themes of reliance on Jesus for guidance and support. The heartfelt lyrics resonate deeply as worshippers reflect on their personal relationship with Christ.",
+      "keywords": ["Jesus", "rescue", "worship", "choir", "surrender"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["Jesus to My Rescue"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Moral Man (Romans 2)",
+      "start_time": 891,
+      "type": "sermon",
+      "description": "Kelly Bird delivers a profound sermon on the moral man's self-righteousness as addressed in Romans 2. He contrasts this with the immoral man's need for God's righteousness, urging listeners to introspect and not judge others while ignoring their own faults.",
+      "keywords": ["moral man", "sermon", "Romans", "self-righteousness", "introspection"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Romans 2"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3472,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, where the congregation is invited to reflect on the messages shared. The prayer seeks God's guidance and blessings for the week ahead, calling for unity and strength within the community.",
+      "keywords": ["closing prayer", "reflection", "community", "unity", "blessings"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

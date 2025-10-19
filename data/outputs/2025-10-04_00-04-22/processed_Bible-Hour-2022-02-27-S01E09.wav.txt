@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 45,
+      "type": "prayer",
+      "description": "The pastor leads the congregation in prayer for the challenges faced by their brothers and sisters in Ukraine. This heartfelt moment of prayer reflects the church's solidarity and compassion for those suffering in a time of chaos, emphasizing the importance of being on mission.",
+      "keywords": ["prayer", "Ukraine", "mission", "suffering", "community"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [Luke 15]",
+      "start_time": 234,
+      "type": "scripture",
+      "description": "The congregation is invited to turn to Luke chapter 15 as the pastor prepares to dive into the teachings of Jesus. This chapter includes key parables that illustrate Jesus' mission and the importance of seeking the lost.",
+      "keywords": ["Luke", "teaching", "Jesus", "parables", "mission"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Luke 15"]
+    },
+    {
+      "title": "Message: Counter Culture Mission (Luke 15)",
+      "start_time": 259,
+      "type": "sermon",
+      "description": "The pastor delivers a powerful sermon on the theme of Counter Culture Mission, exploring the parables of the lost sheep, lost coin, and lost son. He emphasizes the importance of understanding and embodying the mission of Jesus to seek and save the lost, challenging the congregation to reflect on their own roles in this mission.",
+      "keywords": ["sermon", "mission", "lost", "Jesus", "parables"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Luke 15:1-32"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 1960,
+      "type": "prayer",
+      "description": "During the invitation, the pastor prays for those who may be seeking a relationship with Jesus. This moment is about calling individuals to reflect on their faith and consider a personal commitment to follow Christ, emphasizing the importance of making faith a personal journey.",
+      "keywords": ["invitation", "prayer", "Jesus", "faith", "commitment"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1973,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer where the pastor reiterates the themes of the message, asking for guidance and strength for the congregation to live out their counterculture mission in their daily lives. It's a moment of reflection and commitment to action.",
+      "keywords": ["closing", "prayer", "commitment", "guidance", "mission"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

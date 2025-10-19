@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Message: From the Pit to the Palace (Genesis 37)",
+      "start_time": 0,
+      "type": "sermon",
+      "description": "This sermon delves into the life of Joseph, focusing on his journey from the pit to the palace. The speaker emphasizes God's sovereignty even when His plans defy logic and understanding. The message highlights Joseph's dreams, his trials, and the importance of remaining steadfast in faith, with personal applications for today's listeners.",
+      "keywords": ["Joseph", "dreams", "faith", "God's plan", "Genesis"],
+      "performers": ["[]"],
+      "songs": [],
+      "scripture_references": ["Genesis 37"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 2146,
+      "type": "prayer",
+      "description": "The opening prayer sets a tone of reverence and approachability, inviting attendees to engage with God. It encourages reflection on personal needs and openness to the message being delivered during the service.",
+      "keywords": ["prayer", "invitation", "worship", "community"],
+      "performers": ["[]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Genesis 39",
+      "start_time": 2158,
+      "type": "scripture",
+      "description": "The scripture reading focuses on the pivotal moments in Joseph's life as he is sold into slavery and experiences God's favor in Potiphar's house. The reading highlights themes of integrity, temptation, and the presence of God in Joseph's trials.",
+      "keywords": ["Genesis", "Joseph", "temptation", "integrity", "God's presence"],
+      "performers": ["[]"],
+      "songs": [],
+      "scripture_references": ["Genesis 39"]
+    },
+    {
+      "title": "Congregational Hymn: [Unknown Title]",
+      "start_time": 2160,
+      "type": "music",
+      "description": "The congregational hymn allows the community to come together in worship. The singing encourages a spirit of unity and reflection among the attendees, uplifting their hearts as they engage in communal worship.",
+      "keywords": ["worship", "hymn", "community", "singing"],
+      "performers": ["[]"],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: Drama: Trials of Joseph",
+      "start_time": 2162,
+      "type": "drama",
+      "description": "A dramatic presentation illustrating key moments from Joseph's life, emphasizing his trials and steadfast faith. The portrayal helps the congregation to visualize the emotional and spiritual challenges Joseph faced.",
+      "keywords": ["Joseph", "drama", "faith", "trials"],
+      "performers": ["[]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2205,
+      "type": "prayer",
+      "description": "This invitation prayer encourages attendees to reflect on their personal relationship with God and make commitments in faith. It provides a moment for introspection and decision-making concerning their spiritual journey.",
+      "keywords": ["invitation", "prayer", "commitment", "faith"],
+      "performers": ["[]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unknown Title]",
+      "start_time": 2210,
+      "type": "music",
+      "description": "The choir performs a deeply moving piece that resonates with the themes of faith and perseverance found in Joseph’s story. Their performance aims to inspire and uplift the congregation through powerful music.",
+      "keywords": ["choir", "music", "worship", "inspiration"],
+      "performers": ["[Choir]"],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2225,
+      "type": "prayer",
+      "description": "The closing prayer concludes the service, asking for God's guidance and support as the congregation departs. It reaffirms commitments made during the service and seeks strength to live out the lessons learned.",
+      "keywords": ["closing", "prayer", "commitment", "guidance"],
+      "performers": ["[]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

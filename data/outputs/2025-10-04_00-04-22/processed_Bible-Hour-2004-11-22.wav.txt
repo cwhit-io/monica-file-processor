@@ -1,0 +1,96 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: I Want to Be",
+      "start_time": 77,
+      "type": "music",
+      "description": "The choir performs a heartfelt song expressing a desire to be more like Jesus. The lyrics emphasize humility and the longing to reflect the character of Christ in one’s life.",
+      "keywords": ["choir", "Jesus", "humility", "songs"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["I Want to Be"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: I Want to Be",
+      "start_time": 216,
+      "type": "music",
+      "description": "Continuing with a beautiful melody, the choir sings about the yearning to embody the attributes of Christ. It's a moving piece that encourages congregants to reflect on their personal walk with God.",
+      "keywords": ["choir", "Jesus", "reflection", "songs"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["I Want to Be"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 678,
+      "type": "prayer",
+      "description": "The pastor leads the congregation in an opening prayer, inviting God's presence and asking for peace and understanding as they gather to worship. The prayer centers on the importance of being receptive to God’s word.",
+      "keywords": ["prayer", "opening", "worship", "community"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 2 Peter 3",
+      "start_time": 1490,
+      "type": "scripture",
+      "description": "The pastor reads from 2 Peter 3, highlighting the themes of the return of Christ and the urgency for believers to live holy lives. This reading sets the foundation for the following sermon.",
+      "keywords": ["2 Peter", "scripture", "reading", "holiness"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["2 Peter 3"]
+    },
+    {
+      "title": "Message: Purposeful Living in Light of His Return (2 Peter 3)",
+      "start_time": 1499,
+      "type": "sermon",
+      "description": "In this sermon, the pastor emphasizes the importance of living purposefully as Christians in anticipation of Christ's return. He elaborates on how future truths should motivate present actions, urging the congregation to focus on peace, purity, and sharing the Gospel.",
+      "keywords": ["sermon", "purpose", "Christ's return", "living", "motivations"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["2 Peter 3:10-15"]
+    },
+    {
+      "title": "Choir: New Life Celebration",
+      "start_time": 3100,
+      "type": "music",
+      "description": "The choir performs a joyful song celebrating new life in Christ, emphasizing the transformative power of faith. The energetic piece encourages participation and reflects the joyous spirit of the congregation.",
+      "keywords": ["music", "celebration", "new life", "choir"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["New Life Celebration"],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Testimony: Transformed Lives",
+      "start_time": 3121,
+      "type": "testimony",
+      "description": "Several individuals share their personal stories of transformation and faith, highlighting the impact of Christ in their lives. Each testimony reflects themes of redemption, surrender, and the ongoing journey of faith.",
+      "keywords": ["testimony", "transformation", "redemption", "faith"],
+      "performers": ["Various Members"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "baptism: Baptism: New Believers",
+      "start_time": 3365,
+      "type": "baptism",
+      "description": "The congregation witnesses the baptism of new believers, symbolizing their commitment to faith in Christ. This joyous occasion affirms their public declaration of faith and is a highlight of the service, celebrating new life.",
+      "keywords": ["baptism", "new believers", "celebration", "faith"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3568,
+      "type": "prayer",
+      "description": "The pastor concludes the service with a closing prayer, thanking God for the lessons learned, the testimonies shared, and the new lives committed to Him. The prayer invokes a spirit of peace and purpose as the congregation prepares to leave.",
+      "keywords": ["prayer", "closing", "thanksgiving", "community"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

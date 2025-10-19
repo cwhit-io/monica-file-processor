@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Intro",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with upbeat music, setting a welcoming atmosphere for congregants arriving. The energy in the music serves to create excitement and anticipation for the service ahead.",
+      "keywords": ["music", "welcome", "upbeat"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Christmas with Blackhawk",
+      "start_time": 31,
+      "type": "announcement",
+      "description": "Pastor Kelly Bird and Corbin introduce upcoming changes for the Christmas season at Blackhawk, emphasizing the importance of gathering, connecting, and going as a community. They elaborate on the new format for events in December, highlighting various performances and opportunities for participation.",
+      "keywords": ["Christmas", "announcement", "events", "community"],
+      "performers": ["Kelly Bird", "Corbin"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Unidentified Song",
+      "start_time": 423,
+      "type": "music",
+      "description": "The choir performs a powerful piece that resonates with the congregation, creating a moment of worship and reflection. The song encourages a deep connection with the themes introduced earlier in the service.",
+      "keywords": ["choir", "worship", "music"],
+      "performers": ["Choir"],
+      "songs": ["Unidentified Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: Poem Recitation",
+      "start_time": 640,
+      "type": "drama",
+      "description": "A performer recites a poignant poem titled 'God's Bill', conveying deep spiritual reflections and the longing for divine presence. The presentation engages the audience in contemplation about their relationship with God.",
+      "keywords": ["poem", "spiritual", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Thirsting for God (Jeremiah 2:13)",
+      "start_time": 801,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird delivers a compelling message exploring why people often don't crave a deeper relationship with God. He utilizes Jeremiah 2:13 to illustrate how neglecting God's living water leads to spiritual idolatry and a lack of thirst for Him. The message challenges congregants to examine their own lives and desires.",
+      "keywords": ["thirst", "God", "Jeremiah", "idolatry", "message"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Jeremiah 2:13"]
+    },
+    {
+      "title": "Solo: This is the Air I Breathe",
+      "start_time": 3015,
+      "type": "music",
+      "description": "A heartfelt solo performance of 'This is the Air I Breathe' follows the sermon, inviting the congregation to engage in worship and reflect on their desperate need for God. The lyrics resonate deeply with the themes discussed and encourage a spirit of surrender.",
+      "keywords": ["worship", "solo", "desperation", "need"],
+      "performers": ["Lindsay"],
+      "songs": ["This is the Air I Breathe"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3464,
+      "type": "prayer",
+      "description": "Pastor Kelly leads the congregation in an invitation prayer, encouraging individuals to seek a deeper relationship with God. The prayer focuses on the themes of repentance and yearning for God's presence, asking for strength and guidance.",
+      "keywords": ["prayer", "invitation", "repentance"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3480,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Kelly, asking for God's mercy and strength as the congregation departs. It emphasizes ongoing dependence on God for fulfillment and guidance in their spiritual journeys.",
+      "keywords": ["closing", "prayer", "mercy"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

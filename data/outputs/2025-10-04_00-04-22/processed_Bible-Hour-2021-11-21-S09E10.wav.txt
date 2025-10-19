@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Opening Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with the choir leading the congregation in uplifting worship. Members of the congregation are invited to engage and express their gratitude through music.",
+      "keywords": ["worship", "choir", "praise", "congregation", "Jesus"],
+      "performers": ["Choir"],
+      "songs": ["Opening Worship"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 285,
+      "type": "prayer",
+      "description": "The pastor leads the congregation in an opening prayer, thanking God for His presence and asking for blessings over the service. This intimate moment invites everyone to prepare their hearts for worship.",
+      "keywords": ["prayer", "blessings", "worship", "congregation"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Mature Influence (Colossians 3)",
+      "start_time": 330,
+      "type": "sermon",
+      "description": "In this sermon, the pastor discusses the concept of mature influence, emphasizing the importance of influence in parenting and authority. He teaches from Colossians 3, exploring how worship shapes one's influence both at home and work, and invites the congregation to reflect on how they can represent Christ in their spheres of influence.",
+      "keywords": ["maturity", "influence", "Colossians", "family", "authority"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Colossians 3"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2258,
+      "type": "prayer",
+      "description": "As the sermon concludes, the pastor invites attendees to respond in prayer, seeking a deeper relationship with Jesus. This moment is crucial for those who wish to commit their lives to Christ.",
+      "keywords": ["invitation", "prayer", "commitment", "Jesus"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Worship Response",
+      "start_time": 2391,
+      "type": "music",
+      "description": "A soloist performs a reflective piece, allowing the congregation to meditate on the message of mature influence and their personal walk with God. This music creates a solemn atmosphere for introspection.",
+      "keywords": ["worship", "solo", "reflection", "God"],
+      "performers": ["Soloist"],
+      "songs": ["Worship Response"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2477,
+      "type": "prayer",
+      "description": "The service ends with a closing prayer where the pastor thanks God for the time spent in worship and teaching. He prays for the congregation to apply the message of influence in their week ahead.",
+      "keywords": ["closing", "prayer", "thanksgiving", "application"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 2481,
+      "type": "announcement",
+      "description": "The pastor shares important announcements about upcoming church events, including a special commissioning service for Pastor Steve and changes to service times. The congregation is encouraged to participate actively.",
+      "keywords": ["announcements", "events", "church", "commissioning"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

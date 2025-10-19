@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Trophies of His Power",
+      "start_time": 158,
+      "type": "music",
+      "description": "The congregation is graced with a heartfelt performance by the sanctuary choir, celebrating the theme of worship. The song 'Trophies of His Power' reflects on the transformative nature of faith and the community's joyful response to God's love. Participants are engaged, reminding them of the significance of collective worship.",
+      "keywords": ["choir", "worship", "faith", "community", "joy"],
+      "performers": ["sanctuary choir"],
+      "songs": ["Trophies of His Power"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Wash Me Clean",
+      "start_time": 842,
+      "type": "music",
+      "description": "Marilyn Wong delivers a powerful solo titled 'Wash Me Clean,' which emphasizes the desire for spiritual renewal and cleansing through Christ. Her emotive performance resonates with many in the congregation, reflecting personal struggles with sin and the longing for divine connection.",
+      "keywords": ["solo", "spiritual renewal", "cleansing", "worship", "Marilyn Wong"],
+      "performers": ["Marilyn Wong"],
+      "songs": ["Wash Me Clean"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Compassion of Christ (Matthew 9:35-38)",
+      "start_time": 1346,
+      "type": "sermon",
+      "description": "Dr. Alex Montoya delivers a compelling sermon on the theme of compassion illustrated through Matthew 9:35-38. He challenges the congregation to embody Christ's compassion in their lives, discussing barriers that hinder genuine connection with others. Montoya’s passionate call urges listeners to step out of their comfort zones and serve those in need.",
+      "keywords": ["compassion", "discipleship", "Dr. Alex Montoya", "Matthew 9", "church"],
+      "performers": ["Dr. Alex Montoya"],
+      "songs": [],
+      "scripture_references": ["Matthew 9:35-38"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3459,
+      "type": "prayer",
+      "description": "Following the sermon, the pastor leads an invitation prayer, inviting those who wish to accept Christ into their lives. This moment emphasizes the importance of taking spiritual steps toward faith and redemption, providing an opportunity for personal reflection and commitment.",
+      "keywords": ["invitation", "prayer", "faith", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Bible Hour Update",
+      "start_time": 3553,
+      "type": "announcement",
+      "description": "An update on the Bible Hour is shared, highlighting recent events and inviting viewers to engage further with the ministry. The announcer encourages viewers to connect, offering details on how they can receive follow-up materials to aid in their spiritual journey.",
+      "keywords": ["Bible Hour", "updates", "spiritual journey", "engagement"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

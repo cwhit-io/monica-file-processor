@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unknown]",
+      "start_time": 7,
+      "type": "music",
+      "description": "The choir performs a moving musical piece under the direction of Mr. Don Kruger. The song sets a tone of reverence and prepares the congregation for worship. It engages the audience, inviting them into a spiritual atmosphere of praise.",
+      "keywords": ["worship", "choir", "music", "spiritual", "performance"],
+      "performers": ["Mr. Don Kruger"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown]",
+      "start_time": 264,
+      "type": "music",
+      "description": "Paul Schumacher delivers a heartfelt solo performance, revisiting his history with the church. His music resonates deeply with the audience, evoking memories and a spirit of worship. The song highlights themes of gratitude and divine love.",
+      "keywords": ["solo", "Paul Schumacher", "music", "worship", "gratitude"],
+      "performers": ["Paul Schumacher"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1493,
+      "type": "prayer",
+      "description": "A sincere opening prayer is offered, acknowledging the presence of God and the challenges faced by the congregation. The prayer emphasizes the need for divine guidance and support amidst life's storms. It sets a reflective and humble tone for the service.",
+      "keywords": ["prayer", "God", "guidance", "congregation", "support"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Is Abortion Murder? (Various Scriptures)",
+      "start_time": 1582,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers a compelling and challenging sermon addressing the complex issue of abortion. He explores historical, biblical, and ethical dimensions, arguing passionately that life begins at conception and emphasizing the moral implications of the act. The message is designed to provoke thought and inspire action among listeners.",
+      "keywords": ["abortion", "murder", "sermon", "morality", "David Jeremiah"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Psalm 139", "Exodus 21", "Genesis 4:1", "Genesis 17:19"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3431,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that reaffirms the sermon’s message and the need for spiritual fortitude. The pastor seeks God's strength and wisdom for the congregation to act in accordance with His will. It encapsulates the themes of the service and offers a moment for personal reflection.",
+      "keywords": ["closing prayer", "spiritual strength", "God", "reflection", "congregation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

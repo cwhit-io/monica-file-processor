@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: There is Power",
+      "start_time": 156,
+      "type": "music",
+      "description": "The sanctuary choir performs a powerful musical piece reflecting the strength and significance of faith. The song emphasizes the theme of salvation through Jesus Christ, resonating with the congregation. The audience's enthusiastic applause demonstrates their appreciation and engagement with the performance.",
+      "keywords": ["choir", "faith", "salvation", "power", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["There is Power"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: We'll Sing Enthusiastically",
+      "start_time": 467,
+      "type": "music",
+      "description": "The congregation sings together, joining in a hymn that reflects their anticipation of the heavenly reunion. This communal act of worship highlights the joy and hope shared among the members, fostering a sense of community and fellowship.",
+      "keywords": ["hymn", "worship", "congregation", "heaven", "community"],
+      "performers": [],
+      "songs": ["We'll Sing Enthusiastically"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Rescuing God",
+      "start_time": 1152,
+      "type": "music",
+      "description": "A soloist delivers a heartfelt rendition that explores themes of longing and divine rescue. The lyrics reflect a deep emotional need for God's presence in times of distress, connecting profoundly with the congregation's experiences of sorrow and faith.",
+      "keywords": ["solo", "rescue", "God", "faith", "emotions"],
+      "performers": ["Stephen Maria"],
+      "songs": ["Rescuing God"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1568,
+      "type": "prayer",
+      "description": "The opening prayer invites God's presence into the service, focusing on themes of rescue and emotional healing. The congregation is encouraged to engage with their personal burdens and seek God's guidance as they navigate changes and challenges.",
+      "keywords": ["prayer", "opening", "God", "healing", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Courage in Changing Times (Joshua 1:1-9)",
+      "start_time": 1672,
+      "type": "sermon",
+      "description": "Rick Hawks delivers a message on navigating change, drawing from Joshua 1:1-9. He emphasizes the importance of responsibility, courage, and adherence to God's principles in times of transition, providing biblical examples and practical applications for modern challenges.",
+      "keywords": ["sermon", "change", "courage", "responsibility", "Joshua"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Joshua 1:1-9"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3447,
+      "type": "prayer",
+      "description": "The invitation prayer is a time for reflection and commitment, calling individuals to seek a deeper relationship with God. It underscores the message of salvation through Jesus Christ, encouraging attendees to respond to the invitation of faith and hope.",
+      "keywords": ["prayer", "invitation", "salvation", "relationship", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Ministry of Music",
+      "start_time": 3484,
+      "type": "music",
+      "description": "The choir returns to provide a final uplifting rendition, celebrating the themes of the day. This segment reinforces the service's messages of encouragement and faith, leaving the congregation with a lasting impression of hope and community.",
+      "keywords": ["choir", "music", "worship", "faith", "community"],
+      "performers": ["Sanctuary Choir"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3619,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, thanking God for His presence and guidance. It reaffirms the themes discussed, inviting the congregation to carry the message of courage and faith into their daily lives as they face changes ahead.",
+      "keywords": ["prayer", "closing", "faith", "guidance", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

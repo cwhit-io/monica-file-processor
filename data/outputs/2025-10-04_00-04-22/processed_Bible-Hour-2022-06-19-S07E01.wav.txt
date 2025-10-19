@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting the congregation to focus on the importance of relationships and the roles of fathers in family life. It emphasizes God's guidance and presence during the service.",
+      "keywords": ["prayer", "fathers", "focus", "guidance", "relationships"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Role of Fathers (Psalm 139)",
+      "start_time": 0,
+      "type": "sermon",
+      "description": "The sermon focuses on the threefold role of fathers as priest, protector, and provider. It interweaves personal stories of faith, emphasizing the importance of being present in children's lives and nurturing their spiritual growth. The message encourages fathers to prioritize their relationship with God to fulfill their roles effectively.",
+      "keywords": ["fathers", "integrity", "spiritual", "Psalm 139", "teaching"],
+      "performers": ["Phil"],
+      "songs": [],
+      "scripture_references": ["Psalm 139:13-16", "2 Timothy 1:3-14"]
+    },
+    {
+      "title": "scripture: Scripture Reading: Second Timothy",
+      "start_time": 903,
+      "type": "scripture",
+      "description": "The scripture reading includes passages from Second Timothy that highlight Paul's letter to Timothy, focusing on encouragement and legacy of faith. It serves as a foundation for the sermon, emphasizing the importance of mentorship and passing down faith.",
+      "keywords": ["Second Timothy", "Paul", "encouragement", "mentorship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["2 Timothy 1:3-14"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2466,
+      "type": "prayer",
+      "description": "The service concludes with an invitation prayer, asking for God's guidance and for individuals to be inspired to take action in their own lives. It encourages the congregation to embrace their roles as mentors and leaders in their communities and families.",
+      "keywords": ["invitation", "guidance", "action", "mentorship", "inspiration"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

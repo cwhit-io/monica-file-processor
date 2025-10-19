@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Intro",
+      "start_time": 30,
+      "type": "music",
+      "description": "An upbeat musical piece sets a lively tone as the service begins, engaging the congregation and uplifting their spirits. This energetic start invites attendees to focus on the upcoming message.",
+      "keywords": ["music", "introduction", "upbeat"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 370,
+      "type": "prayer",
+      "description": "The service transitions to a heartfelt opening prayer, where the congregation is invited to reflect and prepare themselves for the message ahead. It emphasizes seeking guidance and the presence of God.",
+      "keywords": ["prayer", "opening", "guidance"],
+      "performers": ["[]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: God's Design for Parenting (Deuteronomy 6)",
+      "start_time": 399,
+      "type": "sermon",
+      "description": "In this impactful sermon, the pastor discusses God's design for parenting based on Deuteronomy 6. Key themes include the importance of instilling Biblical truths in children's lives and how parents can actively teach and model these principles. The message encourages parents to strive for diligence in passing on faith, emphasizing love and commitment.",
+      "keywords": ["parenting", "God", "Deuteronomy", "truth", "faith"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Deuteronomy 6:6-9", "Deuteronomy 6:10", "Psalm 19:7-11"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3499,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, solidifying the message on parenting and seeking God's blessing for parents as they journey through their challenges. It reflects on the unity and commitment to following God's guidance.",
+      "keywords": ["prayer", "closing", "blessing"],
+      "performers": ["[]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

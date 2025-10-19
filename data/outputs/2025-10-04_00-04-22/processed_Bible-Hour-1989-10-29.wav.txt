@@ -1,0 +1,64 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: Let His Children Rejoice",
+      "start_time": 137,
+      "type": "music",
+      "description": "The sanctuary choir along with the children's choirs perform a lively piece entitled 'Let His Children Rejoice,' celebrating joy and creation. The music encourages the congregation to sing and take part in the worship experience, conveying a message of hope and salvation.",
+      "keywords": ["choir", "children", "rejoice", "salvation"],
+      "performers": ["Sanctuary Choir", "Children's Choir"],
+      "songs": ["Let His Children Rejoice"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: The Reason We Sing",
+      "start_time": 703,
+      "type": "music",
+      "description": "The congregation enjoys a heartfelt solo performance of 'The Reason We Sing.' The lyrics express gratitude for the divine gift of Jesus and the joy He brings, encouraging worshippers to reflect on their faith through song.",
+      "keywords": ["solo", "worship", "joy", "praise"],
+      "performers": ["Keith and Star Bratigo"],
+      "songs": ["The Reason We Sing"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1344,
+      "type": "prayer",
+      "description": "Pastor Rick leads the congregation in an opening prayer, inviting God's presence among them. He reflects on God's holiness and asks for forgiveness for their sins, creating a moment of communal worship and humility before the Lord.",
+      "keywords": ["prayer", "forgiveness", "worship", "humility"],
+      "performers": ["Rick Cox"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Luke 7",
+      "start_time": 1669,
+      "type": "scripture",
+      "description": "The passage is read from Luke chapter 7, detailing the story of a Roman centurion whose servant is healed through faith. This scripture sets the foundation for the upcoming sermon, illustrating themes of humility and faith.",
+      "keywords": ["Luke", "centurion", "faith", "healing"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Luke 7"]
+    },
+    {
+      "title": "Message: A Drill Sergeant with an Unusual Disposition (Luke 7:1-10)",
+      "start_time": 1519,
+      "type": "sermon",
+      "description": "In this sermon, Pastor Rick explores the life of a Roman centurion as a metaphor for leadership and compassion. He emphasizes three strategic lessons: being tough yet tender, honorable yet humble, and strong yet spiritual, using biblical examples to inspire the congregation.",
+      "keywords": ["sermon", "centurion", "leadership", "faith", "humility"],
+      "performers": ["Rick Cox"],
+      "songs": [],
+      "scripture_references": ["Luke 7:1-10"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3488,
+      "type": "prayer",
+      "description": "Pastor Rick concludes the service with a closing prayer, guiding the congregation in reaffirming their faith and commitment to God. He encourages them to reflect on the day's message and to carry that faith into their daily lives.",
+      "keywords": ["closing", "prayer", "faith", "commitment"],
+      "performers": ["Rick Cox"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Worship Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat music track that sets a positive tone for the gathering. The energy in the room is inviting, encouraging attendees to engage in worship and reflection.",
+      "keywords": ["worship", "music", "uplifting"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Welcome and Introduction",
+      "start_time": 31,
+      "type": "announcement",
+      "description": "Pastor Kelly Bird welcomes everyone to the service, expressing gratitude for their presence. He introduces the guest speaker Tony Opleger and hints at the powerful message focused on God's love and commitment to His people.",
+      "keywords": ["welcome", "introduction", "community"],
+      "performers": ["Kelly Bird", "Tony Opleger"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 769,
+      "type": "prayer",
+      "description": "The congregation is led in an opening prayer asking for clarity and transformation through the service. This moment sets the spiritual tone, inviting attendees to engage deeply in the message to follow.",
+      "keywords": ["prayer", "opening", "spiritual"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: God's Love for Justice (Isaiah 61)",
+      "start_time": 801,
+      "type": "sermon",
+      "description": "The sermon explores the depths of God's love for justice, illustrated through scripture, particularly Isaiah 61. The speakers emphasize the restoration of what is broken and the call for Christians to embody this justice in their lives.",
+      "keywords": ["justice", "God's love", "Isaiah 61"],
+      "performers": ["Kelly Bird", "Tony Opleger"],
+      "songs": [],
+      "scripture_references": ["Isaiah 61"]
+    },
+    {
+      "title": "Congregational Hymn: We Must Go",
+      "start_time": 3169,
+      "type": "music",
+      "description": "As the message concludes, the congregation participates in singing 'We Must Go'. This song acts as a call to action, urging everyone to step forward in faith and express God's justice through service and love.",
+      "keywords": ["congregational", "hymn", "worship"],
+      "performers": [],
+      "songs": ["We Must Go"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3410,
+      "type": "prayer",
+      "description": "The service features an invitation prayer, inviting those who feel led to respond to the message. It's a moment of spiritual connection, encouraging attendees to seek healing and restoration in their lives.",
+      "keywords": ["invitation", "prayer", "response"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Special Music Segment",
+      "start_time": 3477,
+      "type": "music",
+      "description": "A heartfelt music segment plays, fostering a reflective atmosphere as the congregation considers the themes of the sermon. This music serves as a transition, allowing for personal reflection and connection to the service's message.",
+      "keywords": ["special music", "reflection", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3530,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that sends the congregation forth with a renewed sense of purpose. It reinforces the themes of justice and love, invoking God's guidance as attendees go into their week.",
+      "keywords": ["closing", "prayer", "mission"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

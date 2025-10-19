@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Solid Rock",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with an uplifting music piece performed by the choir, inviting worshipful engagement. The song emphasizes themes of faith and trust in Christ, highlighting His steadfastness, much like a solid rock amidst life's uncertainties. The congregation responds with enthusiasm, creating a positive atmosphere for the service.",
+      "keywords": ["choir", "solid rock", "faith", "worship", "uplifting"],
+      "performers": ["[Choir]"],
+      "songs": ["Solid Rock"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 31,
+      "type": "prayer",
+      "description": "The opening prayer sets the tone for the service, inviting the presence of God among the congregation. It’s a moment for reflection and commitment as attendees are encouraged to open their hearts and minds to the message and worship ahead.",
+      "keywords": ["prayer", "opening", "presence", "reflection"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Sacrifice and Growth (2010 Goals)",
+      "start_time": 34,
+      "type": "sermon",
+      "description": "In this powerful sermon, the speaker discusses the importance of sacrifice as a family and the goals for the year 2010. He emphasizes financial freedom, engaging in discipleship, and making a tangible difference in the community. The message encourages the congregation to reflect on their commitments and the impact of their actions on others.",
+      "keywords": ["sacrifice", "growth", "2010", "community", "discipleship"],
+      "performers": ["[Speaker]"],
+      "songs": [],
+      "scripture_references": ["Matthew 28:19-20", "Colossians 1:28", "1 Corinthians 11:1"]
+    },
+    {
+      "title": "Congregational Hymn: This World Has Nothing for Me",
+      "start_time": 468,
+      "type": "music",
+      "description": "The congregation joins in singing a hymn reflecting on the emptiness of worldly pursuits. The lyrics remind worshippers of the greater hope and fulfillment found in a relationship with Christ. This communal singing fosters unity and reinforces the themes of the sermon.",
+      "keywords": ["congregational", "hymn", "worship", "unity", "hope"],
+      "performers": ["[Congregation]"],
+      "songs": ["This World Has Nothing for Me"],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: DTR Talk",
+      "start_time": 588,
+      "type": "drama",
+      "description": "A lighthearted narrative unfolds about college experiences and the defining the relationship (DTR) conversation, metaphorically comparing it to defining the church's relationship with God in the New Year. This segment creatively illustrates deeper themes of understanding one's commitment and relationship with the divine.",
+      "keywords": ["drama", "college", "relationship", "metaphor"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Rescue",
+      "start_time": 647,
+      "type": "music",
+      "description": "A solo performance brings a deeply moving rendition of a song expressing a yearning for divine rescue and intervention. The heartfelt lyrics resonate with attendees, prompting contemplation on their personal needs for spiritual guidance and support.",
+      "keywords": ["solo", "rescue", "emotion", "spirituality"],
+      "performers": ["[Soloist]"],
+      "songs": ["Rescue"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 755,
+      "type": "prayer",
+      "description": "The closing prayer encapsulates the service, asking for God's guidance and strength as the congregation moves forward into the week. It is a moment of unity as attendees are encouraged to leave with a renewed sense of purpose and commitment to their faith.",
+      "keywords": ["prayer", "closing", "guidance", "unity"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Anniversary Celebration",
+      "start_time": 762,
+      "type": "announcement",
+      "description": "The service wraps up with a special announcement celebrating the 15th wedding anniversary of Tim and Lisa Marker, who share their gratitude for God's blessings in their lives. This personal moment adds a warm touch, reminding the congregation of the importance of relationships and community within the church.",
+      "keywords": ["announcement", "celebration", "community", "relationships"],
+      "performers": ["Tim Marker", "Lisa Marker"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with upbeat music, creating an energetic atmosphere for worship. This initial music sets the tone for the gathering, inviting attendees into a space of joy and celebration. It's a moment to engage the congregation and get everyone in the spirit of worship.",
+      "keywords": ["worship", "music", "celebration", "joy", "gathering"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Welcome and Introduction",
+      "start_time": 31,
+      "type": "announcement",
+      "description": "A warm welcome is extended to the congregation as the speaker introduces the day's guest, Dr. Mitchell Cruz. He reflects on Mitch's contributions during his time at Blackhawk and hints at the central theme of the service focusing on restoration and personal growth.",
+      "keywords": ["welcome", "introduction", "guest", "restoration", "growth"],
+      "performers": ["Dr. Mitchell Cruz"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [Matthew 26:17-29]",
+      "start_time": 201,
+      "type": "scripture",
+      "description": "The scripture passage recounts the Last Supper as Jesus shares with His disciples during Passover. This reading emphasizes themes of sacrifice, betrayal, and the establishment of a new covenant through Jesus' body and blood, setting a solemn tone before the upcoming message.",
+      "keywords": ["Last Supper", "Passover", "betrayal", "covenant", "Jesus"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 26:17-29"]
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 290,
+      "type": "music",
+      "description": "Gentle piano music fills the air, providing a moment of reflection after the scripture reading. It allows the congregation to meditate on the message and themes being shared, fostering an atmosphere of worship and introspection.",
+      "keywords": ["meditation", "piano", "reflection", "worship", "atmosphere"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 400,
+      "type": "music",
+      "description": "The music continues, inviting the congregation to join in singing together. This collective act of worship encourages unity and reinforces the themes of the service, making it a participatory experience for all attendees.",
+      "keywords": ["singing", "unity", "worship", "participation", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Cost of Discipleship (Mark 8:34-38)",
+      "start_time": 940,
+      "type": "sermon",
+      "description": "Scott Artevanis delivers a compelling sermon exploring the cost of discipleship using Mark 8:34-38. He challenges the congregation to consider what it means to truly follow Christ, emphasizing self-denial, taking up one's cross, and the profound rewards of faith. The message encourages reflection on personal commitment and the central importance of prioritizing one's relationship with God above worldly pursuits.",
+      "keywords": ["discipleship", "self-denial", "cross", "faith", "commitment"],
+      "performers": ["Scott Artevanis"],
+      "songs": [],
+      "scripture_references": ["Mark 8:34-38"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3480,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer, inviting the congregation to reflect on the message and commit their lives to truly following Christ. This moment serves as a transition from the teaching into personal application, urging everyone to internalize the sermon’s principles.",
+      "keywords": ["closing", "prayer", "commitment", "reflection", "Christ"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 3482,
+      "type": "music",
+      "description": "The final music piece fills the air, providing a celebratory send-off for the congregation. This uplifting moment emphasizes the joy of fellowship and the commitment to living out the teachings shared during the service. It encourages attendees to carry the message into their week.",
+      "keywords": ["celebration", "joy", "fellowship", "worship", "message"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

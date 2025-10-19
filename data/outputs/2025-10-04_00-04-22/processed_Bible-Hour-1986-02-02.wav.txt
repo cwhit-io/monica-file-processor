@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Sing Out",
+      "start_time": 90,
+      "type": "music",
+      "description": "The service opens with a vibrant choir performance, inviting the congregation to lift their voices in praise. The emotions build as the song flows, creating a joyful atmosphere for worship. The congregation joins in celebrating their faith with songs of gratitude and reverence.",
+      "keywords": ["choir", "worship", "praise", "congregation", "music"],
+      "performers": ["Blackoff Baptist Church Choir"],
+      "songs": ["Sing Out"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Standing on the Promises",
+      "start_time": 499,
+      "type": "music",
+      "description": "The congregation passionately sings 'Standing on the Promises of God', which emphasizes the faithfulness of God's promises to His people. This hymn serves as a reminder of the hope and strength found in standing firmly on divine truths. The uplifting melody encourages everyone to participate wholeheartedly.",
+      "keywords": ["hymn", "promises", "faith", "worship", "congregation"],
+      "performers": [],
+      "songs": ["Standing on the Promises"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: All Your Anxiety",
+      "start_time": 662,
+      "type": "music",
+      "description": "Kerry Johnson performs a heartfelt solo titled 'All Your Anxiety'. The song invites listeners to bring their burdens to the Lord, conveying a powerful message about peace and solace in troubled times. Kerry's emotional delivery resonates with the congregation, reflecting the theme of trusting in God’s care.",
+      "keywords": ["solo", "anxiety", "trust", "peace", "worship"],
+      "performers": ["Kerry Johnson"],
+      "songs": ["All Your Anxiety"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1328,
+      "type": "prayer",
+      "description": "The opening prayer sets a reverent tone for the service, asking God to draw the congregation closer to Him. It includes petitions for spiritual growth and comfort for those in need. The prayer reflects a deep desire for guidance as attendees gather in worship.",
+      "keywords": ["prayer", "guidance", "worship", "community", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Corinthians 7",
+      "start_time": 1030,
+      "type": "scripture",
+      "description": "The scripture reading focuses on 1 Corinthians 7, where the Apostle Paul discusses the virtues of singleness and marriage. This passage aims to provide biblical insights related to relationships, emphasizing God’s perspective on both states. It's read with clarity, preparing the congregation for the sermon.",
+      "keywords": ["scripture", "1 Corinthians", "Paul", "singleness", "marriage"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 7"]
+    },
+    {
+      "title": "Message: The Value of Singleness (1 Corinthians 7)",
+      "start_time": 1615,
+      "type": "sermon",
+      "description": "Pastor Rick delivers an insightful sermon on the topic of singleness, exploring its value as detailed in 1 Corinthians 7. He highlights the noble state of being single and the freedom it provides for service. Through engaging anecdotes and biblical principles, the pastor encourages listeners to embrace their current state, whether single or married, as an opportunity for fulfilling God’s purpose.",
+      "keywords": ["sermon", "singleness", "marriage", "1 Corinthians", "service"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 7"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3475,
+      "type": "prayer",
+      "description": "The closing prayer brings the service to a reflective conclusion, thanking God for His presence and guidance throughout the worship. It includes commitments to follow Christ and an invitation for those seeking a deeper relationship with Him. The prayer resonates with a call to action for the congregation to live out their faith actively.",
+      "keywords": ["prayer", "closing", "commitment", "faith", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Congregational Hymn: Upbeat Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with lively music, setting a joyful tone for the congregation. Energetic melodies resonate through the hall, inviting everyone to engage in worship. Several segments of music enthusiasm showcase the community's spirit, creating a perfect atmosphere for worship.",
+      "keywords": ["worship", "music", "congregation", "joyful", "celebration"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Choir: Praise and Thanksgiving",
+      "start_time": 31,
+      "type": "music",
+      "description": "The choir leads the congregation in a spirited piece celebrating gratitude and devotion. The harmonious voices unite, filling the space with a powerful expression of faith that encourages participation. This uplifting moment highlights the importance of coming together in worship.",
+      "keywords": ["choir", "praise", "thanksgiving", "unity"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 227,
+      "type": "prayer",
+      "description": "As the opening prayer begins, the congregation bows their heads in reverence. A heartfelt invocation calls everyone to acknowledge God's presence, emphasizing gratitude for the privilege of worship. This moment sets the spiritual tone for the service ahead.",
+      "keywords": ["prayer", "gratitude", "invocation", "worship", "presence"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Message: Worship and Its Dimensions (Psalm 50)",
+      "start_time": 334,
+      "type": "sermon",
+      "description": "Pastor Corbin Miller delivers a thought-provoking message centered around worship through Psalm 50. He explores the concept of worship beyond mere singing, encouraging the congregation to reflect on their personal relationship with God. The sermon highlights the importance of authenticity in worship, addressing issues of heartlessness and hypocrisy, culminating in a powerful invitation for spiritual renewal and healing.",
+      "keywords": ["worship", "sermon", "Psalm 50", "authenticity", "renewal", "Corbin Miller"],
+      "performers": ["Corbin Miller"],
+      "songs": ["[]"],
+      "scripture_references": ["Psalm 50"]
+    },
+    {
+      "title": "Congregational Hymn: Response to the Message",
+      "start_time": 3160,
+      "type": "music",
+      "description": "The congregation is invited to sing a reflective hymn in response to the sermon. The music emphasizes themes of coming to God in humility and brokenness, fostering a spirit of openness and sincerity. This powerful closing song reinforces the message of the morning and invites everyone to a renewed commitment in their worship.",
+      "keywords": ["hymn", "response", "reflection", "humility", "worship"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3346,
+      "type": "prayer",
+      "description": "In the closing prayer, the pastor leads the congregation in thanksgiving, asking for God's guidance as they go out into the world. This moment serves as a heartfelt commitment to maintain authenticity in their worship practices. The prayer concludes with an invitation for continued openness to God's will.",
+      "keywords": ["closing prayer", "thanksgiving", "guidance", "commitment", "authenticity"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    }
+  ]
+}
+```

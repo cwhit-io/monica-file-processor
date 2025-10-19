@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: He is Ever Interceding",
+      "start_time": 212,
+      "type": "music",
+      "description": "The choir performs the majestic song 'He is Ever Interceding', a powerful reminder of Christ's ongoing intercession for believers. The song emphasizes themes of familial support and divine care, portraying Jesus as the ever-present helper and advocate.",
+      "keywords": ["choir", "interceding", "Christ", "support", "advocate"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["He is Ever Interceding"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Even Now, O Jesus, Come",
+      "start_time": 1050,
+      "type": "music",
+      "description": "Bob Bonette beautifully ministers in song with 'Even Now, O Jesus, Come'. The lyrics reflect a longing for Christ's return and a yearning for His comforting presence amidst life's struggles.",
+      "keywords": ["solo", "Jesus", "longing", "comfort", "Bob Bonette"],
+      "performers": ["Bob Bonette"],
+      "songs": ["Even Now, O Jesus, Come"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1260,
+      "type": "prayer",
+      "description": "The opening prayer invites the congregation to prepare their hearts for worship and the study of God's Word. The pastor intercedes for various needs, emphasizing the church's commitment to support one another in times of struggle.",
+      "keywords": ["prayer", "worship", "intercession", "community", "hearts"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Corinthians 5",
+      "start_time": 1515,
+      "type": "scripture",
+      "description": "The scripture reading comes from 1 Corinthians chapter 5, addressing serious issues of immorality within the church. It highlights the need for purity among believers and the responsibility of the church to uphold righteousness.",
+      "keywords": ["1 Corinthians", "scripture", "purity", "church", "immorality"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 5"]
+    },
+    {
+      "title": "Message: Dealing with Church Immorality (1 Corinthians 5)",
+      "start_time": 1534,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a compelling and in-depth sermon based on 1 Corinthians 5, discussing the reality of immorality within the church and the importance of maintaining holiness. He emphasizes that the church must address sin lovingly while holding members accountable, illustrating the steps for handling unrepentant sin among believers.",
+      "keywords": ["sermon", "immorality", "church", "1 Corinthians", "accountability"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 5"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3505,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, encouraging attendees to respond to the message and open their hearts to Christ. The pastor leads the congregation in a moment of reflection and commitment to Christ, emphasizing acceptance and grace.",
+      "keywords": ["prayer", "invitation", "commitment", "grace", "Christ"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Acceptance and Grace",
+      "start_time": 3530,
+      "type": "testimony",
+      "description": "In response to the message, a testimony highlights the themes of acceptance and grace. The individual shares their experience of embracing God's love and the transformation that comes from accepting Christ as Savior.",
+      "keywords": ["testimony", "acceptance", "grace", "transformation", "personal"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3594,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for His presence and the message received. The pastor prays for strength and guidance for the congregation as they leave to live out their faith in the world.",
+      "keywords": ["closing", "prayer", "thanksgiving", "guidance", "faith"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

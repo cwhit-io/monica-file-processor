@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with worship, inviting the congregation to engage in music that glorifies God.",
+      "keywords": ["worship", "music"],
+      "performers": ["Jamie Choir"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Resurrection and Our Response (Matthew 28)",
+      "start_time": 122,
+      "type": "sermon",
+      "description": "The sermon focuses on the profound implications of the resurrection, emphasizing three responses individuals might have. Joy and elation are highlighted alongside the necessity of recognizing Christ's resurrection and our personal responses to it.",
+      "keywords": ["resurrection", "joy", "response", "Jesus", "faith"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["Matthew 28:1-8"]
+    },
+    {
+      "title": "Congregational Hymn: Christ the Lord is Risen Today",
+      "start_time": 1615,
+      "type": "music",
+      "description": "The congregation participates in singing a powerful hymn celebrating the resurrection of Christ, reinforcing the message of the sermon through communal worship.",
+      "keywords": ["worship", "hymn", "resurrection"],
+      "performers": ["[]"],
+      "songs": ["Christ the Lord is Risen Today"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3189,
+      "type": "prayer",
+      "description": "A reflective prayer inviting attendees to respond to the message shared, encouraging them to embrace the idea of a personal relationship with Christ and to consider their spiritual journey.",
+      "keywords": ["prayer", "invitation", "response"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

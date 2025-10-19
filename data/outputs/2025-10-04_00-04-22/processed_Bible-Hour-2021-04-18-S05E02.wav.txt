@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, setting a tone of reverence and focus for the congregation. The leader invites everyone to prepare their hearts and minds for worship and messages to follow. There's a call for God's presence and guidance during the service.",
+      "keywords": ["prayer", "worship", "service", "invitation", "focus"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Finding God's Will through Our Weakness (Judges 6)",
+      "start_time": 0,
+      "type": "sermon",
+      "description": "The sermon explores the theme of discernment of God's will, focusing on Gideon's life in Judges chapter 6. It highlights how God's plans can prevail despite human inadequacies and doubts. The pastor illustrates the importance of aligning with God's purpose, acknowledging personal weaknesses, and building faith through trust in His credibility, capability, and character.",
+      "keywords": ["Gideon", "God's will", "weakness", "faith", "Judges 6"],
+      "performers": ["Pastor [Unknown]"],
+      "songs": [],
+      "scripture_references": ["Judges 6"]
+    },
+    {
+      "title": "scripture: Scripture Reading: Judges 6",
+      "start_time": 438,
+      "type": "scripture",
+      "description": "A reading of Judges 6 is provided, recounting the doubts of Gideon, his questioning of God's concern, and the story of his calling to deliver Israel. The passage emphasizes God's faithfulness despite Gideon's uncertainties.",
+      "keywords": ["Gideon", "Judges", "faithfulness", "calling"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Judges 6"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2076,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, encouraging the congregation to reflect on their personal relationship with Christ and consider their own doubts and trust in God. It serves as a moment of personal commitment and supplication.",
+      "keywords": ["invitation", "prayer", "commitment", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Unknown Title]",
+      "start_time": 2117,
+      "type": "music",
+      "description": "The congregation participates in a hymn, lifting their voices in praise and worship together. This moment of collective worship encourages unity and strengthens faith as they sing.",
+      "keywords": ["hymn", "worship", "congregation", "unity"],
+      "performers": [],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2148,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, asking for God's guidance and blessings on the congregation as they go forth. The pastor encourages everyone to carry the message of faith into their daily lives.",
+      "keywords": ["closing prayer", "blessing", "guidance", "congregation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

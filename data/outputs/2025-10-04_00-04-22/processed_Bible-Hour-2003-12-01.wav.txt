@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Opening Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with an upbeat music segment that sets a joyful and welcoming tone for the congregation. The melody is lively and encourages participation, creating an atmosphere of excitement. This music serves as an invitation for the members to engage in worship.",
+      "keywords": ["opening", "music", "joyful", "congregation", "worship"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unnamed Song]",
+      "start_time": 89,
+      "type": "music",
+      "description": "The choir presents a musical piece that showcases vocal harmony and uplifting lyrics. The performance highlights themes of hope and community, drawing the congregation closer together in worship. The choir's enthusiasm is infectious, encouraging all present to join in the spirit of celebration.",
+      "keywords": ["choir", "harmony", "hope", "community", "worship"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 436,
+      "type": "prayer",
+      "description": "Pastor Kelly Bird leads the congregation in an opening prayer, inviting God's presence into the service. The prayer focuses on preparation for the message and the importance of open hearts and minds. It sets a tone of reverence and anticipation for what is to come.",
+      "keywords": ["prayer", "opening", "God", "presence", "service"],
+      "performers": ["Kelly Bird"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Church Leadership 101 (1 Thessalonians 2:1-12)",
+      "start_time": 450,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird delivers the first part of a series titled 'Church Leadership 101'. He emphasizes the qualities of God-honoring leadership based on 1 Thessalonians, sharing personal anecdotes of joy and challenges in ministry. The sermon explores the purpose of leadership as a means to inspire and influence others toward righteousness.",
+      "keywords": ["leadership", "church", "1 Thessalonians", "influence", "inspiration"],
+      "performers": ["Kelly Bird"],
+      "songs": ["[]"],
+      "scripture_references": ["1 Thessalonians 2"]
+    },
+    {
+      "title": "Solo: [Unnamed Song]",
+      "start_time": 2583,
+      "type": "music",
+      "description": "A solo performance that captivates the congregation with heartfelt lyrics and moving melodies. The soloist's emotive delivery creates a deep connection with the audience, inviting them to reflect on the themes addressed in the preceding sermon. This music reinforces the overall message of community and faith.",
+      "keywords": ["solo", "music", "reflection", "emotion", "faith"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3552,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Kelly Bird, expressing gratitude for the time spent together and seeking God's guidance for the week ahead. The prayer emphasizes the importance of embodying the principles of leadership discussed in the sermon, calling on the congregation to serve their community.",
+      "keywords": ["closing", "prayer", "gratitude", "God", "leadership"],
+      "performers": ["Kelly Bird"],
+      "songs": ["[]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

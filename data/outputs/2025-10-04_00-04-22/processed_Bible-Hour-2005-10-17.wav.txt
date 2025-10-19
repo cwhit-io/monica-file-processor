@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "scripture: Scripture Reading: [Matthew 28:18-20]",
+      "start_time": 27,
+      "type": "scripture",
+      "description": "This scripture passage highlights Jesus' command to his disciples to make disciples of all nations. It emphasizes the importance of baptism and teaching, ensuring that believers continue to follow His teachings.",
+      "keywords": ["Jesus", "disciples", "baptism", "Great Commission", "teaching"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 28:18-20"]
+    },
+    {
+      "title": "announcement: Church Updates and Opportunities",
+      "start_time": 89,
+      "type": "announcement",
+      "description": "The speaker shares updates from a recent mission trip to Russia, expressing gratitude for the church community's support. They discuss opportunities for volunteering and connecting with local outreach efforts, encouraging participation in church initiatives.",
+      "keywords": ["mission trip", "Russia", "volunteer", "support", "outreach"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 288,
+      "type": "prayer",
+      "description": "This is the opening prayer for the service where the congregation is invited to reflect on spiritual gifts and the significance of serving in the church. It sets a tone of worship and readiness for the message.",
+      "keywords": ["prayer", "worship", "reflection", "spiritual gifts", "service"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Spiritual Gifts (1 Corinthians 12)",
+      "start_time": 290,
+      "type": "sermon",
+      "description": "In this sermon, the speaker discusses the importance of spiritual gifts within the body of Christ, referencing 1 Corinthians 12. The message encourages congregants to recognize and use their unique gifts to serve others and strengthen the church community.",
+      "keywords": ["spiritual gifts", "1 Corinthians", "service", "church", "community"],
+      "performers": ["Speaker"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 12"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3450,
+      "type": "prayer",
+      "description": "This prayer invites members of the congregation to reflect on their personal relationship with God and consider their spiritual gifts. It encourages them to seek ways to serve within the church and reach out to others.",
+      "keywords": ["invitation", "reflection", "spiritual gifts", "service", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Ministry Expo Invitation",
+      "start_time": 3474,
+      "type": "announcement",
+      "description": "The speaker invites the congregation to a ministry expo, providing an opportunity for members to learn about various ministries within the church. This event aims to help individuals discover their gifts and find ways to contribute.",
+      "keywords": ["ministry expo", "invitation", "gifts", "service", "involvement"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3531,
+      "type": "prayer",
+      "description": "In the closing prayer, the congregants are led to thank God for their gifts and the opportunity to serve. The prayer emphasizes the desire for everyone to actively participate in building up the church community.",
+      "keywords": ["closing prayer", "gratitude", "community", "service", "God's gifts"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Worship Song]",
+      "start_time": 3591,
+      "type": "music",
+      "description": "The choir performs a powerful worship song, engaging the congregation in praise and reflection. The music uplifts the spirit and reinforces the themes of unity and service within the church.",
+      "keywords": ["worship", "choir", "music", "praise", "community"],
+      "performers": ["Choir"],
+      "songs": ["Worship Song"],
+      "scripture_references": []
+    }
+  ]
+}
+```

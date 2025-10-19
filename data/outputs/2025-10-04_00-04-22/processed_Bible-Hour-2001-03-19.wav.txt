@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Glorious Things",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a choir performance that uplifts the congregation. The lyrics celebrate God's salvation and strength, encouraging attendees to trust in Him. This moment sets a joyous tone for the worship service.",
+      "keywords": ["salvation", "strength", "joy", "trust", "God"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Surely God is my salvation"],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: Search for Happiness",
+      "start_time": 90,
+      "type": "drama",
+      "description": "A light-hearted skit explores humorous perspectives on the quest for happiness through wealth, fame, and power. Characters debate what true fulfillment is, leading to a deeper reflection on the nature of joy in life beyond material desires.",
+      "keywords": ["joy", "happiness", "wealth", "fame", "power"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 450,
+      "type": "prayer",
+      "description": "The pastor leads an opening prayer, inviting God’s presence into the service. This prayer serves as a spiritual foundation, aligning the congregation’s hearts and minds towards worship and reflection.",
+      "keywords": ["prayer", "invocation", "worship", "community"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Acts 13",
+      "start_time": 480,
+      "type": "scripture",
+      "description": "The congregation listens attentively as scriptures from Acts 13 are read. This reading provides context for the sermon, highlighting the early church's mission and challenges faced by the apostles.",
+      "keywords": ["Acts", "scripture", "Bible"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Acts 13"]
+    },
+    {
+      "title": "Message: The Greatest Endeavor (Acts 13:14-52)",
+      "start_time": 540,
+      "type": "sermon",
+      "description": "The sermon emphasizes the importance of evangelism and the role of faith in spreading the gospel. The pastor encourages personal reflection on how strategic and sensitive we are in sharing faith with others, reminding the congregation of God's call to be a light in the world.",
+      "keywords": ["evangelism", "faith", "gospel", "strategy", "sensitivity"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Acts 13:14-52"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 1440,
+      "type": "prayer",
+      "description": "A moment of prayer invites the congregation to reflect on the sermon and consider their personal relationships with God. It encourages attendees to seek solace and guidance in their faith journeys.",
+      "keywords": ["invitation", "reflection", "faith", "community"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Sending Us Out",
+      "start_time": 1470,
+      "type": "music",
+      "description": "A solo performance concludes the service with a powerful song that sends the congregation out with encouragement and hope. The performance emphasizes themes of faith and the call to action, inspiring attendees as they leave.",
+      "keywords": ["worship", "faith", "hope", "congregation", "send off"],
+      "performers": ["Soloist"],
+      "songs": ["Send Me Out"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1715,
+      "type": "prayer",
+      "description": "The service closes with a heartfelt prayer, asking for God’s guidance and presence in the lives of the congregation as they depart. It reinforces the message of the sermon and encourages a spirit of outreach.",
+      "keywords": ["closing", "prayer", "guidance", "community"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

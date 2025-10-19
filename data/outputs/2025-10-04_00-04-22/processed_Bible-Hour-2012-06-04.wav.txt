@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Praise is Rising",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat musical piece performed by the choir. The atmosphere is uplifting, welcoming attendees and preparing them spiritually for the messages to come. The music creates a sense of community and joy.",
+      "keywords": ["music", "choir", "uplifting", "worship", "praise"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Praise is Rising"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Teaching Series",
+      "start_time": 202,
+      "type": "announcement",
+      "description": "Kelly Bird introduces a new teaching series titled 'Untouchable', which will address various challenging issues within the church such as homosexuality, politics, and justice. The objective is to discuss these topics openly and biblically, aiming to provide guidance and clarity.",
+      "keywords": ["announcement", "teaching series", "church", "issues", "guidance"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Overcome",
+      "start_time": 939,
+      "type": "music",
+      "description": "The choir performs a powerful rendition of 'Overcome', reflecting on the themes of victory and redemption in Christ. The lyrics affirm the belief in overcoming life's challenges through faith in Jesus' resurrection and His authority over sin and death.",
+      "keywords": ["choir", "worship", "victory", "faith", "redemption"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Overcome"],
+      "scripture_references": ["Revelation 12:10-11"]
+    },
+    {
+      "title": "Message: Wise, Foolish, and Evil People (Leadership Guidance)",
+      "start_time": 1685,
+      "type": "sermon",
+      "description": "Dr. Henry Cloud delves into the dynamics of leadership by identifying three types of people leaders will face: wise, foolish, and evil. He provides insights on how to interact with each group effectively, emphasizing the importance of adjusting approaches based on individual behaviors to ensure organizational success.",
+      "keywords": ["leadership", "wisdom", "foolishness", "evil", "Dr. Henry Cloud"],
+      "performers": ["Dr. Henry Cloud"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3496,
+      "type": "prayer",
+      "description": "The service concludes with an invitation prayer, offering attendees a moment to reflect and respond to the messages shared. This is an opportunity for personal connection with God and a time to seek His guidance as they navigate life's challenges.",
+      "keywords": ["prayer", "invitation", "reflection", "guidance", "worship"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

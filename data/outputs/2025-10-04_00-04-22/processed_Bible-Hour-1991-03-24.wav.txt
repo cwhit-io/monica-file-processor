@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: What Music I Hear in Your Name",
+      "start_time": 149,
+      "type": "music",
+      "description": "The Sanctuary Choir, accompanied by soloist Susan Toy rack stump, performs the poignant piece 'What Music I Hear in Your Name'. This song beautifully encapsulates the themes of Easter and the resurrection, inviting the congregation to reflect on the significance of Jesus' name and his sacrifice.",
+      "keywords": ["choir", "Easter", "resurrection", "Jesus", "music"],
+      "performers": ["Sanctuary Choir", "Susan Toy rack stump"],
+      "songs": ["What Music I Hear in Your Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: And Can It Be",
+      "start_time": 507,
+      "type": "music",
+      "description": "The congregation joins in singing the beloved hymn 'And Can It Be', celebrating the wonder of God's love and sacrifice through Jesus Christ. The first two verses resonate with themes of grace and redemption, inviting participants to reflect on the depth of Christ's love.",
+      "keywords": ["congregational", "hymn", "grace", "redemption", "Jesus"],
+      "performers": [],
+      "songs": ["And Can It Be"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: I Love to Tell the Story",
+      "start_time": 672,
+      "type": "music",
+      "description": "Dave and Debbie Johnson present a special instrumental rendition of 'I Love to Tell the Story'. This piece highlights the joy of sharing the gospel and the transformative power of Christ's love, setting a reflective tone for the service.",
+      "keywords": ["instrumental", "story", "gospel", "music", "Jesus"],
+      "performers": ["Dave Johnson", "Debbie Johnson"],
+      "songs": ["I Love to Tell the Story"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1512,
+      "type": "prayer",
+      "description": "The pastor leads a heartfelt opening prayer, thanking God for the gift of salvation through Jesus Christ. He prays for the congregation's focus on worship and the needs within the church community, setting a spiritual tone for the service ahead.",
+      "keywords": ["prayer", "worship", "gratitude", "church", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Triumphal Entry (Matthew 21:1-11)",
+      "start_time": 1714,
+      "type": "sermon",
+      "description": "Russell Moore delivers a compelling message on the triumphal entry of Jesus into Jerusalem. He explores the significance of this event in the context of Easter, addressing themes of hope, betrayal, and the fulfillment of prophecy. The message challenges congregants to recognize Jesus' true mission as it unfolds—a mission leading to sacrifice and redemption.",
+      "keywords": ["sermon", "triumphal entry", "Easter", "Jesus", "Matthew 21"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Matthew 21:1-11"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3451,
+      "type": "prayer",
+      "description": "The pastor offers an invitation prayer, encouraging anyone who feels led to accept Christ to do so. This prayer seeks to affirm faith and invite individuals to make a formal commitment to follow Jesus, reinforcing the day’s message about salvation.",
+      "keywords": ["invitation", "faith", "commitment", "prayer", "salvation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: He Giveth More Grace",
+      "start_time": 3567,
+      "type": "music",
+      "description": "The congregation joins together in singing 'He Giveth More Grace'. The hymn serves as a powerful reminder of God's abundant grace in our lives, encouraging believers to rely on His strength amid trials and celebrating the hope found in His love.",
+      "keywords": ["congregational", "hymn", "grace", "hope", "community"],
+      "performers": [],
+      "songs": ["He Giveth More Grace"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3617,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by the pastor, expressing gratitude for the worship experience and asking for God's guidance as the congregation departs. This prayer encapsulates the day's themes and emphasizes ongoing faith in everyday life.",
+      "keywords": ["closing", "prayer", "thanksgiving", "guidance", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

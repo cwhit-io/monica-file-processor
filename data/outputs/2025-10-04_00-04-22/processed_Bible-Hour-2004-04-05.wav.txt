@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Unknown",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a bell ringing, followed by a choir performance that fills the atmosphere with anticipation and energy. The music features a blend of original and traditional hymns, creating a joyful environment for the congregation as they prepare for worship.",
+      "keywords": ["choir", "worship", "music", "celebration", "joy"],
+      "performers": ["Unknown"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Unknown",
+      "start_time": 30,
+      "type": "music",
+      "description": "The congregation engages in a dynamic hymn, lifting their voices together in worship. The heartfelt lyrics encourage participation and reflection on the themes of faith and community, setting a foundation for the service that follows.",
+      "keywords": ["hymn", "congregation", "worship", "faith", "community"],
+      "performers": ["Unknown"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Resurrection and Its Impact (Isaiah 53, 1 Corinthians 15)",
+      "start_time": 1113,
+      "type": "sermon",
+      "description": "The sermon focuses on the profound implications of the resurrection of Jesus Christ. The preacher delves into biblical prophecies from Isaiah and the significance of Christ's death and resurrection as essential to salvation. Through engaging storytelling and deep theological insights, the message highlights themes of hope, forgiveness, and the transformative power of faith, encouraging listeners to respond to the gospel's call.",
+      "keywords": ["resurrection", "forgiveness", "hope", "faith", "Isaiah"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["Isaiah 53", "1 Corinthians 15:17-20"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3532,
+      "type": "prayer",
+      "description": "The service concludes with a powerful closing prayer as the pastor invites attendees to reflect on the day's message. The prayer emphasizes seeking God’s guidance and strength, fostering a spirit of gratitude and commitment among the congregation as they move forward in their faith journeys.",
+      "keywords": ["prayer", "closing", "faith", "guidance", "gratitude"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

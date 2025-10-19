@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Flawless",
+      "start_time": 1,
+      "type": "music",
+      "description": "The worship team performs the song 'Flawless,' emphasizing themes of redemption and grace. The lyrics remind the congregation that, no matter their past struggles or scars, faith in Jesus leads to a state of perfection through His sacrifice. The atmosphere is filled with heartfelt worship and gratitude.",
+      "keywords": ["worship", "grace", "redemption", "Flawless"],
+      "performers": ["Worship Team"],
+      "songs": ["Flawless"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: God's Plan (2 Samuel 7)",
+      "start_time": 46,
+      "type": "sermon",
+      "description": "In this sermon, the speaker shares their personal journey of accepting God's will, illustrated through the story of King David's desire to build a temple. They delve into God's responses to our plans, highlighting that His 'no' often leads to a greater purpose. The message encourages humility, prayer, and reliance on God's timing.",
+      "keywords": ["God's plan", "David", "prayer", "humility", "2 Samuel 7"],
+      "performers": ["Rich Taverni"],
+      "songs": [],
+      "scripture_references": ["2 Samuel 7"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 2141,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer where the speaker thanks God for His love and guidance, asking for wisdom and humility to accept His plans. The prayer sets a reflective tone, inviting the congregation to seek a deeper connection with the Lord.",
+      "keywords": ["prayer", "humility", "guidance"],
+      "performers": ["Rich Taverni"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 2 Samuel 7",
+      "start_time": 954,
+      "type": "scripture",
+      "description": "A reading from 2 Samuel chapter 7, which recounts God's covenant with David. This passage serves as the foundation for the sermon, emphasizing God's promises and His plan for David's lineage, ultimately leading to Jesus.",
+      "keywords": ["2 Samuel", "covenant", "God's promise"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["2 Samuel 7"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2179,
+      "type": "prayer",
+      "description": "The closing prayer reaffirms the congregation's commitment to seek God's will in their lives. It emphasizes gratitude and the importance of remaining humble while pursuing His heart, inviting God to lead the way in their personal journeys.",
+      "keywords": ["closing prayer", "gratitude", "commitment"],
+      "performers": ["Rich Taverni"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

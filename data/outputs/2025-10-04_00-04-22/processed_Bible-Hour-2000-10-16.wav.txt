@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: You Are Holy",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir leads the congregation in a vibrant worship song, expressing themes of holiness, might, and love for God. The lyrics celebrate God's worthiness and invite the congregation to follow and worship Him wholeheartedly. This charged atmosphere sets a tone of reverence and excitement for the service ahead.",
+      "keywords": ["worship", "choir", "holiness", "God", "song"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["You Are Holy"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 92,
+      "type": "music",
+      "description": "The choir continues with another uplifting song that fosters community spirit and brings the congregation together in worship. The verses articulate faith and commitment, urging everyone to partake in the celebration of God's love and grace. The performance enhances the sense of togetherness among the worshippers.",
+      "keywords": ["community", "celebration", "faith", "worship", "choir"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Active Ingredients of a Healthy Church (Acts 2)",
+      "start_time": 172,
+      "type": "sermon",
+      "description": "The sermon focuses on four active ingredients essential in fostering a vibrant church community. Drawing from Acts 2, the preacher emphasizes teaching, fellowship, communion, and prayer, illustrating how these elements contribute to spiritual growth and a supportive church family. Personal anecdotes and scriptural references engage the congregation to reflect on their roles within the church body.",
+      "keywords": ["Acts", "church", "teaching", "fellowship", "prayer"],
+      "performers": ["Pastor [Name]"],
+      "songs": [],
+      "scripture_references": ["Acts 2"]
+    },
+    {
+      "title": "[Choir or Solo] : [Song Title]",
+      "start_time": 3496,
+      "type": "music",
+      "description": "In a reflective song, the group or soloist invites the congregation to engage in a moment of deep personal worship. The music serves to reinforce the themes discussed in the sermon, encouraging listeners to consider their place within the Church and God's call on their lives.",
+      "keywords": ["worship", "reflection", "song"],
+      "performers": ["[Choir or Soloist Name]"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3341,
+      "type": "prayer",
+      "description": "The congregation participates in a heartfelt opening prayer, collectively asking for guidance and the presence of God throughout the service. This moment establishes a spiritual foundation and prepares the attendees for the teaching and worship that follow.",
+      "keywords": ["prayer", "worship", "guidance", "community"],
+      "performers": ["Pastor [Name]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3475,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, where the pastor reflects on the themes shared during the sermon, asking for strength to implement these active ingredients in each individual's life. This prayer serves as a blessing to the congregation as they depart.",
+      "keywords": ["closing", "blessing", "community", "prayer"],
+      "performers": ["Pastor [Name]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Worship Song",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir leads the congregation in an uplifting worship song, expressing awe at God's creations. The lyrics invite the Holy Spirit to fill the place, creating an atmosphere of reverence and unity among the worshippers.",
+      "keywords": ["worship", "Holy Spirit", "awe", "unity", "choir"],
+      "performers": ["Choir"],
+      "songs": ["Worship Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: We Serve an Awesome God",
+      "start_time": 295,
+      "type": "music",
+      "description": "The congregation joins together to sing 'We Serve an Awesome God,' further enhancing the worship experience. The performance emphasizes the community's collective faith and joy in spirit as they echo the powerful message of the lyrics.",
+      "keywords": ["worship", "congregation", "awesome God", "faith", "community"],
+      "performers": ["Congregation"],
+      "songs": ["We Serve an Awesome God"],
+      "scripture_references": []
+    },
+    {
+      "title": "baptism: Ryan Mitchell",
+      "start_time": 812,
+      "type": "baptism",
+      "description": "Ryan Mitchell shares his heartfelt testimony, reflecting on his journey of faith. After his confession, he is baptized in the name of the Father, the Son, and the Holy Spirit, symbolizing his obedience and commitment to his faith.",
+      "keywords": ["baptism", "Ryan Mitchell", "testimony", "faith", "obedience"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "baptism: Lily and Grace Buchanan",
+      "start_time": 880,
+      "type": "baptism",
+      "description": "Lily and Grace Buchanan, daughters of Adam and Amy, take the step of baptism together after confirming their faith in Jesus Christ. The congregation rejoices in their commitment to follow Christ publicly.",
+      "keywords": ["baptism", "Lily Buchanan", "Grace Buchanan", "faith", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Ed Fry",
+      "start_time": 946,
+      "type": "testimony",
+      "description": "Ed Fry shares his personal story of transformation through Christ. He recounts the struggles he faced and how he ultimately accepted God's love, highlighting the power of grace and the impact of faith in his life.",
+      "keywords": ["testimony", "Ed Fry", "transformation", "grace", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Worship Reflection",
+      "start_time": 1227,
+      "type": "music",
+      "description": "The choir leads a reflective worship song that encourages the congregation to contemplate God's presence and love. The melody and lyrics evoke a sense of peace and connection with the divine.",
+      "keywords": ["worship", "reflection", "choir", "peace", "connection"],
+      "performers": ["Choir"],
+      "songs": ["Worship Reflection"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: A Church on Mission (Mark 10:35-45)",
+      "start_time": 1904,
+      "type": "sermon",
+      "description": "Pastor Stewart Cruz delivers an insightful sermon on the theme of servanthood and the mission of the church, anchored in Mark 10:35-45. He emphasizes that being part of a church means prioritizing service over selfishness, ensuring the community remains focused on reaching people for Christ.",
+      "keywords": ["sermon", "mission", "servanthood", "Mark", "church"],
+      "performers": ["Stewart Cruz"],
+      "songs": [],
+      "scripture_references": ["Mark 10:35-45"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3533,
+      "type": "prayer",
+      "description": "Pastor Stewart leads the congregation in a closing prayer, dedicating the facility to God's service and asking for His guidance in reaching those in need. The prayer encapsulates the theme of the service, inviting the Holy Spirit's presence in their community efforts.",
+      "keywords": ["prayer", "closing", "dedication", "Holy Spirit", "community"],
+      "performers": ["Stewart Cruz"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,86 @@
+```json
+{
+    "chapters": [
+        {
+            "title": "Choir: [MUSIC]",
+            "start_time": 0,
+            "type": "music",
+            "description": "The service begins with a choir performance that sets the tone for the gathering, inviting the congregation into a spirit of worship. The music selected encourages attendees to engage with the themes of the service.",
+            "keywords": ["worship", "choir", "music", "community"],
+            "performers": ["Choir"],
+            "songs": ["[MUSIC]"],
+            "scripture_references": []
+        },
+        {
+            "title": "testimony: Joe's Story",
+            "start_time": 60,
+            "type": "testimony",
+            "description": "Joe shares a heartfelt testimony about his journey with his wife Angie as they faced her cancer diagnosis. He recounts the challenges, surgeries, and moments of hope they experienced, highlighting the importance of faith and family in their difficult times.",
+            "keywords": ["testimony", "cancer", "faith", "family", "challenge"],
+            "performers": ["Joe Cox"],
+            "songs": [],
+            "scripture_references": []
+        },
+        {
+            "title": "testimony: Diana's Story",
+            "start_time": 336,
+            "type": "testimony",
+            "description": "Diana takes the stage to share her own deeply personal story, which revolves around her husband's unexpected illness and passing. Her journey showcases both the pain of loss and the strength found in faith and community, culminating in a message of hope.",
+            "keywords": ["testimony", "loss", "hope", "faith"],
+            "performers": ["Diana Hevel"],
+            "songs": [],
+            "scripture_references": []
+        },
+        {
+            "title": "Congregational Hymn: [MUSIC]",
+            "start_time": 1128,
+            "type": "music",
+            "description": "The congregation joins together in song, affirming their faith and expressing communal worship. This hymn serves to uplift spirits and create an atmosphere of unity among those present.",
+            "keywords": ["hymn", "congregation", "worship", "community"],
+            "performers": [],
+            "songs": ["[MUSIC]"],
+            "scripture_references": []
+        },
+        {
+            "title": "Message: A New Model (John 13)",
+            "start_time": 1307,
+            "type": "sermon",
+            "description": "The pastor delivers a powerful sermon based on John 13, emphasizing the new commandment of love. He explores the implications of Jesus's command to love one another, encouraging the congregation to embody this principle in their everyday lives, especially in the current societal context.",
+            "keywords": ["sermon", "love", "hope", "Jesus", "commandment"],
+            "performers": ["Pastor"],
+            "songs": [],
+            "scripture_references": ["John 13"]
+        },
+        {
+            "title": "prayer: Invitation Prayer",
+            "start_time": 3299,
+            "type": "prayer",
+            "description": "A reflective invitation prayer is offered, inviting participants to consider their relationship with God and the love shared in the community. This moment serves as a call for anyone seeking spiritual connection or wanting to deepen their faith.",
+            "keywords": ["prayer", "invitation", "faith", "connection"],
+            "performers": ["Pastor"],
+            "songs": [],
+            "scripture_references": []
+        },
+        {
+            "title": "scripture: Scripture Reading: [Book Chapter]",
+            "start_time": 3317,
+            "type": "scripture",
+            "description": "A scripture reading is shared to emphasize the themes of the sermon and the testimonies shared. It aligns with the messages of hope and love woven throughout the service.",
+            "keywords": ["scripture", "reading", "hope", "faith"],
+            "performers": [],
+            "songs": [],
+            "scripture_references": []
+        },
+        {
+            "title": "Congregational Hymn: [MUSIC]",
+            "start_time": 3460,
+            "type": "music",
+            "description": "The service concludes with a final hymn sung by the congregation, encapsulating the themes of love and community addressed throughout the service. The song is a celebration of faith and unity among the attendees.",
+            "keywords": ["hymn", "congregational", "faith", "worship"],
+            "performers": [],
+            "songs": ["[MUSIC]"],
+            "scripture_references": []
+        }
+    ]
+}
+```

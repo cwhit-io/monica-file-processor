@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Praise Him",
+      "start_time": 54,
+      "type": "music",
+      "description": "The sanctuary choir leads the congregation in a spirited song of worship, inviting everyone to engage in heartfelt praise. The lyrics reflect themes of devotion and adoration, urging the listeners to recognize the divine presence in their lives.",
+      "keywords": ["choir", "praise", "worship", "music", "praise him"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Praise Him"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Valley of Blessing",
+      "start_time": 1050,
+      "type": "music",
+      "description": "A solo performance resonates with the congregation, expressing a deep personal journey through trials and ultimate faith in God's blessings. The song beautifully captures the theme of perseverance and hope amid challenges.",
+      "keywords": ["solo", "blessing", "trials", "faith", "hope"],
+      "performers": ["Kevin Rowe"],
+      "songs": ["Valley of Blessing"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting God’s presence and blessing upon the gathering. The pastor expresses gratitude and seeks guidance and wisdom for the day’s worship and message.",
+      "keywords": ["opening", "prayer", "worship"],
+      "performers": ["Pastor Tim Teder"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Thin Skins of Reason (Genesis 3)",
+      "start_time": 645,
+      "type": "sermon",
+      "description": "Pastor Tim Teder delivers a compelling message exploring the theme of excuses and responsibility. He discusses biblical narratives and life applications, emphasizing honesty and obedience to God through personal anecdotes and scriptural references.",
+      "keywords": ["excuses", "responsibility", "sermon", "Tim Teder", "Genesis"],
+      "performers": ["Pastor Tim Teder"],
+      "songs": [],
+      "scripture_references": ["Genesis 3"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3379,
+      "type": "prayer",
+      "description": "A heartfelt invitation prayer is offered, encouraging those who feel a tug in their hearts to accept Jesus Christ. The pastor leads the congregation in a moment of reflection and commitment, asking for God's guidance in personal decisions.",
+      "keywords": ["invitation", "prayer", "commitment"],
+      "performers": ["Pastor Tim Teder"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Great Is Thy Faithfulness",
+      "start_time": 3414,
+      "type": "music",
+      "description": "The congregation joins together in singing one of the timeless hymns celebrating God’s faithfulness. This communal worship fosters a sense of unity and reflects on the goodness of God throughout their lives.",
+      "keywords": ["congregational", "hymn", "faithfulness", "worship"],
+      "performers": [],
+      "songs": ["Great Is Thy Faithfulness"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3486,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for the worship experience and asking for His continued presence in the lives of the attendees. The pastor intercedes for those who may have made decisions during the service.",
+      "keywords": ["closing", "prayer", "thanksgiving"],
+      "performers": ["Pastor Tim Teder"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 290,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer led by Steve Webster. He seeks God's presence and guidance, expressing a desire for the congregation to hear and understand the message from Judges 7. He acknowledges the challenges faced by attendees, reminding them of God's greatness.",
+      "keywords": ["prayer", "opening", "guidance", "God", "message"],
+      "performers": ["Steve Webster"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Judges 7",
+      "start_time": 344,
+      "type": "scripture",
+      "description": "The scripture reading for the day comes from Judges chapter 7, detailing the story of Gideon. This historical narrative describes Gideon's preparations and God's guidance as he rallies troops to face the Midianites. The reading sets the stage for the sermon that follows.",
+      "keywords": ["Gideon", "Judges", "scripture", "Israel", "Midian"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Judges 7"]
+    },
+    {
+      "title": "Message: Inadequate Me (Judges 7)",
+      "start_time": 240,
+      "type": "sermon",
+      "description": "Steve Webster delivers a powerful sermon focusing on Gideon's journey and the theme of inadequacy. He emphasizes God's call to obedience and His ability to empower those He chooses. The sermon explores God's nature as one who saves and strengthens His people through their weaknesses.",
+      "keywords": ["Gideon", "inadequacy", "salvation", "obedience", "strength"],
+      "performers": ["Steve Webster"],
+      "songs": [],
+      "scripture_references": ["Judges 7"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2200,
+      "type": "prayer",
+      "description": "The service transitions to an invitation prayer where Steve urges attendees to respond to God's call. He prays for those who may acknowledge their need for salvation and offers a moment of reflection, inviting them to reach out to God for strength and guidance.",
+      "keywords": ["invitation", "prayer", "salvation", "reflection", "response"],
+      "performers": ["Steve Webster"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2262,
+      "type": "prayer",
+      "description": "As the service concludes, a closing prayer is led by Steve Webster. He expresses gratitude for the congregation and emphasizes the message of God's adequacy in their lives. He prays for strength and encouragement for all to carry forward the teachings shared.",
+      "keywords": ["closing", "thanksgiving", "prayer", "encouragement", "God"],
+      "performers": ["Steve Webster"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

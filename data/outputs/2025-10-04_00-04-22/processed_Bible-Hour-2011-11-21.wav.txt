@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat music section, setting a joyful and engaging tone for the gathering. It's a time for the congregation to prepare their hearts for worship and the message ahead.",
+      "keywords": ["worship", "music", "joy", "celebration"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Stories of Going",
+      "start_time": 31,
+      "type": "testimony",
+      "description": "Several congregants share their experiences and testimonies about their journeys of faith and service. They highlight the challenges and rewards of going out into the community and the world, echoing God's call to be His ambassadors.",
+      "keywords": ["testimony", "service", "faith", "community"],
+      "performers": ["Jan Cox", "Sarah Rogers", "Brittany King", "Shaley", "Doug Crane"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1235,
+      "type": "prayer",
+      "description": "The service includes an opening prayer that seeks God's guidance for the testimonies shared and the message to follow. The congregation is encouraged to extend their hands in support of those sharing.",
+      "keywords": ["prayer", "guidance", "community", "support"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Your Best Life Now (Deuteronomy 9)",
+      "start_time": 1272,
+      "type": "sermon",
+      "description": "The sermon focuses on living a life that pleases God, emphasizing obedience and faithfulness. It connects the historical significance of the Israelites entering the promised land with contemporary believers' lives and their unique 'land' or calling in the world.",
+      "keywords": ["life", "obedience", "faith", "promised land"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": ["Deuteronomy 9"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3490,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service with thankfulness for the message shared and asks for God's guidance and strength for the week ahead. It emphasizes reliance on God's presence in their daily lives.",
+      "keywords": ["prayer", "thankfulness", "guidance", "strength"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

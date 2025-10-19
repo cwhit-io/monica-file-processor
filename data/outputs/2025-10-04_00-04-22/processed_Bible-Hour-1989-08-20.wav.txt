@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: He is Jehovah",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a choir performance of 'He is Jehovah', celebrating the greatness of God through powerful vocals. This song emphasizes the diverse roles of God in creation and throughout history, inviting the congregation to engage in worship through music.",
+      "keywords": ["worship", "choir", "god", "creation", "jehovah"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["He is Jehovah"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: number 8",
+      "start_time": 445,
+      "type": "music",
+      "description": "The congregation joins in singing hymn number 8, creating a unified moment of praise and reflection as they engage with the lyrics together. This segment showcases the importance of collective worship in the church setting.",
+      "keywords": ["hymn", "congregational", "worship", "praise", "community"],
+      "performers": [],
+      "songs": ["number 8"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: The Rock of Faith is Jesus",
+      "start_time": 628,
+      "type": "music",
+      "description": "Soloist Brian Lowson performs 'The Rock of Faith is Jesus', encapsulating the theme of finding refuge and strength in faith. The song expresses deep trust in Jesus and invites listeners to reflect on their relationship with the Savior.",
+      "keywords": ["faith", "jesus", "refuge", "strength", "solo"],
+      "performers": ["Brian Lowson"],
+      "songs": ["The Rock of Faith is Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1492,
+      "type": "prayer",
+      "description": "The opening prayer sets a tone of worship, asking for God's presence and guidance during the service. It acknowledges the need for encouragement and intervention in both personal and communal struggles, framing the day's message within prayerful reverence.",
+      "keywords": ["prayer", "opening", "worship", "gathering"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Me, a Missionary (2 Timothy 2:1-2)",
+      "start_time": 1504,
+      "type": "sermon",
+      "description": "Rick Hawks delivers a compelling sermon titled 'Me, a Missionary,' focusing on the call to be witnesses for Christ. Using 2 Timothy 2 as a foundation, he emphasizes everyone's role in sharing the Gospel, encouraging the congregation to overcome fears and misconceptions surrounding evangelism.",
+      "keywords": ["missions", "witness", "evangelism", "testimony", "2 timothy"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["2 Timothy 2"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3572,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, inviting listeners to respond to the call of Christ. It emphasizes the importance of decision-making in faith, appealing to those seeking to deepen their relationship with Jesus or make first-time commitments.",
+      "keywords": ["invitation", "prayer", "commitment", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Concert",
+      "start_time": 876,
+      "type": "announcement",
+      "description": "The service includes announcements about an upcoming concert featuring Buddy Green, highlighting the significance of music ministry in the church. It encourages attendees to participate and support events designed for community engagement and worship.",
+      "keywords": ["concert", "community", "event", "music", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

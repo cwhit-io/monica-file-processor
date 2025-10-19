@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: I Am",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with stirring music as the choir performs 'I Am'. This sets a reflective and celebratory mood for the special day at the Bible Hour. The music encourages attendees to engage in worship and prepares their hearts for the service ahead.",
+      "keywords": ["music", "choir", "worship", "celebration", "Bible Hour"],
+      "performers": ["Reflection"],
+      "songs": ["I Am"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: New Pastor Introduction",
+      "start_time": 103,
+      "type": "announcement",
+      "description": "Welcome announcements are made, introducing Russell Moore as the new pastor teacher at Black Hawk Baptist Church. The anticipation for his message builds as he is recognized for stepping into this vital role in the church community. Several mentions of the significant history of the Bible Hour and the church are shared.",
+      "keywords": ["announcement", "pastor", "welcome", "Bible Hour", "Black Hawk"],
+      "performers": ["Peter Kobe", "Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: I Am Not Ashamed",
+      "start_time": 185,
+      "type": "music",
+      "description": "A solo by Marilyn Wong entitled 'I Am Not Ashamed' is presented, reinforcing the themes of faith and courage. The emotional delivery is likely to resonate with the congregation, drawing them closer to the message that will follow.",
+      "keywords": ["music", "solo", "faith", "courage", "worship"],
+      "performers": ["Marilyn Wong"],
+      "songs": ["I Am Not Ashamed"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Upon This Rock",
+      "start_time": 204,
+      "type": "music",
+      "description": "The sanctuary choir enchanting the congregation with 'Upon This Rock' provides a tactical transition into the forthcoming message. It emphasizes strength in faith and the foundation that Christ offers.",
+      "keywords": ["music", "choir", "faith", "strength", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Upon This Rock"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Lord Has Done Great Things (Psalms 126)",
+      "start_time": 658,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers his inaugural message titled 'The Lord Has Done Great Things,' based on Psalm 126. He reflects on God's past blessings and the transformative power of faith. The sermon weaves together personal anecdotes and scriptural insights, inviting the congregation to embrace a hopeful future.",
+      "keywords": ["sermon", "Russell Moore", "Psalm 126", "faith", "hope"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Psalms 126"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3440,
+      "type": "prayer",
+      "description": "A heartfelt closing prayer concludes the service, thanking God for His blessings and the opportunity to gather. The pastor reflects on the journey ahead, asking for guidance and strength for the congregation as they move forward together.",
+      "keywords": ["prayer", "closing", "worship", "blessings", "guidance"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

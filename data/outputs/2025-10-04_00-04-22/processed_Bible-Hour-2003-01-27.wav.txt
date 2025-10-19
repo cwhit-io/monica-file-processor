@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Music]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with the sound of a bell ringing, followed by upbeat music that sets a positive tone for the gathering. This music creates an inviting atmosphere, encouraging congregants to engage in the worship experience. The rhythm and melody aim to lift spirits and prepare hearts for the message ahead.",
+      "keywords": ["worship", "music", "atmosphere", "invitation", "joy"],
+      "performers": [],
+      "songs": ["Music"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Temptation and Sin (James 1)",
+      "start_time": 90,
+      "type": "sermon",
+      "description": "In this powerful message, Pastor Kelly Bird discusses the themes of temptation and sin, drawing insights from the book of James. He emphasizes the destructive nature of sin and the importance of resisting the enemy. The sermon encourages listeners to draw near to God, equipping them with the strength needed to overcome sin's challenges and fostering a deeper understanding of redemption.",
+      "keywords": ["sin", "temptation", "James", "resist", "God"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["James 1", "James 4:7-8"]
+    },
+    {
+      "title": "Choir: [Worship Song]",
+      "start_time": 288,
+      "type": "music",
+      "description": "The worship continues with a choir performance that invites the congregation into a deeper connection with the Creator. This lyrical piece enhances the worship experience, allowing individuals to reflect on the message while praising together. The arrangement encourages congregants to engage heartily, lifting their voices in unity.",
+      "keywords": ["worship", "choir", "song", "praise", "unity"],
+      "performers": [],
+      "songs": ["Worship Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Song]",
+      "start_time": 3613,
+      "type": "music",
+      "description": "As the service progresses, a soloist shares a moving song that captivates the congregation. This performance serves as a personal reflection on faith and draws the audience into a contemplative state. The emotion and message of the song resonate deeply, providing an opportunity for personal connection with God.",
+      "keywords": ["solo", "worship", "emotion", "faith", "connection"],
+      "performers": [],
+      "songs": ["Song"],
+      "scripture_references": []
+    }
+  ]
+}
+```

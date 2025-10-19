@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Upbeat Music]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat music selection that welcomes attendees and sets a positive tone for the gathering.",
+      "keywords": ["music", "upbeat", "church", "welcome", "service"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "announcement: Leadership Summit Opportunity",
+      "start_time": 34,
+      "type": "announcement",
+      "description": "Pastor Kelly Bird discusses an upcoming Leadership Summit, emphasizing its importance for community leaders and encouraging viewers to register with a special access code for a reduced rate.",
+      "keywords": ["Leadership Summit", "registration", "opportunity", "community", "training"],
+      "performers": ["Kelly Bird"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "scripture: Scripture Reading: [Ephesians 2]",
+      "start_time": 156,
+      "type": "scripture",
+      "description": "A reading from Ephesians 2 outlines themes of sin, mercy, and the transformative power of God's grace in believers' lives, setting the stage for the upcoming sermon.",
+      "keywords": ["Ephesians", "grace", "mercy", "sin", "transformation"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["Ephesians 2"]
+    },
+    {
+      "title": "Message: The Road to Recovery (Ephesians 2)",
+      "start_time": 169,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird shares a powerful message about the journey toward recovery and repentance. He emphasizes the importance of acknowledging sin, community support, and the need for God's transformative power in overcoming life’s destructive patterns.",
+      "keywords": ["recovery", "repentance", "sin", "community", "transformation"],
+      "performers": ["Kelly Bird"],
+      "songs": ["[]"],
+      "scripture_references": ["Ephesians 2"]
+    },
+    {
+      "title": "testimony: Tom's Story of Redemption",
+      "start_time": 950,
+      "type": "testimony",
+      "description": "Tom shares his personal testimony of struggle with sin, addiction, and eventual redemption. His candid recounting highlights God's grace and the impact of community in overcoming deep-seated issues.",
+      "keywords": ["testimony", "redemption", "grace", "community", "struggle"],
+      "performers": ["Tom"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 1130,
+      "type": "prayer",
+      "description": "Pastor Kelly leads an invitation prayer encouraging all attendees to seek God's guidance and healing in their lives as they reflect on the messages shared during the service.",
+      "keywords": ["prayer", "invitation", "healing", "guidance", "reflection"],
+      "performers": ["Kelly Bird"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Choir: [Worship Song]",
+      "start_time": 1144,
+      "type": "music",
+      "description": "The choir leads the congregation in a worship song that uplifts the spirit and reinforces the themes of redemption and grace discussed in the service.",
+      "keywords": ["worship", "choir", "song", "praise", "community"],
+      "performers": ["Choir"],
+      "songs": ["Worship Song"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Congregational Hymn: [Praise You, Jesus]",
+      "start_time": 3271,
+      "type": "music",
+      "description": "The service concludes with a congregational hymn, inviting everyone to join in praise and worship, celebrating the themes of inner transformation and reliance on Jesus.",
+      "keywords": ["hymn", "praise", "Jesus", "congregation", "worship"],
+      "performers": ["[]"],
+      "songs": ["Praise You, Jesus"],
+      "scripture_references": ["[]"]
+    }
+  ]
+}
+```

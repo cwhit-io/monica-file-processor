@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: He Can Move the Mountains",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir performs an uplifting song that emphasizes the might and power of God to change lives. Lyrics focus on themes of mercy, grace, and the ability to overcome obstacles through faith. The joyous atmosphere encourages the congregation to reflect on their relationship with God.",
+      "keywords": ["choir", "song", "mercy", "grace", "power"],
+      "performers": ["[Choir]"],
+      "songs": ["He Can Move the Mountains"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Offer of Salvation",
+      "start_time": 539,
+      "type": "music",
+      "description": "The choir continues with a powerful anthem celebrating the offer of salvation through Jesus. This segment touches the congregation's hearts, reminding them of the transformative power of faith. The message resonates with the audience, igniting a sense of hope.",
+      "keywords": ["salvation", "Jesus", "power", "hope", "choir"],
+      "performers": ["[Choir]"],
+      "songs": ["Offer of Salvation"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 757,
+      "type": "prayer",
+      "description": "The leader offers an opening prayer, seeking God's guidance and light to shine in the hearts of the congregation. This prayer emphasizes the church's mission to reflect God's glory through good deeds and encourage unity among the attendees.",
+      "keywords": ["prayer", "guidance", "light", "unity", "community"],
+      "performers": ["[Leader]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: True Church, God's Design for the Body (1 Timothy 3:8-13)",
+      "start_time": 787,
+      "type": "sermon",
+      "description": "The sermon focuses on the foundational qualities of church leadership as outlined in 1 Timothy. The speaker emphasizes the importance of integrity, character, and godliness in church leaders while addressing the church's cultural context. The message aims to inspire the congregation to uphold these values in their lives.",
+      "keywords": ["leadership", "integrity", "character", "godliness", "church"],
+      "performers": ["[Speaker]"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 3:8-13"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3330,
+      "type": "prayer",
+      "description": "A heartfelt invitation prayer invites attendees to open their hearts to God's calling. This moment creates an atmosphere of introspection, urging individuals to consider their personal commitments to godliness and integrity in their lives.",
+      "keywords": ["invitation", "prayer", "commitment", "godliness", "introspection"],
+      "performers": ["[Leader]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Follow You Into the World",
+      "start_time": 3514,
+      "type": "music",
+      "description": "The choir performs a moving song that encourages followers to commit their lives to God's will. It speaks to the desire to serve the needy and exemplifies the gospel's call to action in the world. The performance stirs the congregation, promoting a sense of mission.",
+      "keywords": ["follow", "commitment", "service", "gospel", "choir"],
+      "performers": ["[Choir]"],
+      "songs": ["Follow You Into the World"],
+      "scripture_references": []
+    }
+  ]
+}
+```

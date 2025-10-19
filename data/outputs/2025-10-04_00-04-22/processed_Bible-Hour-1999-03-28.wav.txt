@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Thank You, O My Father",
+      "start_time": 153,
+      "type": "music",
+      "description": "The choir performs a heartfelt rendition of 'Thank You, O My Father,' which expresses gratitude for God's son and the Holy Spirit while reflecting on divine love and support. The lyrics highlight the hope of eternal life and the joy of God's presence. This uplifting piece sets the tone for worship.",
+      "keywords": ["choir", "thank you", "worship", "father", "spirit"],
+      "performers": ["Choir"],
+      "songs": ["Thank You, O My Father"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Christ the Lord Is Risen Today",
+      "start_time": 432,
+      "type": "music",
+      "description": "The congregation joyfully sings 'Christ the Lord Is Risen Today,' a classic Easter hymn celebrating the resurrection of Jesus. The chorus exclaims the joy and victory of Christ's resurrection, inviting participants to engage wholeheartedly in praise and worship. The hymn enhances the celebratory atmosphere of the service.",
+      "keywords": ["congregational", "hymn", "christ", "risen", "easter"],
+      "performers": [],
+      "songs": ["Christ the Lord Is Risen Today"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: On My Knees",
+      "start_time": 564,
+      "type": "music",
+      "description": "A soloist performs 'On My Knees,' a reflective song about the power of prayer and seeking a personal connection with God. The lyrics convey a longing for intimacy with God, emphasizing the importance of prayer and solitude amid the chaos of life. This emotional performance encourages listeners to prioritize their spiritual lives.",
+      "keywords": ["solo", "prayer", "on my knees", "intimacy", "connection"],
+      "performers": ["Soloist"],
+      "songs": ["On My Knees"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 757,
+      "type": "prayer",
+      "description": "The pastor leads the congregation in an opening prayer, inviting God’s presence and guidance for the service. This moment sets a spiritual tone, asking for openness to the teachings to come and seeking blessings for all gathered. The prayer emphasizes unity and focus on worship.",
+      "keywords": ["opening", "prayer", "guidance", "blessings", "unity"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Thessalonians 5",
+      "start_time": 765,
+      "type": "scripture",
+      "description": "A scripture reading from 1 Thessalonians 5 emphasizes the importance of prayer, encapsulating the core message of the service. This verse serves as a foundation for the sermon, reminding the congregation to maintain an ongoing dialogue with God and to foster a prayerful lifestyle.",
+      "keywords": ["scripture", "thessalonians", "prayer", "message", "bible"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Thessalonians 5"]
+    },
+    {
+      "title": "Message: Pray Without Ceasing (1 Thessalonians 5:16-18)",
+      "start_time": 774,
+      "type": "sermon",
+      "description": "The sermon focuses on the concept of praying without ceasing, drawing from 1 Thessalonians. The pastor discusses the significance of prayer as a way of life, paralleling it with breathing, emphasizing its transformative power in a believer's life. Listeners are encouraged to understand prayer's role in building a deep relationship with God.",
+      "keywords": ["prayer", "sermon", "thessalonians", "without ceasing", "relationship"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["1 Thessalonians 5:16-18", "Isaiah 40:31", "Luke 11:1"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3521,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, asking for God's continued guidance and strength for the week ahead. This prayer reinforces the themes discussed in the sermon, encouraging the congregation to keep their faith strong and to practice continual prayer. The prayer serves as a reminder of God's presence in everyday life.",
+      "keywords": ["closing", "prayer", "guidance", "faith", "strength"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

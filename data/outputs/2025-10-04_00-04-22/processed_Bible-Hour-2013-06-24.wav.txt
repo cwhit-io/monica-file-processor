@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Congregational Hymn: [Upbeat Music]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with an upbeat music piece, setting a joyful tone for the gathering. The atmosphere is filled with anticipation as the congregation prepares to engage in worship. This vibrant introduction invites everyone to tune in to the spirit of celebration and community.",
+      "keywords": ["worship", "music", "joy", "celebration", "community"],
+      "performers": [],
+      "songs": ["Upbeat Music"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Farewell to Corbin and Tanya Miller",
+      "start_time": 31,
+      "type": "announcement",
+      "description": "The speakers reflect on the significant contributions of Corbin Miller, the worship pastor, and his wife Tanya, as they prepare to embark on a new journey with Josiah Venture in Poland. A heartfelt discussion unfolds, highlighting their impact and the ongoing connection with the Blackhawk community.",
+      "keywords": ["Corbin Miller", "Tanya Miller", "farewell", "mission", "community"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Various Worship Songs]",
+      "start_time": 624,
+      "type": "music",
+      "description": "The choir leads the congregation in a series of worship songs filled with promises from Scripture. The powerful melodies bring forth an atmosphere of praise and worship, encouraging participation and heartfelt worship from the gathered community. Each note resonates with conviction and faith.",
+      "keywords": ["choir", "worship", "praise", "music", "scripture"],
+      "performers": ["Choir"],
+      "songs": ["Various Worship Songs"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 859,
+      "type": "prayer",
+      "description": "A deep opening prayer is offered, inviting God's presence and guidance over the service. The congregation unites in this powerful spiritual moment, centering their hearts and minds on God. It serves as a foundation for worship, asking for God's spirit to move amongst them.",
+      "keywords": ["prayer", "worship", "guidance", "spirit", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [1 John 4]",
+      "start_time": 1325,
+      "type": "scripture",
+      "description": "The congregation is encouraged to open their Bibles as the scripture from 1 John 4 is read aloud. This passage serves as a precursor to the sermon, emphasizing the importance of discerning truth and the messages that influence faith. It invites contemplation on the nature of belief.",
+      "keywords": ["1 John", "scripture", "truth", "faith", "discernment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 John 4"]
+    },
+    {
+      "title": "Message: The Importance of Belief (1 John 4)",
+      "start_time": 1330,
+      "type": "sermon",
+      "description": "The speaker delves into the essential themes of 1 John 4, discussing the necessity of testing the spirits and ensuring that beliefs align with the truth of Christ. The message is an encouraging and instructional reminder that what believers hold to be true shapes their identity, guiding choices and actions.",
+      "keywords": ["belief", "truth", "1 John", "discernment", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 John 4:1-4"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3541,
+      "type": "prayer",
+      "description": "A heartfelt closing prayer brings the service to a reflective end, affirming the teachings and culture of faith shared throughout the service. The prayer emphasizes gratitude for the community and God's guidance into the upcoming week, allowing the congregation to leave spiritually renewed.",
+      "keywords": ["prayer", "gratitude", "community", "guidance", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

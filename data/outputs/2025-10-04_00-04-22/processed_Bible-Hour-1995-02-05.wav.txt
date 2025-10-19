@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Oh, We Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a joyful performance by the sanctuary choir, singing 'Oh, We Worship.' The music sets an uplifting tone for the worship experience, inviting the congregation to engage with the themes of gratitude and reverence for God. This choral piece, rich with harmony, encourages the congregation to reflect on their relationship with the divine.",
+      "keywords": ["worship", "choir", "music", "gratefulness", "joy"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Oh, We Worship"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Instrumental Transition]",
+      "start_time": 258,
+      "type": "music",
+      "description": "Following the choir's performance, a gentle instrumental piece provides a soft transition in the service. This soothing music prepares the congregation for the next segment, creating an atmosphere conducive to reflection and anticipation for the message to come.",
+      "keywords": ["instrumental", "transition", "soft", "atmosphere", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The End of the Age (Matthew 24-25)",
+      "start_time": 701,
+      "type": "sermon",
+      "description": "Dr. Jay Kessler delivers a profound message on the teachings found in Matthew chapters 24 and 25, focusing on the signs of the end of the age. He emphasizes the importance of being prepared and productive during these times, sharing insights through vivid parables such as the ten virgins and the talents. His message encourages the congregation to actively live out their faith while anticipating the Lord's return.",
+      "keywords": ["sermon", "end times", "Matthew", "preparation", "productivity"],
+      "performers": ["Dr. Jay Kessler"],
+      "songs": [],
+      "scripture_references": ["Matthew 24", "Matthew 25"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3368,
+      "type": "prayer",
+      "description": "Following the sermon, an invitation prayer is led, inviting attendees to respond to the message and accept God's love through Jesus Christ. This moment serves as a transition from teaching to a more personal reflection, allowing individuals to contemplate their relationship with God and their need for forgiveness and grace.",
+      "keywords": ["prayer", "invitation", "forgiveness", "grace", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Closing Music]",
+      "start_time": 3390,
+      "type": "music",
+      "description": "The service concludes with a congregational hymn, inviting everyone to participate in song as they reflect on the message shared earlier. This piece serves to unite the congregation in worship and send them out with a sense of community and purpose.",
+      "keywords": ["hymn", "congregational", "unity", "worship", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

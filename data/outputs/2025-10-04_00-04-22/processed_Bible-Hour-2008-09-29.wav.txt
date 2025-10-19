@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Today is the Day",
+      "start_time": 220,
+      "type": "music",
+      "description": "The choir performs a lively anthem titled 'Today is the Day', celebrating joy and gratitude. The song emphasizes living in the present and rejoicing in God's blessings. The uplifting melodies invite the congregation to actively participate.",
+      "keywords": ["choir", "today", "rejoice", "worship", "music"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["Today is the Day"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Transformational Community (Mark 3:14)",
+      "start_time": 592,
+      "type": "sermon",
+      "description": "In a profound message, the pastor discusses the importance of transformational community embodied by Christ and His disciples. He highlights Jesus' invitation to share life intimately, emphasizing that true community fosters growth and understanding. The talk unfolds with scriptural insights and personal anecdotes, encouraging listeners to engage deeply with one another.",
+      "keywords": ["community", "transformation", "discipleship", "Jesus", "fellowship"],
+      "performers": ["Pastor [Name]"],
+      "songs": [],
+      "scripture_references": ["Mark 3:14"]
+    },
+    {
+      "title": "Choir: A Disciple is One",
+      "start_time": 1767,
+      "type": "music",
+      "description": "The choir continues with the performance 'A Disciple is One', reflecting on discipleship and the commitment to follow Jesus. This song ties back to the sermon theme, reinforcing the message of living as devoted followers of Christ.",
+      "keywords": ["choir", "discipleship", "worship", "music", "praise"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["A Disciple is One"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3023,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, inviting God’s presence and guidance throughout the service. The pastor prays for those who are struggling, emphasizing the community's commitment to support each other in faith and love.",
+      "keywords": ["prayer", "community", "guidance", "faith", "God"],
+      "performers": ["Pastor [Name]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Celebrate Recovery",
+      "start_time": 3096,
+      "type": "testimony",
+      "description": "Testimonies from individuals involved in Celebrate Recovery are shared, highlighting personal struggles and the transformative power of faith. Each testimony reflects a journey through addiction and the importance of community in healing.",
+      "keywords": ["testimony", "recovery", "faith", "transformation", "community"],
+      "performers": ["Lloyd", "Kate", "Steve"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3350,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for the opportunity to gather and share life together. The pastor encourages the congregation to pursue relationships marked by honesty and vulnerability, modeling after Jesus’ example.",
+      "keywords": ["prayer", "community", "honesty", "healing", "worship"],
+      "performers": ["Pastor [Name]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

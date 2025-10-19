@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Worship Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "An energetic start to the service sets a joyful tone, inviting the congregation to engage and prepare their hearts for worship. The upbeat music creates an atmosphere of excitement and anticipation for the events ahead.",
+      "keywords": ["worship", "music", "joyful", "upbeat"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Summer Opportunities",
+      "start_time": 296,
+      "type": "announcement",
+      "description": "The speaker shares about summer opportunities at Black Hawk, encouraging the congregation to participate in service projects and smaller group settings. Emphasis is placed on community involvement and spiritual growth during this season.",
+      "keywords": ["community", "summer", "engagement", "growth"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 496,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, asking for God's guidance and strength as the congregation prepares to receive the teaching. The prayer sets a spiritual tone and focuses on seeking divine wisdom and encouragement.",
+      "keywords": ["prayer", "guidance", "strength", "spiritual"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Ephesians 6",
+      "start_time": 833,
+      "type": "scripture",
+      "description": "The passage from Ephesians 6 is read aloud, providing the foundational text for the sermon. This scripture highlights the themes of spiritual strength and the necessity of God's armor in facing spiritual battles.",
+      "keywords": ["Ephesians", "scripture", "strength", "armor"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Ephesians 6"]
+    },
+    {
+      "title": "Message: The Armor of God (Ephesians 6:10-13)",
+      "start_time": 837,
+      "type": "sermon",
+      "description": "The sermon focuses on Ephesians 6:10-13, emphasizing the reality of spiritual warfare and the need for believers to don the full armor of God. The message encourages the congregation to stand firm in their faith and highlights the tools provided by God to resist temptation and evil.",
+      "keywords": ["sermon", "armor", "spiritual warfare", "faith"],
+      "performers": ["Pastor Kelly"],
+      "songs": [],
+      "scripture_references": ["Ephesians 6:10-13"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3508,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, asking for God's strength and wisdom as the congregation prepares to face their spiritual battles in the week ahead. This prayer serves as a reminder of the message shared and reinforces the community's commitment to prayer and support.",
+      "keywords": ["prayer", "closing", "commitment", "strength"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Inspirational Song",
+      "start_time": 3520,
+      "type": "music",
+      "description": "The service features an inspirational song performed by the choir, uplifting the congregation and reflecting the themes of the sermon. The music inspires worship and reinforces the idea of community faith.",
+      "keywords": ["choir", "inspirational", "worship", "music"],
+      "performers": ["Black Hawk Choir"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

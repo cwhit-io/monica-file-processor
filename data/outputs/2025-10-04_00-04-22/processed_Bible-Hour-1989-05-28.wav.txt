@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Wonderworking Power in the Blood of the Lamb",
+      "start_time": 296,
+      "type": "music",
+      "description": "The sanctuary choir performs a rousing rendition of 'Wonderworking Power in the Blood of the Lamb', emphasizing the themes of salvation and divine power. The choir's uplifting energy resonates throughout the audience, inviting participation.",
+      "keywords": ["choir", "power", "blood", "salvation", "Jesus"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Wonderworking Power in the Blood of the Lamb"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Victory in Jesus",
+      "start_time": 585,
+      "type": "music",
+      "description": "Congregation joins in singing 'Victory in Jesus', celebrating the triumph found in faith and the salvation that Jesus offers. The lively orchestral music enhances the joyous atmosphere.",
+      "keywords": ["hymn", "victory", "Jesus", "faith", "salvation"],
+      "performers": [],
+      "songs": ["Victory in Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Philippians 2",
+      "start_time": 739,
+      "type": "scripture",
+      "description": "Students from Black Hawk Christian School present a choral reading of Philippians 2, highlighting key verses about unity, humility, and the example of Christ, setting a reflective tone for the service.",
+      "keywords": ["scripture", "Philippians", "humility", "unity", "Christ"],
+      "performers": ["Students from Black Hawk Christian School"],
+      "songs": [],
+      "scripture_references": ["Philippians 2"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1545,
+      "type": "prayer",
+      "description": "Rick leads the congregation in an opening prayer, giving thanks for the nation and remembering those who sacrificed for freedom. He prays for comfort for the grieving and for divine protection over present-day soldiers.",
+      "keywords": ["prayer", "freedom", "nation", "sacrifice", "comfort"],
+      "performers": ["Rick"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Remembering a Remedy for the Future (Joshua 4)",
+      "start_time": 1959,
+      "type": "sermon",
+      "description": "Rick delivers a powerful sermon based on Joshua 4, focusing on the importance of remembering God's faithfulness through the symbolism of the 12 stones. He emphasizes learning from history, resisting immediate temptations, and recommitting to God for the future.",
+      "keywords": ["Joshua", "sermon", "remembrance", "faithfulness", "commitment"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Joshua 4:1-24"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3541,
+      "type": "prayer",
+      "description": "As the service nears its close, a prayer of invitation is offered inviting those who wish to accept Christ to do so. This moment underscores the themes of redemption and hope that permeate the service.",
+      "keywords": ["invitation", "prayer", "redemption", "Christ", "hope"],
+      "performers": ["Rick"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Bring Him Home",
+      "start_time": 1718,
+      "type": "music",
+      "description": "Keith performs 'Bring Him Home', resonating deeply with the themes of longing and hope for those who have sacrificed for their country. The heartfelt delivery captivates the audience, evoking emotion and gratitude.",
+      "keywords": ["solo", "Keith", "sacrifice", "hope", "freedom"],
+      "performers": ["Keith"],
+      "songs": ["Bring Him Home"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3620,
+      "type": "prayer",
+      "description": "Rick concludes the service with a closing prayer, expressing gratitude for the message shared and the community gathered. He prays for guidance and strength for the week ahead, encouraging everyone to remember the lessons learned.",
+      "keywords": ["closing", "prayer", "gratitude", "community", "guidance"],
+      "performers": ["Rick"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

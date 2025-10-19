@@ -1,0 +1,90 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, setting the tone for worship and inviting the presence of God into the space. The pastor expresses gratitude for the attendees and encourages them to reflect on their own spiritual journeys.",
+      "keywords": ["prayer", "opening", "worship", "invitation", "God"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Loving God and Others (Various Scriptures)",
+      "start_time": 125,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird discusses the fundamental nature of love for God and others, emphasizing that while life is full of challenges, our response should be to deepen our love and commitment. He challenges the congregation to reflect on their relationship with God and how it influences their interactions with others.",
+      "keywords": ["love", "God", "commitment", "challenges", "life", "scripture"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": [
+        "Matthew 28:18-20",
+        "Jeremiah 2:1-13",
+        "Ephesians 5:31-32"
+      ]
+    },
+    {
+      "title": "Choir: We Will Remember",
+      "start_time": 3510,
+      "type": "music",
+      "description": "The choir leads the congregation in a heartfelt song of remembrance, celebrating the faithfulness of God. The lyrics invite worshippers to reflect on their experiences with God and express gratitude for His guidance.",
+      "keywords": ["song", "choir", "remembrance", "faithfulness", "worship"],
+      "performers": ["Choir"],
+      "songs": ["We Will Remember"],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Eric's Transformation",
+      "start_time": 3900,
+      "type": "testimony",
+      "description": "Eric shares his personal story of transformation from a life of fame and darkness to one filled with faith and purpose. He emphasizes the importance of recognizing God's work in our lives and encourages others to reflect on their own journeys to faith.",
+      "keywords": ["testimony", "transformation", "faith", "encouragement", "God"],
+      "performers": ["Eric"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 4690,
+      "type": "prayer",
+      "description": "A prayer of invitation is offered, encouraging attendees to open their hearts to God’s calling. The pastor intercedes for those who are contemplating decisions of faith, asking for clarity and courage.",
+      "keywords": ["prayer", "invitation", "faith", "heart", "decisions"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: How Do I Come?",
+      "start_time": 4780,
+      "type": "music",
+      "description": "A solo performance reflecting on the theme of coming to God. The song invites the congregation to ponder their own journeys toward faith and the transformation that awaits when one surrenders to Christ.",
+      "keywords": ["solo", "worship", "transformation", "faith"],
+      "performers": ["Eric"],
+      "songs": ["How Do I Come?"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Jeremiah 2",
+      "start_time": 5060,
+      "type": "scripture",
+      "description": "The congregation listens to a reading from the book of Jeremiah, focusing on themes of faithfulness and the consequences of forsaking God. This reading serves as a reminder of God’s unwavering love despite our shortcomings.",
+      "keywords": ["Jeremiah", "scripture", "faithfulness", "love"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Jeremiah 2"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 5100,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for the message and asking for guidance as the congregation seeks to live out their faith. The pastor encourages everyone to carry the lessons learned into the coming week.",
+      "keywords": ["closing", "prayer", "gratitude", "guidance"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

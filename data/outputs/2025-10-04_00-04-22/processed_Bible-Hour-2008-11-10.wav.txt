@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unknown Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with upbeat music performed by the choir, creating an energized atmosphere for the congregation. The lively tone encourages the audience to engage in worship as the music sets the stage for the service.",
+      "keywords": ["worship", "choir", "music", "congregation"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: It is Well with My Soul",
+      "start_time": 550,
+      "type": "music",
+      "description": "The congregation joins in singing 'It is Well with My Soul', a powerful hymn that resonates deeply with themes of hope and solace. The repetitive nature of the lyrics emphasizes assurance in faith, creating a collective moment of reflection and unity.",
+      "keywords": ["hymn", "worship", "faith", "hope", "soul"],
+      "performers": ["[Unknown]"],
+      "songs": ["It is Well with My Soul"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Chasm Between Us (Acts 2)",
+      "start_time": 1846,
+      "type": "sermon",
+      "description": "The sermon engages the congregation in a discussion about the historical tensions between Jews and Gentiles, drawing parallels with modern social issues. The speaker emphasizes the importance of unity and embracing diversity within the church, reinforcing the message that through Christ, all barriers are broken down.",
+      "keywords": ["sermon", "unity", "diversity", "gospel", "social issues"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["Acts 2"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3386,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer, thanking God for the teachings shared and the community gathered. The prayer seeks God's guidance in fostering deeper connections within the church and encourages everyone to live out the messages learned during the service.",
+      "keywords": ["prayer", "community", "guidance", "connection"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

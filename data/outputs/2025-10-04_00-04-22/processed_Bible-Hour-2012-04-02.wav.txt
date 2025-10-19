@@ -1,0 +1,106 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Upbeat Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat choir performance to set a joyful atmosphere for the congregation. This lively music engages the attendees, inviting them to participate in praise and worship as they prepare their hearts for the service ahead.",
+      "keywords": ["worship", "choir", "joy", "praise", "music"],
+      "performers": ["[Choir]"],
+      "songs": ["[Unidentified Song]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: You Are Good",
+      "start_time": 168,
+      "type": "music",
+      "description": "The choir leads a dynamic rendition of 'You Are Good', encouraging the congregation to express their gratitude through song. The lyrics invite attendees to reflect on God's goodness, creating a heartfelt moment of worship and connection with the divine.",
+      "keywords": ["worship", "song", "goodness", "choir", "grateful"],
+      "performers": ["[Choir]"],
+      "songs": ["You Are Good"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Happy Day",
+      "start_time": 600,
+      "type": "music",
+      "description": "The congregation joins together in singing 'Happy Day', celebrating the joy of salvation and the transformative power of Christ. This hymn reflects a collective spirit of joy and gratitude, reinforcing the community's bond through shared faith and worship.",
+      "keywords": ["salvation", "joy", "hymn", "community", "celebration"],
+      "performers": ["[Congregation]"],
+      "songs": ["Happy Day"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Zechariah 9",
+      "start_time": 670,
+      "type": "scripture",
+      "description": "A scripture reading from Zechariah 9 unfolds, highlighting the prophecy of Christ's triumphant entry into Jerusalem. This key passage sets the stage for reflecting on themes of humility and hope, illustrating God's promise of peace and salvation.",
+      "keywords": ["scripture", "Zechariah", "prophecy", "peace", "Jesus"],
+      "performers": ["[Reader]"],
+      "songs": [],
+      "scripture_references": ["Zechariah 9"]
+    },
+    {
+      "title": "scripture: Scripture Reading: Luke 19",
+      "start_time": 786,
+      "type": "scripture",
+      "description": "The scripture reading continues with Luke 19, recounting the events of Jesus' entry into Jerusalem. This passage emphasizes the joyous praise of the crowd and the fulfillment of prophecy, bringing to light the significance of this moment in the life of Christ.",
+      "keywords": ["scripture", "Luke", "entry", "Jerusalem", "praise"],
+      "performers": ["[Reader]"],
+      "songs": [],
+      "scripture_references": ["Luke 19"]
+    },
+    {
+      "title": "Message: Pressing Forward (Philippians 3:12-21)",
+      "start_time": 1591,
+      "type": "sermon",
+      "description": "In this impactful sermon, the preacher dives deep into Philippians 3:12-21, encouraging the congregation to press forward in their faith. Drawing on personal stories and biblical truths, he challenges listeners to forget their past and strain towards their heavenly calling. This transformative message emphasizes God's grace and our citizenship in heaven.",
+      "keywords": ["sermon", "Philippians", "faith", "heaven", "calling"],
+      "performers": ["[Preacher]"],
+      "songs": [],
+      "scripture_references": ["Philippians 3:12-21"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2049,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, inviting attendees to reflect on their relationship with God and to seek a deeper connection. This moment of prayer facilitates a personal encounter with God, encouraging a response to His call.",
+      "keywords": ["prayer", "invitation", "reflection", "relationship", "God"],
+      "performers": ["[Leader]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Hosanna",
+      "start_time": 1208,
+      "type": "music",
+      "description": "The choir leads the congregation in an uplifting rendition of 'Hosanna'. This song encapsulates the themes of salvation and praise, resonating with the earlier scripture readings about Jesus' entry into Jerusalem, and inspiring communal worship.",
+      "keywords": ["choir", "Hosanna", "worship", "salvation", "celebration"],
+      "performers": ["[Choir]"],
+      "songs": ["Hosanna"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Light of the World",
+      "start_time": 1313,
+      "type": "music",
+      "description": "The service features a solo performance titled 'Light of the World', delivering a poignant message about being the light in the world. This performance challenges congregants to live out their faith actively and shine brightly wherever they are.",
+      "keywords": ["solo", "light", "faith", "message", "worship"],
+      "performers": ["[Soloist]"],
+      "songs": ["Light of the World"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3490,
+      "type": "prayer",
+      "description": "A closing prayer wraps up the service, thanking God for His presence and guidance throughout the service. This moment serves as a heartfelt farewell, reinforcing the importance of carrying the day’s message into everyday life.",
+      "keywords": ["prayer", "closing", "thanksgiving", "guidance", "service"],
+      "performers": ["[Leader]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

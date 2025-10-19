@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Holy is He",
+      "start_time": 60,
+      "type": "music",
+      "description": "The church choir, accompanied by a 25-piece orchestra, presents the anthem 'Holy is He.' This song focuses on the holiness of God and the significance of worshiping Him. It aims to prepare the congregation's hearts for the service ahead.",
+      "keywords": ["choir", "orchestra", "worship", "holy", "God"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Holy is He"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: I Can Still Hear the Music",
+      "start_time": 709,
+      "type": "music",
+      "description": "Stephen Maria Gardner perform 'I Can Still Hear the Music,' reflecting on childhood memories and the love found within the family of God. The lyrics evoke nostalgia and a sense of belonging.",
+      "keywords": ["Stephen Maria", "family", "nostalgia", "music", "love"],
+      "performers": ["Stephen Maria Gardner"],
+      "songs": ["I Can Still Hear the Music"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Water from the Rock",
+      "start_time": 999,
+      "type": "music",
+      "description": "The soloist sings 'Water from the Rock,' a poignant piece about spiritual nourishment and eternal life found in Christ. The song captures the longing for fulfillment through divine grace.",
+      "keywords": ["water", "rock", "spiritual", "life", "Christ"],
+      "performers": ["Crystal"],
+      "songs": ["Water from the Rock"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1714,
+      "type": "prayer",
+      "description": "Pastor Rick offers an opening prayer thanking God for His love and encouraging the congregation to focus on the service. He asks for comfort for those suffering within the community and highlights the importance of spiritual insight.",
+      "keywords": ["prayer", "God", "community", "comfort", "worship"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Corinthians 2",
+      "start_time": 2061,
+      "type": "scripture",
+      "description": "The congregation is invited to open their Bibles to 1 Corinthians 2:6-16 where Paul contrasts worldly wisdom with God's wisdom. This passage sets the stage for the upcoming sermon.",
+      "keywords": ["1 Corinthians", "wisdom", "Paul", "scripture", "teaching"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 2"]
+    },
+    {
+      "title": "Message: Wisdom from God (1 Corinthians 2)",
+      "start_time": 2064,
+      "type": "sermon",
+      "description": "Pastor Rick dives into 1 Corinthians 2, exploring the concept of divine wisdom compared to earthly wisdom. He emphasizes that spiritual insight is a gift from the Holy Spirit that allows believers to understand God's will. Throughout the sermon, he provides practical applications for daily living in the light of God's wisdom.",
+      "keywords": ["wisdom", "God", "Paul", "sermon", "spiritual"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 2:6-16"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3500,
+      "type": "prayer",
+      "description": "Following the sermon, Pastor Rick leads an invitation prayer, encouraging those feeling the call to accept Christ to open their hearts for salvation. He focuses on personal commitment and the transformative love of Jesus.",
+      "keywords": ["invitation", "prayer", "salvation", "Jesus", "commitment"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Bible Hour Updates",
+      "start_time": 3550,
+      "type": "announcement",
+      "description": "The program closes with announcements from Pastor Rick about upcoming events, including a new booklet on the role of women and a reminder of the next church event. The focus remains on encouraging spiritual growth and community involvement.",
+      "keywords": ["announcement", "Bible Hour", "events", "booklet", "community"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

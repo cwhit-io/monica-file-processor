@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Praise The Lord",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with a musical offering by the choir, intended to set a worshipful atmosphere for the congregation. The choir's joyful rendition draws attendees into a spirit of praise and worship, preparing their hearts for the message to follow. This musical moment serves as a significant expression of the community's dedication to worship.",
+      "keywords": ["worship", "choir", "music", "praise", "atmosphere"],
+      "performers": ["Black Hawk Baptist Choir"],
+      "songs": ["Praise The Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: A Song of Prayer",
+      "start_time": 308,
+      "type": "music",
+      "description": "Stephen Maria Gardner performs a solo piece that is structured as a prayer, adding a personal touch to the service. The song invites the congregation into a deeper reflection on their relationship with God, evoking a sense of intimacy through its heartfelt lyrics and melody.",
+      "keywords": ["solo", "prayer", "intimacy", "worship", "reflection"],
+      "performers": ["Stephen Maria Gardner"],
+      "songs": ["A Song of Prayer"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Gentle Shepherds",
+      "start_time": 440,
+      "type": "music",
+      "description": "The congregation joins in singing a beloved hymn titled 'Gentle Shepherds,' which emphasizes their dependence on God as their guide and provider. The communal singing fosters a sense of unity and collective worship among the attendees, encouraging participation and connection through music.",
+      "keywords": ["hymn", "congregation", "unity", "worship", "dependence"],
+      "performers": [],
+      "songs": ["Gentle Shepherds"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Importance of Believing in Christ (John 3)",
+      "start_time": 2039,
+      "type": "sermon",
+      "description": "Pastor David Geremont delivers a compelling message based on John 3, focusing on the critical nature of believing in Jesus Christ as the Savior. He distinguishes between intellectual acknowledgment of Christ and true belief that leads to salvation. The sermon imparts a sense of urgency for the congregation to consider their relationship with Christ seriously and the consequences of their choices.",
+      "keywords": ["faith", "savior", "salvation", "believe", "John 3"],
+      "performers": ["Pastor David Geremont"],
+      "songs": [],
+      "scripture_references": ["John 3"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3372,
+      "type": "prayer",
+      "description": "The service transitions to an invitation prayer led by Pastor Geremont, encouraging those present to make a decision about their faith in Christ. This moment serves as an opportunity for reflection and personal commitment, inviting attendees to respond to the message shared in the sermon.",
+      "keywords": ["prayer", "invitation", "commitment", "reflection", "faith"],
+      "performers": ["Pastor David Geremont"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3395,
+      "type": "prayer",
+      "description": "A closing prayer wraps up the service, offering thanks for the time spent in worship and for the messages shared. It seeks God’s blessing on the congregation as they depart, encouraging them to live out their faith in their daily lives. This prayer sends the attendees forth with a renewed sense of purpose and commitment.",
+      "keywords": ["closing prayer", "thanksgiving", "blessing", "purpose", "faith"],
+      "performers": ["Pastor David Geremont"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

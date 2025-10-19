@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Holy is He",
+      "start_time": 54,
+      "type": "music",
+      "description": "The sanctuary choir leads the congregation in a heartfelt rendition of 'Holy is He'. The music uplifts spirits as the choir chants lyrics praising God's holiness and mighty presence, encouraging worship and reflection.",
+      "keywords": ["worship", "choir", "holy", "praise", "God"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Holy is He"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: The Joy of the Soul",
+      "start_time": 460,
+      "type": "music",
+      "description": "A solo performance featuring the uplifting song 'The Joy of the Soul'. The lyrics explore themes of perseverance and finding joy amidst suffering, resonating deeply with the audience.",
+      "keywords": ["joy", "soul", "perseverance", "suffering", "music"],
+      "performers": ["Kevin Rowe"],
+      "songs": ["The Joy of the Soul"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, invoking God's presence. The prayer sets a reflective tone, asking for guidance and blessing over the gathered congregation and the day's activities.",
+      "keywords": ["prayer", "opening", "blessing", "guidance", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 645,
+      "type": "announcement",
+      "description": "The host shares updates and encouragement for viewers unable to attend their local churches due to winter weather. Announcements include invitations for prayer requests and notes about recent equipment upgrades in the ministry.",
+      "keywords": ["announcement", "events", "updates", "prayer requests", "ministry"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Thin Skins of Reason (Various Scriptures)",
+      "start_time": 1165,
+      "type": "sermon",
+      "description": "Youth Pastor Tim Tetter delivers a sermon on the theme of excuses we make before God. He shares personal anecdotes and biblical illustrations, urging the congregation to recognize and avoid flimsy justifications for their actions.",
+      "keywords": ["sermon", "excuses", "God", "belief", "discipleship"],
+      "performers": ["Tim Tetter"],
+      "songs": [],
+      "scripture_references": ["Genesis 3:11", "Exodus 32", "Matthew 7:21-23", "Numbers 13"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3379,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, encouraging attendees to accept Jesus Christ as their personal Savior. The prayer is heartfelt, inviting those present to seek forgiveness and commit their lives to Christ.",
+      "keywords": ["prayer", "invitation", "salvation", "Christ", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: God Will Make This Trial a Blessing",
+      "start_time": 899,
+      "type": "music",
+      "description": "The congregation sings a hymn titled 'God Will Make This Trial a Blessing'. This song encourages trust in God’s plan during hard times, reinforcing themes of hope and perseverance through faith.",
+      "keywords": ["hymn", "trust", "God", "blessing", "congregation"],
+      "performers": ["Congregation"],
+      "songs": ["God Will Make This Trial a Blessing"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3391,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, expressing gratitude for God's presence and seeking guidance as attendees depart. It is a moment of reflection and commitment as hearts are lifted in prayer.",
+      "keywords": ["closing", "prayer", "gratitude", "worship", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

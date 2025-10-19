@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Wonderful Is He",
+      "start_time": 12,
+      "type": "music",
+      "description": "The Black Hawk Baptist Church choir leads the congregation in a vibrant song celebrating the majesty and love of Jesus Christ. The lyrics reflect on the greatness and wonderful nature of Christ, encouraging the attendees to focus their hearts on Him. It's a joyful musical introduction to the service.",
+      "keywords": ["choir", "Jesus", "worship", "song", "love"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Wonderful Is He"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: John 15",
+      "start_time": 294,
+      "type": "scripture",
+      "description": "A reading of John chapter 15 verses 1-5. This passage emphasizes the importance of abiding in Christ as the true vine to bear fruit. The reading leads the congregation into a deeper understanding of the necessity of total dependence on Jesus for spiritual vitality.",
+      "keywords": ["John", "vine", "fruit", "abide", "scripture"],
+      "performers": ["Rick"],
+      "songs": [],
+      "scripture_references": ["John 15"]
+    },
+    {
+      "title": "Choir: Here Is My Hand",
+      "start_time": 438,
+      "type": "music",
+      "description": "The choir performs a heartfelt spiritual that expresses the theme of reliance on Jesus during times of trouble. The song communicates a deep trust in God as a source of help and peace amidst life's storms. It resonates powerfully with the congregation's experiences.",
+      "keywords": ["choir", "spiritual", "trust", "Jesus", "help"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Here Is My Hand"],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Donna's Update",
+      "start_time": 639,
+      "type": "testimony",
+      "description": "Donna shares her personal journey of recovery from mononucleosis, expressing gratitude for community support during her illness. She reflects on the care provided by friends and church members, highlighting the strength found in Christian fellowship. It's a heartfelt testimony that underscores the power of community.",
+      "keywords": ["testimony", "Donna", "community", "healing", "support"],
+      "performers": ["Donna"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Futility of Self-Centered Service (John 21)",
+      "start_time": 986,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers a powerful message about the futility of serving without dependence on Christ, emphasizing key lessons from John 21. He discusses the disciples' struggle while fishing all night and their realization of fruitlessness without Jesus. The message encourages reliance on Christ for meaningful service and fruitfulness in the Christian life.",
+      "keywords": ["sermon", "David Jeremiah", "John 21", "service", "dependence"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["John 21"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3293,
+      "type": "prayer",
+      "description": "Pastor David Jeremiah invites listeners to open their hearts to Christ during a pivotal prayer moment. He encourages those who haven't accepted Jesus to pray and ask for His guidance and salvation. This heartfelt invitation aims to lead attendees into a deeper relationship with Christ.",
+      "keywords": ["prayer", "invitation", "salvation", "Jesus", "heart"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Bible Hour Invitation",
+      "start_time": 3326,
+      "type": "announcement",
+      "description": "An announcement encouraging viewers to connect with the church through the Bible Hour. Pastor David Jeremiah shares how viewers can receive helpful resources and enter into further dialogue about faith matters. The emphasis is on welcoming engagement and support for the ministry.",
+      "keywords": ["Bible Hour", "announcement", "connect", "resources", "engagement"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Jesus Is All the World to Me",
+      "start_time": 1111,
+      "type": "music",
+      "description": "The choir performs a beautiful rendition of 'Jesus Is All the World to Me,' celebrating the role of Jesus as a friend and support in life. This song reflects the theme of complete reliance on Christ, reinforcing the messages shared in the service.",
+      "keywords": ["choir", "Jesus", "worship", "friend", "song"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Jesus Is All the World to Me"],
+      "scripture_references": []
+    }
+  ]
+}
+```

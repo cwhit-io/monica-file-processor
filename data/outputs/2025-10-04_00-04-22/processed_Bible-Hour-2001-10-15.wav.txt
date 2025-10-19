@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Opening Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "An uplifting musical segment marks the beginning of the service, creating an atmosphere of worship and reverence. The choir leads the congregation into a collective experience of praise, preparing hearts for the message that follows.",
+      "keywords": ["worship", "choir", "music", "praise", "service"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["Opening Worship"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: It Covers Me",
+      "start_time": 477,
+      "type": "music",
+      "description": "The choir continues with a heartfelt song expressing themes of grace and redemption. The lyrics emphasize the covering power of Jesus' love, resonating deeply with the congregation as they engage in communal worship.",
+      "keywords": ["grace", "redemption", "love", "choir", "worship"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["It Covers Me"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Thessalonians 1",
+      "start_time": 1273,
+      "type": "scripture",
+      "description": "A scripture reading from 1 Thessalonians 1 is presented, focusing on the characteristics of a model church. This passage sets the stage for the sermon by highlighting faith, love, and hope as pivotal themes for the audience.",
+      "keywords": ["Thessalonians", "scripture", "faith", "love", "hope"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Thessalonians 1"]
+    },
+    {
+      "title": "Message: A Model Church (1 Thessalonians 1:6-10)",
+      "start_time": 1291,
+      "type": "sermon",
+      "description": "In this significant message, the pastor speaks on the characteristics of a model church based on 1 Thessalonians. Emphasizing imitation of Christ, community involvement, and living with a vision for eternity, the sermon encourages the congregation to aspire toward being a living example of faith.",
+      "keywords": ["model church", "imitation", "community", "faith", "eternity"],
+      "performers": ["Pastor Kelly"],
+      "songs": [],
+      "scripture_references": ["1 Thessalonians 1:6-10"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3502,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer led by the pastor. The prayer seeks guidance for the congregation as they embrace the message of hope and outreach shared during the service.",
+      "keywords": ["prayer", "closing", "guidance", "hope", "community"],
+      "performers": ["Pastor Kelly"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

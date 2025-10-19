@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Congregational Hymn: God is Able",
+      "start_time": 288,
+      "type": "music",
+      "description": "The congregation joins together in a vibrant worship song, uplifting their spirits with the message that God is able and always present. The lyrics emphasize God's power and support, encouraging believers to trust in Him and acknowledge His greatness.",
+      "keywords": ["worship", "God", "congregational", "able", "praise"],
+      "performers": ["[]"],
+      "songs": ["God is Able"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Message: I Am The Way, The Truth, and The Life (John 14:1-6)",
+      "start_time": 524,
+      "type": "sermon",
+      "description": "In this powerful sermon, the speaker elaborates on John 14:1-6, focusing on Jesus' declaration as the way, the truth, and the life. Through personal anecdotes and a relatable narrative about being lost, the speaker emphasizes the importance of acknowledging one's need for Christ to guide towards salvation and hope.",
+      "keywords": ["Jesus", "truth", "life", "lost", "guidance"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["John 14:1-6"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 696,
+      "type": "prayer",
+      "description": "The speaker leads the congregation in an opening prayer, inviting the Holy Spirit to guide the service and open hearts to the message of God's Word. This moment sets a reflective tone for worship and personal engagement with God.",
+      "keywords": ["prayer", "opening", "worship", "Holy Spirit", "congregation"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Choir: Christ Alone",
+      "start_time": 2575,
+      "type": "music",
+      "description": "The choir performs 'Christ Alone,' a song that beautifully captures the steadfastness of Jesus as the cornerstone of faith. This performance encourages the congregation to rely on Christ's unchanging love and hope in times of struggle.",
+      "keywords": ["Christ", "cornerstone", "hope", "faith", "worship"],
+      "performers": ["[]"],
+      "songs": ["Christ Alone"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2519,
+      "type": "prayer",
+      "description": "As the service nears its conclusion, the speaker invites attendees to reflect on their spiritual journey and encourages anyone feeling lost to seek prayer for guidance. This prayer seeks to draw those who feel distant from God closer to His love.",
+      "keywords": ["invitation", "prayer", "guidance", "lost", "faith"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    }
+  ]
+}
+```

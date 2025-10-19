@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Praise",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an energetic bell ringing followed by upbeat music that sets a celebratory atmosphere. This opening music serves to engage the congregation and prepare their hearts for worship.",
+      "keywords": ["music", "celebration", "praise"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Unspecified Song",
+      "start_time": 82,
+      "type": "music",
+      "description": "The choir performs a lively song that brings joy and enthusiasm to the congregation. This musical interlude enhances the worship experience and fosters a sense of community among attendees.",
+      "keywords": ["choir", "worship", "community"],
+      "performers": ["Choir"],
+      "songs": ["Unspecified Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Real Faith's Response to the Word of God (James 1:19-25)",
+      "start_time": 289,
+      "type": "sermon",
+      "description": "Pastor Kelly delves into the Book of James, discussing how real faith responds to God's Word. He emphasizes the importance of receiving the Word with a submissive, pure, and humble heart to cultivate a transformative relationship with God. The sermon challenges listeners to be doers of the Word, not just hearers, urging them to apply biblical truths actively in their lives.",
+      "keywords": ["faith", "James", "God's Word", "humility"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": ["James 1:19-25"]
+    },
+    {
+      "title": "Congregational Hymn: Unspecified Title",
+      "start_time": 705,
+      "type": "music",
+      "description": "The congregation joins together in singing a hymn, fostering a deep sense of unity and worship. The lyrics encourage reflection on God's teachings and allow the community to express their faith collectively.",
+      "keywords": ["congregational", "hymn", "unity"],
+      "performers": [],
+      "songs": ["Unspecified Title"],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: Acts of Kindness",
+      "start_time": 1166,
+      "type": "drama",
+      "description": "A poignant drama highlights the power of kindness and connection in a community. The performance illustrates how small acts of love have a lasting impact, encouraging the audience to recognize and act on promptings to show kindness to others.",
+      "keywords": ["kindness", "community", "connection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3431,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer led by Pastor Kelly. He invites the congregation to reflect on the message and seek God's guidance in their daily lives. This prayer becomes a moment of communal reflection and commitment to apply the teachings from the sermon.",
+      "keywords": ["prayer", "closing", "reflection"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Gentle Instrumental Music",
+      "start_time": 3545,
+      "type": "music",
+      "description": "As the service comes to a close, gentle instrumental music plays, allowing attendees to meditate on the message and their personal response to what they have learned. This calm ending encourages a peaceful transition from worship to daily life.",
+      "keywords": ["instrumental", "meditation", "peace"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

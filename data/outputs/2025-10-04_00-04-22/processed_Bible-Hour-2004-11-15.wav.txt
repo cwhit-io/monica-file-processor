@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Celebration",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir performs a lively piece celebrating the traditions of the holiday season. The upbeat melodies engage the audience and encourage participation, creating a joyful atmosphere. The performance highlights the spirit of togetherness that defines the season.",
+      "keywords": ["choir", "holiday", "celebration", "music", "tradition"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Celebration"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: There Is No Rock",
+      "start_time": 78,
+      "type": "music",
+      "description": "The choir continues with a powerful rendition of 'There Is No Rock.' The performance is marked by heartfelt harmonies that proclaim the faithfulness of God. It serves as a reminder of the strength and support that believers find in their faith, resonating deeply with the audience.",
+      "keywords": ["rock", "faithfulness", "choir", "worship", "praise"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["There Is No Rock"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Black Hawk Christian School Update",
+      "start_time": 583,
+      "type": "announcement",
+      "description": "The Superintendent, Sam Barfel, shares exciting updates about Black Hawk Christian School. He reflects on the school's history, achievements, and the joy of community involvement. The emphasis is on gratitude for the faculty, staff, and the tremendous growth of the school.",
+      "keywords": ["Black Hawk", "announcement", "school", "growth", "community"],
+      "performers": ["Sam Barfel"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Deception in the Garden (Genesis 3)",
+      "start_time": 646,
+      "type": "sermon",
+      "description": "The sermon focuses on Genesis 3, examining how Eve was deceived by Satan's distortion of God's Word. The speaker delves into the consequences of doubt, distortion, and rejection of truth, urging the congregation to cling to God's authority. It's a powerful reminder of the importance of Scripture in countering life's deceptions.",
+      "keywords": ["sermon", "Genesis", "Eve", "Satan", "deception"],
+      "performers": ["Sam Barfel"],
+      "songs": [],
+      "scripture_references": ["Genesis 3"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2980,
+      "type": "prayer",
+      "description": "The speaker leads an invitation prayer, encouraging the congregation to examine their lives in light of the sermon. This moment of reflection invites individuals to respond to God's call, fostering a spirit of commitment and renewal. It's a heartfelt plea for openness to God's work in their hearts.",
+      "keywords": ["prayer", "invitation", "reflection", "commitment", "renewal"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Closing Song",
+      "start_time": 3201,
+      "type": "music",
+      "description": "The choir concludes the service with a moving closing song that encapsulates the themes of faith and dedication. This performance serves as a reminder of the commitment to live according to the truths shared throughout the service. It's a powerful finale, encouraging everyone to carry the message into their daily lives.",
+      "keywords": ["choir", "closing song", "faith", "worship"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Closing Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3378,
+      "type": "prayer",
+      "description": "A closing prayer is offered, expressing gratitude for the service and asking for God's guidance in the upcoming week. This culminates the worship experience, reinforcing the themes discussed and sending the congregation forth with a sense of purpose and reassurance in God's presence.",
+      "keywords": ["closing", "prayer", "gratitude", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

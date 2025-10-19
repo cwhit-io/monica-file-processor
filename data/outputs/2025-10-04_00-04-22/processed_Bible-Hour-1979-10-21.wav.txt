@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 108,
+      "type": "music",
+      "description": "The Black Hawk Baptist Church choir, directed by Mr. Don Kruger, performs an anthem that emphasizes the foundation of their ministry: the Word of God. The heartfelt delivery of the choir sets a reflective tone for the service as members and guests prepare to engage in worship.",
+      "keywords": ["choir", "music", "worship", "anthem", "Bible"],
+      "performers": ["Don Kruger"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 310,
+      "type": "music",
+      "description": "Alan Lenna Peterson shares a solo performance celebrating the caring nature of Jesus. The poignant lyrics remind the congregation of the unconditional love that Jesus embodies, encouraging them to extend that care to one another. The music invites personal reflection on their relationship with Christ.",
+      "keywords": ["solo", "Jesus", "care", "love", "music"],
+      "performers": ["Alan Lenna Peterson"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: How Great Thou Art",
+      "start_time": 1243,
+      "type": "music",
+      "description": "Lenna Peterson performs the beloved hymn 'How Great Thou Art,' stirring profound worship among the congregation. The performance reminds attendees to marvel at God's creation and power, instilling a sense of reverence and awe as they sing along in their hearts.",
+      "keywords": ["hymn", "worship", "God", "creation", "praise"],
+      "performers": ["Lenna Peterson"],
+      "songs": ["How Great Thou Art"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1631,
+      "type": "prayer",
+      "description": "Pastor David Jeremiah leads the congregation in an opening prayer, asking for divine guidance and insight as they delve into the Word of God. He expresses a desire for everyone's hearts to be open to the truths that will be shared, facilitating a transformative worship experience.",
+      "keywords": ["prayer", "worship", "guidance", "transformation", "David Jeremiah"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [Mark 10]",
+      "start_time": 1554,
+      "type": "scripture",
+      "description": "The congregation listens intently as Pastor Jeremiah reads from the Gospel of Mark, Chapter 10. The passage recounts the story of Bartimaeus, the blind beggar, setting the stage for a deeper exploration of faith and healing that will follow in the sermon.",
+      "keywords": ["scripture", "Mark", "Bible", "Bartimaeus", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Mark 10"]
+    },
+    {
+      "title": "Message: Healing of Bartimaeus (Mark 10:46-52)",
+      "start_time": 1705,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers a meaningful message about the transformative encounter of Bartimaeus with Jesus. He emphasizes themes of faith, personal need, and the power of Christ's healing, encouraging attendees to recognize their own spiritual blindness and reach out for salvation.",
+      "keywords": ["sermon", "Bartimaeus", "healing", "faith", "transformation"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Mark 10:46-52"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3313,
+      "type": "prayer",
+      "description": "In a heartfelt invitation prayer, Pastor Jeremiah encourages attendees to respond to the message. He asks for God's grace to touch those who recognize their need for Christ, inviting anyone who feels called to open their hearts and seek spiritual transformation.",
+      "keywords": ["invitation", "prayer", "response", "spiritual", "transformation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3436,
+      "type": "prayer",
+      "description": "Pastor Jeremiah concludes the service with a closing prayer, thanking God for the day's worship and asking for guidance as attendees go forth. He encourages the congregation to carry the messages learned into their daily lives, strengthening their faith in Christ.",
+      "keywords": ["closing prayer", "worship", "guidance", "faith", "David Jeremiah"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

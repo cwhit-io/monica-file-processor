@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Opening Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat musical number, inviting the congregation into a spirit of worship. The music sets the tone for the day's themes, offering a chance for reflection and connection with the community and God.",
+      "keywords": ["music", "worship", "community", "invitation", "spirit"],
+      "performers": ["Unknown"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Easter Events",
+      "start_time": 157,
+      "type": "announcement",
+      "description": "The speaker reminds the congregation about the upcoming Easter services and invites families to join the festivities. The emphasis is on the significance of the resurrection of Jesus Christ, and the anticipation of celebrating this pivotal event.",
+      "keywords": ["Easter", "services", "resurrection", "invitation", "family"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Brent's Story",
+      "start_time": 313,
+      "type": "testimony",
+      "description": "Brent shares his powerful journey from addiction and despair to rediscovering faith and community. His testimony highlights the transformative impact of support, friendship, and bold faith during life's challenging moments.",
+      "keywords": ["testimony", "faith", "addiction", "recovery", "community"],
+      "performers": ["Brent Roddy"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 2 Kings 6",
+      "start_time": 720,
+      "type": "scripture",
+      "description": "The passage from 2 Kings discusses Elisha and a miraculous event involving a floating axe head. This reading serves as the basis for the day's sermon, introducing themes of faith, loss, and restoration.",
+      "keywords": ["scripture", "2 Kings", "Elisha", "miracle", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["2 Kings 6"]
+    },
+    {
+      "title": "Message: Bold Comeback (2 Kings 6)",
+      "start_time": 745,
+      "type": "sermon",
+      "description": "The pastor discusses the principles of bold faith through the lens of Elisha’s story. Focusing on the importance of recognizing loss and reclaiming what is spiritually significant, the message encourages listeners to initiate their comebacks with God’s grace.",
+      "keywords": ["sermon", "faith", "comeback", "Elisha", "grace"],
+      "performers": ["Kevin"],
+      "songs": [],
+      "scripture_references": ["2 Kings 6"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2950,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, allowing the congregation to reflect internally on their personal spiritual journeys. It encourages those seeking a relationship with Jesus to step forward in faith.",
+      "keywords": ["invitation", "prayer", "reflection", "faith", "journey"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Jesus Made It All",
+      "start_time": 3200,
+      "type": "music",
+      "description": "The choir performs a heartfelt rendition of 'Jesus Made It All.' This congregational hymn resonates with themes of redemption and grace, reinforcing the teachings of the sermon through a powerful musical expression.",
+      "keywords": ["choir", "worship", "hymn", "Jesus", "grace"],
+      "performers": ["Unknown"],
+      "songs": ["Jesus Made It All"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3398,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, inviting the Holy Spirit to reinforce the message within the hearts of the attendees. The prayer seeks guidance as the congregation heads into the week, maintaining a posture of faith.",
+      "keywords": ["closing", "prayer", "Holy Spirit", "guidance", "faith"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

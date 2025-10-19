@@ -1,0 +1,96 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Piano Music]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with gentle piano music, creating a warm and inviting atmosphere as congregants gather for the Christmas celebration.",
+      "keywords": ["piano", "music", "invitation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Announcement: LCT Teardown Call for Help",
+      "start_time": 30,
+      "type": "announcement",
+      "description": "The speaker makes several important announcements regarding the Living Christmas Tree teardown, emphasizing the need for volunteers to assist after lunch.",
+      "keywords": ["announcement", "teardown", "volunteers"],
+      "performers": ["Speaker"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 364,
+      "type": "prayer",
+      "description": "A heartfelt prayer of gratitude is offered, thanking God for the blessings of Christmas and the opportunity to gather together in worship.",
+      "keywords": ["opening", "prayer", "thanksgiving"],
+      "performers": ["Speaker"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Worship Music]",
+      "start_time": 473,
+      "type": "music",
+      "description": "The congregation is led in worship with an uplifting song, setting a tone of celebration and heartfelt praise during the Christmas service.",
+      "keywords": ["worship", "choir", "celebration"],
+      "performers": ["Choir"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Born Crucified (Luke 1:26-38)",
+      "start_time": 610,
+      "type": "sermon",
+      "description": "The sermon focuses on the theme of being 'born crucified,' exploring the significance of Christ's birth in relation to his mission. The preacher emphasizes the reality of the Christmas story, linking it to God's plan for salvation and the profound love shown through Jesus's sacrifice.",
+      "keywords": ["sermon", "Christmas", "salvation", "crucified", "Jesus"],
+      "performers": ["Speaker"],
+      "songs": [],
+      "scripture_references": ["Luke 1:26-38"]
+    },
+    {
+      "title": "scripture: Scripture Reading: (Luke 1)",
+      "start_time": 2523,
+      "type": "scripture",
+      "description": "The congregation listens as significant scripture passages are read, detailing the angel's announcement to Mary and the birth of Jesus.",
+      "keywords": ["scripture", "Luke", "Mary", "angel"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Luke 1"]
+    },
+    {
+      "title": "drama: Drama: The Tale of Three Trees",
+      "start_time": 3030,
+      "type": "drama",
+      "description": "A touching dramatization of 'The Tale of Three Trees' is performed, illustrating themes of dreams, purpose, and the fulfillment of God's plan, connecting the Christmas narrative to the larger story of redemption.",
+      "keywords": ["drama", "three trees", "redemption", "Christmas"],
+      "performers": ["Cast"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Final Worship Song]",
+      "start_time": 3259,
+      "type": "music",
+      "description": "The service culminates with a powerful worship song, encouraging the congregation to reflect on God's goodness and celebrate the birth of Jesus amidst joyful praise and singing.",
+      "keywords": ["worship", "celebration", "praise"],
+      "performers": ["Choir"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 4057,
+      "type": "prayer",
+      "description": "A closing prayer is offered, asking for God's guidance and strength for the upcoming week, encouraging participants to carry the message of Christ's love into their lives.",
+      "keywords": ["closing", "prayer", "guidance"],
+      "performers": ["Speaker"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

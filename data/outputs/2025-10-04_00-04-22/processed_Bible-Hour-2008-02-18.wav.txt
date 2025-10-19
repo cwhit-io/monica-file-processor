@@ -1,0 +1,54 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The church service begins with a choir performance that introduces the theme of the gathering, setting a tone of reverence and community. The music focuses on the authority of Jesus and His call to discipleship. This opening piece prepares the congregation for the spiritual journey ahead.",
+      "keywords": ["choir", "Jesus", "discipleship", "community"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Song Title]",
+      "start_time": 181,
+      "type": "music",
+      "description": "The service continues with a congregational hymn that emphasizes themes of redemption and sacrifice. The congregation engages in worship, singing about being healed through the sacrifice of Christ. This collectively reaffirms their faith and unity in Christ's love.",
+      "keywords": ["hymn", "redemption", "sacrifice", "worship"],
+      "performers": ["Congregation"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: AP Level Love (1 John 3:11-19)",
+      "start_time": 468,
+      "type": "sermon",
+      "description": "In this sermon, the pastor tackles the theme of sacrificial love, drawing from 1 John 3. He emphasizes that true love requires action, not just words. The congregation is encouraged to reflect on their relationships and their expressions of love, especially towards those in need. This heartfelt message challenges listeners to raise the bar in their love for one another, paralleling Christ's example of sacrifice.",
+      "keywords": ["love", "sacrifice", "1 John", "Christianity", "community"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["1 John 3:11-19"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3482,
+      "type": "prayer",
+      "description": "The service moves into an invitation prayer where the pastor invites those who have not yet accepted Christ to do so. This moment underscores the goal of the message, which is to encourage spiritual transformation and deepening faith. It is a pivotal time for the congregation and those tuned in to reflect on their relationship with God.",
+      "keywords": ["invitation", "prayer", "faith", "transformation"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 3500,
+      "type": "music",
+      "description": "The choir resumes with a final moving piece that solidifies the day’s message. This performance serves as a musical reflection on the themes discussed in the sermon, allowing the congregation to meditate on love and grace before they leave.",
+      "keywords": ["choir", "reflection", "love", "grace"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    }
+  ]
+}

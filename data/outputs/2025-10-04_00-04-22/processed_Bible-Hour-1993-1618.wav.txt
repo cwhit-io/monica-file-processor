@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [MUSIC]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a lively performance by the chapel choir. The choir sets a joyful atmosphere, encouraging congregational participation and uplifting spirits through worshipful song.",
+      "keywords": ["choir", "music", "worship", "praise", "service"],
+      "performers": ["Chapel Choir"],
+      "songs": ["[MUSIC]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [MUSIC]",
+      "start_time": 297,
+      "type": "music",
+      "description": "The service continues with a beautiful solo performance that captivates the audience. The soloist's emotional rendition adds a personal touch, drawing everyone into deeper reflection and worship.",
+      "keywords": ["solo", "music", "worship", "performance", "spiritual"],
+      "performers": ["Jony King"],
+      "songs": ["[MUSIC]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 539,
+      "type": "prayer",
+      "description": "An opening prayer gives thanks for the gathering and sets a tone of humility and gratitude. The prayer encourages unity and invites God's presence into the service, creating space for communal worship.",
+      "keywords": ["prayer", "opening", "unity", "grateful", "service"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Friend Day",
+      "start_time": 625,
+      "type": "announcement",
+      "description": "An announcement highlights the upcoming Friend Day at Black Hawk Baptist Church, inviting congregants to bring guests. The excitement builds for an impactful event aimed at outreach and community engagement.",
+      "keywords": ["announcement", "Friend Day", "outreach", "invitation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: How Great Thou Art",
+      "start_time": 667,
+      "type": "music",
+      "description": "A soloist delivers a powerful rendition of 'How Great Thou Art,' bringing the congregation into worship. The heartfelt performance emphasizes themes of awe and reverence for God's greatness.",
+      "keywords": ["how great thou art", "music", "solo", "worship", "greatness"],
+      "performers": ["Robin"],
+      "songs": ["How Great Thou Art"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Encouragement (Hebrews 10)",
+      "start_time": 1115,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a sermon on the importance of encouragement in the Christian community. Drawing from Hebrews chapter 10, he emphasizes the need for believers to support one another in faith, especially during challenging times.",
+      "keywords": ["encouragement", "faith", "community", "support", "sermon"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Hebrews 10"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3330,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, extending a heartfelt call for those seeking a relationship with Christ. This prayer serves as a moment of reflection and commitment for individuals desiring spiritual growth.",
+      "keywords": ["prayer", "invitation", "commitment", "relationship"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Final Music]",
+      "start_time": 3420,
+      "type": "music",
+      "description": "The service concludes with a final music piece performed by the choir. This uplifting ending reinforces the themes of community and worship experienced throughout the hour.",
+      "keywords": ["choir", "music", "worship", "conclusion"],
+      "performers": ["Chapel Choir"],
+      "songs": ["[Final Music]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

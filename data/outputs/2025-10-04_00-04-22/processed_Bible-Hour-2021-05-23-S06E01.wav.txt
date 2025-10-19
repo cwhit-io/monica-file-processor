@@ -1,0 +1,36 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Message: A Vision of Ambassadors (2 Corinthians 5:14-21)",
+      "start_time": 0,
+      "type": "sermon",
+      "description": "The sermon focuses on the crucial role of vision in the life of the church and individual believers. It emphasizes the Great Commission from Jesus, calling his followers to make disciples and embody the mission of God. The speaker encourages the congregation to embrace discomfort for the sake of reaching those far from God, ultimately portraying the church as ambassadors of Christ.",
+      "keywords": ["vision", "ambassadors", "Great Commission", "discipleship", "comfort"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["2 Corinthians 5:14-21", "Matthew 28:19-20"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 2151,
+      "type": "prayer",
+      "description": "The opening prayer sets the tone for the service, inviting God's presence and guidance as the community gathers to worship and reflect on their call as ambassadors for Christ. It emphasizes the importance of interceding for others and recognizing God's love for each individual.",
+      "keywords": ["prayer", "worship", "community", "God's presence", "intercession"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: This Little Light of Mine",
+      "start_time": 2080,
+      "type": "music",
+      "description": "The congregation joyfully sings 'This Little Light of Mine,' reflecting on the theme of being a light in the world. The hymn encourages believers to let their light shine in a dark world, aligning with the message of being ambassadors for Christ.",
+      "keywords": ["worship", "light", "congregation", "hymn", "hope"],
+      "performers": ["Congregation"],
+      "songs": ["This Little Light of Mine"],
+      "scripture_references": []
+    }
+  ]
+}
+```

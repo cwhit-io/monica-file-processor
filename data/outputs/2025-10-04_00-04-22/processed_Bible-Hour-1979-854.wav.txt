@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: How Marvelous, How Wonderful",
+      "start_time": 36,
+      "type": "music",
+      "description": "The Liberty Baptist College singers from Lynchburg, Virginia, raise the spirits of the congregation with their uplifting rendition of 'How Marvelous, How Wonderful.' The choir's harmonious voices reflect joy and gratitude, sharing the message of Christ's love and presence in their lives, leaving the audience in heartfelt reflection.",
+      "keywords": ["choir", "worship", "liberty baptist college", "song"],
+      "performers": ["Liberty Baptist College Singers"],
+      "songs": ["How Marvelous, How Wonderful"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: The Church Triumphant",
+      "start_time": 650,
+      "type": "music",
+      "description": "The LBC singers return to perform 'The Church Triumphant,' celebrating the vitality and strength of the church amidst challenges. The performance is vibrant and spirited, emphasizing the message of hope and resilience, inspiring the audience to embrace their faith and mission.",
+      "keywords": ["choir", "worship", "the church triumphant"],
+      "performers": ["Liberty Baptist College Singers"],
+      "songs": ["The Church Triumphant"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1095,
+      "type": "prayer",
+      "description": "Pastor David Jeremiah leads the congregation in an opening prayer, inviting God's presence and guidance as they delve into the Word. This moment emphasizes the importance of seeking divine insight and receptiveness to the teachings that will follow.",
+      "keywords": ["prayer", "opening", "guidance", "worship"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Exodus 2, Hebrews 11",
+      "start_time": 1119,
+      "type": "scripture",
+      "description": "The congregation hears Scripture readings from Exodus chapter 2 and Hebrews chapter 11, highlighting the early life of Moses and illustrating his foundational experiences. These passages provide context for the upcoming message, integrating biblical history with personal application.",
+      "keywords": ["Exodus", "Hebrews", "Moses", "scripture"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Exodus 2", "Hebrews 11:23-29"]
+    },
+    {
+      "title": "Message: The Preparation of Moses for Leadership (Exodus 2, Hebrews 11)",
+      "start_time": 1205,
+      "type": "sermon",
+      "description": "Pastor Jeremiah shares an in-depth message on 'The Preparation of Moses for Leadership,' exploring how Moses was shaped through his early experiences and education. He emphasizes the importance of both preparation and consecration, encouraging listeners to reflect on their own commitments to God amidst worldly distractions.",
+      "keywords": ["Moses", "leadership", "sermon", "preparation", "faith"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Exodus 2", "Hebrews 11:23-29"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3374,
+      "type": "prayer",
+      "description": "In the closing prayer, Pastor Jeremiah thanks God for the insights shared during the service, asking for strength and guidance for the congregation as they apply the message to their lives. This prayer serves as a heartfelt conclusion, inviting the community to remain steadfast in their faith.",
+      "keywords": ["prayer", "closing", "worship"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

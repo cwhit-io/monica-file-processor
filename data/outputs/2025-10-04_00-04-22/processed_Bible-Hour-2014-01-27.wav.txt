@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: How Marvelous",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir begins the service with a heartfelt rendition of 'How Marvelous,' celebrating the wonder of Christ's love. The lyrics express amazement at Jesus' presence and the joy of His forgiveness. The congregation is invited to join in this uplifting moment of worship.",
+      "keywords": ["choir", "marvelous", "love", "worship", "Jesus"],
+      "performers": ["Choir"],
+      "songs": ["How Marvelous"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: 10,000 Reasons",
+      "start_time": 300,
+      "type": "music",
+      "description": "The congregation unites in song with the hymn '10,000 Reasons,' which emphasizes gratitude and worship. As the melody fills the room, participants reflect on their blessings and the constant presence of God in their lives. This communal act of singing fosters a deep sense of fellowship and praise.",
+      "keywords": ["congregation", "hymn", "praise", "worship", "gratitude"],
+      "performers": ["Congregation"],
+      "songs": ["10,000 Reasons"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 395,
+      "type": "prayer",
+      "description": "The service transitions into the opening prayer, where the leader invites divine guidance over the service. This moment reinforces the connection with God, setting the tone for worship and reflection. Attendees are encouraged to center their hearts and minds on the Lord.",
+      "keywords": ["prayer", "guidance", "worship", "divine", "community"],
+      "performers": ["Leader"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Peter 3",
+      "start_time": 410,
+      "type": "scripture",
+      "description": "The congregation hears a reading from 1 Peter 3, which addresses the beauty of a gentle spirit and respectful behavior within marriage. This scripture serves as a foundation for understanding the intent behind the following sermon, emphasizing the importance of respect and love.",
+      "keywords": ["scripture", "1 Peter", "marriage", "respect", "gentleness"],
+      "performers": ["Reader"],
+      "songs": [],
+      "scripture_references": ["1 Peter 3"]
+    },
+    {
+      "title": "Message: Respect in Marriage (1 Peter 3)",
+      "start_time": 440,
+      "type": "sermon",
+      "description": "The message focuses on the critical theme of respect within marriages, especially for women. The speaker unpacks the nuances of Ephesians 5 and 1 Peter 3, inviting women to cultivate respect for their husbands as a vital part of their spiritual journey. Personal stories and Biblical examples illustrate the transformative power of respect in building strong, loving relationships.",
+      "keywords": ["sermon", "respect", "marriage", "Ephesians", "1 Peter"],
+      "performers": ["Speaker"],
+      "songs": [],
+      "scripture_references": ["Ephesians 5", "1 Peter 3"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 1340,
+      "type": "prayer",
+      "description": "After the sermon, the leader offers an invitation prayer, encouraging those who felt moved to deepen their relationships or seek guidance. This moment provides space for reflection and commitment, reinforcing the message shared during the sermon about respect and love in marriages.",
+      "keywords": ["invitation", "prayer", "commitment", "reflection", "guidance"],
+      "performers": ["Leader"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Change My Heart, Oh God",
+      "start_time": 1360,
+      "type": "music",
+      "description": "The service concludes with a solo performance of 'Change My Heart, Oh God.' This song is a heartfelt prayer for transformation and alignment with God's desires. The singer invites the congregation to reflect on their commitments and asks for divine strength to live out the message of respect and love.",
+      "keywords": ["solo", "prayer", "transformation", "worship", "God"],
+      "performers": ["Soloist"],
+      "songs": ["Change My Heart, Oh God"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1400,
+      "type": "prayer",
+      "description": "The closing prayer encapsulates the themes of the service, asking for God's guidance as attendees leave to implement what they have learned. This moment reinforces community, unity, and the shared journey of faith among the congregation, closing the service with hope and encouragement.",
+      "keywords": ["closing", "prayer", "community", "unity", "faith"],
+      "performers": ["Leader"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

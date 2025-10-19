@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Be Strong in the Lord",
+      "start_time": 292,
+      "type": "music",
+      "description": "The sanctuary choir sings a powerful piece urging believers to be strong in the Lord. The lyrics emphasize the importance of trusting in God and being courageous in faith. This uplifting music prepares the congregation's hearts for worship and reinforces the message of divine strength.",
+      "keywords": ["choir", "worship", "strength", "faith", "courage"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Be Strong in the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: All the Way, My Savior Leads Me",
+      "start_time": 527,
+      "type": "music",
+      "description": "The congregation joins in singing the hymn 'All the Way, My Savior Leads Me', reflecting on the guidance and comfort found in Jesus. The heartfelt lyrics express trust in God's leadership and the joy of following Him through life's journey. The hymn encourages the community to unite in praise and gratitude.",
+      "keywords": ["hymn", "savior", "guidance", "faith", "worship"],
+      "performers": [],
+      "songs": ["All the Way, My Savior Leads Me"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Jesus Is My Music",
+      "start_time": 740,
+      "type": "music",
+      "description": "Marsha Ives presents a moving solo titled 'Jesus Is My Music,' sharing a personal testimony of transformation through Christ. The lyrics convey the theme of finding harmony and joy in life through faith. This performance invites listeners to reflect on their own spiritual journeys and the peace found in Jesus.",
+      "keywords": ["solo", "testimony", "music", "transformation", "faith"],
+      "performers": ["Marsha Ives"],
+      "songs": ["Jesus Is My Music"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1411,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is led by the pastor, inviting the congregation to seek God's presence and strength at the start of the service. The prayer emphasizes dedication to worship and a desire to connect with God's will for their lives. It sets a reverent tone for the gathering.",
+      "keywords": ["prayer", "worship", "God", "strength", "congregation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Corinthians 16",
+      "start_time": 1595,
+      "type": "scripture",
+      "description": "The pastor reads from 1 Corinthians chapter 16, focusing on the qualities of a church that abounds in the work of the Lord. This scripture sets the stage for the forthcoming sermon, emphasizing themes of cooperation, generosity, and strength within the community of faith.",
+      "keywords": ["scripture", "1 Corinthians", "church", "abounding", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 16"]
+    },
+    {
+      "title": "Message: Abounding in the Work of the Lord (1 Corinthians 16)",
+      "start_time": 1995,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a sermon on 'Abounding in the Work of the Lord,' based on 1 Corinthians 16. He discusses essential qualities like generosity, vision, and cooperation. The message encourages the congregation to embody a spirit of service and to actively participate in God’s work within their community.",
+      "keywords": ["sermon", "abounding", "church", "generosity", "cooperation"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 16"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3609,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for His guidance and the message shared. The prayer invites blessings on the congregation as they go forth to apply the teachings in their lives. It emphasizes the importance of remaining committed to God's work and supporting one another.",
+      "keywords": ["prayer", "closing", "blessings", "faith", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

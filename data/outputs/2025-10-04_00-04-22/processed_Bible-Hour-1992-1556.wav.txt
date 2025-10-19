@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Solo: There is a Savior",
+      "start_time": 93,
+      "type": "music",
+      "description": "Marsha Kio performed a heartfelt solo titled 'There is a Savior.' The lyrics offered encouragement and spoke of hope, emphasizing the comforting presence of a Savior in times of trouble. This musical piece set a reflective tone for the worship service.",
+      "keywords": ["savior", "hope", "music", "Marsha Kio"],
+      "performers": ["Marsha Kio"],
+      "songs": ["There is a Savior"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Every Valley",
+      "start_time": 933,
+      "type": "music",
+      "description": "The sanctuary choir performed 'Every Valley,' which filled the atmosphere with harmonies that reminded the congregation of God's promise and comfort. The song resonates with themes of hope and divine support, uplifting all in attendance.",
+      "keywords": ["choir", "every valley", "music", "hope"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Every Valley"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1371,
+      "type": "prayer",
+      "description": "An opening prayer was offered, thanking God for His love and grace, reinforcing the themes of comfort and support highlighted in the earlier music. The congregation was invited to reflect on their relationship with Christ and to recognize His guidance in their lives.",
+      "keywords": ["prayer", "opening", "thankfulness", "reverence"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Caring for the Widow (1 Timothy 5:3-16)",
+      "start_time": 1415,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivered an in-depth sermon focusing on 1 Timothy 5:3–16, discussing the importance of caring for widows within the church. He outlined different categories of widows and the responsibility believers have in providing support, emphasizing that true religion is demonstrated through acts of compassion.",
+      "keywords": ["widow", "care", "sermon", "Russell Moore", "1 Timothy"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 5:3-16"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3445,
+      "type": "prayer",
+      "description": "The service concluded with a closing prayer, in which attendees were encouraged to seek a deeper relationship with Christ and to act upon the message shared during the sermon. It was a moment for reflection and commitment.",
+      "keywords": ["prayer", "closing", "commitment", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

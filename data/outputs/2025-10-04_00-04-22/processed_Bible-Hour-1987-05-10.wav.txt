@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with the calming sound of bell chimes, creating a welcoming atmosphere for the congregation. This audio cue invites the worshippers to begin gathering and preparing their hearts for the worship service.",
+      "keywords": ["bell chimes", "service", "music", "worship", "gathering"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 142,
+      "type": "music",
+      "description": "The Sanctuary Choir performs a moving piece emphasizing the inability of others to hold Jesus in the grave. The performance highlights themes of faith and resurrection, echoing the message of hope that resonates deeply within the congregation.",
+      "keywords": ["choir", "Jesus", "resurrection", "faith", "hope"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["They Could Not"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: My Savior, First of All",
+      "start_time": 1038,
+      "type": "music",
+      "description": "Marsha Ives delivers a heartfelt solo, 'My Savior, First of All.' This song reflects her desire to prioritize Jesus, conveying a message of devotion and faithfulness which resonates with the act of remembering one's Redeemer.",
+      "keywords": ["Marsha Ives", "solo", "devotion", "faith", "Jesus"],
+      "performers": ["Marsha Ives"],
+      "songs": ["My Savior, First of All"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1500,
+      "type": "prayer",
+      "description": "The congregation gathers in prayer, expressing gratitude towards God for the blessings of family, particularly mothers. The prayer intercedes for those who may be grieving or struggling, providing a moment of collective reflection and support.",
+      "keywords": ["opening prayer", "gratitude", "mothers", "blessings", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Proverbs 18",
+      "start_time": 1880,
+      "type": "scripture",
+      "description": "Pastor Rick leads the reading of Proverbs 18:22, emphasizing the importance of finding a good spouse as a blessing from the Lord. This scripture sets the tone for the ensuing message about the role of women in a family.",
+      "keywords": ["Proverbs", "wisdom", "relationship", "wife", "blessing"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Proverbs 18:22"]
+    },
+    {
+      "title": "Message: A Woman for All Times (Proverbs 31)",
+      "start_time": 1898,
+      "type": "sermon",
+      "description": "Pastor Rick delivers a teaching on 'A Woman for All Times,' focusing on the qualities of a noble woman as depicted in Proverbs. Expounding on timeless values such as character, spiritual integrity, and the roles of women, he intertwines personal anecdotes and cultural observations, making a call for appreciation and respect.",
+      "keywords": ["sermon", "woman", "Proverbs", "character", "respect"],
+      "performers": ["Pastor Rick Hobbs"],
+      "songs": [],
+      "scripture_references": ["Proverbs 18", "Proverbs 31"]
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 3518,
+      "type": "music",
+      "description": "The service closes with another musical piece performed by the choir, reflecting the themes discussed throughout the message. The uplifting melody allows the congregation to engage once more in worship as they prepare to leave.",
+      "keywords": ["choir", "worship", "service", "closure", "reflection"],
+      "performers": ["Sanctuary Choir"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3606,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Rick, thanking God for His provision and asking for blessings upon the congregation. This moment solidifies the day's teachings and encourages attendees to carry the message into their lives.",
+      "keywords": ["closing prayer", "blessing", "gratitude", "community", "encouragement"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

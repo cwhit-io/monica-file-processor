@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Opening Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an uplifting choir performance, setting a worshipful atmosphere. The lyrics celebrate the authority of Jesus and the call to make disciples. The congregation is invited to engage in this joyful beginning.",
+      "keywords": ["worship", "Jesus", "discipleship", "choir", "faith"],
+      "performers": ["Choir"],
+      "songs": ["Opening Worship"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: He Came To Live",
+      "start_time": 318,
+      "type": "music",
+      "description": "The solo performance emphasizes the life, sacrifice, and love of Jesus. The song reflects on His role as a savior who came to heal and to empower believers. Its heartfelt lyrics resonate with the congregation, inviting them to reflect on their relationship with Christ.",
+      "keywords": ["Jesus", "sacrifice", "love", "healing", "worship"],
+      "performers": ["Unknown"],
+      "songs": ["He Came To Live"],
+      "scripture_references": []
+    },
+    {
+      "title": "baptism: Baptisms Celebration",
+      "start_time": 522,
+      "type": "baptism",
+      "description": "Several baptisms take place, highlighting the transformative journey of individuals publicly proclaiming their faith in Jesus. A pastor shares insights into the significance of baptism and the importance of life change it represents within the church community.",
+      "keywords": ["baptism", "faith", "transformation", "community", "celebration"],
+      "performers": ["Pastor Kelly"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Test of Genuine Faith (1 John 2:15-17)",
+      "start_time": 990,
+      "type": "sermon",
+      "description": "In this sermon, Pastor Kelly dives into 1 John, discussing the tests of genuine faith. He emphasizes the importance of loving God over the world, exploring themes of obedience, love, and the transient pleasures of life. The message encourages self-reflection on what believers are prioritizing in their lives.",
+      "keywords": ["faith", "1 John", "obedience", "love", "Pastor Kelly"],
+      "performers": ["Pastor Kelly"],
+      "songs": [],
+      "scripture_references": ["1 John 2:15-17"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3494,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt invitation prayer, inviting attendees to seek a deeper relationship with God. It serves as a reminder to reject worldly distractions and embrace a life of love and dedication to Christ.",
+      "keywords": ["invitation", "prayer", "relationship", "God", "commitment"],
+      "performers": ["Pastor Kelly"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Closing Worship",
+      "start_time": 3494,
+      "type": "music",
+      "description": "The choir leads a final worship song, allowing the congregation to reflect on the service. The music uplifts the spirits of attendees and encourages them to carry the message of faith and love into their weekly lives.",
+      "keywords": ["worship", "choir", "faith", "closing", "uplifting"],
+      "performers": ["Choir"],
+      "songs": ["Closing Worship"],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: AMEN",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a vibrant choir performance that sets a joyful atmosphere in the sanctuary. The choir sings a powerful song that engages the congregation, inviting them to partake in the worship experience. This performance serves as a prelude to the spiritual teachings that will follow.",
+      "keywords": ["choir", "worship", "singing", "praise"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["AMEN"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: With All My Heart",
+      "start_time": 873,
+      "type": "music",
+      "description": "A heartfelt solo performance that conveys deep personal devotion to God. The soloist emphasizes the themes of love and commitment, demonstrating a desire to know and serve God fully. This music segment enhances the worship atmosphere and encourages reflection among the congregation.",
+      "keywords": ["solo", "worship", "devotion", "commitment"],
+      "performers": ["Lori Scheiman"],
+      "songs": ["With All My Heart"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Judgment of the Great Harlot (Revelation 17)",
+      "start_time": 1069,
+      "type": "sermon",
+      "description": "Pastor Moore presents an in-depth analysis of Revelation 17, focusing on the identity and judgment of the Great Harlot. The sermon explores the spiritual adultery of false religions throughout history, contrasting it with the faithfulness required of believers. The teachings encourage the congregation to maintain vigilance against false doctrines.",
+      "keywords": ["sermon", "Revelation", "great harlot", "judgment"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 17"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3396,
+      "type": "prayer",
+      "description": "In the closing prayer, Pastor Moore expresses gratitude for the message shared and intercedes for those seeking spiritual truth. The prayer reinforces the commitment to reach out to those in need, sharing the gospel message. It concludes the service with an invitation for personal reflection and connection with God.",
+      "keywords": ["prayer", "thanksgiving", "intercession", "gospel"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Upbeat Praise]",
+      "start_time": 30,
+      "type": "music",
+      "description": "The service begins with an upbeat music segment that sets a joyful tone. This energetic introduction aims to engage the congregation and prepare their hearts for worship. The repeated phrases reinforce themes of faith and discipleship as attendees are encouraged to uplift their spirits and connect with one another.",
+      "keywords": ["worship", "joy", "praise", "faith"],
+      "performers": ["Choir"],
+      "songs": ["Upbeat Praise"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [God Is My Shield]",
+      "start_time": 263,
+      "type": "music",
+      "description": "The choir leads the congregation in a heartfelt song proclaiming God's protective nature. The lyrics echo sentiments of trust and reliance on God, making it a powerful moment of collective worship. As the congregation joins in, an atmosphere of unity and devotion is created, lifting spirits and deepening connections.",
+      "keywords": ["trust", "protection", "faith", "unity"],
+      "performers": ["Choir"],
+      "songs": ["God Is My Shield"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Spiritual Self-Examination (1 Corinthians 11:28)",
+      "start_time": 603,
+      "type": "sermon",
+      "description": "In this sermon, Pastor Kelly Bird invites the congregation to embark on a five-week journey of spiritual self-examination. Drawing upon scripture, he emphasizes the importance of self-assessment in understanding our lives in relation to God. Through engaging anecdotes and a heartfelt call to introspection, he challenges listeners to reflect on their spiritual health and commitment to God throughout their daily lives.",
+      "keywords": ["self-examination", "spirituality", "growth", "reflection"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 11:28"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3536,
+      "type": "prayer",
+      "description": "The opening prayer sets the tone for the service, as congregants are encouraged to open their hearts before God. The pastor leads a prayer asking for guidance and openness during the process of self-examination and for God's wisdom as the church embarks on this spiritual journey together.",
+      "keywords": ["prayer", "guidance", "community"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Wonderful Savior]",
+      "start_time": 905,
+      "type": "music",
+      "description": "A heartfelt solo performance centered on the theme of devotion to Jesus as the 'Wonderful Savior'. The lyrics express deep gratitude and longing for closeness with God through worship. This intimate moment encourages personal reflection and connection with the divine, cementing themes introduced earlier in the service.",
+      "keywords": ["devotion", "worship", "gratefulness"],
+      "performers": ["Soloist"],
+      "songs": ["Wonderful Savior"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1154,
+      "type": "prayer",
+      "description": "The closing prayer offers thanks for the service and the messages shared. The pastor invites the congregation to commit their week to God, asking for strength and guidance as they engage in self-examination. This moment underscores the importance of prayer in the life of the community and encourages ongoing spiritual growth.",
+      "keywords": ["prayer", "community", "faith"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Series on Self-Examination",
+      "start_time": 1995,
+      "type": "announcement",
+      "description": "The pastor announces the continuation of the self-examination theme for the upcoming weeks, inviting the congregation to prepare for a deeper exploration of their spiritual lives. Emphasizing community participation, he encourages everyone to engage fully with the messages to come.",
+      "keywords": ["announcements", "self-examination", "community"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Resurrection Praise",
+      "start_time": 105,
+      "type": "music",
+      "description": "The Sanctuary choir, accompanied by brass, leads the congregation in a triumphant performance of 'Resurrection Praise' as they celebrate Easter. The music heralds the joy and victory of Christ's resurrection, creating a heartfelt atmosphere for worshippers to reflect on the significance of the day.",
+      "keywords": ["Easter", "resurrection", "celebration", "choir", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Resurrection Praise"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Glorious Victory",
+      "start_time": 522,
+      "type": "music",
+      "description": "The Sanctuary choir performs 'Glorious Victory,' celebrating the triumph of Christ over death. The uplifting melody and lyrics invite the congregation to join in the joy of resurrection and reflect on the hope it brings to believers.",
+      "keywords": ["victory", "joy", "Easter", "celebration"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Glorious Victory"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Jesus Rings",
+      "start_time": 785,
+      "type": "music",
+      "description": "The choir continues the Easter celebration with the song 'Jesus Rings,' delivering a powerful message about Christ's reign and his resurrection's significance. The performance encourages a spirit of praise and worship among the congregation.",
+      "keywords": ["Jesus", "resurrection", "Easter", "choir", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Jesus Rings"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Importance of the Resurrection (John 11:25-26)",
+      "start_time": 1591,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers an impactful Easter message, discussing the significance of the resurrection of Jesus Christ. He explores three critical questions about the resurrection's importance, evidence, and the promise of future resurrections, emphasizing the transformative power of faith.",
+      "keywords": ["resurrection", "faith", "Easter", "Jesus", "John 11"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["John 11:25-26"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3380,
+      "type": "prayer",
+      "description": "In an invitation prayer, the pastor invites attendees to reflect on their relationship with Jesus Christ. He asks those ready to make a decision for Christ to bow in prayer, emphasizing the importance of accepting Jesus as Lord and Savior.",
+      "keywords": ["prayer", "invitation", "faith", "salvation", "Easter"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3448,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, where the pastor expresses gratitude for the opportunity to worship and the significance of the resurrection. The prayer serves as a moment of reflection for attendees to acknowledge their faith and commitment to God.",
+      "keywords": ["prayer", "closing", "worship", "resurrection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

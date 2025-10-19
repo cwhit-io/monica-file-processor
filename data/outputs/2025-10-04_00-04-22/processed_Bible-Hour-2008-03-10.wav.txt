@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Hosanna",
+      "start_time": 0,
+      "type": "music",
+      "description": "The worship begins with a powerful choir piece, invoking the spirit of praise and celebration. The congregation participates with enthusiasm, singing praises to God. The theme revolves around acknowledging God's authority and salvation, setting a tone of worship for the service.",
+      "keywords": ["worship", "choir", "Hosanna", "praise", "celebration"],
+      "performers": ["Choir"],
+      "songs": ["Hosanna"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Oh, Praise Is Rising",
+      "start_time": 80,
+      "type": "music",
+      "description": "The choir continues with the uplifting song 'Oh, Praise Is Rising'. This song reflects the congregation's longing for God's presence and the hope of salvation. The lyrics emphasize unity in worship and the communal desire to experience God’s transformative love.",
+      "keywords": ["worship", "choir", "praise", "transformation", "salvation"],
+      "performers": ["Choir"],
+      "songs": ["Oh, Praise Is Rising"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Easter Celebration",
+      "start_time": 445,
+      "type": "announcement",
+      "description": "The speaker warmly welcomes the congregation and highlights the significance of Easter. They invite attendees to join the Easter services and reflect on the grace of God. Emphasis is placed on celebrating the resurrection and community engagement in faith.",
+      "keywords": ["Easter", "announcement", "community", "resurrection", "faith"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 670,
+      "type": "prayer",
+      "description": "An opening prayer is led, thanking God for the gathering and the opportunity to worship. The prayer touches on themes of humility and the importance of hearing God's word. It creates an atmosphere of reverence and preparedness for the service.",
+      "keywords": ["prayer", "opening", "worship", "gathering", "reverence"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Absolutes in the Christian Life (1 John 5)",
+      "start_time": 1105,
+      "type": "sermon",
+      "description": "The sermon focuses on five key absolutes in the Christian life drawn from 1 John 5. The speaker emphasizes eternal life, answered prayer, victory over sin, identity as children of God, and the true nature of Christ. Each point is supported with scripture and personal insights, encouraging attendees to deepen their faith.",
+      "keywords": ["sermon", "absolutes", "eternal life", "prayer", "Christianity"],
+      "performers": ["Steve"],
+      "songs": [],
+      "scripture_references": ["1 John 5"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3465,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that encapsulates the themes of the sermon. The prayer expresses gratitude for God's presence and asks for His guidance. It reinforces the community's commitment to living out the truths shared during the message.",
+      "keywords": ["prayer", "closing", "gratitude", "community", "guidance"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Celebration Song",
+      "start_time": 3506,
+      "type": "music",
+      "description": "The final music segment features a celebratory choir song, marking the conclusion of the service. The song is filled with joy and thanksgiving, inviting the congregation to reflect on their faith and the message of the day. It fosters a spirit of unity and celebration among attendees.",
+      "keywords": ["celebration", "music", "choir", "thanksgiving", "unity"],
+      "performers": ["Choir"],
+      "songs": ["Celebration Song"],
+      "scripture_references": []
+    }
+  ]
+}
+```

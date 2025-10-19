@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 58,
+      "type": "music",
+      "description": "The sanctuary choir leads us in special music, setting a tone of reverence and anticipation for the worship service. The performance is uplifting, designed to prepare hearts for the teachings to follow. The choir's harmonious blend captures the congregation's attention and fosters a spirit of community worship.",
+      "keywords": ["choir", "music", "worship", "service", "praise"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 797,
+      "type": "music",
+      "description": "A solo performance follows, showcasing the talent of Kevin Rowe. This heartfelt piece deepens the worship experience, inviting reflection on the lyrics and themes of the song. The music encourages the congregation to connect deeply with the message of hope and salvation.",
+      "keywords": ["solo", "Kevin Rowe", "worship", "hope", "salvation"],
+      "performers": ["Kevin Rowe"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1052,
+      "type": "prayer",
+      "description": "Pastor Moore leads the congregation in an opening prayer, asking for God's guidance and presence to be felt throughout the service. This moment serves as a solemn call for worship, inviting all attendees to turn their hearts towards God in preparation for the message ahead.",
+      "keywords": ["prayer", "opening", "guidance", "worship", "community"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Revelation of Jesus Christ (Revelation 1:1)",
+      "start_time": 1055,
+      "type": "sermon",
+      "description": "Pastor Moore begins a powerful sermon series on the Book of Revelation. Through detailed exposition, he explores the divine revelations granted to John, emphasizing the significance of Christ's return. The message is rich with personal anecdotes and biblical insights, inviting the congregation to anticipate the fulfillment of God's promises.",
+      "keywords": ["sermon", "Revelation", "Jesus", "prophecy", "hope"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 1:1"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3413,
+      "type": "prayer",
+      "description": "A closing prayer is offered, inviting everyone to reflect on the message shared. Pastor Moore leads the congregation in a prayer of commitment, thanking God for His word and asking for strength to live out the teachings learned. This prayer seals the service, encouraging a personal response from each attendee.",
+      "keywords": ["prayer", "closing", "commitment", "reflection", "community"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Next Week's Service",
+      "start_time": 3509,
+      "type": "announcement",
+      "description": "As the service concludes, announcements are made regarding next week's service. Information is provided about special guests and the continuation of the sermon series. It serves to inform the congregation and encourage further participation in the church's activities.",
+      "keywords": ["announcement", "service", "next week", "community", "participation"],
+      "performers": ["Ed Richard"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

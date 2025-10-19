@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Living Christmas Tree",
+      "start_time": 120,
+      "type": "music",
+      "description": "The service begins with a performance by the Team Choir, showcasing a heartfelt song from the Living Christmas Tree. This set the tone for a festive atmosphere as the congregation is drawn into worship. The choir's singing enhances the spirit of fellowship and devotion during this holiday season.",
+      "keywords": ["choir", "music", "worship", "Christmas", "fellowship"],
+      "performers": ["Team Choir"],
+      "songs": ["Living Christmas Tree"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Speaking of Bethlehem Morning",
+      "start_time": 546,
+      "type": "music",
+      "description": "Reed LeFavor performs a solo titled 'Speaking of Bethlehem Morning,' infusing the service with reflective joy. As the gentle music flows, it vividly illustrates the message of the season and invites the congregation to contemplate the significance of Christ's birth.",
+      "keywords": ["Reed LeFavor", "solo", "Bethlehem", "Christmas", "reflection"],
+      "performers": ["Reed LeFavor"],
+      "songs": ["Speaking of Bethlehem Morning"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: O Come, All Ye Faithful",
+      "start_time": 941,
+      "type": "music",
+      "description": "The congregation joins in singing 'O Come, All Ye Faithful,' creating a powerful moment of collective worship. This hymn reflects the community's joy and anticipation of Christ's coming, fostering a spirit of togetherness and celebration during the service.",
+      "keywords": ["hymn", "Christmas", "congregation", "worship", "faithful"],
+      "performers": [],
+      "songs": ["O Come, All Ye Faithful"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1389,
+      "type": "prayer",
+      "description": "The opening prayer is led, inviting the congregation to focus their hearts on God. The prayer acknowledges the joys and challenges of the season, asking for peace and comfort for families and individuals facing trials during this time of year.",
+      "keywords": ["prayer", "worship", "congregation", "Christmas", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Restoring the Wonder of Christmas (Colossians 3:15-17)",
+      "start_time": 1742,
+      "type": "sermon",
+      "description": "Dr. Harry Shields delivers an impactful message focused on restoring the wonder of Christmas. He emphasizes the importance of making peace a priority, maintaining gratitude, and allowing God's Word to dwell richly within us. His insights aim to encourage the congregation to reclaim the joy and reverence of the holiday season through worship.",
+      "keywords": ["sermon", "Christmas", "Dr. Harry Shields", "Colossians", "worship"],
+      "performers": ["Dr. Harry Shields"],
+      "songs": [],
+      "scripture_references": ["Colossians 3:15-17"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3505,
+      "type": "prayer",
+      "description": "The closing prayer encapsulates the service, thanking God for the message and the time spent in worship. It invites the congregation to carry the themes of gratitude and peace into their daily lives, reinforcing the call to celebrate the true meaning of Christmas.",
+      "keywords": ["closing", "prayer", "thanksgiving", "worship", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,64 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an emphasis on the form of faith that saves and what it means to have a living versus a dead faith. This introductory segment helps prepare the congregation to reflect on their own beliefs as they join the service.",
+      "keywords": ["faith", "belief", "dead faith", "living faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 96,
+      "type": "music",
+      "description": "The sanctuary choir leads the congregation in a musical piece designed to uplift and enhance the worship experience. This performance contributes to the overall atmosphere of praise and communal worship.",
+      "keywords": ["music", "worship", "choir", "praise"],
+      "performers": ["sanctuary choir"],
+      "songs": ["unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Saving Faith Works (Romans 6:23)",
+      "start_time": 3403,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a powerful message centered on the theme of saving faith and its implications for eternal life. He emphasizes the distinction between mere belief and true saving faith, urging listeners to reflect on their personal relationship with Christ.",
+      "keywords": ["faith", "salvation", "eternal life", "Jesus", "Pastor Moore"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Romans 6:23"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3432,
+      "type": "prayer",
+      "description": "In this segment, the pastor leads the congregation in a heartfelt invitation prayer, asking for forgiveness and inviting attendees to accept Christ as their Savior. This moment serves as an important spiritual call for those seeking assurance in their faith.",
+      "keywords": ["prayer", "invitation", "forgiveness", "Savior"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3456,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer where the pastor encourages the congregation to commit their lives to Christ. This final prayer serves as a reminder of the message shared and invites continued reflection and action.",
+      "keywords": ["closing", "prayer", "commitment", "reflection"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 3531,
+      "type": "music",
+      "description": "The service ends with a solo performance that reflects the themes discussed during the sermon. The music brings a sense of closure and invites the congregation to meditate on the message of faith they have received.",
+      "keywords": ["solo", "music", "worship", "reflection"],
+      "performers": ["unknown"],
+      "songs": ["unknown"],
+      "scripture_references": []
+    }
+  ]
+}

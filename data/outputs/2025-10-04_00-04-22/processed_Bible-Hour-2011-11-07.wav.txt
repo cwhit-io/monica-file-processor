@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Gentle Piano Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with uplifting music that sets a warm, inviting tone. The gentle piano melodies create an atmosphere of peace and anticipation as attendees prepare for worship.",
+      "keywords": ["music", "piano", "uplifting", "atmosphere", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: You Are Good",
+      "start_time": 181,
+      "type": "music",
+      "description": "The choir leads the congregation in a heartfelt performance of 'You Are Good,' emphasizing themes of love, hope, and grace. This music encourages participation, fostering a sense of community and devotion.",
+      "keywords": ["choir", "worship", "song", "goodness", "community"],
+      "performers": ["Choir"],
+      "songs": ["You Are Good"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Running to Your Arms",
+      "start_time": 447,
+      "type": "music",
+      "description": "A soloist performs 'Running to Your Arms,' expressing a deep yearning for God's presence. The poignant lyrics and emotional delivery resonate with the congregation, enhancing their worship experience.",
+      "keywords": ["solo", "worship", "song", "devotion", "longing"],
+      "performers": ["Soloist"],
+      "songs": ["Running to Your Arms"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 718,
+      "type": "prayer",
+      "description": "Pastor Kelly Bird opens the service with a heartfelt prayer, welcoming attendees and asking for God's guidance and presence throughout the worship. This sets a reflective tone for the message to come.",
+      "keywords": ["prayer", "opening", "devotion", "worship", "community"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Devotion to God (Deuteronomy 7)",
+      "start_time": 734,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird delivers a thought-provoking sermon on devotion to God, unpacking the themes in Deuteronomy 7. He emphasizes the importance of removing compromises, remembering God’s faithfulness, and the necessity of obedience, inspiring the congregation to evaluate their own commitments.",
+      "keywords": ["sermon", "devotion", "God", "faithfulness", "obedience"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Deuteronomy 7"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3387,
+      "type": "prayer",
+      "description": "In closing, Pastor Bird leads a reflection prayer, asking for God’s strength as the congregation confronts their challenges and resolves to follow Him. This moment reinforces the theme of devotion established in the sermon.",
+      "keywords": ["prayer", "closing", "reflection", "community", "strength"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Unknown Title]",
+      "start_time": 3510,
+      "type": "music",
+      "description": "The service concludes with a congregational hymn. This moment fosters unity as all join together in worship, leaving them uplifted and spiritually encouraged.",
+      "keywords": ["music", "hymn", "congregation", "unity", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

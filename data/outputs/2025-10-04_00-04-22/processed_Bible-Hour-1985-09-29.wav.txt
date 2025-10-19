@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: How Great Thou Art",
+      "start_time": 60,
+      "type": "music",
+      "description": "The service opens with a beautiful choir rendition of 'How Great Thou Art,' an anthem that captures the awe of God's creation and majesty. The congregation reflects on the greatness of God through music and shared worship. The choir's harmonies invite all to join in reverence and adoration.",
+      "keywords": ["choir", "how great thou art", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["How Great Thou Art"],
+      "scripture_references": []
+    },
+    {
+      "title": "Cantor: Giving Praise Is the Least That I Can Do",
+      "start_time": 203,
+      "type": "music",
+      "description": "Marsha performs a touching solo, 'Giving Praise Is the Least That I Can Do.' The heartfelt lyrics express gratitude and the importance of recognizing God's blessings. The atmosphere is filled with worship as the congregation engages in heartfelt praise.",
+      "keywords": ["solo", "giving praise", "worship"],
+      "performers": ["Marsha"],
+      "songs": ["Giving Praise Is the Least That I Can Do"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Amazing Grace",
+      "start_time": 1021,
+      "type": "music",
+      "description": "The congregation joins together to sing 'Amazing Grace,' a hymn that resonates with themes of redemption and grace. The familiar melody and lyrics foster a moment of unity as worshippers reflect on personal experiences of divine grace in their lives.",
+      "keywords": ["congregation", "amazing grace", "hymn"],
+      "performers": [],
+      "songs": ["Amazing Grace"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Sharing Christ Simply (1 Corinthians 2:1-5)",
+      "start_time": 1760,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a powerful sermon on sharing Christ's message simply and sincerely. Emphasizing the call for believers to share their faith effectively, he draws from 1 Corinthians 2, highlighting how Paul preached in weakness and sincerity. This message encourages congregants to rely on God's power rather than human wisdom.",
+      "keywords": ["sermon", "evangelism", "1 corinthians", "paul", "simplicity"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 2:1-5"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3507,
+      "type": "prayer",
+      "description": "The congregation joins in an opening prayer led by Pastor Rick Hawks, focusing on gratitude for Christ's sacrifice and an invitation for Him to enter the hearts of those seeking Him. This prayer sets a tone of humility and openness for the service ahead.",
+      "keywords": ["prayer", "opening", "gratitude"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Super 60s Event",
+      "start_time": 1048,
+      "type": "announcement",
+      "description": "Pastor Rick shares details about the upcoming Super 60s event, celebrating its seventh anniversary. He invites senior adults in the community to join a special program featuring engaging speakers and an opportunity for fellowship. The focus is on building community among seniors.",
+      "keywords": ["announcement", "Super 60s", "event", "community"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3530,
+      "type": "prayer",
+      "description": "Following the sermon, Pastor Rick leads a closing prayer, thanking God for the message shared and praying for all in attendance. He emphasizes the importance of receiving Christ and responding to His call in their lives.",
+      "keywords": ["prayer", "closing", "gratitude"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "testimony: Karen's Journey to Recovery",
+      "start_time": 31,
+      "type": "testimony",
+      "description": "Karen shares her personal story of overcoming addiction and emotional struggles. She reflects on her childhood experiences with a perfectionist father and emotionally distant mother, sharing how these shaped her addictive behaviors. Through Celebrate Recovery, she finds healing, emphasizing the importance of God's love in her journey.",
+      "keywords": ["recovery", "addiction", "testimony", "freedom", "God's love"],
+      "performers": ["Karen"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 345,
+      "type": "prayer",
+      "description": "The service opens with a prayer asking for guidance and openness to the message of hope and recovery. The congregation is encouraged to seek God’s presence throughout the service.",
+      "keywords": ["prayer", "guidance", "hope"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "sermon: The Road to Recovery (Ephesians 4:31-32)",
+      "start_time": 629,
+      "type": "sermon",
+      "description": "The pastor delivers a message on the principles of recovery as outlined in steps six through eight. He emphasizes the importance of forgiveness and community. Listeners are reminded of their reliance on God instead of human effort, and the need for daily commitment to spiritual practices for lasting recovery.",
+      "keywords": ["recovery", "forgiveness", "community", "spiritual growth", "Ephesians"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Ephesians 4"]
+    },
+    {
+      "title": "Choir: Heal the Wound",
+      "start_time": 3188,
+      "type": "music",
+      "description": "The choir performs 'Heal the Wound', a reflective song about the journey of healing from past hurts. Its powerful lyrics resonate with themes of redemption and the mercy found in God. The performance encourages the congregation to find peace and healing in their own struggles.",
+      "keywords": ["music", "healing", "choir", "worship"],
+      "performers": ["Choir"],
+      "songs": ["Heal the Wound"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3507,
+      "type": "prayer",
+      "description": "The closing prayer reflects on the messages shared throughout the service. The pastor thanks God for the opportunity to worship and seeks divine strength and courage for the congregation as they pursue lives of freedom and recovery.",
+      "keywords": ["closing prayer", "strength", "courage"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

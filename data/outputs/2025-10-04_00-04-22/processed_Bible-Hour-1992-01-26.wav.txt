@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Solo: He Touched Me",
+      "start_time": 92,
+      "type": "music",
+      "description": "Rila Faber performs the moving solo 'He Touched Me,' reflecting on the transformative power of Jesus’ touch. The song conveys a deep sense of joy and personal renewal, resonating with themes of healing and faith. The congregation is invited to experience this uplifting moment.",
+      "keywords": ["music", "solo", "he touched me", "faith", "joy"],
+      "performers": ["Rila Faber"],
+      "songs": ["He Touched Me"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: When You Pass Through the Waters",
+      "start_time": 816,
+      "type": "music",
+      "description": "The congregation sings 'When You Pass Through the Waters,' a hymn that emphasizes God's presence in times of trouble. The repeated message serves as a comforting reminder of divine support during life's challenges. It encourages the faithful to trust in God's guidance.",
+      "keywords": ["hymn", "worship", "faith", "God's presence", "trust"],
+      "performers": [],
+      "songs": ["When You Pass Through the Waters"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Bliss and Blisters of Singleness (1 Corinthians)",
+      "start_time": 0,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a profound sermon on the complexities of being single, discussing both the joys and struggles faced by singles in faith. Drawing insights from biblical teachings, he highlights the importance of waiting on God and living a purposeful life through challenges. The message offers hope and direction for those feeling lost in their singleness.",
+      "keywords": ["singleness", "sermon", "faith", "purpose", "1 Corinthians"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3421,
+      "type": "prayer",
+      "description": "An invitation prayer is led, encouraging those who have made personal commitments to Christ. The prayer is heartfelt and expresses gratitude for God's intervention in lives, inviting individuals to embrace their faith journey. This moment fosters a sense of community and shared faith among attendees.",
+      "keywords": ["prayer", "invitation", "faith", "commitment", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Pass Through the Waters",
+      "start_time": 995,
+      "type": "music",
+      "description": "The Sanctuary Choir performs 'Pass Through the Waters,' a moving rendition that calls upon the congregation to reflect on their faith during trials. The choir’s harmonies uplift and encourage listeners, reminding them of God's promises during difficult times.",
+      "keywords": ["choir", "worship", "music", "faith", "encouragement"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["When You Pass Through the Waters"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Concert",
+      "start_time": 579,
+      "type": "announcement",
+      "description": "An announcement highlights the upcoming 'Sing for Joy' concert at Black Hawk Baptist Church featuring local soloists and a special guest artist. The congregation is encouraged to attend, emphasizing community involvement and support for the music ministry.",
+      "keywords": ["announcement", "concert", "community", "event", "music"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Singles Ministry Overview",
+      "start_time": 615,
+      "type": "interview",
+      "description": "Kevin Rowe shares insights about the singles ministry within the church. He discusses the blessings of community, outreach activities, and encouragement experienced in the class. Kevin emphasizes the focus on being godly, regardless of marital status, fostering spiritual growth and support.",
+      "keywords": ["singles", "ministry", "interview", "outreach", "community"],
+      "performers": ["Kevin Rowe"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3440,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, inviting God's continued presence and guidance in the lives of the congregation. It provides a moment to reflect on the day’s messages and reaffirm faith, encouraging a deepened relationship with God.",
+      "keywords": ["prayer", "closing", "faith", "guidance", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,96 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Holy is He",
+      "start_time": 111,
+      "type": "music",
+      "description": "The sanctuary choir delivers a powerful rendition of 'Holy is He,' inviting the congregation into a time of worship and reflection. The music captures the essence of God's holiness, creating an atmosphere conducive to praise.",
+      "keywords": ["choir", "holy", "worship", "music"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Holy is He"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Take Time to Be Holy",
+      "start_time": 556,
+      "type": "music",
+      "description": "The congregation joins in singing 'Take Time to Be Holy,' focusing on the call to strengthen one's relationship with God through prayer and service. This hymn emphasizes the importance of dedicating time to spiritual growth.",
+      "keywords": ["hymn", "holy", "worship", "congregational"],
+      "performers": ["Congregation"],
+      "songs": ["Take Time to Be Holy"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Choices",
+      "start_time": 702,
+      "type": "music",
+      "description": "The Praise Kids perform 'Choices,' illustrating the various decisions faced in life and the importance of making choices in alignment with faith. Their performance delivers a heartfelt message through engaging melodies.",
+      "keywords": ["Praise Kids", "choices", "decision", "music"],
+      "performers": ["Praise Kids"],
+      "songs": ["Choices"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Services Announcement",
+      "start_time": 901,
+      "type": "announcement",
+      "description": "Details about the Good Friday service at the Grand Wayne Center are shared, highlighting the significance of this annual event and inviting participation from the community.",
+      "keywords": ["Good Friday", "announcement", "service", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Jim Rickard: Stewardship Ministries",
+      "start_time": 950,
+      "type": "interview",
+      "description": "Jim Rickard shares insights about the Stewardship Services Foundation, discussing its role in helping churches and individuals manage their finances according to biblical principles. The interview highlights the spiritual importance of stewardship.",
+      "keywords": ["Jim Rickard", "stewardship", "ministry", "finance"],
+      "performers": ["Jim Rickard"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Biblical Stewardship (Matthew 6:19-24)",
+      "start_time": 1495,
+      "type": "sermon",
+      "description": "Jim Rickard delivers a compelling sermon on 'Biblical Stewardship,' focusing on the importance of storing treasures in heaven versus on earth. He emphasizes the need to invest in people and prioritize God's kingdom over material possessions.",
+      "keywords": ["stewardship", "money", "Matthew 6", "treasures"],
+      "performers": ["Jim Rickard"],
+      "songs": [],
+      "scripture_references": ["Matthew 6:19-24"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3463,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, encouraging those who have decided to follow Christ to take the next steps in their spiritual journey. The prayer reinforces the importance of faith and seeking a deeper relationship with God.",
+      "keywords": ["invitation", "prayer", "faith", "decisions"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: I Love Thee",
+      "start_time": 1390,
+      "type": "music",
+      "description": "Lisa Renaker performs 'I Love Thee,' a heartfelt solo that expresses deep love and gratitude toward God. Her moving rendition adds a personal touch to the service, drawing worshipers into a moment of reflection and adoration.",
+      "keywords": ["Lisa Renaker", "solo", "worship", "love"],
+      "performers": ["Lisa Renaker"],
+      "songs": ["I Love Thee"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3475,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, prompting the congregation to reflect on the teachings shared throughout the service. It serves as a final appeal to commit their lives to God’s principles and stewardship.",
+      "keywords": ["closing", "prayer", "commitment", "service"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Hold the Flame of Freedom High",
+      "start_time": 79,
+      "type": "music",
+      "description": "The sanctuary choir performs a stirring patriotic anthem titled 'Hold the Flame of Freedom High.' The song emphasizes the importance of holding high the freedom found in Christ and resonates with themes of hope and faith, encouraging everyone to recognize the sacrifices that have led to the blessings of liberty.",
+      "keywords": ["choir", "freedom", "patriotic", "hope", "faith"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Hold the Flame of Freedom High"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Watercolor Ponies",
+      "start_time": 86,
+      "type": "music",
+      "description": "Brian Lawson delivers a heartfelt rendition of 'Watercolor Ponies,' a song reflecting on the passage of time and the bittersweet nature of childhood memories. The performance evokes nostalgia and emphasizes the importance of cherishing moments with loved ones.",
+      "keywords": ["solo", "nostalgia", "childhood", "memories", "love"],
+      "performers": ["Brian Lawson"],
+      "songs": ["Watercolor Ponies"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 863,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting the congregation to focus their hearts and minds on the worship experience ahead. The prayer emphasizes gratitude for freedom and sets a reflective atmosphere for the community coming together.",
+      "keywords": ["prayer", "worship", "community", "freedom", "gratitude"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: A Faith That Won't Be Forgotten (Deuteronomy 6:4-9)",
+      "start_time": 112,
+      "type": "sermon",
+      "description": "Associate Pastor Tim Teder presents a profound message titled 'A Faith That Won't Be Forgotten,' rooted in Deuteronomy 6:4-9. He explores the qualities of a faith that is unforgettable, emphasizing the importance of passing faith down through generations. Teder's passionate delivery encourages listeners to reflect on their legacies and the impact of their faith on future generations.",
+      "keywords": ["sermon", "faith", "legacy", "Moses", "Deuteronomy"],
+      "performers": ["Tim Teder"],
+      "songs": [],
+      "scripture_references": ["Deuteronomy 6:4-9"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3428,
+      "type": "prayer",
+      "description": "The service concludes with an invitation prayer, allowing individuals to respond to the message delivered. It invites attendees to seek personal relationships with Christ, reflecting on the themes of redemption and faith that were highlighted throughout the service.",
+      "keywords": ["invitation", "prayer", "relationship", "redemption", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

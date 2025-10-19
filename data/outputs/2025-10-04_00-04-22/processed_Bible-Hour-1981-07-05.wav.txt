@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Patriotic Presentation",
+      "start_time": 122,
+      "type": "music",
+      "description": "The Black Hawk Baptist Church choir celebrates July 4th with a vibrant patriotic presentation, showcasing the spirit of freedom. The performance features beloved patriotic songs invoking feelings of pride and gratitude for the nation. Each piece reflects on the themes of liberty and remembrance, creating an uplifting atmosphere.",
+      "keywords": ["patriotism", "freedom", "liberty", "choir", "music"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Various Patriotic Songs"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: My Country, 'Tis of Thee",
+      "start_time": 287,
+      "type": "music",
+      "description": "Steve and Maria Gardner perform a heartfelt rendition of 'My Country, 'Tis of Thee,' encapsulating the beauty of the American landscape and its ideals. Their performance brings the congregation together in a shared expression of national pride, resonating deeply with the themes of faith and freedom.",
+      "keywords": ["patriotic", "solo", "America", "freedom", "faith"],
+      "performers": ["Steve Gardner", "Maria Gardner"],
+      "songs": ["My Country, 'Tis of Thee"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: God Bless America",
+      "start_time": 437,
+      "type": "music",
+      "description": "The congregation sings along to 'God Bless America,' a powerful anthem that eloquently captures the spirit of unity and hope for the nation. This stirring performance encourages the audience to reflect on the blessings of liberty and the collective responsibility to uphold these ideals.",
+      "keywords": ["America", "blessing", "unity", "patriotic", "song"],
+      "performers": [],
+      "songs": ["God Bless America"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Patriotic Panorama",
+      "start_time": 480,
+      "type": "music",
+      "description": "The Black Hawk Singers perform a Patriotic Panorama, blending stirring narration with music that celebrates the nation's heritage. This segment highlights the sacrifices made for freedom, combining heartfelt lyrics with poignant storytelling, and reinforcing the message of gratitude and divine guidance.",
+      "keywords": ["Patriot", "heritage", "music", "narration", "celebration"],
+      "performers": ["Black Hawk Singers"],
+      "songs": ["Patriotic Panorama"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Priorities of the Church (Scripture References)",
+      "start_time": 1532,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers a profound sermon on the priorities of the church, emphasizing the critical importance of evangelism. Drawing from personal experiences and biblical principles, he challenges the congregation to focus on sharing the gospel actively and effectively. The message encourages all members to embody the faith and lead others to Christ, reinforcing the church's mission in today's world.",
+      "keywords": ["evangelism", "church", "priorities", "faith", "gospel"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3365,
+      "type": "prayer",
+      "description": "Pastor David Jeremiah leads the congregation in an opening prayer, inviting God's presence and guidance over the service. This heartfelt prayer emphasizes the themes of commitment to evangelism and the church’s mission, asking for strength and wisdom to effectively share the faith with the community.",
+      "keywords": ["prayer", "guidance", "community", "faith", "evangelism"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3377,
+      "type": "prayer",
+      "description": "In an invitation prayer, Pastor Jeremiah encourages those in the congregation to respond to the message and deepen their relationship with Christ. This moment is filled with sincerity, as the pastor asks for the Holy Spirit's work in the lives of individuals seeking spiritual renewal and commitment.",
+      "keywords": ["invitation", "prayer", "commitment", "renewal", "faith"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3425,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer by Pastor Jeremiah, offering thanks for the gathered community and for the messages shared. This prayer serves as a reminder of the call to carry the teachings into daily life and to be diligent in sharing the gospel message.",
+      "keywords": ["closing", "prayer", "community", "thanksgiving", "faith"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

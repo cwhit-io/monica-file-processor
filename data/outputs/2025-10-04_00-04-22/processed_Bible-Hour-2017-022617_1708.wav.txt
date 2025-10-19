@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a choir performance that sets a worshipful atmosphere for the congregation. The opening music invites everyone to focus their hearts on God as they prepare for the service ahead. The melodies and harmonies lift spirits and create an atmosphere of praise.",
+      "keywords": ["choir", "worship", "music"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 240,
+      "type": "prayer",
+      "description": "The leader introduces the theme of the service while praying for blessings over the gathering and the message to be communicated. The prayer sets the stage for a powerful message from God's Word, inviting everyone to open their hearts for the teaching that follows.",
+      "keywords": ["prayer", "blessing", "community"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Mission Church Overview",
+      "start_time": 677,
+      "type": "interview",
+      "description": "Tim Stauffer and Michael Brown, co-pastors of Mission Church, share the church's history and their mission of breaking the cycle of intergenerational poverty in Fort Wayne. They discuss their heart for children and the efforts made to provide practical help and spiritual guidance.",
+      "keywords": ["Mission Church", "Fort Wayne", "poverty"],
+      "performers": ["Tim Stauffer", "Michael Brown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Inside Out Series: Philippians 4",
+      "start_time": 1000,
+      "type": "sermon",
+      "description": "Rick Raber delivers a message based on Philippians 4, emphasizing the importance of being a Jesus compass that guides others towards faith. He discusses the traits of mature believers, the significance of unity in the church, and the necessity of prayer to overcome anxiety. The teaching challenges the congregation to consider their relationships and how they reflect Christ's love.",
+      "keywords": ["Philippians", "sermon", "unity", "anxiety", "Jesus"],
+      "performers": ["Rick Raber"],
+      "songs": [],
+      "scripture_references": ["Philippians 4:1-9"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3528,
+      "type": "prayer",
+      "description": "A heartfelt closing prayer is offered, asking for God’s guidance and presence to be felt in the hearts of the congregation. The prayer invites individuals to contemplate their relationship with Jesus and encourages them to take actionable steps in their faith journey.",
+      "keywords": ["prayer", "guidance", "faith"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Second Song Title]",
+      "start_time": 3562,
+      "type": "music",
+      "description": "The choir leads a final uplifting song, fostering a spirit of worship among the congregation. This musical conclusion helps everyone reflect on the message shared during the service and leaves them with a sense of hope and encouragement as they go forth.",
+      "keywords": ["choir", "worship", "music"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

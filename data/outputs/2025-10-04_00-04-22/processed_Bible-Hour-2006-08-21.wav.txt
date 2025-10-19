@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 30,
+      "type": "music",
+      "description": "The congregation begins with a powerful opening, as a choir leads the worship with an uplifting song. The lyrics reflect the call of Jesus to make disciples and celebrate His presence. The atmosphere is set for a community experience of faith.",
+      "keywords": ["worship", "choir", "call", "discipleship", "community"],
+      "performers": ["Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 238,
+      "type": "music",
+      "description": "The choir continues to lead the congregation in song, engaging the audience with another moving piece. This segment reinforces the joy of worship and emphasizes the community's dedication to praising God. The music resonates a sense of unity and love.",
+      "keywords": ["worship", "choir", "community", "joy", "unity"],
+      "performers": ["Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 293,
+      "type": "music",
+      "description": "The music flows seamlessly as the choir performs another heartfelt song, inviting everyone to join in the praise. The lyrics reflect on God’s faithfulness and greatness, reminding the congregation of His enduring presence in their lives.",
+      "keywords": ["faithfulness", "greatness", "worship", "choir", "praise"],
+      "performers": ["Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Being Online with God 24/7 (Psalm 145)",
+      "start_time": 779,
+      "type": "sermon",
+      "description": "In this teaching, the pastor delves into the theme of maintaining a continuous connection with God, drawing inspiration from Psalm 145. He discusses practical ways to integrate faith into daily life through prayer, praise, and humility. The segment emphasizes the importance of surrendering to God's will in all aspects of life.",
+      "keywords": ["prayer", "psalm", "faith", "humility", "connection"],
+      "performers": ["Kelly Bird", "Mitchell Cruz"],
+      "songs": [],
+      "scripture_references": ["Psalm 145"]
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 3512,
+      "type": "music",
+      "description": "The service concludes with an uplifting musical performance from the choir, inviting the congregation to join in one last time of worship. The energy of the music encapsulates the themes of the day, sending attendees off with a sense of hope and encouragement.",
+      "keywords": ["worship", "choir", "hope", "encouragement", "community"],
+      "performers": ["Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

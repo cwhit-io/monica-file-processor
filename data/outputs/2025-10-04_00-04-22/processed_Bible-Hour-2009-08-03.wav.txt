@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Worship Medley",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat music medley, engaging the congregation in worship. The songs express themes of faithfulness and reliance on God's strength. The vibrant energy sets a joyful tone for the morning.",
+      "keywords": ["worship", "music", "faithfulness", "praise", "congregational"],
+      "performers": ["Choir"],
+      "songs": ["Worship Medley"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 295,
+      "type": "prayer",
+      "description": "The congregation engages in an opening prayer where the leader expresses gratitude for God's greatness and seeks His presence and guidance throughout the service. This prayer invites everyone to focus on worship.",
+      "keywords": ["worship", "prayer", "gratitude", "presence", "guidance"],
+      "performers": ["Bill Hartman"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: School Year Reminder",
+      "start_time": 365,
+      "type": "announcement",
+      "description": "Bill Hartman shares announcements regarding the new school year at Black Hawk Christian School, encouraging families to enroll their children. He introduces Reverend Terry and highlights the importance of faith in daily life.",
+      "keywords": ["school", "announcement", "faith", "community", "enrollment"],
+      "performers": ["Bill Hartman"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Prayer for Reverend Terry",
+      "start_time": 488,
+      "type": "prayer",
+      "description": "A collective prayer is offered for Reverend Terry, asking for God's presence and anointing as he prepares to share the message. This prayer emphasizes community support and spiritual empowerment.",
+      "keywords": ["prayer", "support", "community", "anointing", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Faithfulness in Difficult Times (Genesis 41)",
+      "start_time": 547,
+      "type": "sermon",
+      "description": "Reverend Terry delivers a powerful sermon on being faithful in difficult times, using Joseph's story from Genesis as a backdrop. He emphasizes the importance of relying on God, maintaining faith, and recognizing His plans amid life's challenges.",
+      "keywords": ["faithfulness", "Joseph", "sermon", "challenge", "overcoming"],
+      "performers": ["Reverend Terry"],
+      "songs": [],
+      "scripture_references": ["Genesis 41"]
+    },
+    {
+      "title": "Congregational Hymn: Take My Life",
+      "start_time": 2654,
+      "type": "music",
+      "description": "The congregation participates in singing 'Take My Life,' a hymn that expresses dedication and surrender to God. This moment fosters a spirit of commitment and reflection among attendees.",
+      "keywords": ["hymn", "dedication", "surrender", "worship", "congregation"],
+      "performers": [],
+      "songs": ["Take My Life"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Days of Elijah",
+      "start_time": 3101,
+      "type": "music",
+      "description": "The choir leads the congregation in singing 'Days of Elijah,' celebrating God's faithfulness and promises. The upbeat rhythm and powerful lyrics resonate with the audience, inspiring a communal expression of joy.",
+      "keywords": ["choir", "worship", "celebration", "faithfulness", "joy"],
+      "performers": ["Choir"],
+      "songs": ["Days of Elijah"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3508,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that invites God to bless the congregation as they go forth. This prayer encapsulates the morning's themes of faith and reliance on God's promises.",
+      "keywords": ["closing", "blessing", "faith", "God's promises", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

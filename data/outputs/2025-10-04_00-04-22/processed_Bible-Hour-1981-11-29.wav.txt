@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Hallelujah, What a Savior",
+      "start_time": 194,
+      "type": "music",
+      "description": "The service begins with the choir singing 'Hallelujah, What a Savior,' led by Don Kruger. This powerful performance sets a tone of praise and worship as the congregation engages in heartfelt worship. The selection reminds the congregation to praise the Lord for His saving grace.",
+      "keywords": ["choir", "praise", "worship", "Hallelujah", "Don Kruger"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Hallelujah, What a Savior"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: All of God's Children Singing, Hallelujah",
+      "start_time": 424,
+      "type": "music",
+      "description": "Following the adult choir, the children's choir, under the direction of Mrs. Diane Medert, performs 'All of God's Children Singing, Hallelujah.' This performance emphasizes the importance of teaching children to sing praises to God and showcases the talent of the young singers.",
+      "keywords": ["children's choir", "praise", "Hallelujah", "music education"],
+      "performers": ["Children's Choir", "Diane Medert"],
+      "songs": ["All of God's Children Singing, Hallelujah"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Hand in Hand",
+      "start_time": 582,
+      "type": "music",
+      "description": "Steve and Barbara Musto share their musical talent with the solo 'Hand in Hand.' The heartfelt lyrics portray the intimate relationship believers have with Jesus, emphasizing His friendship and guidance through life's journey.",
+      "keywords": ["Steve Musto", "Barbara Musto", "friendship", "Jesus"],
+      "performers": ["Steve Musto", "Barbara Musto"],
+      "songs": ["Hand in Hand"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Praise the Lord",
+      "start_time": 1360,
+      "type": "music",
+      "description": "Barbara Musto sings a powerful solo titled 'Praise the Lord.' The song articulates the struggles and victories of faith, encouraging listeners to maintain their praise through difficult times. It's a reminder of God's capability to work miracles in the lives of His faithful.",
+      "keywords": ["Barbara Musto", "faith", "praise", "struggles"],
+      "performers": ["Barbara Musto"],
+      "songs": ["Praise the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Life of Judas (Acts 1:16-17)",
+      "start_time": 1575,
+      "type": "sermon",
+      "description": "Dr. John Valleo delivers a compelling sermon on the life of Judas, exploring themes of betrayal, guilt, and God's grace. He emphasizes the tragic trajectory of Judas's choices, contrasting it with the love and acceptance found in Christ. This message serves as a cautionary tale about the dangers of rejecting fellowship with God.",
+      "keywords": ["Judas", "Betrayal", "Grace", "Guilt", "Acts"],
+      "performers": ["Dr. John Valleo"],
+      "songs": [],
+      "scripture_references": ["Acts 1:16-17"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3497,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, inviting the congregation to reflect on the message and make personal commitments to follow Christ. This time of prayer encourages sincerity in the hearts of the believers.",
+      "keywords": ["closing prayer", "commitment", "reflection"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

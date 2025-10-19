@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Special Music",
+      "start_time": 82,
+      "type": "music",
+      "description": "The service begins with special music performed by Dan and Donna Oxley. Their presentation includes uplifting melodies designed to encourage the congregation and create a worshipful atmosphere as attendees prepare for the teaching to follow.",
+      "keywords": ["music", "choir", "worship", "Dan Oxley", "Donna Oxley"],
+      "performers": ["Dan Oxley", "Donna Oxley"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Instrumental Performance",
+      "start_time": 513,
+      "type": "music",
+      "description": "Dan Oxley performs an instrumental piece on the trumpet, captivating the audience with his skilled musicianship. The musical interludes serve to inspire and uplift the spirits of those in attendance.",
+      "keywords": ["music", "solo", "trumpet", "performance", "worship"],
+      "performers": ["Dan Oxley"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Continuation of Instrumental Performance",
+      "start_time": 692,
+      "type": "music",
+      "description": "The performance continues with another stirring instrumental piece, where Dan Oxley's musical talent resonates throughout the venue. The music enhances the atmosphere of worship and reflection.",
+      "keywords": ["music", "instrumental", "worship", "Dan Oxley"],
+      "performers": ["Dan Oxley"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Philippians 4",
+      "start_time": 956,
+      "type": "scripture",
+      "description": "Pastor Moore reads from Philippians chapter 4, emphasizing verses 4 through 9. This scripture addresses themes of joy and anxiety, setting the Biblical foundation for the sermon that follows.",
+      "keywords": ["Philippians", "scripture", "Bible reading", "joy", "anxiety"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Philippians 4:4-9"]
+    },
+    {
+      "title": "Message: God's Answer to Anxiety (Philippians 4)",
+      "start_time": 956,
+      "type": "sermon",
+      "description": "Pastor Moore delivers a heartfelt sermon on the topic of anxiety as described in Philippians 4. He outlines six imperative steps to achieve peace of mind, urging the congregation to rejoice in the Lord and trust in His sovereignty. The message intertwines personal anecdotes and theological insights, encouraging listeners to rely on God's promises in times of difficulty.",
+      "keywords": ["anxiety", "peace", "Philippians", "sermon", "faith"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Philippians 4:4-9"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3309,
+      "type": "prayer",
+      "description": "Pastor Moore leads the congregation in an invitation prayer, encouraging those who have felt moved by the message to invite Christ into their hearts. The heartfelt plea is a moment of reflection and commitment for attendees.",
+      "keywords": ["prayer", "invitation", "commitment", "faith", "reflection"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Closing Hymn",
+      "start_time": 3536,
+      "type": "music",
+      "description": "The service concludes with a congregational hymn, uniting the attendees in song. This closing hymn reinforces the themes of the service and allows the congregation to express their worship collectively.",
+      "keywords": ["music", "hymn", "congregational", "worship", "service"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

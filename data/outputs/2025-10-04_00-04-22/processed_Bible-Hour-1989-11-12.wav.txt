@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Our God Rains",
+      "start_time": 183,
+      "type": "music",
+      "description": "The Sanctuary Choir performs a powerful piece titled 'Our God Rains,' lifting the congregation's spirits through music. This beautiful arrangement focuses on themes of divine providence and assurance, inviting worship and reflection.",
+      "keywords": ["choir", "worship", "praise", "God", "music"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Our God Rains"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1221,
+      "type": "prayer",
+      "description": "In an earnest plea, the pastor leads the congregation in an opening prayer, asking for insight and understanding as they engage in the day's teachings. The prayer emphasizes a longing for spiritual filling and guidance from God.",
+      "keywords": ["prayer", "guidance", "insight", "faith", "community"],
+      "performers": ["Pastor Rick Oax"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: A Skeptic Who Is Satisfied (John 20:24-29)",
+      "start_time": 1441,
+      "type": "sermon",
+      "description": "Pastor Rick Oax delivers the sermon titled 'A Skeptic Who Is Satisfied,' focusing on the character of Thomas, a disciple known for his doubt. The message explores the nature of skepticism and faith, illustrating the importance of personal experiences with Christ. Emphasizing rationality and personal choice in faith, the sermon challenges the congregation to confront their doubts while ultimately pointing them towards a relationship with Jesus.",
+      "keywords": ["faith", "skepticism", "Thomas", "Jesus", "believe"],
+      "performers": ["Pastor Rick Oax"],
+      "songs": [],
+      "scripture_references": ["John 20:24-29"]
+    },
+    {
+      "title": "testimony: Dr. Jim Heckman",
+      "start_time": 2539,
+      "type": "testimony",
+      "description": "Dr. Jim Heckman shares his journey of faith and the rational choice he made to accept Christ. He recounts how weighing the evidence changed his perspective and led him to a relationship with Jesus, reflecting on the peace and completeness he found as a believer.",
+      "keywords": ["testimony", "faith", "doctor", "evidence", "transformation"],
+      "performers": ["Dr. Jim Heckman"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Mary Perigenian",
+      "start_time": 2604,
+      "type": "testimony",
+      "description": "Mary Perigenian shares how her search for happiness through financial success led her to discover a deeper reliance on God. Her testimony highlights the transformative power of faith and how finding Jesus filled her life with purpose and hope.",
+      "keywords": ["testimony", "faith", "change", "happiness", "recovery"],
+      "performers": ["Mary Perigenian"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3500,
+      "type": "prayer",
+      "description": "In the closing prayer, Pastor Rick Oax asks God to fortify the hearts of those who have made decisions for Christ. The prayer seeks spiritual assurance and emphasizes the importance of a personal relationship with Jesus as the congregation departs.",
+      "keywords": ["prayer", "closing", "commitment", "spirituality", "community"],
+      "performers": ["Pastor Rick Oax"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

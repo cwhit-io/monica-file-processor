@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Worship Medley",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat musical selection, setting a joyful tone for the gathering. The choir leads with heartfelt enthusiasm, inviting the congregation into a spirit of worship. The powerful opening draws everyone in, preparing hearts for the message ahead.",
+      "keywords": ["worship", "choir", "service", "medley", "joy"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Worship Medley"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Healing is in Your Hands",
+      "start_time": 260,
+      "type": "music",
+      "description": "The congregation stands united in song, proclaiming the powerful lyrics of 'Healing is in Your Hands.' The hymn focuses on God's unyielding love and presence in times of trouble. This moment enhances the worship experience, bringing people together in a common theme of healing and faith.",
+      "keywords": ["healing", "worship", "congregation", "hands", "faith"],
+      "performers": ["Congregation"],
+      "songs": ["Healing is in Your Hands"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 587,
+      "type": "prayer",
+      "description": "As the music fades, the pastor leads the congregation in an opening prayer. This moment focuses on seeking God's guidance and presence throughout the service. Attendees are encouraged to open their hearts in anticipation of the message to come.",
+      "keywords": ["prayer", "opening", "congregation", "guidance", "worship"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Timothy 1:1-7",
+      "start_time": 936,
+      "type": "scripture",
+      "description": "The pastor reads from 1 Timothy 1:1-7, introducing the biblical context for the day’s sermon. This scripture lays a foundational understanding of Paul's relationship with Timothy and emphasizes faith and love in church leadership. Engagement with these verses prepares the minds of the listeners.",
+      "keywords": ["scripture", "1 Timothy", "Paul", "Timothy", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Timothy 1:1-7"]
+    },
+    {
+      "title": "Message: True Spiritual Parenthood (1 Timothy 1:1-7)",
+      "start_time": 1003,
+      "type": "sermon",
+      "description": "The sermon delves into the concept of spiritual parenthood as modeled by Paul. The pastor emphasizes the importance of mentoring within the faith community, encouraging all believers to engage in spiritual reproduction. Through personal stories, listeners are inspired to reflect on who they are mentoring and how they are living out their faith.",
+      "keywords": ["sermon", "spiritual", "parenthood", "mentor", "faith"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 1:1-7"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3461,
+      "type": "prayer",
+      "description": "In the conclusion of the service, the pastor leads a closing prayer, thanking God for His guidance. The prayer reflects on the lessons learned and asks for strength to apply the teachings in daily life. The congregation joins in a moment of reflection and commitment to spiritual growth.",
+      "keywords": ["closing", "prayer", "reflection", "commitment", "worship"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Sending Music",
+      "start_time": 3483,
+      "type": "music",
+      "description": "The service closes with a powerful piece performed by the choir, sending the congregation out with a message of hope and inspiration. This final selection reinforces the themes of worship and community, leaving attendees uplifted as they prepare to return to their everyday lives.",
+      "keywords": ["sending", "music", "choir", "hope", "inspiration"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Sending Music"],
+      "scripture_references": []
+    }
+  ]
+}
+```

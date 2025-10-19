@@ -1,0 +1,106 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Worship Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a vibrant atmosphere filled with upbeat music, setting a lively tone for the gathering. The congregation is invited to engage, moving into the spirit of worship as they prepare their hearts for the service ahead.",
+      "keywords": ["music", "worship", "celebration", "joy", "community"],
+      "performers": ["Unknown"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Unknown Song",
+      "start_time": 30,
+      "type": "music",
+      "description": "A choir performance takes the stage, inviting the congregation into a moment of collective worship. The powerful lyrics resonate, encouraging attendees to reflect on their faith and the community around them.",
+      "keywords": ["choir", "song", "worship", "community", "faith"],
+      "performers": ["Unknown"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Upbeat Song",
+      "start_time": 81,
+      "type": "music",
+      "description": "Continuing the worship experience, the choir passionately performs another uplifting song. The energy in the room amplifies as members of the congregation participate actively, further enriching the worship atmosphere.",
+      "keywords": ["choir", "music", "worship", "joy", "celebration"],
+      "performers": ["Unknown"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Upbeat Worship Song",
+      "start_time": 141,
+      "type": "music",
+      "description": "The choir engages the congregation with a spirited worship song, filled with enthusiasm and joy. This segment serves to uplift spirits, reminding attendees of the energy and vitality of communal worship.",
+      "keywords": ["choir", "worship", "community", "joy", "celebration"],
+      "performers": ["Unknown"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Baptism Preparation",
+      "start_time": 486,
+      "type": "announcement",
+      "description": "Kelly Bird speaks to the audience about the significance of baptism within the faith, emphasizing its role as a public declaration of faith. The excitement builds as church members prepare to celebrate new commitments to Christ.",
+      "keywords": ["baptism", "faith", "community", "declaration", "celebration"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 589,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, inviting God's presence into the service. This moment of prayer sets a spiritual foundation for the worship and teaching to follow.",
+      "keywords": ["prayer", "opening", "worship", "community", "spirit"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 2 Samuel 9",
+      "start_time": 691,
+      "type": "scripture",
+      "description": "The scripture reading focuses on the story of Mephibosheth from 2 Samuel 9, illustrating themes of grace and belonging. This passage is introduced as a foundation for the upcoming sermon.",
+      "keywords": ["2 Samuel", "Mephibosheth", "grace", "belonging", "scripture"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["2 Samuel 9"]
+    },
+    {
+      "title": "Message: Spiritual Growth (Philippians 2:12-18)",
+      "start_time": 739,
+      "type": "sermon",
+      "description": "In this extensive sermon, the speaker delves into Philippians 2:12-18, addressing spiritual growth and the interplay between divine influence and human responsibility. Key concepts of obedience, spiritual maturity, and the significance of community are explored in-depth, offering practical insights for personal faith journeys.",
+      "keywords": ["spiritual growth", "Philippians", "obedience", "community", "maturity"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Philippians 2:12-18"]
+    },
+    {
+      "title": "Congregational Hymn: Communion Reflection",
+      "start_time": 1921,
+      "type": "music",
+      "description": "A congregational hymn is sung, guiding the audience in a moment of reflection as they prepare for communion. The music serves to deepen their worship experience and focus their hearts on the sacrifice of Christ.",
+      "keywords": ["hymn", "communion", "worship", "reflection", "sacrifice"],
+      "performers": ["Unknown"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3491,
+      "type": "prayer",
+      "description": "The service concludes with an invitation prayer, providing an opportunity for congregants to respond to the message. This moment invites individuals to reflect and consider their own spiritual journeys.",
+      "keywords": ["invitation", "prayer", "reflection", "spiritual journey", "community"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

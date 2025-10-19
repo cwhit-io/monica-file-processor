@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unknown Song]",
+      "start_time": 119,
+      "type": "music",
+      "description": "The choir performs a heartfelt song, inviting the congregation into a worshipful atmosphere, emphasizing the restorative presence of the Lord. Lyrics proclaim the power and hope found in His name, encouraging a sense of communal worship.",
+      "keywords": ["worship", "choir", "song", "presence", "hope"],
+      "performers": ["Choir"],
+      "songs": ["[Unknown Song]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Unknown Song]",
+      "start_time": 353,
+      "type": "music",
+      "description": "The congregation joins together in song, lifting their voices in unison to praise and glorify God. The hymn underscores themes of restoration, strength, and the unity of believers in worship.",
+      "keywords": ["hymn", "praise", "unity", "worship", "strength"],
+      "performers": ["Congregation"],
+      "songs": ["[Unknown Song]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Last Week of Christ (John 12)",
+      "start_time": 719,
+      "type": "sermon",
+      "description": "The sermon covers the last week of Jesus' life as depicted in John 12. It explores the dramatic shift from public adoration to rejection, emphasizing the spiritual revolution Christ offers over political liberation. Themes of self-denial, the cost of discipleship, and the true nature of Christ’s mission are explored, inviting listeners to consider their own response to Jesus.",
+      "keywords": ["Jesus", "John", "sermon", "spiritual", "discipleship"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": ["John 12"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3533,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, where the pastor leads the congregation in a moment of reflection and dedication. This prayer invites God's presence into the lives of the attendees as they leave, encouraging a commitment to live out the teachings shared during the service.",
+      "keywords": ["prayer", "closing", "commitment", "reflection", "God"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

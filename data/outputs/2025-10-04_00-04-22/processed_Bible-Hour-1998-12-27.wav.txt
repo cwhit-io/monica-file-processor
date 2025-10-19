@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Jingle Bells (Rewritten)",
+      "start_time": 15,
+      "type": "music",
+      "description": "The service begins with an upbeat rendition of a fun, catchy song rewritten to the tune of 'Jingle Bells.' The kids are encouraged to join in and teach the adults, creating a lively and festive atmosphere for everyone.",
+      "keywords": ["jingle bells", "choir", "children", "fun", "music"],
+      "performers": ["Lori Catash"],
+      "songs": ["Jingle Bells (Rewritten)"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unknown Song]",
+      "start_time": 573,
+      "type": "music",
+      "description": "A beautiful piece performed by the choir, fostering a moment of reflection and connection within the congregation. The music enhances the worship experience, creating an atmosphere that invites deeper contemplation.",
+      "keywords": ["choir", "worship", "music"],
+      "performers": [],
+      "songs": ["[Unknown Song]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Spirit of Giving (Various Scriptures)",
+      "start_time": 771,
+      "type": "sermon",
+      "description": "The sermon focuses on the concept of giving, reflecting on personal experiences around Christmas gifts that signify deep meaning and connection. The pastor emphasizes the importance of maintaining a spirit of generosity throughout the year, encouraging the congregation to seek opportunities to give and serve others.",
+      "keywords": ["giving", "Christmas", "generosity", "service", "community"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["Philippians 2"]
+    },
+    {
+      "title": "Congregational Hymn: The Gift Goes On",
+      "start_time": 4043,
+      "type": "music",
+      "description": "A congregational hymn that celebrates the theme of giving discussed in the sermon. The lyrics reflect on the continuous cycle of love and generosity, encouraging worshippers to internalize the message and embody it in their daily lives.",
+      "keywords": ["hymn", "congregational", "love", "Christmas", "gift"],
+      "performers": [],
+      "songs": ["The Gift Goes On"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 4157,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer. The pastor prays for the congregation, asking for strength to embody the spirit of giving in their lives and to foster deeper connections within the church community.",
+      "keywords": ["prayer", "closing", "community", "giving", "worship"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

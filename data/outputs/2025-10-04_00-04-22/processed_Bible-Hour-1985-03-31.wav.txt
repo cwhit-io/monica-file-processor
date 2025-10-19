@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Great is the Lord",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with a powerful anthem led by the choir, proclaiming the greatness of the Lord. This musical piece invites the congregation to join in praise and worship through song, creating a reverent atmosphere for the worship service.",
+      "keywords": ["choir", "great", "lord", "worship", "music"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Great is the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Medley of Songs",
+      "start_time": 581,
+      "type": "music",
+      "description": "Scott Schindler performs a medley of songs dedicated to the triumphant resurrection of Jesus Christ. This solo performance helps highlight the significance of Easter, deepening the congregation's reflections on the victory of Christ over death.",
+      "keywords": ["solo", "resurrection", "Easter", "music", "piano"],
+      "performers": ["Scott Schindler"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1311,
+      "type": "prayer",
+      "description": "The opening prayer is offered, expressing gratitude for God's love and guidance. The pastor leads the congregation in petitioning for God's Spirit to move and touch the hearts of everyone present, preparing them for worship.",
+      "keywords": ["prayer", "opening", "worship", "God", "gratitude"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Matthew 6",
+      "start_time": 1633,
+      "type": "scripture",
+      "description": "The pastor reads from Matthew chapter 6, focusing on the Lord's Prayer. This scripture sets the foundation for the sermon, emphasizing the significance of prayer and the model provided by Jesus.",
+      "keywords": ["scripture", "Matthew", "prayer", "Jesus", "teaching"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 6"]
+    },
+    {
+      "title": "Message: The Lord's Prayer (Matthew 6)",
+      "start_time": 1644,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a sermon on the Lord's Prayer, emphasizing its teachings on prayer, forgiveness, and reliance on God. He explores the deeper meanings of each request made in the prayer, encouraging individuals to nurture their relationship with God through open communication.",
+      "keywords": ["sermon", "prayer", "forgiveness", "God", "Lord's Prayer"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Matthew 6:9-13"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3460,
+      "type": "prayer",
+      "description": "An invitation prayer is led by the pastor, encouraging attendees to open their hearts to Christ. This moment serves as an opportunity for individuals to seek a deeper spiritual connection and make commitments in their faith.",
+      "keywords": ["invitation", "prayer", "commitment", "Christ"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Musical Events",
+      "start_time": 893,
+      "type": "announcement",
+      "description": "The pastor shares exciting news about upcoming musical events, including a concert featuring the Black Hawk Baptist Church choir and Sunnycrest Baptist Church choir. This announcement encourages community engagement and participation in worship through music.",
+      "keywords": ["announcement", "concert", "music", "community", "engagement"],
+      "performers": ["Rick Hawks", "Pete"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Personal Reflections",
+      "start_time": 3471,
+      "type": "testimony",
+      "description": "The pastor invites reflections from the congregation about their spiritual journeys and decisions made as a result of the service. This testimony time emphasizes the shared experiences and growth within the community.",
+      "keywords": ["testimony", "reflections", "spiritual", "community"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

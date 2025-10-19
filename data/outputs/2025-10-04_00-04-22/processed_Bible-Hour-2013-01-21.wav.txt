@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Temptation comes my name]",
+      "start_time": 204,
+      "type": "music",
+      "description": "The choir performs a piece titled 'Temptation comes my name,' engaging the congregation with melodious harmonies that uplift the spirit. The music sets a worshipful tone, inviting reflection and connection with the theme of the service.",
+      "keywords": ["choir", "worship", "uplifting", "reflection", "music"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["Temptation comes my name"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Teenology (Proverbs 22:6)",
+      "start_time": 341,
+      "type": "sermon",
+      "description": "The sermon titled 'Teenology' shares insights on parenting and the pivotal role of a parent's faith in shaping a child's beliefs. The speaker reflects on their experiences with children and provides guidance for building strong faith foundations, emphasizing the importance of caring deeply about their kids' spiritual journeys.",
+      "keywords": ["parenting", "faith", "children", "teenagers", "guidance"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["Proverbs 22:6"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service opens with a prayer, inviting the congregation to center their hearts and minds on God. This moment sets a tone of reverence and expectation for the messages and music to follow.",
+      "keywords": ["prayer", "invocation", "worship", "community", "focus"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2835,
+      "type": "prayer",
+      "description": "Concluding the service, a closing prayer is offered, encapsulating the messages shared and asking for God's guidance in the week ahead. The prayer is a heartfelt appeal for strength and wisdom as attendees engage with their spiritual journeys.",
+      "keywords": ["prayer", "closure", "guidance", "community", "faith"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [gentle music]",
+      "start_time": 2865,
+      "type": "music",
+      "description": "The choir presents a gentle music piece, creating a serene atmosphere that encourages personal reflection and prayer among the congregation. This interlude fosters a deep sense of peace and connection within the worship space.",
+      "keywords": ["choir", "gentle", "worship", "reflection", "peace"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["gentle music"],
+      "scripture_references": []
+    }
+  ]
+}
+```

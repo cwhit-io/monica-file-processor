@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Sing Me a Song about Jesus",
+      "start_time": 119,
+      "type": "music",
+      "description": "The sanctuary choir leads a heartfelt performance of 'Sing Me a Song about Jesus.' The song depicts personal transformation through faith and the joy that comes from Jesus being the center of one’s life. The choir's harmony emphasizes the worshipful celebration of Jesus as music and song.",
+      "keywords": ["sing", "jesus", "choir", "worship", "transformation"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Sing Me a Song about Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Jesus is My Music",
+      "start_time": 369,
+      "type": "music",
+      "description": "The soloist performs 'Jesus is My Music,' expressing a deep personal connection with Christ. The lyrics share a narrative of struggle and redemption through faith, celebrating the peace and melody found in following Jesus. This performance enhances the overall worship experience and encourages congregational reflection.",
+      "keywords": ["jesus", "music", "solo", "faith", "redemption"],
+      "performers": ["Soloist"],
+      "songs": ["Jesus is My Music"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Church Leadership Qualities (1 Timothy 3)",
+      "start_time": 1182,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers an in-depth sermon from 1 Timothy 3, exploring the qualifications for church leadership. He emphasizes the importance of moral character, relational maturity, and the indispensable role of love in both church leadership and personal faith. The message underscores that spiritual maturity is measured by how one interacts with others.",
+      "keywords": ["leadership", "1 timothy", "character", "faith", "maturity"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 3"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting God's presence and blessing over the time of worship and teaching. It sets the tone for a respectful and spiritually uplifting experience, asking for guidance and clarity as the congregation engages in worship and learning.",
+      "keywords": ["prayer", "worship", "guidance", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3425,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Moore, reaffirming commitment to God and support for each other as a church community. The prayer encourages congregation members to reflect on the message and apply it in their lives as they seek to grow spiritually and serve others.",
+      "keywords": ["closing", "prayer", "community", "commitment", "service"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Personal Transformation through Faith",
+      "start_time": 3421,
+      "type": "testimony",
+      "description": "A moment is shared about personal transformation that results from faith in Jesus. The testimony highlights the significance of accepting Christ and the ongoing journey of growth and sincerity in relationships. This encourages others in the congregation to reflect on their own faith experiences.",
+      "keywords": ["testimony", "faith", "transformation", "jesus"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

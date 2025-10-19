@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat musical introduction that sets a joyful tone for the gathering. Everyone is encouraged to join in the celebration as the music fills the space with anticipation and excitement for the events to come.",
+      "keywords": ["music", "joy", "celebration", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unknown Title]",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir performs a vibrant piece that engages the congregation, inspiring them to lift their spirits in worship. The song's rhythm and lyrics resonate, encouraging participation and a sense of unity among those present.",
+      "keywords": ["choir", "worship", "unity"],
+      "performers": ["Choir"],
+      "songs": ["Unknown Title"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Invitation to Easter Service",
+      "start_time": 288,
+      "type": "announcement",
+      "description": "The speaker invites viewers to join the congregation for the upcoming Easter service, describing it as one of the most special Sundays of the year. They highlight the importance of community and the shared experience of celebrating Easter together in person.",
+      "keywords": ["Easter", "invitation", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Upbeat Worship",
+      "start_time": 421,
+      "type": "music",
+      "description": "As the service continues, another segment of upbeat music plays, creating an atmosphere of joy and praise. The congregation is encouraged to lift their voices in celebration of their faith, enhancing the worship experience with lively music.",
+      "keywords": ["music", "worship", "joy"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unknown Title]",
+      "start_time": 472,
+      "type": "music",
+      "description": "The choir returns to perform a soulful piece that emphasizes worship and devotion. The powerful lyrics and harmonies draw the audience into a deeper experience of praise, allowing them to connect with God through song.",
+      "keywords": ["choir", "worship", "devotion"],
+      "performers": ["Choir"],
+      "songs": ["Unknown Title"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Living Sacrifices (Romans 12)",
+      "start_time": 636,
+      "type": "sermon",
+      "description": "The sermon focuses on Romans 12, challenging the congregation to present their bodies as living sacrifices. The speaker emphasizes the importance of transformation through renewing the mind and living in accordance with God's will, urging attendees to reflect their faith in their daily lives.",
+      "keywords": ["sermon", "Romans", "sacrifice", "faith"],
+      "performers": ["Steve Longbrake"],
+      "songs": [],
+      "scripture_references": ["Romans 12"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3332,
+      "type": "prayer",
+      "description": "A heartfelt invitation prayer is offered, inviting anyone seeking a deeper relationship with God to come forward. The speaker prays for those who might be feeling condemned, emphasizing God's mercy and redemption as central themes for those considering their faith.",
+      "keywords": ["prayer", "invitation", "mercy"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Closing Worship",
+      "start_time": 3499,
+      "type": "music",
+      "description": "The service concludes with a final musical piece that encapsulates the messages shared throughout the service. This closing worship segment invites everyone to reflect on their experience and leave with their hearts full of praise and commitment.",
+      "keywords": ["closing", "worship", "praise"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "scripture: Scripture Reading: [Revelation 3:1-6]",
+      "start_time": 0,
+      "type": "scripture",
+      "description": "The reading begins with a message directed to the church in Sardis, highlighting the church's reputation for being alive while actually being dead. Themes of spiritual renewal and the call to awaken from complacency are introduced.",
+      "keywords": ["revelation", "sardis", "dead church", "scripture reading"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Revelation 3"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 112,
+      "type": "prayer",
+      "description": "The service opens with a prayer invoking the presence of God and the guidance of the Holy Spirit. The congregation is encouraged to participate in worship and reflection as they prepare to receive the message.",
+      "keywords": ["opening", "prayer", "worship", "invocation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Joy to the World]",
+      "start_time": 142,
+      "type": "music",
+      "description": "The children's choir performs 'Joy to the World,' celebrating the birth of Christ. The joyous rendition invites the congregation to reflect on the jubilant message of the season and the coming of the Savior.",
+      "keywords": ["joy to the world", "children", "choir", "music"],
+      "performers": ["Children's Choir"],
+      "songs": ["Joy to the World"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [I'll Be Home for Christmas]",
+      "start_time": 599,
+      "type": "music",
+      "description": "Brian Loosen performs a powerful solo rendition of 'I'll Be Home for Christmas,' drawing the audience into a heartfelt reflection on the significance of home and family during the holiday season.",
+      "keywords": ["solo", "Brian Loosen", "christmas", "home"],
+      "performers": ["Brian Loosen"],
+      "songs": ["I'll Be Home for Christmas"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Spiritual Awakenings ([Revelation 3:1-6])",
+      "start_time": 1208,
+      "type": "sermon",
+      "description": "The sermon focuses on the deadness of the church in Sardis, emphasizing the importance of spiritual awakening and renewed faith. The preacher highlights the need for repentance, vigilance, and active engagement in one's faith as he explains the historical context and relevance for today's believers.",
+      "keywords": ["sermon", "spiritual awakening", "revelation", "sardis"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 3:1-6"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3395,
+      "type": "prayer",
+      "description": "The invitation prayer is offered, inviting those who feel the call to make a personal commitment to Christ and to seek spiritual renewal. This moment emphasizes individual reflection and a collective appeal for divine guidance.",
+      "keywords": ["invitation", "prayer", "commitment", "renewal"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: [Personal Decisions]",
+      "start_time": 3414,
+      "type": "testimony",
+      "description": "A moment for personal testimonies where congregation members are encouraged to share their decisions for Christ or experiences of faith. This fosters community and reinforces the themes of revival and life transformation.",
+      "keywords": ["testimony", "faith", "community", "transformation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3462,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, thanking God for the message and encouraging the congregation to live out their faith. It seeks blessings and guidance as members depart to their everyday lives.",
+      "keywords": ["closing", "prayer", "blessing", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

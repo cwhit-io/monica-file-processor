@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unknown Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an uplifting choir performance that sets a positive tone for the event. This segment is marked by enthusiasm and community spirit, encouraging the congregation to engage in worship from the very start.",
+      "keywords": ["choir", "worship", "community", "music"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [Proverbs 1]",
+      "start_time": 1066,
+      "type": "scripture",
+      "description": "A reading from Proverbs delivers foundational wisdom that introduces the themes of the service. The selected verses emphasize the importance of wisdom and moral instruction, which segues into the sermon theme.",
+      "keywords": ["Proverbs", "wisdom", "instruction", "scripture"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["Proverbs 1"]
+    },
+    {
+      "title": "Message: The Wise Versus the Fool (Proverbs 1)",
+      "start_time": 1167,
+      "type": "sermon",
+      "description": "The sermon explores the contrast between the wise and the fool through the lens of Proverbs. It delves into personal relationships with God, self, and others, emphasizing the necessity of wisdom in all walks of life. With practical applications drawn from biblical teachings, the message challenges listeners to reflect on their own choices and actions.",
+      "keywords": ["wisdom", "fool", "Proverbs", "relationship", "morality"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["Proverbs 1"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3530,
+      "type": "prayer",
+      "description": "The service includes an opening prayer that seeks guidance and wisdom for the congregation. This moment fosters a spiritual atmosphere, connecting the audience with the core themes of the day’s message.",
+      "keywords": ["prayer", "guidance", "wisdom"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Trust and Obey",
+      "start_time": 3224,
+      "type": "music",
+      "description": "The congregation participates in a heartfelt rendition of 'Trust and Obey,' reinforcing the themes of faith and wisdom found in the service. This hymn encourages unity and reflection among members, allowing them to express their commitment to living wisely according to scripture.",
+      "keywords": ["hymn", "trust", "obey", "faith"],
+      "performers": ["[Unknown]"],
+      "songs": ["Trust and Obey"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3545,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, providing a moment for reflection and a request for divine wisdom in daily lives. It serves to empower the congregation as they move forward, encouraging them to embody the teachings shared during the service.",
+      "keywords": ["closing prayer", "reflection", "wisdom"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

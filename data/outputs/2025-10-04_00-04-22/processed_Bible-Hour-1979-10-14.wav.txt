@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Amen",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a choir performance of 'Amen', sharing a message of grace and thankfulness through song. The choir adds a spiritual tone to the service and sets a worshipful atmosphere for the congregation.",
+      "keywords": ["choir", "grace", "worship", "song", "amen"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Amen"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Star Narwhal's Performance",
+      "start_time": 150,
+      "type": "music",
+      "description": "A solo performance by Star Narwhal brings inspiration to the congregation. The music uplifts the spirit and showcases the talent within the church community, reinforcing the message of faith and joy in worship.",
+      "keywords": ["solo", "music", "inspiration", "community", "faith"],
+      "performers": ["Star Narwhal"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "testimonial: Congressman Dan Quayle's Testimony",
+      "start_time": 664,
+      "type": "testimony",
+      "description": "Congressman Dan Quayle shares his personal testimony of faith and commitment to God. His words of encouragement inspire the congregation to pursue their faith and demonstrate Christian values in their lives and society.",
+      "keywords": ["testimony", "Dan Quayle", "faith", "commitment", "inspiration"],
+      "performers": ["Dan Quayle"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Men's Singers: Just A Closer Walk With Thee",
+      "start_time": 1554,
+      "type": "music",
+      "description": "The men's singers perform 'Just A Closer Walk With Thee', invoking reflections on faith and closeness to the divine. This worship song enhances the spirit of fellowship and connection within the service.",
+      "keywords": ["men's singers", "worship", "faith", "song", "closeness"],
+      "performers": ["Men's Singers"],
+      "songs": ["Just A Closer Walk With Thee"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: God's Promise for Guidance (Proverbs 3)",
+      "start_time": 1690,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers a sermon on the importance of trusting God for guidance, using Proverbs 3 as the foundation. Emphasizing the need for whole-hearted commitment and the danger of self-reliance, he encourages personal relationship with God for daily direction.",
+      "keywords": ["sermon", "guidance", "Proverbs", "trust", "faith"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Proverbs 3"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3421,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, inviting attendees to seek a deeper relationship with Jesus Christ. This moment encourages individuals to respond to the message of the sermon, promoting spiritual reflection and commitment.",
+      "keywords": ["prayer", "invitation", "commitment", "relationship", "Jesus"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Bible Hour and Founders Club",
+      "start_time": 3441,
+      "type": "announcement",
+      "description": "The pastor shares different ways to engage with the Bible Hour ministry, encouraging participation in the Founders Club. This involves supporting the church's outreach and receiving monthly materials that aid in spiritual growth.",
+      "keywords": ["announcement", "Bible Hour", "Founders Club", "engagement", "support"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3529,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that encapsulates the themes of faith and guidance. Pastor Jeremiah leads the congregation in thanking God for His presence and guidance during the service.",
+      "keywords": ["closing", "prayer", "thanksgiving", "faith", "guidance"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

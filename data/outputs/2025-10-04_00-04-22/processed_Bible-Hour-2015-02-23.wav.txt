@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Let It Flow",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir fills the space with a song about the flowing waters of life. Lyrics express a longing for spiritual nourishment, inviting everyone to participate in this heartfelt worship experience. The repetitive and uplifting nature of the song encourages a communal atmosphere.",
+      "keywords": ["choir", "worship", "flow", "song", "spiritual"],
+      "performers": ["Choir"],
+      "songs": ["Let It Flow"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Living Water",
+      "start_time": 300,
+      "type": "music",
+      "description": "The choir continues to sing about living waters, creating a rhythmic and dynamic worship experience. This song highlights themes of hope and divine support, allowing the congregation to unite in joyful expression. The uplifting lyrics inspire participants to reflect on their faith journeys.",
+      "keywords": ["living water", "choir", "worship", "hope", "faith"],
+      "performers": ["Choir"],
+      "songs": ["Living Water"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 587,
+      "type": "prayer",
+      "description": "Pastor Steve offers an opening prayer asking for God's guidance and presence during the service. He emphasizes the importance of listening to God's word and invites the congregation to prepare their hearts for the message ahead. The prayer sets a reverent tone for the gathering.",
+      "keywords": ["prayer", "opening", "guidance", "congregation", "worship"],
+      "performers": ["Steve Webster"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Luke 22",
+      "start_time": 1188,
+      "type": "scripture",
+      "description": "The passage from Luke 22 is read, detailing the events leading to Jesus' arrest. This moment prepares the congregation for the sermon ahead and emphasizes the themes of betrayal and sacrifice found in the scripture. It serves as a foundational text for reflection.",
+      "keywords": ["Luke", "scripture", "reading", "betrayal", "Jesus"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Luke 22"]
+    },
+    {
+      "title": "Message: Betrayal and Restoration (Luke 22)",
+      "start_time": 1199,
+      "type": "sermon",
+      "description": "Pastor Steve delivers a profound sermon on the themes of betrayal, compassion, and the need for remembrance in our faith lives. He shares insights from the scripture reading, highlighting Peter's denial of Jesus and the invitation for believers to embrace grace and biblical truths. The message focuses on the importance of seeing ourselves as God sees us and the power of restoration through Christ's love.",
+      "keywords": ["sermon", "betrayal", "restoration", "Peter", "grace"],
+      "performers": ["Steve Webster"],
+      "songs": [],
+      "scripture_references": ["Luke 22"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3542,
+      "type": "prayer",
+      "description": "Pastor Steve leads a prayer of invitation, encouraging congregation members to seek God personally. He emphasizes the importance of faith, inviting individuals to respond to the message of grace and restoration shared in the sermon. The prayer encapsulates the themes of the service and invites a deeper connection with God.",
+      "keywords": ["invitation", "prayer", "faith", "grace", "connection"],
+      "performers": ["Steve Webster"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: All Creatures of Our God and King",
+      "start_time": 3553,
+      "type": "music",
+      "description": "The congregation joins in singing 'All Creatures of Our God and King', expressing praise and worship through this classic hymn. The music uplifts the spirit and encourages participation from all, reinforcing the themes of unity and reverence established throughout the service. The hymn serves as a powerful response to the message delivered.",
+      "keywords": ["congregation", "hymn", "worship", "praise", "unity"],
+      "performers": ["Congregation"],
+      "songs": ["All Creatures of Our God and King"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3595,
+      "type": "prayer",
+      "description": "In the closing prayer, Pastor Steve wraps up the service by thanking God for His presence and urging the congregation to carry the message of grace into their lives. He prays for safety and guidance as they depart, encouraging hope and compassion in their daily interactions.",
+      "keywords": ["closing", "prayer", "God", "safety", "encouragement"],
+      "performers": ["Steve Webster"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

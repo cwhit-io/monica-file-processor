@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Blessed to be a Blessing",
+      "start_time": 88,
+      "type": "music",
+      "description": "The sanctuary choir and soloist Lisa Rennacher perform a heartfelt rendition of 'Blessed to be a Blessing.' This song captures the essence of gratitude and the responsibility of giving back to others as an expression of faith and love. Their powerful voices harmonize beautifully, creating an atmosphere of worship and reflection.",
+      "keywords": ["choir", "blessing", "grace", "worship", "faith"],
+      "performers": ["Handel Choir", "Lisa Rennacher"],
+      "songs": ["Blessed to be a Blessing"],
+      "scripture_references": [""]
+    },
+    {
+      "title": "Message: New Testament Giving (Romans 13)",
+      "start_time": 1120,
+      "type": "sermon",
+      "description": "Pastor Moore delivers a comprehensive sermon on New Testament giving, exploring principles of sacrificial giving as exemplified by biblical traditions. He emphasizes the idea that true giving stems from the heart, encouraging listeners to discern their own motivations and the relationship between faith and finances. The sermon challenges the congregation to establish personal giving guidelines based on grace rather than obligation.",
+      "keywords": ["giving", "tithing", "New Testament", "sacrifice", "faith"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Romans 13"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3240,
+      "type": "prayer",
+      "description": "In this closing prayer, Pastor Moore expresses gratitude for God's abundant blessings and the guidance provided during the sermon. He prays for the congregation to embrace the principles of giving discussed and to reflect on their own journeys of faith. This moment of prayer reinforces the themes of generosity and dependence on God's grace.",
+      "keywords": ["prayer", "gratitude", "faith", "blessing", "guidance"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": [""]
+    },
+    {
+      "title": "Congregational Hymn: [Song Title]",
+      "start_time": 3411,
+      "type": "music",
+      "description": "The congregation joins together in a heartfelt hymn, fostering a spirit of unity and worship as they respond to the message shared in the sermon. This musical moment encourages everyone to reflect on the importance of their personal relationship with Christ and their commitment to living a life of service.",
+      "keywords": ["hymn", "worship", "unity", "congregation", "faith"],
+      "performers": [],
+      "songs": ["[Song Title]"],
+      "scripture_references": [""]
+    }
+  ]
+}
+```

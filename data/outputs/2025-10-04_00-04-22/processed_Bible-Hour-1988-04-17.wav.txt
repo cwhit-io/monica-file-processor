@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Lamb of God",
+      "start_time": 290,
+      "type": "music",
+      "description": "The sanctuary choir beautifully performs the song 'Lamb of God', which reflects on the sacrifice of Jesus and expresses gratitude for His love and salvation. This heartfelt rendition aims to inspire and uplift the congregation.",
+      "keywords": ["choir", "lamb", "god", "music", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Lamb of God"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Hebrews 7",
+      "start_time": 604,
+      "type": "scripture",
+      "description": "The congregation engages in a communal recitation of Hebrews 7:25, affirming their faith that Jesus intercedes for all who come to God through Him. This declaration serves as encouragement and unity among the attendees.",
+      "keywords": ["hebrews", "scripture", "faith", "intercession", "unity"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Hebrews 7"]
+    },
+    {
+      "title": "Solo: I Miss My Time With You",
+      "start_time": 789,
+      "type": "music",
+      "description": "A solo performance of 'I Miss My Time With You' is shared, which emphasizes the relationship between God and His followers. The song encourages the congregation to reflect on the importance of spending time in God's presence.",
+      "keywords": ["solo", "worship", "reflection", "time", "relationship"],
+      "performers": ["Lynn Rowell"],
+      "songs": ["I Miss My Time With You"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Music]",
+      "start_time": 1723,
+      "type": "music",
+      "description": "The choir returns with another uplifting musical piece, enriching the worship experience. This segment focuses on elevating the spiritual atmosphere through collective praise and worship.",
+      "keywords": ["choir", "worship", "music", "praise", "spiritual"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["[Music]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1466,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, thanking Jesus for His sacrificial love and asking for guidance during the service. This prayer seeks spiritual nourishment and challenges the congregation to live for Christ.",
+      "keywords": ["prayer", "opening", "worship", "jesus", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: His Rescue of the Church (Matthew 24)",
+      "start_time": 3528,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a compelling sermon centered on the second coming of Christ and the rescue of the Church. He presents biblical insights from Matthew 24, discussing signs of the times, the tribulation, and the hope believers have in Christ's promise to return.",
+      "keywords": ["sermon", "jesus", "rescue", "church", "matthew"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Matthew 24"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3545,
+      "type": "prayer",
+      "description": "An invitation prayer following the sermon encourages individuals to accept Christ into their hearts. This moment emphasizes personal commitment and offers spiritual guidance for newcomers in their faith journey.",
+      "keywords": ["prayer", "invitation", "jesus", "faith", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3582,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, reaffirming the messages shared and asking for God's presence as the congregation departs. It emphasizes a lasting commitment to walk closely with Jesus.",
+      "keywords": ["prayer", "closing", "commitment", "jesus", "farewell"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

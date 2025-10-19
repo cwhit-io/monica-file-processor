@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: I Don't Know Why",
+      "start_time": 30,
+      "type": "music",
+      "description": "The service begins with gentle music leading into a performance. The Sanctuary Choir and Orchestra sing 'I Don't Know Why,' setting a reverent atmosphere for worship. This initial musical segment serves to engage the congregation and prepare them for the spiritual focus of the hour.",
+      "keywords": ["choir", "music", "worship", "atmosphere", "sanctuary"],
+      "performers": ["Sanctuary Choir and Orchestra"],
+      "songs": ["I Don't Know Why"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: When We All Get to Heaven",
+      "start_time": 411,
+      "type": "music",
+      "description": "The congregation joins in singing the hymn 'When We All Get to Heaven' with joy and enthusiasm. This communal worship experience reinforces the theme of hope in Christ's promises. Singing together not only uplifts spirits but also fosters a sense of community among the attendees.",
+      "keywords": ["hymn", "congregation", "worship", "hope", "community"],
+      "performers": [],
+      "songs": ["When We All Get to Heaven"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Joyful, Joyful, We Adore Thee",
+      "start_time": 604,
+      "type": "music",
+      "description": "A solo performance of 'Joyful, Joyful, We Adore Thee' adds a personal touch to the service. The emotion in the rendition invites worshippers to reflect on their faith during this powerful song. It emphasizes themes of joy and adoration towards God, inspiring personal connection through music.",
+      "keywords": ["solo", "joyful", "adoration", "faith", "worship"],
+      "performers": ["Keith Brodigum"],
+      "songs": ["Joyful, Joyful, We Adore Thee"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: If I Were a Priest (Malachi 2:1-9)",
+      "start_time": 1489,
+      "type": "sermon",
+      "description": "David Fetser delivers a profound sermon titled 'If I Were a Priest,' based on Malachi 2:1-9. He explores the historical role of priests, highlighting their responsibilities and the serious consequences of failing in this divine duty. The message encourages contemporary believers to recognize their own calling as spiritual priests, urging them to lead lives of integrity and service.",
+      "keywords": ["David Fetser", "Malachi", "priesthood", "integrity", "service"],
+      "performers": ["David Fetser"],
+      "songs": [],
+      "scripture_references": ["Malachi 2:1-9"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3476,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer. The prayer expresses deep gratitude for the gathering and the teaching received, invoking God's guidance as the congregation departs. It highlights the importance of community and support within the family of believers.",
+      "keywords": ["prayer", "gratitude", "community", "guidance", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Rise Up O Church",
+      "start_time": 3493,
+      "type": "music",
+      "description": "A final musical offering from the choir, inspiring the congregation to rise in faith and unity. The song 'Rise Up O Church' serves as a rousing conclusion to the service, encouraging all present to take the message of the day to heart as they move forward into the world.",
+      "keywords": ["choir", "worship", "inspiration", "unity", "faith"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Rise Up O Church"],
+      "scripture_references": []
+    }
+  ]
+}
+```

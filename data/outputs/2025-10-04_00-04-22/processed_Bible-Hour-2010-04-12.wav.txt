@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Theme Music]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with a celebratory theme music, creating an inviting atmosphere for attendees. This instrumental piece sets the tone for the morning, hinting at a joyful gathering centered on faith and community.",
+      "keywords": ["theme", "music", "celebration", "inviting", "atmosphere"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Welcome and Reflections",
+      "start_time": 30,
+      "type": "announcement",
+      "description": "The host welcomes attendees, reflecting on the recent Easter celebration and expressing gratitude for the team involved in the service. Personal insights about family time during Easter highlight the community’s bonds.",
+      "keywords": ["welcome", "Easter", "community", "gratitude", "family"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Living in Purity (Ephesians 5)",
+      "start_time": 575,
+      "type": "sermon",
+      "description": "The sermon begins with a focus on Ephesians Chapter 5, emphasizing the challenges of living a sexually pure life in a corrupt culture. The pastor outlines four commitments for personal and communal integrity in matters of purity and love, addressing societal issues and calling for active participation in reading and prayer.",
+      "keywords": ["Ephesians", "purity", "sermon", "community", "commitments"],
+      "performers": ["Jesse Hanna"],
+      "songs": [],
+      "scripture_references": ["Ephesians 5"]
+    },
+    {
+      "title": "Choir: [Give Us Clean Hands]",
+      "start_time": 3170,
+      "type": "music",
+      "description": "Following the sermon, the choir leads a heartfelt rendition of 'Give Us Clean Hands.' This song reinforces the messages of seeking purity and striving for a closer relationship with God, drawing the congregation into a moment of worship and reflection.",
+      "keywords": ["worship", "purity", "singing", "congregation", "devotion"],
+      "performers": [],
+      "songs": ["Give Us Clean Hands"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3400,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that encapsulates the themes of the day. The pastor prays for the strength to live out the commitments discussed during the sermon, asking for guidance and support for the church community moving forward.",
+      "keywords": ["prayer", "closing", "community", "strength", "guidance"],
+      "performers": ["Jesse Hanna"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

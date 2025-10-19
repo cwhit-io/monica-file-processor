@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Holy is the Lord of Hosts",
+      "start_time": 105,
+      "type": "music",
+      "description": "The Sanctuary Choir performs 'Holy is the Lord of Hosts,' an inspiring anthem drawn from Revelation 4:8-11, celebrating the worthiness of the Lord. This powerful piece encourages the congregation to reflect on God's glory and majesty, uniting their voices in worship. Themes of creation and divine honor are echoed throughout the song.",
+      "keywords": ["choir", "holy", "lord", "worship", "revelation"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Holy is the Lord of Hosts"],
+      "scripture_references": ["Revelation 4:8-11"]
+    },
+    {
+      "title": "scripture: Scripture Reading: Psalms 103",
+      "start_time": 588,
+      "type": "scripture",
+      "description": "The congregation engages in a responsive reading of Psalm 103, glorifying God for His blessings, mercy, and grace. This communal recitation emphasizes themes of worship and the importance of remembering God’s benefits, fostering a sense of unity among attendees and a deeper connection with His Word.",
+      "keywords": ["psalm", "worship", "reading", "blessings", "grace"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Psalms 103"]
+    },
+    {
+      "title": "Solo: Beautiful",
+      "start_time": 815,
+      "type": "music",
+      "description": "A heartfelt solo performance of 'Beautiful' reflects on the transformative power of God's grace in the midst of life's struggles. The soloist expresses feelings of despair turned to hope, emphasizing the beauty that arises from surrendering personal struggles to God. This song inspires the congregation to reflect on their own lives and the beauty of divine redemption.",
+      "keywords": ["god", "grace", "redemption", "hope", "beauty"],
+      "performers": ["Unknown"],
+      "songs": ["Beautiful"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Because He Lives",
+      "start_time": 967,
+      "type": "music",
+      "description": "The congregation enthusiastically sings 'Because He Lives,' affirming their faith and confidence in God's guidance through life's challenges. This beloved hymn serves as a reminder of the hope and assurance found in Jesus' resurrection. It uplifts spirits and strengthens the community's ties of faith as they worship together.",
+      "keywords": ["hymn", "faith", "hope", "jesus", "worship"],
+      "performers": [],
+      "songs": ["Because He Lives"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 1298,
+      "type": "announcement",
+      "description": "The church announces the upcoming Patriotic Panorama featuring Stephen Maria Gardner and special performances, encouraging participation in the celebrations to honor America. Details about the event's timing and ticket availability are provided, stressing the importance of community involvement and church activities.",
+      "keywords": ["events", "community", "patriotic", "music", "concert"],
+      "performers": ["Stephen Maria Gardner"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Christian Education Perspectives",
+      "start_time": 1349,
+      "type": "interview",
+      "description": "In an insightful discussion, guests Scott Schindler and Lisa Kobe share their experiences and the significance of Christian education. They address the value of a faith-based curriculum and the impact of relationships formed during their educational journeys. Their insights highlight the importance of integrating faith and learning.",
+      "keywords": ["education", "faith", "experience", "values", "discussion"],
+      "performers": ["Scott Schindler", "Lisa Kobe"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Majesty of God (Psalm 8)",
+      "start_time": 2154,
+      "type": "sermon",
+      "description": "Jay Kessler delivers an impactful sermon on Psalm 8, exploring the majesty of God and humanity's place in creation. He highlights the grandeur of the universe and God's intimate care for individuals, encouraging the congregation to see their worth in God's eyes. The message invites listeners to deepen their faith and understanding of God's vastness and love.",
+      "keywords": ["sermon", "majesty", "psalm", "god", "faith"],
+      "performers": ["Jay Kessler"],
+      "songs": [],
+      "scripture_references": ["Psalm 8"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3535,
+      "type": "prayer",
+      "description": "A heartfelt closing prayer concludes the service, thanking God for His presence and the message shared. The prayer invites congregants to reflect on their spiritual journeys and seek a deeper relationship with God, emphasizing themes of grace, guidance, and unity as they prepare to leave.",
+      "keywords": ["prayer", "closing", "thanksgiving", "spiritual", "unity"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

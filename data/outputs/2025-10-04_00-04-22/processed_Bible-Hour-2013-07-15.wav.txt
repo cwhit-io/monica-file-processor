@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Upbeat Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat musical piece that sets an inviting atmosphere for worship. This joyful introduction energizes the congregation and gathers their focus for the upcoming message. Everyone is encouraged to prepare their hearts and minds for the sequence of events about to unfold.",
+      "keywords": ["worship", "music", "joyful", "service", "inviting"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 225,
+      "type": "prayer",
+      "description": "The congregation gathers as the pastor leads an opening prayer. This moment calls for divine presence and guidance throughout the service, emphasizing the importance of inviting God into their midst. It serves as a heartfelt appeal for spiritual engagement and a supportive community experience.",
+      "keywords": ["prayer", "opening", "divine", "guidance", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Jesus as Central Figure (1 John 5)",
+      "start_time": 241,
+      "type": "sermon",
+      "description": "The sermon dives into the importance of Jesus Christ as highlighted in 1 John 5. The pastor discusses the context of the church’s struggles and emphasizes God's testimony regarding Jesus' dual nature as fully man and fully God. With various references, attendees are encouraged to grasp the centrality of Jesus in their faith, reinforcing the message of redemption and eternal life.",
+      "keywords": ["sermon", "1 John", "Jesus", "faith", "redemption"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["1 John 5:6-12"]
+    },
+    {
+      "title": "Solo: Invitation to Worship",
+      "start_time": 3444,
+      "type": "music",
+      "description": "Following the sermon, a solo performance enhances the worship experience, inviting congregants to reflect on the message shared. Through poignant lyrics, the song emphasizes themes of surrender and devotion, encouraging participation in lifting their voices in adoration.",
+      "keywords": ["worship", "solo", "devotion", "reflection", "surrender"],
+      "performers": ["Solo Artist"],
+      "songs": ["Have Your Way"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3474,
+      "type": "prayer",
+      "description": "As the service concludes, a closing prayer is offered, summing up the key messages from the sermon. This moment is a final plea for guidance and a commitment to live out the truths shared in the message. It serves to bless the congregation as they prepare to leave and apply what they've learned.",
+      "keywords": ["closing", "prayer", "guidance", "commitment", "blessing"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

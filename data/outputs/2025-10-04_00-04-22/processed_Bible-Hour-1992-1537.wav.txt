@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Jesus Medley",
+      "start_time": 99,
+      "type": "music",
+      "description": "Bill Lehman performs a heartfelt song titled 'Jesus Medley', focusing on the beautiful attributes of Jesus. The lyrics reflect a deep love and reverence for His name, emphasizing the comfort and presence found in faith. This medley leads the congregation into a reflective state, preparing them for the message to come.",
+      "keywords": ["jesus", "medley", "worship", "song"],
+      "performers": ["Bill Lehman"],
+      "songs": ["Jesus Medley"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Bliss and Blisters of Singleness (1 Corinthians 7)",
+      "start_time": 688,
+      "type": "sermon",
+      "description": "Pastor Moore concludes the series on singleness, discussing the complexities of being single, especially for those who desire marriage. He encourages singles to embrace their situation while acknowledging the loneliness they might feel. Drawing from biblical principles, he highlights the beauty of singleness as a gift, but also addresses the struggles and waiting that many experience.",
+      "keywords": ["singleness", "loneliness", "1 Corinthians", "marriage", "waiting"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 7"]
+    },
+    {
+      "title": "Solo: It Must Be Love",
+      "start_time": 1261,
+      "type": "music",
+      "description": "Lynn Roles performs 'It Must Be Love', a touching song that explores the themes of unconditional love and acceptance. The heartfelt lyrics resonate with the congregation as they reflect on God's love despite their flaws and imperfections. This solo enhances the worship experience, fostering a deeper connection among listeners.",
+      "keywords": ["love", "worship", "grace", "acceptance"],
+      "performers": ["Lynn Roles"],
+      "songs": ["It Must Be Love"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3374,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting God’s presence among the congregation. This prayer sets the tone for heartfelt worship and reflection, encouraging everyone to seek a closer relationship with God. It aims to prepare the minds and hearts of all attendees for the message and worship ahead.",
+      "keywords": ["prayer", "worship", "invitation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Romans 8",
+      "start_time": 1822,
+      "type": "scripture",
+      "description": "A reading from Romans chapter 8 which captures the essence of hope amidst suffering. The verse emphasizes the groaning of creation and ourselves waiting for redemption. This scripture provides the foundation for the sermon and encourages reflection on the current struggles and the hope of future glory.",
+      "keywords": ["Romans", "hope", "redemption", "groaning"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Romans 8"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3511,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for the time spent in worship and reflection. This prayer includes petitions for strength and guidance for the congregation as they go about their week, encouraging them to implement the teachings of the day in their lives.",
+      "keywords": ["prayer", "closing", "thanksgiving"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

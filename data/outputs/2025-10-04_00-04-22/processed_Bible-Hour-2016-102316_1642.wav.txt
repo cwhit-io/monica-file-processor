@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [You Hold My Head Up]",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir fills the sanctuary, singing uplifting praises that echo the themes of hope and redemption. The lyrics speak to personal transformation and the renewing power of grace, reminding the congregation of their identity in Christ. The music creates an atmosphere of worship and reflection as attendees engage with the heartfelt message.",
+      "keywords": ["hope", "grace", "redemption", "choir", "transformation"],
+      "performers": ["[]"],
+      "songs": ["You Hold My Head Up"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [You Are My Salvation]",
+      "start_time": 183,
+      "type": "music",
+      "description": "Continuing the worship experience, the choir performs another powerful song centered on salvation and strength found in God. The congregation participates actively, and the lyrics foster a spirit of trust and reliance on God. It's a moment for the community to unite in their faith, affirming their salvation through spirited song.",
+      "keywords": ["salvation", "strength", "worship", "congregation", "trust"],
+      "performers": ["[]"],
+      "songs": ["You Are My Salvation"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: New Mercies (Lamentations 3)",
+      "start_time": 807,
+      "type": "sermon",
+      "description": "The pastor delivers a compelling message about experiencing God's new mercies in daily life. Drawing from Lamentations 3, he explores the significance of grace during life's challenges, urging the congregation to embrace their struggles with faith. Through personal stories and relatable examples, he emphasizes renewal and growth through God's love and encouragement.",
+      "keywords": ["new mercies", "grace", "renewal", "Lamentations", "growth"],
+      "performers": ["Kevin Rivers"],
+      "songs": [],
+      "scripture_references": ["Lamentations 3:21-26", "2 Corinthians 5:17", "Philippians 4:6-7", "Psalm 112:6-7"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3021,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting God's presence and guidance for the gathering. The pastor asks for enlightenment and support for the congregation, setting a tone of reverence and community. This prayer aims to prepare the hearts of all attendees for worship and the message.",
+      "keywords": ["prayer", "opening", "guidance", "community", "worship"],
+      "performers": ["Kevin Rivers"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Amazing Grace]",
+      "start_time": 3137,
+      "type": "music",
+      "description": "The choir leads a beloved hymn, 'Amazing Grace,' celebrating the transformative power of grace. The congregation joins in, reflecting on personal experiences of redemption. This moment serves as a reminder of the grace that abounds, resonating with the sermon theme of new beginnings and spiritual renewal.",
+      "keywords": ["amazing grace", "hymn", "redemption", "congregation", "worship"],
+      "performers": ["[]"],
+      "songs": ["Amazing Grace"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3564,
+      "type": "prayer",
+      "description": "As the service concludes, a closing prayer is led, asking for God's continued presence and guidance in the lives of everyone present. The pastor encourages the congregation to carry the message of new mercies into their daily routines. This prayer is a heartfelt invitation for strength and renewal in their journeys.",
+      "keywords": ["closing", "prayer", "guidance", "community", "strength"],
+      "performers": ["Kevin Rivers"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

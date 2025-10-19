@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: How Great Is Our God",
+      "start_time": 132,
+      "type": "music",
+      "description": "The choir leads the congregation in a powerful rendition of 'How Great Is Our God.' The atmosphere is electrifying, inviting worshippers to reflect on the splendor of God's majesty. This dynamic performance showcases the talents of the choir and encourages participation.",
+      "keywords": ["choir", "worship", "God", "music", "greatness"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["How Great Is Our God"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: How Great Thou Art",
+      "start_time": 408,
+      "type": "music",
+      "description": "'How Great Thou Art' is sung by the congregation, creating a heartfelt moment of communal worship. This classic hymn allows attendees to express their awe and gratitude towards God. The music resonates through the sanctuary, fostering a spirit of unity among the worshippers.",
+      "keywords": ["congregational", "hymn", "worship", "greatness", "unity"],
+      "performers": ["Congregation"],
+      "songs": ["How Great Thou Art"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1546,
+      "type": "prayer",
+      "description": "The opening prayer invites God's presence into the service, acknowledging His sovereignty and grace. It sets the tone for worship, encouraging the congregation to open their hearts to the message ahead. The prayer is a moment of reflection and connection with God.",
+      "keywords": ["prayer", "worship", "presence", "God", "community"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Joshua 1",
+      "start_time": 1330,
+      "type": "scripture",
+      "description": "The church reads a passage from Joshua 1, where God encourages Joshua to be strong and courageous. This reading sets the foundation for the message ahead, emphasizing God’s promises and leadership. It reminds the congregation of their own call to faithfulness.",
+      "keywords": ["scripture", "Joshua", "faith", "courage", "leadership"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Joshua 1"]
+    },
+    {
+      "title": "Message: God's Plans and Leadership (Joshua 1)",
+      "start_time": 1240,
+      "type": "sermon",
+      "description": "In this engaging sermon, Josh Rang emphasizes God's grand plans for His people and the vital role of leadership. He shares personal reflections on God’s presence and guidance, encouraging the congregation to embrace their purpose. The message focuses on the need for strength and courage as they pursue God's calling.",
+      "keywords": ["sermon", "God", "plans", "leadership", "Joshua"],
+      "performers": ["Josh Rang"],
+      "songs": [],
+      "scripture_references": ["Joshua 1:1-18"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3494,
+      "type": "prayer",
+      "description": "The invitation prayer invites those seeking God or a deeper relationship with Him to respond. It reflects a spirit of openness and commitment, creating an atmosphere where individuals can make personal decisions in faith. The prayer seeks God's guidance for those ready to follow Him.",
+      "keywords": ["prayer", "invitation", "faith", "commitment", "guidance"],
+      "performers": ["Josh Rang"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Be Glorified In Me",
+      "start_time": 748,
+      "type": "music",
+      "description": "A solo performance of 'Be Glorified In Me' fills the space, prompting heartfelt worship among attendees. The singer's poignant delivery emphasizes the theme of seeking God’s glory in every aspect of life. This acoustic moment allows for personal reflection and connection with God.",
+      "keywords": ["solo", "worship", "God", "glorification", "reflection"],
+      "performers": ["Kelly Bird"],
+      "songs": ["Be Glorified In Me"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3556,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, thanking God for His presence and message. It encourages the congregation to act on the teachings shared during the service. This prayer serves as a blessing for the week ahead, urging the community to live out their faith.",
+      "keywords": ["closing", "prayer", "thanksgiving", "community", "action"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

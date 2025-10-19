@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Rejoice",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with uplifting music performed by the choir, celebrating the Savior and His resurrection. The lyrics emphasize joy and gratitude for God's presence and love. Congregational participation invites everyone to rejoice together, creating an atmosphere of worship and community.",
+      "keywords": ["rejoice", "choir", "worship", "Savior", "joy"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Rejoice"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 610,
+      "type": "prayer",
+      "description": "Pastor Steve Webster leads the congregation in an opening prayer, expressing gratitude for the church and its members. He asks for joyful hearts as they prepare to give and worship together, emphasizing the importance of generosity and stewardship in their service.",
+      "keywords": ["prayer", "gratitude", "generosity", "worship", "service"],
+      "performers": ["Steve Webster"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: I Will Serve the Lord",
+      "start_time": 628,
+      "type": "music",
+      "description": "The congregation participates in a hymn that reflects a commitment to serve God with all their heart, soul, mind, and strength. This participatory song encourages heartfelt worship, drawing everyone into a collective expression of faith and devotion.",
+      "keywords": ["hymn", "serve", "commitment", "worship", "congregation"],
+      "performers": [],
+      "songs": ["I Will Serve the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Generosity of God (Psalm 104)",
+      "start_time": 980,
+      "type": "sermon",
+      "description": "Pastor Steve Webster delivers a powerful sermon focusing on God's abundant provision and creative generosity as illustrated in Psalm 104. He encourages the congregation to respond to God’s generosity by cultivating a spirit of cheerful giving. The sermon emphasizes God's active engagement with creation and invites listeners to reflect on their own generosity and stewardship.",
+      "keywords": ["sermon", "generosity", "provision", "God", "Psalm 104"],
+      "performers": ["Steve Webster"],
+      "songs": [],
+      "scripture_references": ["Psalm 104"]
+    },
+    {
+      "title": "testimony: The Power of the Gospel",
+      "start_time": 1761,
+      "type": "testimony",
+      "description": "A member of the congregation shares a personal testimony about the transformative power of the gospel in her life. She reflects on pivotal moments of faith, illustrating the profound impact of God's grace and the importance of community in her spiritual journey.",
+      "keywords": ["testimony", "gospel", "transformation", "faith", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Great Is Thy Faithfulness",
+      "start_time": 3255,
+      "type": "music",
+      "description": "The choir leads the congregation in singing 'Great Is Thy Faithfulness,' a timeless hymn that praises God's unwavering faithfulness throughout the ages. This hymn serves as a reminder of God's provision and care, encouraging reflection on His continual presence in their lives.",
+      "keywords": ["music", "hymn", "faithfulness", "worship", "choir"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Great Is Thy Faithfulness"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3310,
+      "type": "prayer",
+      "description": "As the service concludes, Pastor Steve Webster offers a closing prayer, thanking God for His faithfulness and provision. He prays for the congregation to embody generosity and engagement in their lives, encouraging members to live out their faith actively.",
+      "keywords": ["prayer", "closing", "thanksgiving", "faithfulness", "generosity"],
+      "performers": ["Steve Webster"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

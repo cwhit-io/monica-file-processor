@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unknown]",
+      "start_time": 30,
+      "type": "music",
+      "description": "A spirited performance by the choir sets a worshipful atmosphere, engaging the congregation from the very start. The music creates a backdrop for prayer and reflection as attendees prepare their hearts for the service ahead.",
+      "keywords": ["choir", "worship", "music", "community", "praise"],
+      "performers": ["Unknown"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Unknown]",
+      "start_time": 63,
+      "type": "music",
+      "description": "The congregation joins in singing a hymn, unifying voices in worship. The heartfelt lyrics encourage reflection on their faith and deepen the sense of community among attendees.",
+      "keywords": ["hymn", "congregation", "worship", "community"],
+      "performers": ["Unknown"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown]",
+      "start_time": 205,
+      "type": "music",
+      "description": "A solo performance draws the congregation into a moment of introspection, showcasing individual talent while inviting personal reflection and connection with the message of faith.",
+      "keywords": ["solo", "music", "worship", "reflection"],
+      "performers": ["Unknown"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 544,
+      "type": "prayer",
+      "description": "The opening prayer invites the Holy Spirit's presence, asking for guidance and establishing a spirit of worship among the congregation. It emphasizes humility and the collective purpose of worship.",
+      "keywords": ["prayer", "worship", "community", "Holy Spirit"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Joe Thompson's Journey",
+      "start_time": 730,
+      "type": "testimony",
+      "description": "A heartfelt testimony shares Joe Thompson's journey and the community's support in his educational path. The impact of love and kindness from teachers and peers is highlighted, showcasing the power of community in individual lives.",
+      "keywords": ["testimony", "journey", "community", "support", "education"],
+      "performers": ["Gary Thompson", "Pat Thompson", "Joe Thompson"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: A Family Tree Like No Other (Matthew 1)",
+      "start_time": 1016,
+      "type": "sermon",
+      "description": "The sermon focuses on the genealogy of Jesus as outlined in Matthew 1, emphasizing God's grace in the lives of flawed individuals from whom Christ descended. Key figures are examined in their imperfections, highlighting the significance of God's grace in transforming lives.",
+      "keywords": ["sermon", "genealogy", "grace", "Matthew", "Jesus"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": ["Matthew 1"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3535,
+      "type": "prayer",
+      "description": "The closing prayer reflects on God's transformative power, expressing gratitude for His grace and the community gathered. The prayer reinforces the theme of new beginnings and the importance of sharing love and truth with future generations.",
+      "keywords": ["prayer", "community", "grace", "transformation"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

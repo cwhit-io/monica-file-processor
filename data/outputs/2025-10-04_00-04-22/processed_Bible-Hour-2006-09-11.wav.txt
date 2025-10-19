@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [rock music]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with an energetic rock music performance, creating a lively atmosphere for attendees as they gather together. This instrumental piece sets a tone of excitement and anticipation for the worship session ahead.",
+      "keywords": ["music", "worship", "gathering", "energy"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [Matthew 28:18-20]",
+      "start_time": 30,
+      "type": "scripture",
+      "description": "A passage from Matthew 28 is read, emphasizing the Great Commission where Jesus commands His followers to make disciples. This reflective moment serves as a foundational reminder of the church's mission and purpose.",
+      "keywords": ["Great Commission", "disciples", "Jesus", "mission"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["Matthew 28:18-20"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 118,
+      "type": "prayer",
+      "description": "The service's opening prayer invites God’s presence to guide the worship and community time. The congregation expresses their collective desire for encouragement and growth in their faith.",
+      "keywords": ["prayer", "community", "guidance", "faith"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Attack on Relationships (Ephesians 5:33)",
+      "start_time": 208,
+      "type": "sermon",
+      "description": "The sermon addresses the challenges that relationships, particularly marriages, are facing today. The speaker reflects on personal experiences and highlights the importance of love and respect within relationships, drawing from Emerson Eggrich's concepts to illustrate their application in congregation members' lives.",
+      "keywords": ["marriage", "relationships", "love", "respect", "Ephesians"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["Ephesians 5:33"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3406,
+      "type": "prayer",
+      "description": "At the close of the sermon, an invitation prayer is offered, encouraging the congregation to reflect on their personal journeys. This moment calls for recognition of God’s presence in their lives and a request for His guidance.",
+      "keywords": ["invitation", "reflection", "God's presence", "guidance"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [upbeat worship song]",
+      "start_time": 3536,
+      "type": "music",
+      "description": "The service concludes with a joyful congregational hymn, inviting everyone to join in singing. This uplifting moment reinforces community spirit and collective worship, leaving attendees with a sense of unity and hope.",
+      "keywords": ["worship", "hymn", "community", "joy"],
+      "performers": ["[]"],
+      "songs": ["upbeat worship song"],
+      "scripture_references": []
+    }
+  ]
+}
+```

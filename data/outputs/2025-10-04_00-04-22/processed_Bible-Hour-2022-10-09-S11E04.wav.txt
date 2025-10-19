@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting the congregation to center their hearts and minds on God. It acknowledges the goodness of God and emphasizes the atoning work of Jesus Christ. The prayer sets a tone of gratitude and reflection for the worship ahead.",
+      "keywords": ["prayer", "opening", "gratitude", "worship", "service"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Healing and Cleansing (Mark 1:35-45)",
+      "start_time": 7,
+      "type": "sermon",
+      "description": "The sermon explores Jesus's authority and the significance of cleansing through faith, focusing on the healing of a leper. It emphasizes the necessity of going to God for spiritual renewal and the importance of understanding one's condition before God. The message encourages listeners to connect deeply with God and rely on His grace.",
+      "keywords": ["sermon", "Jesus", "healing", "cleansing", "faith", "Mark"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["Mark 1:35-45"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 1810,
+      "type": "prayer",
+      "description": "The invitation prayer calls upon God to open hearts and grant freedom to all, especially those burdened by past mistakes. It seeks God’s presence to heal and cleanse individuals, reminding them of the assurance found in Jesus's forgiveness. The prayer aims to inspire a sense of acceptance and belonging.",
+      "keywords": ["prayer", "invitation", "forgiveness", "freedom", "healing"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: It Is Well with My Soul",
+      "start_time": 1814,
+      "type": "music",
+      "description": "The congregation joins together in singing 'It Is Well with My Soul.' This powerful hymn reflects themes of peace and assurance in God's presence during life's trials. The heartfelt participation fosters unity and encourages expressions of faith among the congregation.",
+      "keywords": ["hymn", "worship", "congregation", "faith", "assurance"],
+      "performers": [],
+      "songs": ["It Is Well with My Soul"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1942,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, reinforcing the message of the sermon and the theme of spiritual cleansing. It asks for God’s continued presence and assurance for the congregation, empowering them to proclaim the good news and liberate themselves from guilt and shame.",
+      "keywords": ["prayer", "closing", "empowerment", "freedom", "proclamation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: He Is Alive Today",
+      "start_time": 36,
+      "type": "music",
+      "description": "The choir performs a spirited piece titled 'He Is Alive Today'. The lyrics celebrate the resurrection of Jesus, emphasizing His living presence and the joy it brings to believers. The song connects deeply with the Easter season's themes of hope and resurrection.",
+      "keywords": ["choir", "alive", "Jesus", "resurrection", "hope"],
+      "performers": ["Blackhawk Baptist Church Choir"],
+      "songs": ["He Is Alive Today"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Sweetest Hallelujah",
+      "start_time": 370,
+      "type": "music",
+      "description": "Don and Janet Kruger perform a beautiful solo titled 'Sweetest Hallelujah'. The song reflects on the joy of the faithful returning home, celebrating the love and welcome of the Savior. Their heartfelt rendition adds a personal touch to the worship service.",
+      "keywords": ["solo", "hallelujah", "joy", "Savior", "return"],
+      "performers": ["Don Kruger", "Janet Kruger"],
+      "songs": ["Sweetest Hallelujah"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: John 12",
+      "start_time": 1262,
+      "type": "scripture",
+      "description": "Pastor David Geremy reads from John 12, which details significant events leading up to the crucifixion of Jesus. This reading sets the stage for the sermon, focusing on themes of sacrifice and devotion.",
+      "keywords": ["scripture", "John", "12", "resurrection", "teaching"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["John 12"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1352,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered by Pastor Geremy, asking for guidance and understanding as the congregation prepares to reflect on the message. The prayer sets a reverent tone, inviting God's presence.",
+      "keywords": ["prayer", "opening", "guidance", "reflection", "worship"],
+      "performers": ["Pastor David Geremy"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Sacrificial Love (John 12:1-9)",
+      "start_time": 1376,
+      "type": "sermon",
+      "description": "Pastor Geremy delivers a powerful sermon focused on John 12, where Mary anoints Jesus with costly perfume. He explores themes of sacrificial love, worship, and devotion to Christ, encouraging the congregation to give generously in response to God's love and provision.",
+      "keywords": ["sermon", "sacrifice", "love", "Mary", "Jesus"],
+      "performers": ["Pastor David Geremy"],
+      "songs": [],
+      "scripture_references": ["John 12:1-9"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3160,
+      "type": "prayer",
+      "description": "Pastor Geremy concludes the service with a closing prayer, encouraging the congregation to apply the message in their lives. The prayer emphasizes gratitude for God's love and a commitment to serve Him with their hearts and resources.",
+      "keywords": ["prayer", "closing", "commitment", "gratitude", "worship"],
+      "performers": ["Pastor David Geremy"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

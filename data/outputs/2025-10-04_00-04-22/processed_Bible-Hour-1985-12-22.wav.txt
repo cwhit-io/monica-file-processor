@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Inspirational Music",
+      "start_time": 249,
+      "type": "music",
+      "description": "The church choir sings an uplifting piece to open the service, setting a joyous tone for the celebration of Christ's birth. This performance showcases the preparation and dedication of the choir members, enhancing the spiritual experience for the congregation.",
+      "keywords": ["choir", "christmas", "celebration", "music", "worship"],
+      "performers": ["The Sanctuary Choir"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Angels We Have Heard on High",
+      "start_time": 487,
+      "type": "music",
+      "description": "The congregation joins together to sing the beloved Christmas hymn 'Angels We Have Heard on High.' This moment encourages community participation, celebrating the joyous message of the birth of Jesus among the worshippers.",
+      "keywords": ["hymn", "angels", "jesus", "community", "worship"],
+      "performers": [],
+      "songs": ["Angels We Have Heard on High"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: It's Amazing How that Fluffy Snow",
+      "start_time": 670,
+      "type": "music",
+      "description": "Brian Losin performs a poignant solo that reflects on themes of redemption and the covering of sins through Jesus' sacrifice. The imagery of snow serves as a metaphor for purity and grace, resonating deeply with the audience.",
+      "keywords": ["solo", "snow", "grace", "redemption", "jesus"],
+      "performers": ["Brian Losin"],
+      "songs": ["It's Amazing How that Fluffy Snow"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Second Generation",
+      "start_time": 1374,
+      "type": "music",
+      "description": "The young musical group known as Second Generation shares a lively piece that emphasizes the significance of Christ's birth. Their performance is vibrant and engaging, invoking joy and celebration in the church atmosphere.",
+      "keywords": ["youth", "choir", "celebration", "music", "christmas"],
+      "performers": ["Second Generation"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1452,
+      "type": "prayer",
+      "description": "The pastor offers an opening prayer focused on gratitude for the Christmas season and the birth of Jesus. The prayer encourages the congregation to reflect on the true meaning of Christmas amidst the holiday hustle.",
+      "keywords": ["prayer", "opening", "thanksgiving", "christmas", "worship"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Matthew 2",
+      "start_time": 1915,
+      "type": "scripture",
+      "description": "The Scripture reading from Matthew chapter 2 recounts the visit of the wise men to honor the newborn King. This passage highlights the fulfillment of prophecy and sets the stage for the sermon that follows.",
+      "keywords": ["scripture", "matthew", "wise men", "prophecy", "jesus"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 2"]
+    },
+    {
+      "title": "Message: Contemporary Lessons from Wise Men (Matthew 2)",
+      "start_time": 1919,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a sermon titled 'Contemporary Lessons from Wise Men,' exploring the themes of seeking God, worship, and the significance of gifts during the Christmas season. The message encourages the congregation to give their hearts to Christ and live in obedience.",
+      "keywords": ["sermon", "wise men", "worship", "christmas", "gifts"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Matthew 2"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3510,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, inviting God’s presence and encouraging individuals to reflect on the message shared. It serves as a moment of commitment for those who wish to open their hearts to Christ.",
+      "keywords": ["prayer", "closing", "commitment", "worship", "jesus"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

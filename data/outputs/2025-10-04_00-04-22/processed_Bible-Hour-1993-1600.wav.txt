@@ -1,0 +1,54 @@
+{
+  "chapters": [
+    {
+      "title": "Message: Signs of a Society in Decline (Isaiah 5)",
+      "start_time": 0,
+      "type": "sermon",
+      "description": "Chief Vernon delivers a thought-provoking message discussing six signs from Isaiah 5 that indicate a society in decline. He draws parallels between ancient Israel and modern America, highlighting issues such as materialism, hedonism, and moral decay. The sermon ultimately encourages believers to trust in God amid difficult times, providing biblical principles for facing societal and personal tribulations.",
+      "keywords": ["tribulation", "Isaiah", "society", "materialism", "heaven", "God", "truth", "faith"],
+      "performers": ["Bob Vernon"],
+      "songs": [],
+      "scripture_references": ["Isaiah 5"]
+    },
+    {
+      "title": "Choir: Special Music",
+      "start_time": 467,
+      "type": "music",
+      "description": "The Sanctuary Choir presents a heartfelt piece of worship music, fostering a spirit of reverence and reflection among the congregation. The performance aims to uplift attendees and set the tone for the service.",
+      "keywords": ["choir", "worship", "music", "spiritual", "community"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Special Music"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 636,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting the attendees to center their hearts and minds on God. This prayer emphasizes themes of guidance, unity, and seeking God's presence throughout the service.",
+      "keywords": ["prayer", "guidance", "presence", "unity"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Children's Musical",
+      "start_time": 288,
+      "type": "announcement",
+      "description": "An announcement is made about an engaging children's musical event titled 'Good Kings Come in Small Packages'. Scheduled for May 2nd, this performance by the King's Kids Choir promises to be a delightful opportunity for the community.",
+      "keywords": ["children", "musical", "event", "community", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3433,
+      "type": "prayer",
+      "description": "As the service draws to a close, the closing prayer reflects gratitude for the message received and guidance in living out faith in everyday life. It also reinforces the importance of community support in times of challenge.",
+      "keywords": ["prayer", "gratitude", "faith", "community", "support"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

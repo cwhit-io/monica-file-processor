@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: God of Wonders",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir leads the congregation in singing 'God of Wonders,' a song celebrating the majesty of God and His creation. The lyrics focus on recognizing God's power and glory, encouraging worship and adoration from everyone present. This uplifting moment sets the tone for the service ahead.",
+      "keywords": ["worship", "choir", "majesty", "creation", "God"],
+      "performers": ["Choir"],
+      "songs": ["God of Wonders"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: God of Wonders (Continued)",
+      "start_time": 302,
+      "type": "music",
+      "description": "The choir continues with 'God of Wonders,' further inspiring the congregation with the theme of divine creation. Participants are encouraged to reflect on the vastness of the universe and God's intimate care for humanity. It emphasizes the awe-inspiring nature of God across the cosmos.",
+      "keywords": ["inspiration", "worship", "cosmos", "intimacy", "God"],
+      "performers": ["Choir"],
+      "songs": ["God of Wonders"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: God of Wonders (Finale)",
+      "start_time": 411,
+      "type": "music",
+      "description": "In the finale segment of 'God of Wonders,' the choir leads with powerful enthusiasm, encouraging the congregation to lift their voices in praise. This vibrant conclusion serves as a reminder of God's everlasting presence and love, uniting the community in heartfelt worship.",
+      "keywords": ["community", "praise", "enthusiasm", "love", "unity"],
+      "performers": ["Choir"],
+      "songs": ["God of Wonders"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Destructive Habit of Pleasure (1 John 2:15-17)",
+      "start_time": 906,
+      "type": "sermon",
+      "description": "In this sermon, the pastor addresses the theme of pleasure as a highly destructive habit, drawing from 1 John 2:15-17. He emphasizes the importance of understanding the temporary nature of earthly pleasures compared to eternal values. Through biblical teaching, he invites the congregation to surrender to God and align their desires with divine purpose.",
+      "keywords": ["pleasure", "destruction", "surrender", "eternal", "faith"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["1 John 2:15-17"]
+    },
+    {
+      "title": "Choir: Celebration of Praise",
+      "start_time": 1326,
+      "type": "music",
+      "description": "The choir leads a moving celebration of praise, encapsulating the congregation's joyful spirit post-sermon. This musical segment reinforces themes of gratitude and the beauty of community worship, allowing attendees to express their joy through song. The atmosphere is filled with uplifting melodies and heartfelt devotion.",
+      "keywords": ["praise", "celebration", "joy", "gratitude", "community"],
+      "performers": ["Choir"],
+      "songs": ["Celebration of Praise"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 906,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer led by the pastor, inviting God's presence into the gathering. This moment sets a reverent tone for the worship service, encouraging hearts and minds to focus on divine encounters and spiritual growth throughout the spoken word and music.",
+      "keywords": ["worship", "invitation", "reverence", "focus", "spirituality"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3538,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, allowing the congregation to reflect on the message and their personal commitments to God. The pastor prays for strength to resist destructive habits and encourages everyone to seek a deeper relationship with the Lord, concluding the service with hope and motivation.",
+      "keywords": ["commitment", "reflection", "strength", "hope", "motivation"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

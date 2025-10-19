@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: God is Awesome",
+      "start_time": 542,
+      "type": "music",
+      "description": "The choir leads the congregation in a vibrant worship song, celebrating the greatness of God. As the congregation joins in, they create an atmosphere filled with praise and gratitude. The message of God's power and presence resonates through the lyrics, encouraging everyone to engage wholeheartedly in worship.",
+      "keywords": ["worship", "choir", "praise", "song", "God"],
+      "performers": ["The Choir"],
+      "songs": ["God is Awesome"],
+      "scripture_references": [""]
+    },
+    {
+      "title": "Choir: Jesus, Lead On",
+      "start_time": 699,
+      "type": "music",
+      "description": "The choir performs 'Jesus, Lead On,' a heartfelt song that reflects a desire for divine guidance through life's challenges. The lyrics emphasize trust and reliance on Jesus for direction and strength. The congregation is invited to sing along, enhancing the communal experience of worship.",
+      "keywords": ["Jesus", "guidance", "worship", "sing", "lead"],
+      "performers": ["The Choir"],
+      "songs": ["Jesus, Lead On"],
+      "scripture_references": [""]
+    },
+    {
+      "title": "Congregational Hymn: Heart of Worship",
+      "start_time": 1569,
+      "type": "music",
+      "description": "The congregation participates in 'Heart of Worship,' a reflective hymn inviting everyone to return to the essence of worship centered on Jesus. The song's lyrics focus on humility and a desire for authenticity in worship practices. The heartfelt atmosphere encourages personal introspection among worshippers.",
+      "keywords": ["worship", "Jesus", "hymn", "authenticity", "reflection"],
+      "performers": [],
+      "songs": ["Heart of Worship"],
+      "scripture_references": [""]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 334,
+      "type": "prayer",
+      "description": "An opening prayer acknowledges God's greatness and invites His presence into the service. The prayer emphasizes the need for humility and a spirit of confession, allowing the congregation to prepare their hearts for worship. The pastor leads this prayer with a sincere tone and expectation.",
+      "keywords": ["prayer", "worship", "presence", "community", "confession"],
+      "performers": ["Mitch"],
+      "songs": [],
+      "scripture_references": [""]
+    },
+    {
+      "title": "scripture: Scripture Reading: Isaiah 6",
+      "start_time": 388,
+      "type": "scripture",
+      "description": "The congregation listens attentively as a scripture reading from Isaiah 6 is shared. This passage reveals God's majesty and holiness, setting the tone for the worship service. The reading is intended to inspire awe and reverence toward God, encouraging personal reflection on His character.",
+      "keywords": ["Isaiah", "scripture", "holiness", "majesty", "God"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Isaiah 6"]
+    },
+    {
+      "title": "Message: A Relentless Pursuit (1 Corinthians 1)",
+      "start_time": 2062,
+      "type": "sermon",
+      "description": "In this sermon, the pastor discusses the theme of a relentless pursuit in the Christian faith. Drawing from 1 Corinthians, he highlights the importance of unity among believers and the call to remain steadfast in their faith and mission. Practical applications encourage the congregation to reflect on their personal pursuits for God and how they can contribute to the church community.",
+      "keywords": ["sermon", "pursuit", "unity", "faith", "1 Corinthians"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 1"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3759,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service with gratitude, asking for God's guidance in the congregation's daily lives. The pastor reflects on the day's teachings and prays for strength and unity among the church members. This prayer serves as a petition for the congregation to carry forward the message shared.",
+      "keywords": ["prayer", "closing", "gratitude", "spiritual growth", "community"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": [""]
+    },
+    {
+      "title": "Congregational Hymn: May Our Homes Be Filled with Dancing",
+      "start_time": 1239,
+      "type": "music",
+      "description": "The service concludes with a joyful congregational hymn that celebrates the impact of faith in everyday life. The song encourages worshippers to express their joy in their homes and communities. The lively atmosphere and upbeat lyrics invite participation and a sense of celebration in God's blessings.",
+      "keywords": ["hymn", "joy", "worship", "community", "celebration"],
+      "performers": [],
+      "songs": ["May Our Homes Be Filled with Dancing"],
+      "scripture_references": [""]
+    }
+  ]
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Pomp and Circumstance",
+      "start_time": 142,
+      "type": "music",
+      "description": "The sanctuary choir begins the service with the famous composition 'Pomp and Circumstance.' This uplifting piece sets a celebratory tone for the service, welcoming attendees into a space of praise and worship. The performance reflects the joy of coming together for communal worship and the importance of music in the church.",
+      "keywords": ["choir", "music", "worship", "celebration"],
+      "performers": ["Scott Schindler", "Brian Losen"],
+      "songs": ["Pomp and Circumstance"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: And Can It Be",
+      "start_time": 1121,
+      "type": "music",
+      "description": "The congregation participates in a moving rendition of the hymn 'And Can It Be.' This powerful hymn captures themes of grace, redemption, and personal salvation, allowing the congregation to express their faith collectively through song. The heartfelt performance encourages worshippers to reflect on their personal journey with Christ.",
+      "keywords": ["hymn", "worship", "grace", "redemption"],
+      "performers": ["Scott Schindler"],
+      "songs": ["And Can It Be"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3406,
+      "type": "prayer",
+      "description": "An opening prayer is offered, inviting God's presence into the service. The prayer expresses gratitude for the community and calls for blessings over the message to be shared. It sets a reverent atmosphere, preparing the hearts of the attendees to receive the truth from Scripture.",
+      "keywords": ["prayer", "community", "blessing", "God's presence"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Ecclesiastes 3",
+      "start_time": 84,
+      "type": "scripture",
+      "description": "The scripture reading focuses on Ecclesiastes 3, which emphasizes the concept that there is a time for everything under heaven. This passage establishes the foundation for the sermon, highlighting the beauty of God's timing in our lives and the importance of recognizing the seasons we go through.",
+      "keywords": ["scripture", "Ecclesiastes", "timing", "seasons"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Ecclesiastes 3"]
+    },
+    {
+      "title": "Message: The Beauty of Time (Ecclesiastes 3:1-11)",
+      "start_time": 1209,
+      "type": "sermon",
+      "description": "Dr. Donald Fowler delivers a compelling sermon on the theme of time as presented in Ecclesiastes 3. He explores the profound truth that God has appointed a time for every purpose and event, emphasizing that all of God's acts are beautiful. The message encourages attendees to recognize and redeem the time they have." ,
+      "keywords": ["sermon", "time", "Ecclesiastes", "God's purpose"],
+      "performers": ["Dr. Donald Fowler"],
+      "songs": [],
+      "scripture_references": ["Ecclesiastes 3:1-11"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3417,
+      "type": "prayer",
+      "description": "A heartfelt invitation prayer is offered, urging attendees to accept Jesus Christ as their Savior. This prayer provides an opportunity for personal reflection and commitment, inviting the Holy Spirit to work in the hearts of those present. It is a time of openness and response to the message shared.",
+      "keywords": ["invitation", "prayer", "salvation", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3417,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for the time spent in worship and fellowship. Attendees are encouraged to reflect on the message and its impact on their lives. The prayer seeks to carry the blessings of the service into the week ahead, fostering a spirit of unity.",
+      "keywords": ["closing", "prayer", "unity", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

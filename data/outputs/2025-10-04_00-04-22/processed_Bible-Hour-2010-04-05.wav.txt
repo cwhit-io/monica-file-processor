@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Congregational Hymn: Christ is Lifted Up",
+      "start_time": 230,
+      "type": "music",
+      "description": "The congregation passionately sings 'Christ is Lifted Up', celebrating the love and sacrifice of Jesus. The lyrics express deep devotion and remind the worshippers of the themes of redemption and praise. The music uplifts the spirit, inviting everyone to bow down in reverence.",
+      "keywords": ["worship", "celebration", "Christ", "sacrifice", "redemption"],
+      "performers": [],
+      "songs": ["Christ is Lifted Up"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Redeeming Love",
+      "start_time": 925,
+      "type": "music",
+      "description": "The choir beautifully performs 'Redeeming Love', echoing the profound themes of grace and sacrifice in Jesus' actions. The emotional delivery fosters a reflective atmosphere as the congregation engages, contemplating the enormity of God's love. This musical piece serves as a powerful reminder of salvation.",
+      "keywords": ["choir", "redeeming", "love", "grace", "worship"],
+      "performers": ["Choir"],
+      "songs": ["Redeeming Love"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Light of the World",
+      "start_time": 1146,
+      "type": "music",
+      "description": "In a moving solo performance of 'Light of the World', the singer captivates the congregation. This song highlights the journey of Jesus and emphasizes the hope He brings. The heartfelt rendition compels the audience to reflect on their relationship with Christ and His illuminating presence in their lives.",
+      "keywords": ["solo", "Jesus", "light", "hope", "worship"],
+      "performers": [],
+      "songs": ["Light of the World"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Resurrection Story (Matthew 28)",
+      "start_time": 1154,
+      "type": "sermon",
+      "description": "The message focuses on the powerful narrative of the resurrection of Jesus Christ. Through various scenes from the Gospels, the speaker illustrates the significance of the resurrection for believers today. Emphasizing themes of hope, renewal, and the message that Christ is alive, the sermon invites reflection on personal faith.",
+      "keywords": ["resurrection", "hope", "renewal", "Christ", "belief"],
+      "performers": ["Student Ministry Pastor"],
+      "songs": [],
+      "scripture_references": ["Matthew 28"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1306,
+      "type": "prayer",
+      "description": "The pastor leads the congregation in an opening prayer, inviting God's presence into the service. Emphasizing humility and the need for guidance, the prayer sets a tone of reverence and anticipation for worship. It seeks to unify the hearts of those present as they prepare to celebrate.",
+      "keywords": ["prayer", "humility", "worship", "unity", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Matthew 26",
+      "start_time": 1988,
+      "type": "scripture",
+      "description": "The reading from the Gospel of Matthew recounts the events leading up to Jesus' betrayal and crucifixion. This scripture sets the stage for a deeper understanding of Christ's sacrifice. The congregation listens attentively as the profound implications of Jesus' actions unfold in the narrative.",
+      "keywords": ["scripture", "Matthew", "betrayal", "crucifixion", "Jesus"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 26"]
+    },
+    {
+      "title": "Congregational Hymn: Celebrate His Death and Rising",
+      "start_time": 2990,
+      "type": "music",
+      "description": "The congregation joins together in singing 'Celebrate His Death and Rising', a vibrant expression of faith and gratitude. This uplifting hymn reinforces the core message of the service, celebrating the resurrection of Jesus and the hope it brings. The joyous atmosphere encourages a collective reaffirmation of belief.",
+      "keywords": ["celebrate", "hymn", "resurrection", "faith", "joy"],
+      "performers": [],
+      "songs": ["Celebrate His Death and Rising"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3289,
+      "type": "prayer",
+      "description": "In a heartfelt closing prayer, the pastor thanks God for the service and the resurrection of Jesus. This moment encapsulates the congregation’s shared experience of worship, gratitude, and renewed faith. The prayer concludes the service with a blessing, sending everyone forth with hope.",
+      "keywords": ["prayer", "gratitude", "benediction", "worship", "hope"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

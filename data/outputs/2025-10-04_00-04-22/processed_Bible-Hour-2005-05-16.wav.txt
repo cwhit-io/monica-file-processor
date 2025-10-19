@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Upbeat Music]",
+      "start_time": 30,
+      "type": "music",
+      "description": "An energetic choir performance sets a joyful tone for the service, engaging the congregation and lifting their spirits.",
+      "keywords": ["music", "choir", "lively", "praise"],
+      "performers": ["[Choir]"],
+      "songs": ["[Upbeat Music]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 192,
+      "type": "music",
+      "description": "The choir performs a song that inspires the congregation to reflect on their faith and encourages a sense of community in worship.",
+      "keywords": ["song", "faith", "choir", "worship"],
+      "performers": ["[Choir]"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Marital Submission in Christ (1 Peter 3:1-6)",
+      "start_time": 301,
+      "type": "sermon",
+      "description": "The message focuses on the theme of submission within marriage, especially for women with unbelieving husbands, emphasizing the importance of influencing through behavior rather than words.",
+      "keywords": ["submission", "marriage", "1 Peter", "influence", "faith"],
+      "performers": ["Mitch", "Steve"],
+      "songs": [],
+      "scripture_references": ["1 Peter 3:1-6"]
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 449,
+      "type": "music",
+      "description": "The choir leads the congregation in a powerful song, inviting everyone to express their faith through heartfelt praise and worship.",
+      "keywords": ["choir", "worship", "praise", "music"],
+      "performers": ["[Choir]"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 647,
+      "type": "music",
+      "description": "A soloist shares a moving performance that resonates deeply with the congregation, encouraging personal reflection on God's presence.",
+      "keywords": ["solo", "performance", "worship", "reflection"],
+      "performers": ["[Soloist]"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 912,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, inviting the presence of the Holy Spirit into the service and asking for guidance throughout the message.",
+      "keywords": ["prayer", "opening", "guidance", "spiritual"],
+      "performers": ["Mitch"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Survey for Women",
+      "start_time": 914,
+      "type": "announcement",
+      "description": "An announcement about an upcoming survey aimed at understanding and helping the needs of women in the congregation, encouraging participation next week.",
+      "keywords": ["announcement", "survey", "women", "participation"],
+      "performers": ["Mitch", "Steve"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3560,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, asking for strength and guidance for the congregation to live out the message shared during the sermon.",
+      "keywords": ["prayer", "closing", "guidance", "strength"],
+      "performers": ["Mitch"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

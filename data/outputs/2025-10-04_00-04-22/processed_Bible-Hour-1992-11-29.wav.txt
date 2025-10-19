@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Glorious Church",
+      "start_time": 93,
+      "type": "music",
+      "description": "The sanctuary choir performs a beautiful piece that reflects the themes of faith and the enduring nature of the church. The lyrics emphasize the church's resilience and support from divine love. Soloists Michelle Smackens and Kevin Rowe, along with Bev Bronkey, contribute to a moving worship experience.",
+      "keywords": ["choir", "faith", "glorious church", "love", "worship"],
+      "performers": ["Sanctuary Choir", "Michelle Smackens", "Kevin Rowe", "Bev Bronkey"],
+      "songs": ["Glorious Church"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Living Christmas Tree Event",
+      "start_time": 360,
+      "type": "announcement",
+      "description": "Peter Coby discusses the upcoming Living Christmas Tree event, a significant annual church performance. He shares insights into the preparation and the impact it has on the community, highlighting the gospel message conveyed through the music and performances.",
+      "keywords": ["Christmas", "event", "Peter Coby", "community", "gospel"],
+      "performers": ["Peter Coby"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Compromising Church (Revelation 2:12-17)",
+      "start_time": 988,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a powerful sermon focusing on the church in Pergamum. He explores the dangers of compromising faith through subtle sins and the importance of maintaining spiritual integrity. Using biblical references, he highlights the need for repentance and faithfulness amidst external pressures.",
+      "keywords": ["Revelation", "Pergamum", "faith", "sin", "repentance"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 2:12-17"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3388,
+      "type": "prayer",
+      "description": "In the closing prayer, the congregation unites to thank God for the worship experience and the teachings received. Pastor Moore encourages everyone to reflect on their walk with Christ and to seek strength in their faith as they face daily challenges.",
+      "keywords": ["closing", "prayer", "congregation", "thanksgiving", "strength"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Glorious Church (Reprise)",
+      "start_time": 3410,
+      "type": "music",
+      "description": "The choir performs a reprise of the earlier song, reinforcing the themes of divine love and steadfastness of the church community. This uplifting piece serves as a beautiful conclusion to the service, leaving the congregation inspired.",
+      "keywords": ["choir", "reprise", "worship", "community", "inspiration"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Glorious Church"],
+      "scripture_references": []
+    }
+  ]
+}
+```

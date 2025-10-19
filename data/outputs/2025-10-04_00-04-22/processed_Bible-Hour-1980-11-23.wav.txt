@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Take My Life",
+      "start_time": 51,
+      "type": "music",
+      "description": "The sanctuary choir leads the congregation in a heartfelt performance of 'Take My Life,' inviting everyone to reflect on the meaning of total commitment to God. The song encapsulates themes of dedication and stewardship.",
+      "keywords": ["choir", "Take My Life", "commitment", "stewardship", "worship"],
+      "performers": ["Don Kruger"],
+      "songs": ["Take My Life"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown Title]",
+      "start_time": 276,
+      "type": "music",
+      "description": "Keith Brodigam performs a touching solo that emphasizes reconciliation and love, echoing the message of compassion and connection with God's presence in our lives.",
+      "keywords": ["Keith Brodigam", "solo", "reconciliation", "love", "compassion"],
+      "performers": ["Keith Brodigam"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Is It Any Wonder?",
+      "start_time": 1056,
+      "type": "music",
+      "description": "Starr shares an emotional solo titled 'Is It Any Wonder?' which reflects on God's love and deliverance. The lyrics resonate deeply, inspiring attendees to appreciate the depth of Christ's sacrifice.",
+      "keywords": ["Starr", "Is It Any Wonder", "God's love", "sacrifice", "redemption"],
+      "performers": ["Starr"],
+      "songs": ["Is It Any Wonder"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Stewardship (Philippians 4:10-19)",
+      "start_time": 1321,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers a profound message from Philippians 4, teaching about stewardship and the importance of giving. He emphasizes that true giving comes from a heart transformed by God's provision and highlights how God meets our needs through faithfulness and community support.",
+      "keywords": ["stewardship", "giving", "Philippians", "Pastor David Jeremiah", "faith"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Philippians 4:10-19"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1430,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, thanking God for His Word and asking for guidance as the congregation embarks on a journey of learning about stewardship and commitment.",
+      "keywords": ["prayer", "opening", "God", "guidance", "stewardship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3355,
+      "type": "prayer",
+      "description": "The service concludes with a powerful closing prayer, reinforcing the themes discussed during the sermon and encouraging attendees to take their newfound understanding of stewardship into their daily lives.",
+      "keywords": ["prayer", "closing", "thankfulness", "commitment", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Missionary Project",
+      "start_time": 701,
+      "type": "announcement",
+      "description": "The congregation is informed about a missionary project supporting Dan Smith along the Amazon River. The announcement highlights the need for scripture copies in small villages, encouraging involvement and support.",
+      "keywords": ["announcement", "missionary", "scripture", "Amazon River", "village"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

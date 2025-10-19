@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Heart of Worship",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir leads the congregation in worship through the song 'Heart of Worship'. This piece emphasizes the theme of returning to authentic worship focused solely on Jesus, expressing the centrality of His presence in our lives. The heartfelt lyrics remind us of the importance of sincerity in our relationship with God.",
+      "keywords": ["worship", "Jesus", "choir", "songs", "spirit"],
+      "performers": ["Choir"],
+      "songs": ["Heart of Worship"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Presence is Heaven",
+      "start_time": 161,
+      "type": "music",
+      "description": "Continuing in a spirit of worship, the choir performs 'Your Presence is Heaven'. This piece highlights the joy and peace found in God's presence, reminding the congregation of His constant faithfulness. The lyrics serve as a reflection on the hope and solace that comes from a deep relationship with the Divine.",
+      "keywords": ["worship", "presence", "heaven", "choir", "faith"],
+      "performers": ["Choir"],
+      "songs": ["Your Presence is Heaven"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: My Hope is Built",
+      "start_time": 445,
+      "type": "music",
+      "description": "The choir sings 'My Hope is Built', a powerful hymn that affirms faith in Jesus as the cornerstone of hope. The lyrics portray a deep reliance on God's righteousness, serving as a reminder of His unwavering support in times of trouble. The congregation is encouraged to trust in God's promises and grace.",
+      "keywords": ["hope", "faith", "hymn", "Jesus", "choir"],
+      "performers": ["Choir"],
+      "songs": ["My Hope is Built"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Give Me Jesus",
+      "start_time": 696,
+      "type": "music",
+      "description": "The congregation passionately sings 'Give Me Jesus'. This hymn expresses a desire for a true connection with Christ above all earthly things. The repetition of the chorus reinforces a commitment to prioritizing faith and devotion to Jesus, ultimately inviting worshippers to reflect on their deepest spiritual desires.",
+      "keywords": ["Jesus", "congregation", "hymn", "worship", "devotion"],
+      "performers": ["Congregation"],
+      "songs": ["Give Me Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Exodus 32",
+      "start_time": 946,
+      "type": "scripture",
+      "description": "A scripture reading from Exodus 32 recounts the story of the Israelites creating a golden calf while Moses was on Mount Sinai. This passage reveals themes of impatience, idolatry, and God's covenant with His people, setting the stage for deeper reflection on faithfulness and divine mercy.",
+      "keywords": ["Exodus", "idolatry", "golden calf", "Israelites", "scripture"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Exodus 32"]
+    },
+    {
+      "title": "Message: Idolatry and Intercession (Exodus 32)",
+      "start_time": 1103,
+      "type": "sermon",
+      "description": "In this impactful sermon, the speaker explores idolatry through the lens of Exodus 32, emphasizing the dangers of spiritual unfaithfulness and the necessity of intercession. The message urges believers to examine their lives for modern idols, highlighting Moses’ role as an intercessor and encouraging the congregation to remain committed to the one true God.",
+      "keywords": ["idolatry", "intercession", "Moses", "Exodus", "worship"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Exodus 32"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3266,
+      "type": "prayer",
+      "description": "A closing prayer is offered, thanking God for His guidance and asking for strength to resist idolatry. The congregation is encouraged to seek repentance and maintain their devotion to Jesus Christ. This heartfelt petition reinforces the themes of the service, promoting ongoing reflection and commitment to faith.",
+      "keywords": ["prayer", "closing", "worship", "reflection", "commitment"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: No Other Gods Before Him",
+      "start_time": 3311,
+      "type": "music",
+      "description": "The service concludes with the choir singing 'No Other Gods Before Him'. This song celebrates the supremacy of Jesus and serves as a powerful reminder to keep God first in all aspects of life. The engaging lyrics inspire the congregation to cast aside all distractions and focus solely on their faith.",
+      "keywords": ["worship", "Jesus", "choir", "supremacy", "faith"],
+      "performers": ["Choir"],
+      "songs": ["No Other Gods Before Him"],
+      "scripture_references": []
+    }
+  ]
+}
+```

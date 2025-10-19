@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Upbeat Rock Music",
+      "start_time": 30,
+      "type": "music",
+      "description": "The service begins with an upbeat rock music, setting an energetic tone as it transitions into powerful messages from Jesus. The music reflects themes of authority and mission, encouraging the congregation to gather as one.",
+      "keywords": ["music", "upbeat", "worship", "community", "gathering"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Open the Eyes of My Heart",
+      "start_time": 99,
+      "type": "music",
+      "description": "The choir leads the congregation in the song 'Open the Eyes of My Heart.' This worship moment invites attendees to engage in heartfelt worship, reflecting a desire for deeper spiritual connection and understanding.",
+      "keywords": ["worship", "song", "heart", "eyes", "connection"],
+      "performers": ["[]"],
+      "songs": ["Open the Eyes of My Heart"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Lord, I Give You My Heart",
+      "start_time": 684,
+      "type": "music",
+      "description": "A solo performance of 'Lord, I Give You My Heart' emphasizes personal devotion and commitment to God. The lyrics express a deep longing for a relationship with the Lord, inviting the congregation to reflect on their personal faith journeys.",
+      "keywords": ["devotion", "heart", "commitment", "reflection", "faith"],
+      "performers": ["[]"],
+      "songs": ["Lord, I Give You My Heart"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Sins of Summer (Romans 3:23)",
+      "start_time": 963,
+      "type": "sermon",
+      "description": "The sermon tackles the theme of 'The Sins of Summer,' addressing unique challenges that emerge during the summer months. The speaker emphasizes awareness of temptations that may arise due to altered schedules and invites the congregation to seek guidance from scripture to overcome these struggles.",
+      "keywords": ["sin", "summer", "temptation", "guidance", "scripture"],
+      "performers": ["Kelly Bird", "Steve", "Mitch"],
+      "songs": ["[]"],
+      "scripture_references": ["Romans 3:23"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3414,
+      "type": "prayer",
+      "description": "The opening prayer highlights gratitude for the gathering and the importance of community support. It seeks guidance from God for strength as the congregation faces the temptations discussed in the sermon, and it encourages individuals to seek help when needed.",
+      "keywords": ["prayer", "community", "guidance", "strength", "support"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3534,
+      "type": "prayer",
+      "description": "The closing prayer reaffirms the themes of the service, thanking God for His guidance and hope. It encourages the congregation to remain steadfast in faith, fostering the intention to return next week for continued growth and teaching.",
+      "keywords": ["prayer", "thanksgiving", "faith", "growth", "teaching"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Upbeat Rock Music (reprise)",
+      "start_time": 3564,
+      "type": "music",
+      "description": "A reprise of the upbeat rock music closes out the service, reinforcing the joyful atmosphere and uplifting spirit of the congregation. This musical conclusion brings a sense of celebration, encouraging all to live out their faith.",
+      "keywords": ["music", "celebration", "joy", "worship", "community"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

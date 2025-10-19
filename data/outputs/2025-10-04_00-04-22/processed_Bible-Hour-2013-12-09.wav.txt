@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Secret Meeting",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a lively performance by the choir. The atmosphere is filled with energy as the children express their mission through song, setting a playful tone for the gathering. They sing about a secret meeting, activating their Christmas intelligence to spread joy and cheer.",
+      "keywords": ["choir", "secret", "meeting", "Christmas", "joy"],
+      "performers": ["Children's Choir"],
+      "songs": ["Secret Meeting"],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: Christmas Intelligence Kids",
+      "start_time": 186,
+      "type": "drama",
+      "description": "The dramatic segment unfolds as the Christmas Intelligence Kids gather for a briefing about their mission. Led by Commanders and their agents, the children navigate unexpected challenges and hilariously inventive gadgets, while learning about teamwork and trust in their quest to spread Christmas cheer.",
+      "keywords": ["Christmas", "drama", "teamwork", "children", "mission"],
+      "performers": ["Various"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Emmanuel",
+      "start_time": 381,
+      "type": "music",
+      "description": "The choir performs a moving song titled 'Emmanuel,' celebrating the arrival of Christ. The lyrics convey a message of hope and the divine presence that Jesus brings into the world. This performance inspires the congregation to reflect on the true meaning of Christmas.",
+      "keywords": ["choir", "Emmanuel", "hope", "Christmas", "joy"],
+      "performers": ["Children's Choir"],
+      "songs": ["Emmanuel"],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: Mission Accomplished",
+      "start_time": 532,
+      "type": "drama",
+      "description": "The drama progresses with the Children's Intelligence Kids on a mission at a local warehouse. They uncover true intentions behind the mysterious packages and manage to bless families in the community, demonstrating the value of selflessness during Christmastime.",
+      "keywords": ["mission", "community", "Christmas", "intelligence", "kids"],
+      "performers": ["Various"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: O Come, Let Us Adore Him",
+      "start_time": 1751,
+      "type": "music",
+      "description": "The congregation joins in singing 'O Come, Let Us Adore Him,' creating a heartfelt atmosphere of worship. This beloved hymn invites everyone to remember the significance of Christ’s birth and to express their adoration and gratitude as a community.",
+      "keywords": ["Congregational", "hymn", "worship", "Christmas", "adoration"],
+      "performers": [],
+      "songs": ["O Come, Let Us Adore Him"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Living Miraculously During Christmas (Luke 1:38-47)",
+      "start_time": 2593,
+      "type": "sermon",
+      "description": "The sermon emphasizes how the reality of Christmas should influence our daily lives, encouraging the congregation to live miraculously, joyfully, and obediently. Drawing from the story of Mary, the pastor outlines ways in which individuals can embrace these qualities during the Christmas season.",
+      "keywords": ["sermon", "Christmas", "joy", "obedience", "miraculous"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Luke 1:38-47"]
+    },
+    {
+      "title": "Choir: Good News",
+      "start_time": 3417,
+      "type": "music",
+      "description": "The choir presents a powerful song, 'Good News,' emphasizing the hope and joy that Christmas brings. Their enthusiastic performance uplifts the congregation, encouraging everyone to share the good news of Christ's birth with others.",
+      "keywords": ["good news", "choir", "hope", "Christmas", "joy"],
+      "performers": ["Children's Choir"],
+      "songs": ["Good News"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2523,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer, inviting God’s blessing over the congregation and the community during the Christmas season. The pastor encourages everyone to carry the spirit of Christmas into their interactions and lives.",
+      "keywords": ["prayer", "closing", "Christmas", "blessing", "community"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

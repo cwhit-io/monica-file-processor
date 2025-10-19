@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with uplifting music and bells ringing, setting a joyful tone for the gathering. This upbeat atmosphere encourages the congregation to engage fully in the worship experience.",
+      "keywords": ["worship", "music", "uplifting", "joy", "service"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 691,
+      "type": "prayer",
+      "description": "The pastor leads the congregation in an opening prayer, asking for God's guidance and blessing over the service. This moment emphasizes the importance of starting the service with a heart of worship and dependence on God.",
+      "keywords": ["prayer", "opening", "worship", "guidance", "blessing"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Living Stones (1 Peter 2:4-5)",
+      "start_time": 1785,
+      "type": "sermon",
+      "description": "In this extended sermon, Pastor Kelly Bird discusses the concept of being 'living stones' in Christ. He explores how believers connect with God and others through service, emphasizing the biblical call to love God and serve people. He encourages the congregation to recognize their identity in Christ and fulfill their mission in the world.",
+      "keywords": ["sermon", "identity", "service", "living stones", "Christ"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["1 Peter 2:4-5", "Matthew 28:16-20"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3531,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Kelly Bird. The prayer focuses on asking God to help the congregation be living stones in their communities and to guide them to serve those in need.",
+      "keywords": ["prayer", "closing", "guidance", "service", "community"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

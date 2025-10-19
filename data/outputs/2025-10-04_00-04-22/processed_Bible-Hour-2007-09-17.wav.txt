@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting the congregation to focus their hearts and minds on God. The pastor sets a tone of reverence and gratitude as they prepare for a time of worship and teaching. This prayer emphasizes the importance of seeking God's guidance and presence during the service.",
+      "keywords": ["opening", "prayer", "worship", "guidance", "focus"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: A Reliable Source (1 John 1:1-4)",
+      "start_time": 485,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird dives into the teaching of 1 John, emphasizing the reliability of the Apostle John as a witness to Christ's life and teachings. He explores doubts about faith and the importance of John's firsthand experiences, calling on the congregation to find confidence in the physical reality of Jesus’ incarnation. This sermon encourages believers to deepen their understanding and trust in their faith.",
+      "keywords": ["sermon", "1 John", "reliable", "witness", "faith"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["1 John 1:1-4"]
+    },
+    {
+      "title": "Choir: The Look of Him Who Died",
+      "start_time": 232,
+      "type": "music",
+      "description": "The choir performs a poignant piece reflecting on the crucifixion of Christ. The song captures themes of grace, redemption, and the deep emotional impact of Jesus' sacrifice. The congregation is led in worship, expressing gratitude for the life-changing power of Christ's death.",
+      "keywords": ["choir", "crucifixion", "grace", "redemption", "sacrifice"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["The Look of Him Who Died"],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: Interview: Sharing Life Experiences",
+      "start_time": 927,
+      "type": "drama",
+      "description": "An engaging interview segment features Keith Moore, reflecting on his life's journey and experiences. He shares personal stories highlighting faith, resilience, and God's guidance throughout his life and ministry. This testimony enriches the congregation's understanding of living a life of faith in action.",
+      "keywords": ["testimony", "life experiences", "faith", "interview", "Keith Moore"],
+      "performers": ["Kelly Bird", "Keith Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2750,
+      "type": "prayer",
+      "description": "An invitation prayer follows, encouraging those present to respond to God’s message and receive prayer for their personal journeys. The pastor leads this prayer with a heartfelt appeal for spiritual openness and commitment among the congregation. It's a moment of reflection, inviting transformation and deeper faith.",
+      "keywords": ["invitation", "prayer", "commitment", "reflection", "faith"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Praise to the Lord, the Almighty",
+      "start_time": 3508,
+      "type": "music",
+      "description": "The congregation joins together in a spirited hymn, praising God’s power and majesty. This communal worship moment fosters a deep sense of unity and joy among attendees, reinforcing the themes of gratitude and reverence highlighted throughout the service.",
+      "keywords": ["congregational", "hymn", "praise", "worship", "unity"],
+      "performers": ["Congregation"],
+      "songs": ["Praise to the Lord, the Almighty"],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Jesus Paid It All",
+      "start_time": 59,
+      "type": "music",
+      "description": "The choir delivers a beautiful rendition of the classic hymn 'Jesus Paid It All', emphasizing the transformational power of the blood of Jesus in redeeming humanity. This song carries themes of redemption and thanksgiving, drawing congregants into a moment of heartfelt worship.",
+      "keywords": ["choir", "Jesus", "hymn", "redemption", "worship"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Jesus Paid It All"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: In Shady Green Pastures",
+      "start_time": 366,
+      "type": "music",
+      "description": "Pastor Krueger sings 'In Shady Green Pastures', which beautifully complements the message of God as our shepherd. The congregation is invited to reflect on their relationship with Jesus, the gentle guide through life's struggles.",
+      "keywords": ["solo", "shepherd", "song", "Jesus", "comfort"],
+      "performers": ["Pastor Krueger"],
+      "songs": ["In Shady Green Pastures"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Try Jesus",
+      "start_time": 1080,
+      "type": "music",
+      "description": "The congregation joins in singing 'Try Jesus', creating an atmosphere of invitation and heartfelt worship. This lively song encourages believers and seekers alike to experience the transformative touch of Jesus in their lives.",
+      "keywords": ["congregational","hymn","worship","invitation","Jesus"],
+      "performers": [],
+      "songs": ["Try Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: John 14:1-6",
+      "start_time": 1305,
+      "type": "scripture",
+      "description": "The congregation stands and recites together the powerful verses from John 14:1-6. This reading serves as a foundation for the sermon, highlighting Jesus' declaration of being the way, truth, and life.",
+      "keywords": ["John","scripture","reading","Jesus","faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["John 14:1-6"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1403,
+      "type": "prayer",
+      "description": "Pastor David Jeremiah leads an opening prayer, expressing gratitude for God's word and asking for open hearts to receive the message. The prayer sets a spiritual tone for the service, inviting God's presence among the congregation.",
+      "keywords": ["prayer","opening","God","service","message"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Jesus is the Only Way (John 14:1-6)",
+      "start_time": 1511,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers a compelling sermon that tackles one of the most critical questions of faith: Is Jesus the only way to God? Drawing from John 14, he emphasizes the exclusive nature of Christ's claim, highlighting themes of reconciliation, truth, and eternal life available only through Jesus. The message is rich with theological insights, aimed at reassuring believers and challenging seekers.",
+      "keywords": ["sermon","Jesus","way","truth","life","faith","spiritual"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["John 14:1-6"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3429,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Jeremiah, where he invites the congregation to accept Jesus into their lives. The prayer symbolizes a commitment to live in the light of God's truth and applies the sermon’s message to everyday life.",
+      "keywords": ["closing","prayer","invitation","Jesus","commitment"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

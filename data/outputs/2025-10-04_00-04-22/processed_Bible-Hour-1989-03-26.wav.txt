@@ -1,0 +1,96 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Hymn 215",
+      "start_time": 270,
+      "type": "music",
+      "description": "The choir leads the congregation in Hymn 215, celebrating the resurrection of Jesus Christ. The atmosphere is filled with joy and reverence as worshippers engage in heartfelt singing, uniting in praise for the risen Savior on this special Easter Sunday.",
+      "keywords": ["choir", "hymn", "resurrection", "celebration", "Easter"],
+      "performers": ["Choir"],
+      "songs": ["Hymn 215"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 682,
+      "type": "prayer",
+      "description": "Led by the pastor, the Opening Prayer acknowledges God's creation and the gift of salvation through Jesus Christ. A spirit of gratitude fills the congregation as they collectively express their love and thankfulness, especially in recognition of the resurrection on Easter morning.",
+      "keywords": ["prayer", "Thanksgiving", "Easter", "community", "worship"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Jerusalem",
+      "start_time": 769,
+      "type": "music",
+      "description": "The choir performs 'Jerusalem,' a powerful and evocative piece that recalls the events surrounding Christ’s resurrection. The lyrics reflect the joy and sadness of the scene, inviting worshippers to meditate on the triumph of Jesus over death.",
+      "keywords": ["choir", "Jerusalem", "resurrection", "worship", "hymn"],
+      "performers": ["Choir"],
+      "songs": ["Jerusalem"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Forever King",
+      "start_time": 1150,
+      "type": "music",
+      "description": "A solo performance of 'Forever King' captivates the audience, celebrating the eternal nature of Christ. The powerful lyrics emphasize Jesus as the foundation and strength of faith, stirring hearts to acknowledge His sovereignty and love.",
+      "keywords": ["solo", "worship", "faith", "Jesus", "song"],
+      "performers": ["Keith Brodigam"],
+      "songs": ["Forever King"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Were You There?",
+      "start_time": 1993,
+      "type": "music",
+      "description": "The choir's rendition of 'Were You There?' evokes deep emotion as it reflects on the crucifixion and resurrection of Jesus. The congregation is invited to contemplate the profound significance of these events in their spiritual lives.",
+      "keywords": ["choir", "Easter", "reflection", "song", "faith"],
+      "performers": ["Choir"],
+      "songs": ["Were You There?"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Matthew 28",
+      "start_time": 2045,
+      "type": "scripture",
+      "description": "The pastor reads from Matthew 28, recounting the resurrection of Jesus. This scripture sets the foundation for the day's message, highlighting key moments when the women encountered the risen Lord and were instructed to share the good news.",
+      "keywords": ["Matthew", "resurrection", "scripture", "Easter", "Bible"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Matthew 28:1-10"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2189,
+      "type": "prayer",
+      "description": "The Invitation Prayer is a heartfelt plea for forgiveness and spiritual renewal. The congregation is encouraged to reflect on their own heart, acknowledging their need for Christ's love and salvation, especially during this Easter season.",
+      "keywords": ["prayer", "invitation", "forgiveness", "Easter", "salvation"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Raised to Rescue Us (1 Thessalonians 1)",
+      "start_time": 2270,
+      "type": "sermon",
+      "description": "In the sermon, the pastor explores the theme of resurrection through the lens of 1 Thessalonians, emphasizing Jesus as the risen, returning, and reigning Lord. The message outlines the significance of the resurrection for believers, offering hope, purpose, and assurance of eternal life.",
+      "keywords": ["sermon", "resurrection", "1 Thessalonians", "Jesus", "hope"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Thessalonians 1:9-10"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3528,
+      "type": "prayer",
+      "description": "The Closing Prayer brings the service to a reflective conclusion, inviting God’s guidance and blessings on the congregation. It focuses on the takeaway from the day’s message, reinforcing the importance of living in the light of Christ's resurrection.",
+      "keywords": ["closing prayer", "blessing", "guidance", "reflection", "worship"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

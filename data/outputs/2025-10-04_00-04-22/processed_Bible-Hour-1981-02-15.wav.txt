@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: About the Cross of Christ",
+      "start_time": 79,
+      "type": "music",
+      "description": "The choir begins the service with a powerful song focusing on the theme of the cross of Christ. This musical piece sets the tone for the worship service, reminding attendees of the significance of Jesus's sacrifice. The heartfelt performance aims to uplift and prepare the congregation's hearts for worship.",
+      "keywords": ["choir", "cross", "worship", "sacrifice", "music"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["About the Cross of Christ"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Team Peterson's Song",
+      "start_time": 1109,
+      "type": "music",
+      "description": "The Petersons perform a solo piece that contributes to the worship atmosphere. Their performance captivates the audience, engaging them further in the worship experience. It emphasizes themes of faith and dedication.",
+      "keywords": ["solo", "worship", "faith", "music", "Petersons"],
+      "performers": ["The Petersons"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: John 9",
+      "start_time": 1262,
+      "type": "scripture",
+      "description": "The congregation participates in a collective reading of John chapter 9. This scripture focuses on Jesus's healing of a man born blind, highlighting the miraculous works of Christ. This reading acts as an essential prelude to the sermon, establishing the biblical context for the message that follows.",
+      "keywords": ["John", "scripture", "healing", "blindness", "miracle"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["John 9"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1407,
+      "type": "prayer",
+      "description": "The opening prayer invites God's presence and guidance during the service. It expresses a desire for understanding and application of His Word. The prayer allows congregants to prepare their hearts for the message ahead.",
+      "keywords": ["prayer", "worship", "guidance", "congregation", "God"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Blind Man (John 9)",
+      "start_time": 1471,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers an insightful sermon based on John 9, where Jesus heals a blind man. The message explores themes of spiritual blindness versus physical blindness, the nature of suffering, and God's role in our lives. Pastor Jeremiah emphasizes that suffering is not always the result of personal sin and illustrates how God can be glorified through our struggles.",
+      "keywords": ["sermon", "blindness", "faith", "suffering", "spiritual healing"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["John 9"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3362,
+      "type": "prayer",
+      "description": "The invitation prayer encourages individuals to acknowledge their spiritual blindness and seek Jesus for healing. It emphasizes the importance of accepting Christ as the only way to find forgiveness and clarity. This prayer serves as a pivotal moment for personal reflection and decision-making.",
+      "keywords": ["invitation", "prayer", "spiritual healing", "acceptance", "Jesus"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Program Feedback",
+      "start_time": 3418,
+      "type": "announcement",
+      "description": "Pastor Jeremiah addresses the audience regarding feedback on the program and encourages listeners to share their decisions regarding their faith. This announcement stresses the importance of personal testimonies and connection within the church community, allowing for engagement beyond the service.",
+      "keywords": ["announcement", "feedback", "testimony", "community", "faith"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Resource Offering",
+      "start_time": 3423,
+      "type": "announcement",
+      "description": "The pastor offers various resources for further spiritual growth, encouraging attendees to reach out for additional materials that will aid their journey with Christ. This serves to reinforce the church's commitment to support personal development in faith.",
+      "keywords": ["resources", "offering", "spiritual growth", "church", "support"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

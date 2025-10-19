@@ -1,0 +1,54 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 22,
+      "type": "music",
+      "description": "The service opens with a joyful choir performance, inviting the congregation to engage in the spirit of worship. The music reflects the joyful anticipation of Advent, celebrating the coming of Christ.",
+      "keywords": ["choir", "worship", "Advent", "joy", "celebration"],
+      "performers": ["The Choir"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Song Title]",
+      "start_time": 941,
+      "type": "music",
+      "description": "During the continuation of worship, the congregation participates in singing a beloved carol. The hymn resonates with themes of hope and reverence for the birth of Jesus, inviting all to reflect on His love.",
+      "keywords": ["congregational", "hymn", "worship", "hope", "Jesus"],
+      "performers": ["Congregation"],
+      "songs": ["What Child Is This"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 1259,
+      "type": "music",
+      "description": "A solo musical presentation by Star, expressing the essence of the Christmas season through song. The performance beautifully encapsulates the love of Jesus, engaging the congregation’s hearts in worship.",
+      "keywords": ["solo", "Star", "Christmas", "worship", "love"],
+      "performers": ["Star"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Epiphany (Titus 2:11-14)",
+      "start_time": 899,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers a thought-provoking sermon on the significance of the Epiphany as it relates to the birth and future return of Jesus Christ. He explores the meaning of grace, urging believers to embody this grace in their lives through good works, sound doctrine, and a disciplined life.",
+      "keywords": ["Epiphany", "grace", "good works", "discipline", "Titus"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Titus 2:11-14"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3549,
+      "type": "prayer",
+      "description": "The service ends with a heartfelt invitation prayer, encouraging those present to accept Christ's grace and embrace His message of love. It serves as a moment of reflection and commitment for attendees.",
+      "keywords": ["invitation", "prayer", "commitment", "grace", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

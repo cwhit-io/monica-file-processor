@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Jesus Is Coming Again",
+      "start_time": 133,
+      "type": "music",
+      "description": "The choir leads the congregation in a stirring rendition of 'Jesus Is Coming Again.' The song emphasizes hope and the anticipation of reunion in heaven, uplifting the spirits of those gathered. This part of the service sets a tone of expectation and joy as the congregation prepares for worship.",
+      "keywords": ["choir", "Jesus", "coming", "hope", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Jesus Is Coming Again"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Get Up, Get Ready",
+      "start_time": 299,
+      "type": "music",
+      "description": "The choir continues with 'Get Up, Get Ready,' a joyful and spirited song that encourages the congregation to prepare for the coming of the Lord. The energetic performance resonates with themes of readiness and divine presence, portraying a vivid picture of anticipation for eternal life.",
+      "keywords": ["choir", "ready", "spirit", "worship", "anticipation"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Get Up, Get Ready"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Patriotic Panorama Event",
+      "start_time": 478,
+      "type": "announcement",
+      "description": "An announcement highlights the upcoming annual Patriotic Panorama event, a cherished tradition at Black Hawk Baptist Church. This special program is designed to celebrate America through song and thanksgiving, inviting the community to join in a meaningful and festive gathering.",
+      "keywords": ["event", "Patriotic Panorama", "community", "celebration", "Black Hawk"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: In This Quiet Place",
+      "start_time": 860,
+      "type": "music",
+      "description": "Soloist Laurie Shimon performs 'In This Quiet Place,' a heartfelt song that reflects personal devotion and intimacy with God. The lyrics resonate with themes of surrender and faith, drawing the congregation into a space of meditation and worship.",
+      "keywords": ["solo", "worship", "intimacy", "devotion", "faith"],
+      "performers": ["Laurie Shimon"],
+      "songs": ["In This Quiet Place"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Revelation 17",
+      "start_time": 1070,
+      "type": "scripture",
+      "description": "The pastor invites the congregation to turn to Revelation chapter 17 for the scripture reading. This passage sets the stage for the sermon, introducing key themes of judgment and the final end of false religious systems. The reading underscores the importance of understanding God's perspective on these issues.",
+      "keywords": ["scripture", "Revelation", "judgment", "false religions", "teaching"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Revelation 17"]
+    },
+    {
+      "title": "Message: The Great Harlot (Revelation 17)",
+      "start_time": 1081,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a powerful message on Revelation 17, titled 'The Great Harlot.' He explains the chapter's depiction of false religious systems and the implications for believers today. Emphasizing spiritual fidelity, the pastor urges the congregation to recognize the dangers of spiritual immorality and remain devoted to God.",
+      "keywords": ["sermon", "Revelation", "spirituality", "dedication", "teaching"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 17:1-6"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3396,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, inviting the congregation to reflect on the message delivered and encouraging them to seek a deeper relationship with God. The prayer expresses gratitude for salvation and a commitment to spread the gospel to others.",
+      "keywords": ["prayer", "closing", "reflection", "community", "gratitude"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Christmas Celebration",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir opens the service with a joyous Christmas song celebrating the birth of Christ. The lyrics invite worship and praise, encouraging everyone to rejoice and sing with joy. The performance includes a variety of heartfelt expressions of gratitude and excitement for the season.",
+      "keywords": ["Christmas", "worship", "joy", "choir", "celebration"],
+      "performers": ["Unknown"],
+      "songs": ["Christmas Celebration"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Magnify the Lord",
+      "start_time": 356,
+      "type": "music",
+      "description": "The choir continues with a powerful rendition of 'My Soul Magnifies the Lord,' expressing deep gratitude for God's great deeds. The song reflects themes of reverence and thanksgiving, inviting all to share in its uplifting message of praise for God’s faithfulness and goodness.",
+      "keywords": ["magnify", "Lord", "worship", "thanksgiving", "choir"],
+      "performers": ["Unknown"],
+      "songs": ["My Soul Magnifies the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 503,
+      "type": "announcement",
+      "description": "The speaker shares exciting news about upcoming Christmas events, including a unique musical presentation called 'The Prodigal Christmas,' scheduled for two performances. They also invite attendees to join special Christmas Eve and Christmas Day family services, emphasizing community and celebration.",
+      "keywords": ["Christmas", "events", "Prodigal Christmas", "services", "community"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Tithing Journey",
+      "start_time": 927,
+      "type": "testimony",
+      "description": "Tate shares his personal story of discovering the joy of tithing 10%. He describes the initial struggle and ultimate peace that comes with trusting God in their finances. Tate reveals how his family experienced unexpected blessings through their commitment to giving.",
+      "keywords": ["tithing", "testimony", "blessing", "faith", "trust"],
+      "performers": ["Tate"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Living in Light of Eternity (1 Timothy 6)",
+      "start_time": 1385,
+      "type": "sermon",
+      "description": "Pastor Kevin teaches on the importance of living with eternity in mind, based on 1 Timothy 6. He emphasizes trust as the foundation of generosity and explains how true life is found in living for what comes after this life. The sermon challenges the congregation to let go of material wealth and prioritize spiritual riches.",
+      "keywords": ["eternity", "trust", "generosity", "faith", "1 Timothy"],
+      "performers": ["Kevin"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 6"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3275,
+      "type": "prayer",
+      "description": "In an invitation prayer, Pastor Kevin invites those who feel a call to deeper faith to surrender to Christ. He passionately encourages individuals to open their hearts and accept Jesus, creating a moment of reflection and decision for many attendees.",
+      "keywords": ["prayer", "invitation", "faith", "surrender", "Jesus"],
+      "performers": ["Kevin"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "closing prayer: Final Blessing",
+      "start_time": 3429,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer where Pastor Kevin blesses the congregation. He asks for God's guidance and peace as they move forward into their week, encouraging everyone to embrace their faith actively.",
+      "keywords": ["prayer", "blessing", "peace", "faith", "community"],
+      "performers": ["Kevin"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

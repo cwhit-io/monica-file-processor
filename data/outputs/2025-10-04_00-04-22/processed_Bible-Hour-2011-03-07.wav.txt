@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: This Is My Prayer",
+      "start_time": 175,
+      "type": "music",
+      "description": "The choir leads the congregation in a powerful worship piece that reflects deep faith and reliance on God's promises. The lyrics express heartfelt prayers during various life challenges, emphasizing God's provision and victory in all circumstances. It serves as a reminder to trust in God's plan through the highs and lows of life.",
+      "keywords": ["worship", "prayer", "choir", "faith", "victory"],
+      "performers": ["Corbin and team"],
+      "songs": ["This Is My Prayer"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Various Seasons",
+      "start_time": 846,
+      "type": "music",
+      "description": "The congregation joins the choir in singing about God's unwavering presence in every season of life, reiterating a message of hope and continuity in faith. The combined voices uplift the atmosphere with praise as they reflect on God's faithfulness, encouraging all to rejoice in His steadfastness through changing circumstances.",
+      "keywords": ["congregation", "hymn", "faith", "praise", "hope"],
+      "performers": [],
+      "songs": ["All of My Life in Every Season"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 943,
+      "type": "prayer",
+      "description": "The service opens with a heartfelt prayer led by the pastor, focusing on gratitude for the opportunity to gather and seek God's guidance. The prayer sets a reflective tone, inviting the congregation to engage with the message about prayer and authority, and asking for wisdom in understanding God's will.",
+      "keywords": ["opening", "prayer", "gratitude", "wisdom", "gathering"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Importance of Prayer for Leaders (1 Timothy 2)",
+      "start_time": 1255,
+      "type": "sermon",
+      "description": "The sermon dives into the significance of prayer for those in authority, drawn from 1 Timothy 2. The preacher discusses the attitudes believers should embody when interacting with political leaders, emphasizing humility, respect, and the call to pray for their wisdom and actions, even amidst governance challenges. It encourages a prayerful response to political opposition, highlighting the role of grace in public dialogue.",
+      "keywords": ["prayer", "leaders", "authority", "humility", "1 Timothy"],
+      "performers": ["Kelly", "Steve"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 2:1-6"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3502,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that reflects on the day's message concerning God's providence and sovereignty. The pastor asks for guidance in living out the teachings shared, encouraging the congregation to continue praying for leaders and engaging in their communities with grace and truth.",
+      "keywords": ["closing", "prayer", "guidance", "sovereignty", "engagement"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

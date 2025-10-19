@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Intro Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with upbeat music that sets a joyful tone for the gathering. It welcomes everyone as they prepare for the worship and teaching ahead. The music helps to engage the congregation right from the start.",
+      "keywords": ["music", "upbeat", "welcome", "worship", "service"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Welcome and Introduction",
+      "start_time": 31,
+      "type": "announcement",
+      "description": "A warm welcome is extended to everyone attending the service. The speaker expresses gratitude for the audience's participation and introduces an important upcoming teaching series titled 'Grow or Die.' Emphasis is placed on the importance of spiritual growth.",
+      "keywords": ["welcome", "introduction", "grow or die", "spiritual growth", "Black Hawk"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Grow or Die (Exodus 19)",
+      "start_time": 273,
+      "type": "sermon",
+      "description": "The sermon kicks off the series 'Grow or Die,' emphasizing the necessity of spiritual growth. The speaker challenges the congregation with the question of whether they are growing spiritually. The teaching explores biblical principles and the significance of a relationship with God through the lens of Exodus 19.",
+      "keywords": ["spiritual growth", "Exodus", "sermon", "God", "relationship"],
+      "performers": ["Tony Opligger"],
+      "songs": [],
+      "scripture_references": ["Exodus 19"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 850,
+      "type": "prayer",
+      "description": "The service transitions into an opening prayer, where the congregation comes together to seek God's presence and guidance for the message ahead. The heartfelt supplication invites God's spirit to move and open hearts to understanding.",
+      "keywords": ["prayer", "opening", "guidance", "community", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Exodus 19",
+      "start_time": 866,
+      "type": "scripture",
+      "description": "A reading from Exodus 19 is presented to provide context for the sermon discussion. This scripture outlines God's relationship with His people, setting the stage for the key themes of the message.",
+      "keywords": ["Exodus", "scripture", "reading", "God's people", "context"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Exodus 19"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 969,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, encouraging attendees to open their hearts to God's message and to commit to their spiritual growth journey. The prayer serves as an important moment of reflection and desire for transformation.",
+      "keywords": ["invitation", "prayer", "spiritual growth", "commitment", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Faithful One",
+      "start_time": 1000,
+      "type": "music",
+      "description": "The congregation participates in singing a congregational hymn titled 'Faithful One.' This song fosters a sense of unity and worship, reinforcing themes of trust and reliance on God.",
+      "keywords": ["hymn", "congregational", "worship", "unity", "faithfulness"],
+      "performers": [],
+      "songs": ["Faithful One"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1085,
+      "type": "prayer",
+      "description": "A closing prayer wraps up the service, thanking God for the time spent together. It focuses on asking for guidance as congregants leave, emphasizing the importance of applying the teachings in daily life.",
+      "keywords": ["closing", "prayer", "thanksgiving", "guidance", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

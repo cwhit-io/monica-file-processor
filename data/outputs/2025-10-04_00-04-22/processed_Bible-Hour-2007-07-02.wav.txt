@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "scripture: Great Commission",
+      "start_time": 0,
+      "type": "scripture",
+      "description": "The service begins with a reading from the Great Commission, where Jesus instructs his disciples to make disciples of all nations. It emphasizes the importance of baptism and the continuous presence of Christ with His followers.",
+      "keywords": ["Jesus", "disciples", "baptism", "authority", "Great Commission"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 28:18-20"]
+    },
+    {
+      "title": "announcement: Welcome and Invitation",
+      "start_time": 58,
+      "type": "announcement",
+      "description": "Kelly Bird, the Senior Pastor, welcomes viewers to the broadcast and invites new visitors to join the Black Hawk community. He shares testimonies of people who have joined the church after watching the broadcast for extended periods, fostering a sense of connection.",
+      "keywords": ["welcome", "community", "Black Hawk", "broadcast", "invitation"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: O Great God",
+      "start_time": 216,
+      "type": "music",
+      "description": "The choir performs 'O Great God', a song that exalts God's authority and grace. The lyrics reflect the congregation's devotion, expressing a desire to glorify God for His sovereignty and love.",
+      "keywords": ["O Great God", "choir", "praise", "worship", "God's glory"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["O Great God"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Heaven (Revelation 21)",
+      "start_time": 875,
+      "type": "sermon",
+      "description": "Pastor Kelly engages the congregation in a deep examination of Heaven, focusing on the new earth and the new Jerusalem as described in Revelation. He discusses key themes such as God's promise for restoration and the accessibility of the divine, emphasizing that Heaven will be a place of complete unity and no barriers between people.",
+      "keywords": ["Heaven", "new earth", "new Jerusalem", "Revelation", "restoration"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Revelation 21"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3446,
+      "type": "prayer",
+      "description": "The service concludes with a reflective closing prayer led by Pastor Kelly. He thanks God for the revealed truths about Heaven and encourages the congregation to live in light of these truths, inviting all to deepen their relationship with God.",
+      "keywords": ["prayer", "worship", "thankfulness", "congregation", "relationship"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Ending Music]",
+      "start_time": 3501,
+      "type": "music",
+      "description": "The service closes with a brief musical piece sung by the choir, creating a moment of reflection and unity among the congregation as they conclude their worship experience.",
+      "keywords": ["closing music", "choir", "worship"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["[Ending Music]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

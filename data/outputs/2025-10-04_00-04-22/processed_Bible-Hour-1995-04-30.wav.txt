@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Congregational Hymn: Blessed Jesus Come to Me",
+      "start_time": 59,
+      "type": "music",
+      "description": "The congregation joins together in worship through the hymn 'Blessed Jesus Come to Me', expressing their longing for Jesus to fill their hearts with love and peace. The lyrics resonate with themes of devotion and reliance on Christ during challenging times.",
+      "keywords": ["worship", "hymn", "Jesus", "love", "peace"],
+      "performers": [],
+      "songs": ["Blessed Jesus Come to Me"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Special Outreach Service",
+      "start_time": 410,
+      "type": "announcement",
+      "description": "Pastor Moore announces an upcoming special outreach service designed for those who are unchurched or unfamiliar with church. He invites those who feel a sense of emptiness and curiosity about God to join in the experience and explore their faith.",
+      "keywords": ["outreach", "service", "unchurched", "invitation"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Spiritual Growth vs. Spiritual Decline (Colossians 3)",
+      "start_time": 754,
+      "type": "sermon",
+      "description": "Pastor Moore's sermon focuses on the critical themes of spiritual growth and decline as outlined in Colossians 3. He provides a detailed analysis of how individuals can recognize their spiritual condition and the importance of aligning their lives with God's will. Moore shares insights on the diagnostic stages of spiritual decline and highlights the hope found in repentance and the Word of God.",
+      "keywords": ["spiritual growth", "spiritual decline", "Colossians", "repentance", "self-examination"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": ["Colossians 3"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3378,
+      "type": "prayer",
+      "description": "In this invitation prayer, Pastor Moore leads a heartfelt appeal for those in the congregation struggling with sin. He encourages them to pray for forgiveness and the strength to change, emphasizing the transformative power of accepting Christ.",
+      "keywords": ["prayer", "invitation", "forgiveness", "strength"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3464,
+      "type": "prayer",
+      "description": "Pastor Moore concludes the service with a closing prayer, thanking God for His forgiveness and guidance. He implores the congregation to seek help as they move away from compulsive behaviors, reinforcing the message of hope and restoration in Christ.",
+      "keywords": ["closing", "prayer", "forgiveness", "guidance"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

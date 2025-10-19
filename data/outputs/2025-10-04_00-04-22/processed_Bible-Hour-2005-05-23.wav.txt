@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Unidentified Upbeat Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "An upbeat music segment energizes the atmosphere as the congregation settles in, setting a positive tone for the service.",
+      "keywords": ["music", "upbeat"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Unidentified Song",
+      "start_time": 63,
+      "type": "music",
+      "description": "A song performance showcases the choir's talents, contributing to a vibrant worship experience and enhancing the connection among attendees.",
+      "keywords": ["song", "choir"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 396,
+      "type": "prayer",
+      "description": "The senior pastor, Kelly Bird, leads an opening prayer, inviting the congregation to engage in worship and seek God's presence during the service.",
+      "keywords": ["prayer", "worship"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [1 Peter 3]",
+      "start_time": 742,
+      "type": "scripture",
+      "description": "The passage from 1 Peter 3 is read aloud, focusing on the significance of the relationship between husbands and wives, laying the framework for the sermon.",
+      "keywords": ["1 Peter", "scripture", "relationship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Peter 3"]
+    },
+    {
+      "title": "Message: God's Design for Marriage (1 Peter 3:1-6)",
+      "start_time": 750,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird delivers a sermon exploring God's design for marriage, emphasizing the roles of husband and wife as stated in 1 Peter 3:1-6. The message highlights the importance of trust in God and biblical beauty in relationships, challenging cultural misconceptions about submission and strength in marriages.",
+      "keywords": ["marriage", "1 Peter", "submission", "beauty"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["1 Peter 3:1-6"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3573,
+      "type": "prayer",
+      "description": "A closing prayer culminates the service, encouraging attendees to reflect on the message and open their hearts to God's will in their lives and relationships.",
+      "keywords": ["prayer", "invitation"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Unidentified Upbeat Music",
+      "start_time": 3579,
+      "type": "music",
+      "description": "The service concludes with upbeat music, inviting the congregation to leave with joy and enthusiasm, reflecting on the day's teachings as they head into the week.",
+      "keywords": ["music", "upbeat"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

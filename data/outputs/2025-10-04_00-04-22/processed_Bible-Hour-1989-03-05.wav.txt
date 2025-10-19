@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Holy, Art Thou",
+      "start_time": 207,
+      "type": "music",
+      "description": "The sanctuary choir performs a powerful anthem of praise titled 'Holy, Art Thou', elevating the worship atmosphere and focusing on God's holiness and majesty. The choir's harmonies create a moment of reflection, drawing the congregation closer to the divine. Their performance sets a spiritual tone for the rest of the service.",
+      "keywords": ["choir", "holy", "worship", "praise", "sacred"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Holy, Art Thou"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Come Thou, Almighty King",
+      "start_time": 439,
+      "type": "music",
+      "description": "The congregation joins together in singing hymn number 267, 'Come Thou, Almighty King'. This hymn fosters unity and communal worship, inviting all in attendance to express their devotion. Sung with enthusiasm, it reflects a collective yearning for divine presence and guidance.",
+      "keywords": ["hymn", "worship", "congregational", "unity", "devotion"],
+      "performers": ["Congregation"],
+      "songs": ["Come Thou, Almighty King"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unnamed Song]",
+      "start_time": 581,
+      "type": "music",
+      "description": "A solo performance by Starr Braddagam unfolds, delivering a heartfelt rendition that emphasizes God’s intimate love and care. The gentle melodies resonate with the congregation, drawing them into a deeper emotional connection with the theme of God's everlasting love. Its contemplative nature adds a personal touch to the worship experience.",
+      "keywords": ["solo", "love", "care", "worship", "intimacy"],
+      "performers": ["Starr Braddagam"],
+      "songs": ["[Unnamed Song]"],
+      "scripture_references": ["Jeremiah 31:3"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1419,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, beseeching God’s presence and guidance. The prayer expresses a longing for spiritual connection and healing, urging all present to open their hearts to God's transformative power. With a focus on communal faith, it sets the stage for a meaningful worship experience.",
+      "keywords": ["prayer", "worship", "opening", "spiritual", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: A Church Worth Going To (1 Thessalonians 1:4-10)",
+      "start_time": 171,
+      "type": "sermon",
+      "description": "Pastor Rick passionately delivers a sermon from 1 Thessalonians, exploring the essence of an authentic church. He emphasizes the importance of living out one’s faith in a way that is visible to others. Through real-life examples and theological insights, he addresses what it means to be a genuine follower of Christ in today's world.",
+      "keywords": ["sermon", "faith", "church", "authenticity", "Thessalonians"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Thessalonians 1:4-10"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3452,
+      "type": "prayer",
+      "description": "An invitation prayer encourages those seeking a deeper relationship with Christ to respond to God's call. The prayer is heartfelt, inviting attendees to acknowledge their need for forgiveness and to accept Jesus as their Savior. Its warm appeal resonates with many, creating a space for personal reflection and commitment.",
+      "keywords": ["prayer", "invitation", "relationship", "forgiveness", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unnamed Cantata]",
+      "start_time": 3585,
+      "type": "music",
+      "description": "The choir performs a cantata that celebrates the resurrection of Jesus and the hope it brings. The music encapsulates the themes of life, renewal, and joy, engaging the congregation in the Easter celebration spirit. This uplifting piece concludes the service on a high note, leaving worshippers inspired and encouraged.",
+      "keywords": ["choir", "cantata", "resurrection", "Easter", "celebration"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["[Unnamed Cantata]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

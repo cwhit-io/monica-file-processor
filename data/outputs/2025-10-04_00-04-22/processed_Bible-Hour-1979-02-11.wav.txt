@@ -1,0 +1,74 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: Jesus is Coming",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir performs a vibrant piece focusing on the message of Jesus' return. Their harmonies emphasize the joy and hope of His coming, encouraging the audience to reflect on their faith and readiness.",
+      "keywords": ["Jesus", "choir", "coming", "hope", "faith"],
+      "performers": ["Don Kruger"],
+      "songs": ["Jesus is coming again"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Turn Around",
+      "start_time": 376,
+      "type": "music",
+      "description": "Star Narwhal sings 'Turn Around,' a heartfelt solo conveying a message of returning to God after straying. The lyrics resonate with themes of redemption and the welcoming embrace of divine love, encouraging listeners to reflect on their own journeys.",
+      "keywords": ["redemption", "turnaround", "forgiveness", "love", "faith"],
+      "performers": ["Star Narwhal"],
+      "songs": ["Turn Around"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: It Took a Miracle",
+      "start_time": 949,
+      "type": "music",
+      "description": "The congregation participates in a moving hymn titled 'It Took a Miracle.' This collective worship emphasizes the miraculous works of God and the grace that transforms lives, fostering a sense of unity and devotion among the attendees.",
+      "keywords": ["miracle", "congregation", "worship", "grace", "unity"],
+      "performers": [],
+      "songs": ["It Took a Miracle"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: The Lord of Miracles",
+      "start_time": 1108,
+      "type": "music",
+      "description": "The Black Hawk Singers perform 'The Lord of Miracles,' highlighting the themes of God's presence and His miraculous abilities. The performance serves to uplift the congregation, reminding them of the divine power that guides their lives.",
+      "keywords": ["miracles", "presence", "singing", "worship", "guidance"],
+      "performers": ["Black Hawk Singers"],
+      "songs": ["The Lord of Miracles"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Matthew 12",
+      "start_time": 1284,
+      "type": "scripture",
+      "description": "The passage from Matthew 12 is read, setting the context for the sermon on the unpardonable sin. This reading focuses on the miraculous acts of Jesus and the differing responses from the crowds and religious leaders.",
+      "keywords": ["scripture", "Matthew", "reading", "Jesus", "miracles"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 12"]
+    },
+    {
+      "title": "Message: The Unpardonable Sin (Matthew 12:22-32)",
+      "start_time": 1280,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers a powerful sermon on the subject of the unpardonable sin, exploring its implications through the scriptural context of Matthew 12. He emphasizes the seriousness of attributing the works of the Holy Spirit to Satan and discusses the nature of sin and redemption.",
+      "keywords": ["unpardonable sin", "sermon", "teaching", "redemption", "Holy Spirit"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Matthew 12:22-32", "Hebrews 10:26-29"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3354,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer led by Pastor David Jeremiah, inviting attendees to reflect on the message delivered and to seek a deeper relationship with Jesus Christ. This moment of prayer reinforces the importance of faith and acceptance of God’s grace.",
+      "keywords": ["prayer", "closing", "reflection", "faith", "grace"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

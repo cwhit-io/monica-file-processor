@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Service Music",
+      "start_time": 100,
+      "type": "music",
+      "description": "The sanctuary choir and orchestra set a joyful tone for the service with a series of uplifting musical pieces. Their performances aim to prepare the congregation for worship and encourage participation.",
+      "keywords": ["choir", "orchestra", "worship", "music", "celebration"],
+      "performers": ["Sanctuary Choir", "Orchestra"],
+      "songs": ["Service Music"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Omnipresent God",
+      "start_time": 962,
+      "type": "music",
+      "description": "Susan and Scott perform a touching piece that emphasizes the omnipresence of God, reminding the congregation that God is always with them. The song inspires hope and reinforces faith amidst life's challenges.",
+      "keywords": ["omnipresence", "hope", "faith", "God", "worship"],
+      "performers": ["Susan", "Scott"],
+      "songs": ["I Can Never Be Lost From You"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Marks of a True Witness (Revelation 11)",
+      "start_time": 13,
+      "type": "sermon",
+      "description": "Pastor Moore delivers a detailed message on Revelation 11, exploring four key marks of a true witness. He challenges the congregation to evaluate their spiritual witness, focusing on the need for a message of repentance and the power of the Holy Spirit in evangelism.",
+      "keywords": ["witness", "revelation", "pastor moore", "evangelism", "repentance"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 11"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3446,
+      "type": "prayer",
+      "description": "A heartfelt invitation prayer encourages members to open their hearts to Christ. Pastor Moore leads the congregation in seeking forgiveness and accepting Jesus as their Savior, emphasizing the importance of personal commitment to faith.",
+      "keywords": ["invitation", "prayer", "forgiveness", "faith", "commitment"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3476,
+      "type": "prayer",
+      "description": "The closing prayer serves as a farewell blessing, thanking God for His presence and the worship experience. Pastor Moore prays for the congregation's continued growth in faith and witness as they depart.",
+      "keywords": ["closing", "blessing", "thanksgiving", "faith", "departure"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 635,
+      "type": "announcement",
+      "description": "Pastor Moore shares important upcoming events at Black Hawk Baptist Church, including a patriotic panorama celebration. The community is encouraged to participate and bring friends, emphasizing the joy of fellowship.",
+      "keywords": ["announcement", "events", "community", "patriotism", "fellowship"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

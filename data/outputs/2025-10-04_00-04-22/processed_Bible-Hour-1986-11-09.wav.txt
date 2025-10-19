@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Sanctuary Choir: [Unidentified Song]",
+      "start_time": 282,
+      "type": "music",
+      "description": "The sanctuary choir performs a majestic piece, lifting the name of the Lord in worship. The congregation is encouraged to join in song and praise, reinforcing the theme of collective worship and unity in faith. The ambiance created by the choir's musical worship sets a profound spiritual tone for the service.",
+      "keywords": ["worship", "choir", "music", "praise", "Lord"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Unidentified Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Oh, Worship the King]",
+      "start_time": 434,
+      "type": "music",
+      "description": "The congregation unites in singing the hymn 'Oh, Worship the King.' This hymn calls upon worshippers to lift their voices in adoration, recognizing the glory of God. The opportunity for congregational singing fosters a sense of community and shared faith among the participants.",
+      "keywords": ["hymn", "worship", "congregation", "singing", "unity"],
+      "performers": ["Congregation"],
+      "songs": ["Oh, Worship the King"],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Missionary Update with Charles Johns",
+      "start_time": 544,
+      "type": "interview",
+      "description": "Pastor Rick Cox interviews Charles Johns, a missionary serving in India, about his experiences and the challenges faced in the ministry. Charles shares insights on his work and the importance of training nationals for evangelism. This segment highlights the global outreach of the church and encourages the congregation to engage in missions.",
+      "keywords": ["missions", "interview", "India", "Charles Johns", "missionary"],
+      "performers": ["Rick Cox", "Charles Johns"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 847,
+      "type": "prayer",
+      "description": "An opening prayer led by Pastor Rick, asking for God's guidance and blessing on the service, the missionaries, and the work of the Good News Bible Correspondence School in India. The prayer expresses a deep reliance on God's power and a request for His presence among the congregation.",
+      "keywords": ["prayer", "opening", "service", "guidance", "blessing"],
+      "performers": ["Rick Cox"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [2 Corinthians 8-9]",
+      "start_time": 2650,
+      "type": "scripture",
+      "description": "The scripture is read from 2 Corinthians chapters 8 and 9, focusing on the principles of giving. This passage sets the stage for the sermon, emphasizing the attitude and heart behind generosity. The congregation engages with scripture, preparing their hearts for the forthcoming message on stewardship.",
+      "keywords": ["scripture", "2 Corinthians", "giving", "generosity", "Bible"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["2 Corinthians 8-9"]
+    },
+    {
+      "title": "Message: Principles for Giving (2 Corinthians 8-9)",
+      "start_time": 2654,
+      "type": "sermon",
+      "description": "Pastor Rick Cox delivers a powerful sermon on the Biblical principles of giving, based on 2 Corinthians chapters 8 and 9. He addresses the discomfort surrounding financial discussions, provides insights on the attitude of generosity, and encourages the church to reflect on their own giving habits. The message underscoring willing, conscious, and faithful giving is both challenging and uplifting, rooted in Scripture.",
+      "keywords": ["sermon", "giving", "Rick Cox", "2 Corinthians", "principles"],
+      "performers": ["Rick Cox"],
+      "songs": [],
+      "scripture_references": ["2 Corinthians 8-9"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3545,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, offering thanks for the message received and seeking God’s blessings on the congregation as they apply what they have learned about giving. This closing moment reflects a commitment to live out the principles discussed, fostering a spirit of gratitude and obedience to God's calling.",
+      "keywords": ["prayer", "closing", "thanksgiving", "blessing", "obedience"],
+      "performers": ["Rick Cox"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

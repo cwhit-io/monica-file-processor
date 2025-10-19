@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Inspirational Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with a bell chime, welcoming congregants to the Bible Hour. The Sanctuary Choir performs an inspiring piece that sets a tone of reverence and worship, inviting everyone to reflect on the holiness of God.",
+      "keywords": ["choir", "inspirational", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: How Great Thou Art",
+      "start_time": 135,
+      "type": "music",
+      "description": "The congregation joins together in singing 'How Great Thou Art,' proclaiming the greatness of God in joyful harmony. This congregational hymn lifts spirits and prepares the hearts of the attendees for worship.",
+      "keywords": ["hymn", "worship", "God"],
+      "performers": ["Congregation"],
+      "songs": ["How Great Thou Art"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Great is the Lord",
+      "start_time": 1539,
+      "type": "music",
+      "description": "The music team leads the congregation in 'Great is the Lord,' underscoring God's eternal greatness and faithfulness. The song encourages the community to lift their voices in unified praise and prayer.",
+      "keywords": ["music", "praise", "greatness"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Great is the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Deuteronomy 6",
+      "start_time": 777,
+      "type": "scripture",
+      "description": "A reading from Deuteronomy 6 emphasizes the importance of loving the Lord with all one's heart, soul, and strength. The scripture encourages parents to teach these commandments diligently to their children.",
+      "keywords": ["scripture", "Deuteronomy", "commands"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Deuteronomy 6:4-9"]
+    },
+    {
+      "title": "Message: Facing Temptation (1 Corinthians 10:13)",
+      "start_time": 2290,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a compelling sermon on facing temptation, rooted in 1 Corinthians 10:13. He discusses four principles to navigate temptations, emphasizing God's faithfulness and the importance of relying on Him during trials.",
+      "keywords": ["sermon", "temptation", "faithfulness"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 10:13"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3515,
+      "type": "prayer",
+      "description": "The service transitions into a heartfelt invitation prayer. Pastor Rick leads the congregation in seeking God's guidance for those making spiritual commitments today, inviting them to open their hearts to Christ.",
+      "keywords": ["prayer", "invitation", "commitment"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Missionary Focus: The Philippines",
+      "start_time": 1750,
+      "type": "testimony",
+      "description": "Pastor Rick shares a moving testimony about his recent visit to the Philippines, highlighting the vibrant faith of the local believers and the challenges they face. He recounts personal encounters that inspire a passion for evangelism.",
+      "keywords": ["Philippines", "missionary", "testimony"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3546,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, where Pastor Rick prays for the congregation's spiritual growth and steadfastness. He asks for God's strength in facing life’s challenges, fostering a spirit of hope and unity.",
+      "keywords": ["prayer", "closing", "growth"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

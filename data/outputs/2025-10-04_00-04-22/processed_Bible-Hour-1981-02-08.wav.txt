@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Who Can Cheer the Heart Like Jesus",
+      "start_time": 114,
+      "type": "music",
+      "description": "The choir performs 'Who Can Cheer the Heart Like Jesus,' a worshipful song celebrating the love and presence of Jesus in the lives of believers. The lyrics express deep admiration for Christ, emphasizing His sustaining power and comfort. This uplifting music encourages the congregation to focus on their relationship with Jesus.",
+      "keywords": ["Jesus", "choir", "worship", "comfort", "love"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Who Can Cheer the Heart Like Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: All Your Anxiety",
+      "start_time": 1268,
+      "type": "music",
+      "description": "Suzanne Johnson sings 'All Your Anxiety,' inviting the audience to bring their burdens to Christ. The song highlights the comforting presence of Jesus and the peace He offers to those weighed down by sorrow. The heartfelt rendition serves as a reminder to rely on Christ in times of distress.",
+      "keywords": ["anxiety", "comfort", "Jesus", "peace", "sorrow"],
+      "performers": ["Suzanne Johnson"],
+      "songs": ["All Your Anxiety"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: John 6",
+      "start_time": 1290,
+      "type": "scripture",
+      "description": "Pastor David invites the congregation to stand and read from John's Gospel, chapter 6, verses 15-21. This passage recounts the story of Jesus walking on water, emphasizing His divine authority and care for His disciples amid challenges. The communal reading reinforces the power of Scripture in the life of the church.",
+      "keywords": ["John", "scripture", "reading", "Jesus", "miracle"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["John 6:15-21"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1392,
+      "type": "prayer",
+      "description": "Pastor David leads the congregation in an opening prayer, expressing gratitude for God's presence and guidance. It sets a tone of reverence and focus on the message to follow, inviting the Holy Spirit to prepare hearts for worship and learning.",
+      "keywords": ["prayer", "worship", "guidance", "gratitude", "Spirit"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Jesus Walks on Water (John 6:15-21)",
+      "start_time": 1472,
+      "type": "sermon",
+      "description": "Pastor David delivers a powerful sermon about Jesus walking on water, focusing on His relationship with His disciples during trials. He explores themes of faith, divine presence, and the reassurance that God knows and cares for us even in our struggles. The message encourages believers to trust in Jesus amid life's storms, underscoring His ability to intervene at the right moment.",
+      "keywords": ["Jesus", "sermon", "miracles", "faith", "trust"],
+      "performers": ["Pastor David Jerramon"],
+      "songs": [],
+      "scripture_references": ["John 6:15-21"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3345,
+      "type": "prayer",
+      "description": "The service transitions into an invitation prayer led by Pastor David, appealing to those who have not yet put their trust in Jesus. It emphasizes the offer of salvation and God's willingness to welcome anyone seeking His grace and forgiveness. This prayer encourages reflection and commitment to faith.",
+      "keywords": ["invitation", "prayer", "salvation", "trust", "grace"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Conclusion of the Service",
+      "start_time": 3412,
+      "type": "announcement",
+      "description": "As the service comes to a close, Pastor David shares information about ways to engage further with the ministry, including resources and support available to the congregation. He expresses appreciation for the attendees and reinforces the importance of faith and community in their spiritual journey.",
+      "keywords": ["announcement", "ministry", "community", "support", "faith"],
+      "performers": ["Pastor David Jerramon"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

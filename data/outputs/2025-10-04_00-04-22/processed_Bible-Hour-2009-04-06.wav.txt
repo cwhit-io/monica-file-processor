@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Intro",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with an upbeat music segment, setting a cheerful and welcoming atmosphere. The sound of birds chirping adds to the joyful ambiance as the congregation gathers.",
+      "keywords": ["music", "upbeat", "welcome", "birds", "cheerful"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Celebration Songs",
+      "start_time": 60,
+      "type": "music",
+      "description": "The choir performs a vibrant set of songs, filling the church with joyful melodies. This portion enhances the Easter celebration atmosphere, inviting everyone to participate and reflect on the joy of the resurrection.",
+      "keywords": ["choir", "celebration", "Easter", "joy", "resurrection"],
+      "performers": ["Black Hawk Ministries Choir"],
+      "songs": ["Unknown Song Title"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Resurrection Sunday (Matthew 7:13-14)",
+      "start_time": 576,
+      "type": "sermon",
+      "description": "In this powerful sermon, the pastor reflects on the significance of Easter and the resurrection of Jesus Christ. He emphasizes the choice between two paths: the narrow gate leading to life and the broad gate leading to destruction. The message invites listeners to examine their faith and the difference between merely admiring Jesus and truly following Him.",
+      "keywords": ["Easter", "resurrection", "choice", "faith", "Matthew"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Matthew 7:13-14"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3480,
+      "type": "prayer",
+      "description": "A heartfelt invitation prayer encourages congregants to reflect on their spiritual journey. The pastor asks for God's guidance as individuals contemplate their relationship with Him and the importance of choosing the right path in life.",
+      "keywords": ["prayer", "invitation", "reflection", "spiritual", "guidance"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Give Me Jesus",
+      "start_time": 3045,
+      "type": "music",
+      "description": "A solo performance of 'Give Me Jesus' resonates deeply with the congregation. The soulful lyrics express a longing for Jesus above all worldly things, reinforcing the theme of the sermon regarding faith and choice.",
+      "keywords": ["solo", "Jesus", "faith", "longing", "soulful"],
+      "performers": ["Jonathan"],
+      "songs": ["Give Me Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3476,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service with gratitude for the day and for the message shared. The pastor asks for God’s blessing as attendees go forth to live out their faith in their daily lives.",
+      "keywords": ["closing", "prayer", "gratitude", "blessing", "community"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Celebration Exit Music",
+      "start_time": 3494,
+      "type": "music",
+      "description": "The service concludes with lively exit music, encouraging the congregation to leave with joy and celebration. The upbeat rhythm reflects the victorious message of Easter and the resurrection.",
+      "keywords": ["music", "celebration", "joy", "Easter", "exit"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

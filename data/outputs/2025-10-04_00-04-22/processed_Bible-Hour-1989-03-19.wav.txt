@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Blessed is He Who Comes in the Name of the Lord",
+      "start_time": 298,
+      "type": "music",
+      "description": "The sanctuary choir performs a passionate rendition celebrating the triumphal entry of Jesus into Jerusalem. The lyrics proclaim the coming of the Lord with joyful 'Hosanna' refrains, drawing the congregation into a spirit of worship. This musical piece sets the thematic tone for the Palm Sunday service.",
+      "keywords": ["choir", "Hosanna", "worship", "Palm Sunday", "Jesus"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Blessed is He Who Comes in the Name of the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Blessed Assurance",
+      "start_time": 487,
+      "type": "music",
+      "description": "The congregation joins together in song to express their faith through 'Blessed Assurance,' a timeless hymn that reassures believers of Christ’s everlasting love and presence. This collective act of worship fosters unity and a shared commitment to Christ among attendees.",
+      "keywords": ["hymn", "assurance", "worship", "faith", "congregation"],
+      "performers": [],
+      "songs": ["Blessed Assurance"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Blessed Messiah, My Redeemer, You Are My King",
+      "start_time": 1274,
+      "type": "music",
+      "description": "Kathy Hawks delivers a stirring solo that reflects on the majesty of Jesus as the Redeemer and King. This heartfelt performance invites the congregation to meditate on Christ's sovereignty and redemptive power in their lives, adding depth to the Palm Sunday theme.",
+      "keywords": ["solo", "Kathy Hawks", "redeemer", "king", "worship"],
+      "performers": ["Kathy Hawks"],
+      "songs": ["Blessed Messiah, My Redeemer, You Are My King"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1305,
+      "type": "prayer",
+      "description": "The pastor leads an opening prayer, offering thanks and praise to God for Jesus, acknowledging His kingship and the significance of the Palm Sunday celebration. This prayer sets a spiritual tone for the service, emphasizing worship and reverence before God.",
+      "keywords": ["prayer", "opening", "worship", "thanksgiving", "Jesus"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Contagious Christianity (1 Thessalonians 2:1-12)",
+      "start_time": 1443,
+      "type": "sermon",
+      "description": "Rick Hawks presents a compelling sermon on 'Contagious Christianity,' drawing insights from 1 Thessalonians 2:1-12. He explores the challenges of maintaining integrity and authenticity in the faith while emphasizing that true Christianity should be contagious and impactful. The message encourages believers to live out their faith genuinely in a world filled with skeptics.",
+      "keywords": ["sermon", "Rick Hawks", "Christianity", "Thessalonians", "faith"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Thessalonians 2:1-12"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3550,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer, where participants are encouraged to reflect on the teachings of the day. The pastor prays for the congregation's spiritual growth and commitment to live out their faith in a contagious manner, reinforcing the sermon’s message.",
+      "keywords": ["prayer", "closing", "reflection", "faith", "growth"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Invitation to Easter Musical",
+      "start_time": 846,
+      "type": "announcement",
+      "description": "An announcement invites the congregation to the Easter Musical, an event centered around reflections of Christ’s journey to Calvary and resurrection. It emphasizes the significance of this celebration and encourages attendance to deepen their worship experience.",
+      "keywords": ["announcement", "Easter", "musical", "invitation", "celebration"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

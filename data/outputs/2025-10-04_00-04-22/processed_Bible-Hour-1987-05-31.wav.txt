@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Celebration Song",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with uplifting music as the choir leads the congregation in a celebratory song. This part of the worship highlights the spirit of joy and community among attendees. The choir's performance sets a tone of gratitude and thanksgiving for the shared experiences and divine blessings.",
+      "keywords": ["worship", "choir", "celebration", "music", "community"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Celebration Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Thank You Lord",
+      "start_time": 184,
+      "type": "music",
+      "description": "The congregation joins in singing a hymn of thanks, expressing their gratitude for God's blessings. This communal singing fosters a sense of unity and reverence among the attendees. Together, they honor their faith with joyful voices.",
+      "keywords": ["hymn", "gratitude", "worship", "unity", "faith"],
+      "performers": [],
+      "songs": ["Thank You Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Farewell Message from the Ballast Family",
+      "start_time": 539,
+      "type": "testimony",
+      "description": "Mike Ballast shares heartfelt words as he and his family prepare to return to Manila. His message reflects gratitude for the church's support and the bonds formed during their stay. The congregants are invited to pray for their mission and the challenges ahead.",
+      "keywords": ["testimony", "family", "mission", "faith", "gratitude"],
+      "performers": ["Mike Ballast", "Carolyn Ballast"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 729,
+      "type": "prayer",
+      "description": "A prayer is offered for the Ballast family, asking God for guidance, support, and blessings in their return to the mission field. The prayer reflects a deep sense of community and shared purpose in advancing God's work.",
+      "keywords": ["prayer", "community", "mission", "support", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Graduation Sunday Recognition",
+      "start_time": 777,
+      "type": "announcement",
+      "description": "The service acknowledges Graduation Sunday, celebrating the achievements of graduates. Names are read aloud, encouraging all graduates to stand. The church applauds their accomplishments, highlighting the importance of education and community support.",
+      "keywords": ["graduation", "recognition", "community", "achievement", "celebration"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Celebration of the King",
+      "start_time": 906,
+      "type": "music",
+      "description": "A talented high school soloist performs an inspiring song that celebrates the sovereignty of God. The performance encourages the congregation to join in worship, framing the day as a festival of faith and joy.",
+      "keywords": ["solo", "worship", "celebration", "music", "faith"],
+      "performers": ["High School Soloist"],
+      "songs": ["Celebration of the King"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Honoring Parents (Exodus 20)",
+      "start_time": 1764,
+      "type": "sermon",
+      "description": "Dr. James Greer dives deep into Exodus 20, exploring the importance of honoring one's parents and the broader implications this command has on generations. He articulates how the covenant relationship with God influences family dynamics and the continuation of faith across generations. Greer's message weaves together scriptural teachings with personal anecdotes that challenge the congregation to reflect on their own responsibilities within families and the community.",
+      "keywords": ["sermon", "honor", "parents", "Exodus", "faith"],
+      "performers": ["Dr. James M. Greer"],
+      "songs": [],
+      "scripture_references": ["Exodus 20:12"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3497,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, inviting God’s blessings on the congregation and a request for guidance as they leave to apply the sermon in their daily lives. It is a reflective moment, encouraging personal commitment to God’s teachings.",
+      "keywords": ["closing prayer", "blessings", "commitment", "reflection", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

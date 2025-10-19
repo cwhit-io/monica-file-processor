@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: We Shall Sing Heaven",
+      "start_time": 122,
+      "type": "music",
+      "description": "The choir performs 'We Shall Sing Heaven,' celebrating the joy of salvation through grace. This uplifting anthem reflects on the hope of eternal life and emphasizes the community of faith united in worship. As the choir sings, the congregation is encouraged to join in this powerful moment of praise.",
+      "keywords": ["choir", "heaven", "grace", "salvation", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["We Shall Sing Heaven"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: How Great Thou Art",
+      "start_time": 581,
+      "type": "music",
+      "description": "A solo performance of 'How Great Thou Art' captures the majesty of God's creation and His power. The singer's heartfelt rendition evokes awe and reverence, inviting the congregation to reflect on their own experiences of God's greatness. This classic hymn resonates deeply within the hearts of believers.",
+      "keywords": ["solo", "greatness", "creation", "worship", "hymn"],
+      "performers": ["Unknown"],
+      "songs": ["How Great Thou Art"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Revelation 7",
+      "start_time": 792,
+      "type": "scripture",
+      "description": "The scripture is read from Revelation chapter 7, outlining a prophetic vision of a great multitude gathered before the throne of God. This passage highlights the coming harvest of souls from every nation, emphasizing God's sovereignty and the fulfillment of His promises. The reading sets the stage for the sermon that follows.",
+      "keywords": ["scripture", "Revelation", "prophecy", "multitude", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Revelation 7"]
+    },
+    {
+      "title": "Message: The Coming World Revival (Revelation 7)",
+      "start_time": 806,
+      "type": "sermon",
+      "description": "In this sermon, Pastor Russell Moore discusses the coming world revival as depicted in Revelation 7. He emphasizes the pattern of God's sovereign work throughout history, highlighting moments of massive conversions and collective repentance. The pastor draws parallels between the historical outpourings of the Spirit and the predictions of an unparalleled revival at the end of time, encouraging believers to remain steadfast in their faith amid trials.",
+      "keywords": ["revival", "sovereignty", "prophecy", "salvation", "Revelation"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 7:1-17"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3459,
+      "type": "prayer",
+      "description": "Pastor Moore leads the congregation in a closing prayer, interceding for those struggling with personal difficulties, emotional needs, and seeking a deeper relationship with Christ. He invites individuals to accept Jesus as their Savior, emphasizing the importance of prayer and community support in spiritual growth.",
+      "keywords": ["prayer", "closing", "intercession", "support", "community"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

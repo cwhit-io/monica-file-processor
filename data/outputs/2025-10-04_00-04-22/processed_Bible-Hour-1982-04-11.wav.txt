@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Christ the Lord is risen today",
+      "start_time": 199,
+      "type": "music",
+      "description": "The sanctuary choir performs the joyful anthem 'Christ the Lord is risen today.' This uplifting song celebrates the resurrection of Jesus Christ, inviting the congregation to join in praise and worship.",
+      "keywords": ["Easter", "resurrection", "choir", "praise"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Christ the Lord is risen today"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Christ arose",
+      "start_time": 397,
+      "type": "music",
+      "description": "The congregation stands to sing hymn number 176, 'Christ arose.' The lyrics emphasize the victory of Christ over death, reinforcing the theme of hope and resurrection during the Easter celebration.",
+      "keywords": ["hymn", "congregational", "Easter", "victory"],
+      "performers": [],
+      "songs": ["Christ arose"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Hallelujah Jesus Christ is risen",
+      "start_time": 633,
+      "type": "music",
+      "description": "Keith and Star perform a solo that proclaims the joyous message of Christ's resurrection. Their heartfelt rendition adds a personal touch to the celebration, bringing further emphasis to the theme of resurrection.",
+      "keywords": ["solo", "Hallelujah", "resurrection"],
+      "performers": ["Keith", "Star"],
+      "songs": ["Hallelujah Jesus Christ is risen"],
+      "scripture_references": []
+    },
+    {
+      "title": "Music House Presentation",
+      "start_time": 727,
+      "type": "music",
+      "description": "Pastor Rick and Don introduce the 'Music House' segment featuring sacred songs and scenes. This presentation enhances the Easter theme, showcasing musical talents and creativity alongside stories of faith.",
+      "keywords": ["music", "presentation", "Easter", "celebration"],
+      "performers": ["Rick Hawks", "Don"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1450,
+      "type": "prayer",
+      "description": "Pastor Rick leads the congregation in an opening prayer, asking for God's presence and guidance. This prayer sets a reflective tone for the service, focusing on worship and recognition of Christ's sacrifice.",
+      "keywords": ["prayer", "worship", "guidance", "Easter"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: History and Hope (1 Corinthians 15)",
+      "start_time": 1486,
+      "type": "sermon",
+      "description": "Pastor Rick delivers a powerful sermon titled 'History and Hope,' based on 1 Corinthians 15. He emphasizes the historical facts of Christ's death, burial, and resurrection, establishing a foundation of hope for believers. The message encourages congregants to trust in the resurrection as their assurance of eternal life.",
+      "keywords": ["sermon", "history", "hope", "resurrection", "1 Corinthians"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 15"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3470,
+      "type": "prayer",
+      "description": "In the closing moments, Pastor Rick leads an invitation prayer, inviting those seeking to know Christ to surrender their lives to Him. This prayer encapsulates the sermon’s message of hope and new beginnings.",
+      "keywords": ["invitation", "prayer", "salvation", "hope"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3528,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Rick. He expresses gratitude for the message shared and seeks God’s blessing on the congregation as they depart, reinforcing themes of hope and resurrection.",
+      "keywords": ["closing", "prayer", "blessing", "gratitude"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

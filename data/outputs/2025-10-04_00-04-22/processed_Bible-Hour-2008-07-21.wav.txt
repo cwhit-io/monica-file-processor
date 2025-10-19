@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Upbeat Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an energetic and uplifting music performance that sets the tone for worship. The congregation is encouraged to join in, creating a collective atmosphere of praise and celebration. This initial segment invites everyone to participate actively in worship.",
+      "keywords": ["worship", "music", "choir", "celebration", "praise"],
+      "performers": ["Choir"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: We Will Crown Him King Forever",
+      "start_time": 527,
+      "type": "music",
+      "description": "The congregation sings 'We Will Crown Him King Forever,' a hymn that exalts Christ's sovereignty and encourages worshipers to acknowledge His lordship over all. The collective singing fosters a deep sense of unity and reverence among attendees. This segment creates a climactic moment of worship, reflecting on Christ's kingship.",
+      "keywords": ["hymn", "worship", "congregational", "unity", "Christ"],
+      "performers": [],
+      "songs": ["We Will Crown Him King Forever"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 995,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, thanking God for His peace and the sacrifice of Christ. The prayer invites congregants to engage with the divine and prepares their hearts for the service ahead. It emphasizes themes of reconciliation and hope through faith.",
+      "keywords": ["prayer", "opening", "peace", "worship", "sacrifice"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Psalm 85",
+      "start_time": 1092,
+      "type": "scripture",
+      "description": "The congregation participates in a responsive reading from Psalm 85, reflecting on God's faithfulness and mercy. This scripture sets the stage for the message, emphasizing themes of restoration and divine grace. It serves to deepen the congregation's meditative focus.",
+      "keywords": ["psalm", "scripture", "responsive", "faithfulness", "grace"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Psalm 85"]
+    },
+    {
+      "title": "Message: The Beatitudes (Matthew 5)",
+      "start_time": 1301,
+      "type": "sermon",
+      "description": "In this powerful sermon, the speaker delves into the Beatitudes, focusing on what it means to be a disciple of Christ. The core message discusses the profound blessings associated with being peacemakers and the transformative power of God's love. Through various biblical references, the speaker invites attendees to reflect on their spiritual journeys and how they can actively participate in God's work.",
+      "keywords": ["sermon", "Beatitudes", "discipleship", "peace", "spirituality"],
+      "performers": ["Steve Webster"],
+      "songs": [],
+      "scripture_references": ["Matthew 5:1-12"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3435,
+      "type": "prayer",
+      "description": "The service concludes with an invitation prayer, encouraging those who feel a call to respond to Christ's teachings. It is a moment of reflection and commitment, where attendees are urged to consider their spiritual condition and seek reconciliation with God.",
+      "keywords": ["invitation", "prayer", "response", "reconciliation", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Go in Peace",
+      "start_time": 3462,
+      "type": "music",
+      "description": "The service closes with a congregational hymn that reinforces the themes of peace and mission. Participants sing a hymn that sends them out into the world with the message of Christ. This final musical segment serves as a reminder of the calling to be peacemakers in everyday life.",
+      "keywords": ["hymn", "peace", "mission", "congregational", "worship"],
+      "performers": [],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    }
+  ]
+}
+```

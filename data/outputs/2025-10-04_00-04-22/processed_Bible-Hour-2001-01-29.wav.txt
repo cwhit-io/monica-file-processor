@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "scripture: Scripture Reading: [Revelation 4:8-11]",
+      "start_time": 65,
+      "type": "scripture",
+      "description": "The reading includes profound verses from Revelation, emphasizing the glory and holiness of God. It highlights the perpetual worship of the heavenly beings as they reverently proclaim God's eternal nature. The message reminds the congregation of God's worthiness of honor and power, essential for spiritual reflection and worship.",
+      "keywords": ["revelation", "worship", "God", "glory"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Revelation 4:8-11"]
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 195,
+      "type": "music",
+      "description": "The choir delivers a vibrant worship song, uplifting the congregation with themes of devotion and praise. Lyrics express a deep yearning to glorify God and see His love transform lives across nations. This performance invites all to join in exaltation and adoration of God.",
+      "keywords": ["choir", "worship", "praise", "song"],
+      "performers": ["Choir"],
+      "songs": ["Oh, that is within the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 540,
+      "type": "prayer",
+      "description": "In this heartfelt opening prayer, the speaker humbly acknowledges God’s grace and mercy in their lives. The prayer emphasizes reliance on God amidst personal struggles and a plea for divine guidance. It sets a reverent tone for the service and invites the congregation to connect deeply with God.",
+      "keywords": ["prayer", "grace", "mercy", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: Prejudice and Grace",
+      "start_time": 566,
+      "type": "drama",
+      "description": "This drama explores the theme of prejudice through the experiences of characters grappling with their perceptions of others. The narrative challenges the audience to reflect on their own biases and the transformative power of grace. It serves as a poignant reminder of our shared humanity and the call to love others unconditionally.",
+      "keywords": ["drama", "prejudice", "grace", "acceptance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Prejudice and the Gospel (Acts 10)",
+      "start_time": 800,
+      "type": "sermon",
+      "description": "In this sermon, the preacher addresses the pervasive issue of prejudice as seen in the biblical narrative of Peter and Cornelius. Expounding on Acts 10, the message emphasizes that the gospel transcends ethnic and cultural boundaries. The sermon calls for self-examination and a commitment to embrace all individuals with God’s love, offering hope and redemption.",
+      "keywords": ["sermon", "gospel", "prejudice", "Acts 10", "Peter", "Cornelius"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Acts 10"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3514,
+      "type": "prayer",
+      "description": "The closing prayer reflects on the themes of the service, asking for God’s strength to overcome prejudice. It calls for unity and love within the community, encouraging everyone to engage with those different from themselves. The prayer wraps up the service with a hopeful outlook for future interactions and growth.",
+      "keywords": ["prayer", "unity", "love", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

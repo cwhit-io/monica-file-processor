@@ -1,0 +1,84 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: Victory in Jesus",
+      "start_time": 0,
+      "type": "music",
+      "description": "The church choir performs the hymn 'Victory in Jesus.' This lively rendition reminds the congregation of the triumph found in faith and Jesus' sacrifice. As the choir sings, the congregation is encouraged to reflect on the victory they share through Christ.",
+      "keywords": ["victory", "Jesus", "choir", "hymn", "faith"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Victory in Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Son of My Soul",
+      "start_time": 622,
+      "type": "music",
+      "description": "Bill Pierce, a special musical guest, performs the beautiful solo 'Son of My Soul.' The song expresses a heartfelt prayer to the Savior, conveying themes of peace and dependence on divine presence. His rendition is both soothing and uplifting.",
+      "keywords": ["son of my soul", "Bill Pierce", "solo", "music", "prayer"],
+      "performers": ["Bill Pierce"],
+      "songs": ["Son of My Soul"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: There's Just Something About That Name",
+      "start_time": 1761,
+      "type": "music",
+      "description": "Bill Pierce returns to perform 'There's Just Something About That Name.' This song emphasizes the power and uniqueness of Jesus, celebrating His impact on believers' lives. The warm atmosphere resonates with the congregation as they worship together.",
+      "keywords": ["Jesus", "Bill Pierce", "name", "music", "worship"],
+      "performers": ["Bill Pierce"],
+      "songs": ["There's Just Something About That Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1895,
+      "type": "prayer",
+      "description": "Pastor David Jeremiah leads the opening prayer, invoking God's presence, guidance, and blessing upon the service. This prayer sets a reverent tone for the gathering, preparing the hearts of the congregation to receive the message.",
+      "keywords": ["prayer", "opening", "service", "guidance", "blessing"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Ephesians 5",
+      "start_time": 411,
+      "type": "scripture",
+      "description": "The congregation listens as the scripture from Ephesians 5:25-32 is read. This passage focuses on the biblical principles of love and marriage, highlighting the significance of sacrificial love. It prepares the hearts of listeners for the following sermon.",
+      "keywords": ["scripture", "Ephesians", "love", "marriage", "sacrifice"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Ephesians 5:25-32"]
+    },
+    {
+      "title": "Message: God's Message to Men (Ephesians 5:25-32)",
+      "start_time": 1899,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers a powerful sermon titled, 'God's Message to Men.' He reflects deeply on the scripture from Ephesians, emphasizing commitment, sacrifice, tenderness, and leadership in marriage. His passionate message encourages men to embody Christ's love for their wives, outlining practical steps to strengthen familial relationships.",
+      "keywords": ["sermon", "men", "commitment", "sacrifice", "Ephesians"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Ephesians 5:25-32"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3311,
+      "type": "prayer",
+      "description": "The service concludes with an invitation prayer led by Pastor David Jeremiah. This prayer invites congregants to reflect on their spiritual journey and consider their relationships with God. It encourages those in need to seek a deeper connection with Christ.",
+      "keywords": ["prayer", "invitation", "spiritual", "relationship", "guidance"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Hymn of Invitation",
+      "start_time": 3320,
+      "type": "music",
+      "description": "The congregation joins together in singing a hymn of invitation, solidifying the themes of the sermon. This moment serves as a communal response to the message shared and reinforces the commitment to live out faith in actionable ways.",
+      "keywords": ["hymn", "invitation", "worship", "congregation", "response"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

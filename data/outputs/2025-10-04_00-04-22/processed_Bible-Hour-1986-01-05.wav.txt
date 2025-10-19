@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: When Christ Shall Come",
+      "start_time": 90,
+      "type": "music",
+      "description": "The service begins with an uplifting musical performance by the Sanctuary Choir, setting an inspiring tone for the gathering. The choir sings a selection of powerful hymns, emphasizing themes of hope and divine love. This segment fosters a sense of community and worship as attendees join in praise.",
+      "keywords": ["choir", "hymns", "worship", "inspiration", "community"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["When Christ Shall Come", "And Take Me Home", "What Joys Shall Come"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: All Hail the Power of Jesus' Name",
+      "start_time": 452,
+      "type": "music",
+      "description": "The congregation engages in a heartfelt rendition of 'All Hail the Power of Jesus' Name.' The hymn's powerful lyrics and melody encourage everyone to connect with the message of reverence and adoration for Christ. This shared experience strengthens communal bonds among worshippers.",
+      "keywords": ["hymn", "congregation", "worship", "Jesus", "praise"],
+      "performers": [],
+      "songs": ["All Hail the Power of Jesus' Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Whenever It Rains",
+      "start_time": 669,
+      "type": "music",
+      "description": "Steve and Maria Gardner share a soul-stirring solo, 'Whenever It Rains,' illustrating themes of hope and divine presence. The performance emphasizes the promise of God's unwavering love in times of struggle. Their emotional delivery captivates the congregation, inviting reflection on personal faith.",
+      "keywords": ["solo", "Steve Gardner", "Maria Gardner", "hope", "love"],
+      "performers": ["Steve Gardner", "Maria Gardner"],
+      "songs": ["Whenever It Rains"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Healing Touch (1 Corinthians 6:12-20)",
+      "start_time": 1747,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a compelling message on the importance of maintaining purity and understanding God’s design for sexuality. He discusses societal challenges and biblical principles regarding sexual ethics. Through personal stories and scripture, he emphasizes love as a choice and the spiritual implications of our actions.",
+      "keywords": ["sermon", "purity", "love", "1 Corinthians", "faith"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 6:12-20"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3502,
+      "type": "prayer",
+      "description": "The service concludes with an invitation prayer led by Pastor Rick Hawks, emphasizing the significance of personal decisions in faith. He prays for those seeking spiritual guidance and encourages a commitment to Christ. This heartfelt prayer aims to touch the hearts of attendees and inspire faith transformations.",
+      "keywords": ["prayer", "invitation", "faith", "commitment", "guidance"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

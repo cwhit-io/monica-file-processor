@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [MUSIC]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with upbeat music that sets a joyful tone for the gathering. Though the specific song isn't detailed, the spirited atmosphere invites worshippers to engage with the service wholeheartedly.",
+      "keywords": ["music", "worship", "joyful", "service", "community"],
+      "performers": ["Choir"],
+      "songs": ["[MUSIC]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 694,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, inviting participants to reflect on the significance of communion and the shared experience. The prayer emphasizes the importance of approaching the elements reverently and with thanksgiving.",
+      "keywords": ["prayer", "communion", "thanksgiving", "reflection", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Nothing but the Blood",
+      "start_time": 780,
+      "type": "music",
+      "description": "During this segment, the congregation joins in singing 'Nothing but the Blood', a classic hymn that affirms the redemptive power of Jesus' sacrifice. The lyrics convey themes of redemption, grace, and dependence on Christ's blood for salvation.",
+      "keywords": ["hymn", "blood", "Jesus", "salvation", "redemption"],
+      "performers": [],
+      "songs": ["Nothing but the Blood"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Holy Spirit Resides (John 14)",
+      "start_time": 60,
+      "type": "sermon",
+      "description": "The sermon focuses on the indwelling presence of the Holy Spirit, illustrating how believers become temples of the Holy Spirit. Drawing connections between scripture and personal application, the message emphasizes how the Spirit empowers and guides the lives of the faithful.",
+      "keywords": ["Holy Spirit", "reside", "indwelling", "Jesus", "believers"],
+      "performers": ["Steve Webster"],
+      "songs": [],
+      "scripture_references": ["John 14"]
+    },
+    {
+      "title": "Congregational Hymn: Cornerstone",
+      "start_time": 3534,
+      "type": "music",
+      "description": "The congregation sings 'Cornerstone', affirming their faith in Jesus as the foundation of their lives. The hymn reinforces themes of hope, trust, and reliance on Christ amidst challenges, encouraging worshippers to find strength in their faith.",
+      "keywords": ["hymn", "Jesus", "foundation", "faith", "hope"],
+      "performers": [],
+      "songs": ["Cornerstone"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3678,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that ties together the themes of worship and reflection from the day. Participants are invited to engage with the eternal presence of God in their lives, reinforcing the message shared during the sermon.",
+      "keywords": ["closing", "prayer", "reflection", "worship", "God"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

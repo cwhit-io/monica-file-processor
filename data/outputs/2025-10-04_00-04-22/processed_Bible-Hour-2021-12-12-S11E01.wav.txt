@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "scripture: Scripture Reading: [Matthew 1:18-25]",
+      "start_time": 440,
+      "type": "scripture",
+      "description": "The reading of the scripture narrates the birth of Jesus Christ as outlined by Matthew. It introduces Joseph's dilemma and the divine intervention through an angel in a dream. The passage emphasizes the miraculous nature of Jesus' birth and fulfills the prophecy about the coming Messiah.",
+      "keywords": ["Matthew", "Joseph", "Mary", "birth", "prophecy"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 1:18-25"]
+    },
+    {
+      "title": "Message: Hope When I'm Confused (Matthew 1)",
+      "start_time": 0,
+      "type": "sermon",
+      "description": "The sermon focuses on the theme of hope during confusing times, as illustrated in the story of Joseph. It emphasizes that God's plans can often seem unclear, yet trust and faith are crucial. The speaker encourages the congregation to remember that hope arrived with Jesus, even amidst confusion and uncertainty.",
+      "keywords": ["hope", "confusion", "Joseph", "Christmas", "trust"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["Matthew 1"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The opening prayer sets the tone for the service, inviting the presence of God and asking for clarity and peace throughout the congregation's worship experience. It reflects a desire for divine guidance during the service.",
+      "keywords": ["prayer", "guidance", "worship", "peace", "clarity"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unknown Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir together lifts their voices with a musical selection that enhances the message of hope and the Christmas spirit. The performance aims to engage the congregation and reflect on the themes of the service.",
+      "keywords": ["choir", "music", "Christmas", "hope", "worship"],
+      "performers": ["Choir"],
+      "songs": ["Unknown Title"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Unknown Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The congregation joins in a hymn, celebrating the themes of love and hope related to Christmas. The hymn uplifts spirits and unifies the church community in shared worship.",
+      "keywords": ["hymn", "congregation", "worship", "Christmas", "unity"],
+      "performers": ["Congregation"],
+      "songs": ["Unknown Title"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "A solo performance captures the essence of the Christmas message through music. The artist conveys emotions centered on hope and the arrival of Jesus, inviting deep reflection within the congregation.",
+      "keywords": ["solo", "music", "Christmas", "hope", "reflection"],
+      "performers": ["Unknown Artist"],
+      "songs": ["Unknown Song Title"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The closing prayer gives thanks for the service, asking for God's continued guidance and hope in the lives of the congregation as they head into the week. It emphasizes carrying the message of hope beyond the church walls.",
+      "keywords": ["prayer", "closing", "thanksgiving", "hope", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: [Unknown Topic]",
+      "start_time": 0,
+      "type": "announcement",
+      "description": "Various announcements concerning church activities and events are shared with the congregation. This segment provides the community with updates and invites them to engage in upcoming opportunities.",
+      "keywords": ["announcement", "church", "events", "community", "engagement"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

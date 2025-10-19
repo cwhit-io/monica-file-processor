@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Solo: The Only Hope for the World",
+      "start_time": 88,
+      "type": "music",
+      "description": "Becky Woman performs a heartfelt solo, conveying a message about the hope found in Jesus amid the world's chaos. The lyrics emphasize the importance of turning to God for healing and peace. The powerful delivery resonates with themes of humility and reliance on divine help.",
+      "keywords": ["hope", "Jesus", "peace", "humility", "prayer"],
+      "performers": ["Becky Woman"],
+      "songs": ["The Only Hope for the World"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Nature of Saving Faith (James 2)",
+      "start_time": 1118,
+      "type": "sermon",
+      "description": "Dr. Homer Kent's sermon explores the complexities of saving faith through the lens of the book of James. He discusses the relationship between faith and works, using biblical examples to illustrate how genuine faith is evidenced by action. The message challenges listeners to reflect on their own faith commitments and how these manifest in daily life.",
+      "keywords": ["faith", "works", "James", "Abraham", "salvation"],
+      "performers": ["Dr. Homer Kent"],
+      "songs": [],
+      "scripture_references": ["James 2", "Romans 4", "Hebrews 11:29"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3373,
+      "type": "prayer",
+      "description": "In the closing prayer, Dr. Kent leads the congregation in thanksgiving for the message received. He emphasizes the need for genuine faith that affects daily living and asks for guidance for everyone in their spiritual journey. The prayer encourages a commitment to living out one's faith authentically.",
+      "keywords": ["thanksgiving", "guidance", "faith", "commitment", "journey"],
+      "performers": ["Dr. Homer Kent"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Sanctuary Music",
+      "start_time": 3400,
+      "type": "music",
+      "description": "The sanctuary choir presents uplifting music, enhancing the worship atmosphere. The choir’s harmonious blend inspires the congregation and fosters a deep spiritual connection. As the music soars, it serves as a joyful expression of faith and community.",
+      "keywords": ["worship", "choir", "music", "community", "spiritual"],
+      "performers": ["Sanctuary Choir"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Worship Service Intro",
+      "start_time": 30,
+      "type": "music",
+      "description": "The service begins with the choir leading the congregation in worshipful music, setting a tone of reverence and celebration. The melodies aim to draw people’s minds to God and prepare them for the message to follow. This time of music invites attendees to focus on the spiritual warmth of gathering together as a community.",
+      "keywords": ["worship", "choir", "celebration", "music", "community"],
+      "performers": ["Choir"],
+      "songs": ["Worship Service Intro"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Worthy as the Lamb",
+      "start_time": 108,
+      "type": "music",
+      "description": "The choir performs 'Worthy as the Lamb,' a powerful song that highlights themes of reverence and praise towards Jesus. The lyrics draw upon imagery from Revelation, emphasizing Christ's sacrifice and God's glory. This segment serves to inspire deep worship and reflection in the hearts of the congregation.",
+      "keywords": ["worthy", "lamb", "revelation", "praise", "worship"],
+      "performers": ["Choir"],
+      "songs": ["Worthy as the Lamb"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 444,
+      "type": "prayer",
+      "description": "The pastor leads the congregation in an opening prayer, directing hearts and minds towards God. This invocation seeks divine guidance for the service and invites God's presence among the attendees. The prayer aligns the congregation's spirit with the theme of receiving and sharing God's love.",
+      "keywords": ["prayer", "opening", "invocation", "guidance", "community"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Where He Leads Me",
+      "start_time": 539,
+      "type": "music",
+      "description": "A soloist performs 'Where He Leads Me,' a heartfelt rendition that focuses on the theme of following God wherever He may lead. The song encapsulates the journey of faith and the personal relationship believers have with Christ. This segment encourages the congregation to reflect on their own paths of discipleship.",
+      "keywords": ["solo", "faith", "guidance", "journey", "discipleship"],
+      "performers": ["Unknown"],
+      "songs": ["Where He Leads Me"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: When God Throws in the Towel (Romans 1:24-32)",
+      "start_time": 894,
+      "type": "sermon",
+      "description": "Pastor Moore delivers a sermon titled 'When God Throws in the Towel,' focusing on Romans 1:24-32. He powerfully discusses the implications of God allowing individuals to follow their sinful desires as a form of divine judgment, reflecting on societal moral decline. The message implores the congregation to recognize their need for repentance and God's grace amidst personal and cultural trials.",
+      "keywords": ["sermon", "judgment", "grace", "repentance", "Romans"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Romans 1:24-32"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3526,
+      "type": "prayer",
+      "description": "The closing prayer encapsulates the themes discussed throughout the service. The pastor asks for perseverance in faith and expresses gratitude for God's guidance. This prayer seeks to reinforce the connections made during the sermon and solidifies the congregation's resolve to follow Christ in their lives.",
+      "keywords": ["prayer", "closing", "gratitude", "faith", "community"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

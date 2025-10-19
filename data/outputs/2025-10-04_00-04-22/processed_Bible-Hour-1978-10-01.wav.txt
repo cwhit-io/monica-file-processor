@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Anthem of Praise",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir sings an uplifting anthem of praise, setting the tone for the service. Their harmonies reflect the joy and purpose of gathering to honor the Lord. The congregation is encouraged to join in the spirit of worship as they prepare their hearts for the message.",
+      "keywords": ["anthem", "praise", "choir", "worship", "joy"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Anthem of Praise"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: The Earth Will Sing",
+      "start_time": 171,
+      "type": "music",
+      "description": "Dave Miller performs a solo piece titled 'The Earth Will Sing', celebrating the coming glory of Jesus. The heartfelt lyrics remind the congregation of the joy in creation as it anticipates the return of Christ. This performance fosters a spirit of worship and reflection.",
+      "keywords": ["earth", "sing", "solo", "worship", "Jesus"],
+      "performers": ["Dave Miller"],
+      "songs": ["The Earth Will Sing"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 587,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting God’s presence and guidance throughout the gathering. The prayer highlights themes of hope and redemption, seeking to prepare the hearts of those present to receive the message of the day.",
+      "keywords": ["prayer", "opening", "guidance", "hope", "redemption"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Restoration of Peter (Matthew 16, John 21)",
+      "start_time": 629,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers a powerful sermon on the restoration of Peter, emphasizing God's grace. He unpackages the denial of Peter and God's loving desire to bring him back into fellowship, showcasing the depth of God's mercy and the hope for all believers who have strayed.",
+      "keywords": ["Peter", "restoration", "grace", "forgiveness", "mercy"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Matthew 16", "John 21"]
+    },
+    {
+      "title": "Congregational Hymn: All Hail the Power of Jesus Name",
+      "start_time": 3300,
+      "type": "music",
+      "description": "The congregation joins together in singing the hymn 'All Hail the Power of Jesus Name'. This hymn serves as a proclamation of Christ's lordship and invites the church community to reflect on His greatness, fostering unity and worship through song.",
+      "keywords": ["hymn", "worship", "congregational", "Jesus", "Lordship"],
+      "performers": [],
+      "songs": ["All Hail the Power of Jesus Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: The Lighthouse",
+      "start_time": 1390,
+      "type": "music",
+      "description": "Ron Hackett performs 'The Lighthouse', a touching solo that metaphorically illustrates Jesus as the guiding light for believers. The performance emphasizes themes of safety and hope in Christ, encouraging the congregation to reflect on their reliance on Him.",
+      "keywords": ["lighthouse", "solo", "singing", "Jesus", "hope"],
+      "performers": ["Ron Hackett"],
+      "songs": ["The Lighthouse"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2096,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, encouraging those present to reflect on their relationship with Christ. The prayer seeks God’s intervention and wisdom for everyone contemplating their faith journey, inviting them to consider committing or recommitting their lives to the Lord.",
+      "keywords": ["invitation", "prayer", "commitment", "faith", "relationship"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3322,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for His presence and the message shared. This prayer focuses on guidance for the week ahead and a desire for the congregation to apply the teachings of the day in their daily lives.",
+      "keywords": ["closing", "prayer", "thanksgiving", "guidance", "reflection"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

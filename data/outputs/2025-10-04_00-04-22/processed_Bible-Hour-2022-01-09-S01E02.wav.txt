@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Generosity Song",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir lifts the congregation in song, expressing themes of generosity and love through music. The melody encourages everyone to reflect on their contributions and the importance of giving.",
+      "keywords": ["generosity", "choir", "song", "praise"],
+      "performers": ["Choir"],
+      "songs": ["Generosity Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Counter-Culture Generosity (Psalm 50)",
+      "start_time": 328,
+      "type": "sermon",
+      "description": "In this impactful sermon, the speaker challenges the congregation to adopt a counter-culture approach to generosity, drawing lessons from Psalm 50. He explores themes like preparation, praise, and promises, urging believers to align their financial stewardship with God's will.",
+      "keywords": ["sermon", "giving", "generosity", "Psalm", "faith"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["Psalm 50:14"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting God's presence and guidance throughout the session. The congregation collectively seeks focus and inspiration as they prepare for worship and teaching.",
+      "keywords": ["prayer", "worship", "invitation", "guidance"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "drama: Follow Through",
+      "start_time": 354,
+      "type": "drama",
+      "description": "A short drama illustrates the importance of following through on promises, especially in the context of generosity. Characters navigate the challenges of keeping commitments, emphasizing the significance of intentions and actions aligning.",
+      "keywords": ["drama", "promises", "intentions", "challenges"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Generosity in Action",
+      "start_time": 2000,
+      "type": "music",
+      "description": "A solo performance brings a reflective moment, focusing on the personal impact of generosity. The singer shares a heartfelt rendition that resonates with many in the congregation, encouraging individual introspection.",
+      "keywords": ["solo", "song", "reflective", "generosity"],
+      "performers": ["Soloist"],
+      "songs": ["Generosity in Action"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2456,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, prompting the congregation to reflect on what they have learned about generosity. The prayer emphasizes trusting God with their resources and committing to live according to His principles.",
+      "keywords": ["prayer", "closing", "reflection", "commitment"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

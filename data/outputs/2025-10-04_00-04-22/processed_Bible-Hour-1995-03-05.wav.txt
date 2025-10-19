@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: A Word from the Lord",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir opens the service with a heartfelt song titled 'A Word from the Lord.' The lyrics convey a deep longing for spiritual guidance and reassurance from God, demonstrating the congregation's need for a divine message that can bring peace and direction to their lives.",
+      "keywords": ["choir", "song", "worship", "guidance", "Lord"],
+      "performers": ["Blackhawk Baptist Church Choir"],
+      "songs": ["A Word from the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: How Firm a Foundation",
+      "start_time": 324,
+      "type": "music",
+      "description": "The congregation joins together to sing the beloved hymn 'How Firm a Foundation.' This hymn reflects a theme of steadfastness in faith, emphasizing God’s promises and the comfort they bring during trials.",
+      "keywords": ["hymn", "faith", "promise", "worship"],
+      "performers": ["Congregation"],
+      "songs": ["How Firm a Foundation"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 616,
+      "type": "announcement",
+      "description": "Associate Pastor Tim Teder shares important announcements regarding upcoming events at the church, including a concert by recording artist Steve Green and an outreach service aimed at engaging non-church visitors. He also provides updates on the health of fellow associate pastor Steve Longbrake and his wife.",
+      "keywords": ["announcement", "events", "concert", "outreach"],
+      "performers": ["Tim Teder"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Colossians 2",
+      "start_time": 800,
+      "type": "scripture",
+      "description": "The scripture reading focuses on Colossians chapter 2, which sets the stage for understanding the Apostle Paul's teachings. This passage serves to introduce the themes of passion and commitment that will be explored in the sermon.",
+      "keywords": ["scripture", "Colossians", "reading", "teaching"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Colossians 2"]
+    },
+    {
+      "title": "Message: Paul's Passion for the Church (Colossians 2:1-7)",
+      "start_time": 824,
+      "type": "sermon",
+      "description": "In this sermon, Associate Pastor Tim Teder delves into Paul's focused, determined, and purposeful passion for the church as described in Colossians 2. He emphasizes the importance of encouragement, unity, being grounded in truth, and progressing in one's faith. The message stresses how Paul's unwavering commitment can inspire contemporary believers and foster a vibrant church community.",
+      "keywords": ["sermon", "passion", "Paul", "church", "teaching"],
+      "performers": ["Tim Teder"],
+      "songs": [],
+      "scripture_references": ["Colossians 2:1-7"]
+    },
+    {
+      "title": "Choir: Shekinah Glory",
+      "start_time": 871,
+      "type": "music",
+      "description": "The choir performs 'Shekinah Glory,' a powerful piece that reflects God's majesty and divine presence. The congregation is moved by the performance, which invokes a deep sense of reverence and worship.",
+      "keywords": ["choir", "Shekinah Glory", "worship", "God"],
+      "performers": ["Blackhawk Baptist Church Choir"],
+      "songs": ["Shekinah Glory"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3359,
+      "type": "prayer",
+      "description": "The service transitions into an opening prayer led by Pastor Tim Teder, who asks for God's guidance, closeness, and blessing upon the congregation and the message of the day. The prayer emphasizes the need for unity and strength within the church community.",
+      "keywords": ["prayer", "opening", "guidance", "unity"],
+      "performers": ["Tim Teder"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3408,
+      "type": "prayer",
+      "description": "Pastor Tim Teder concludes the service with a closing prayer that reflects on the themes discussed throughout the sermon, asking for the church to live in unity and to hold fast to God's truth and love.",
+      "keywords": ["prayer", "closing", "church", "truth"],
+      "performers": ["Tim Teder"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

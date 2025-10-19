@@ -1,0 +1,84 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a bell ringing, signaling the start of worship and a song performed by the choir. This moment sets a joyful and inviting tone for the congregation.",
+      "keywords": ["worship", "choir"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 30,
+      "type": "music",
+      "description": "A solo performance follows the choir's introduction, deepening the atmosphere of worship with heartfelt lyrics. The congregation engages in a reflective mood, preparing for the message ahead.",
+      "keywords": ["worship", "solo"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [Matthew 28]",
+      "start_time": 63,
+      "type": "scripture",
+      "description": "The pastor reads scripture from Matthew 28, signaling the importance of Jesus’ authority and the great commission given to His followers. This reading lays the foundational theme of the sermon to come.",
+      "keywords": ["Jesus", "authority", "commission"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["Matthew 28"]
+    },
+    {
+      "title": "drama: [Creation to Exile]",
+      "start_time": 116,
+      "type": "drama",
+      "description": "A dramatic retelling of biblical history unfolds, starting with the creation story and moving through significant events like the fall of man, Cain and Abel, and the great flood. The performance highlights God's ongoing relationship with humanity.",
+      "keywords": ["creation", "drama", "fall", "Noah"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Journey of Redemption (Genesis 1-50)",
+      "start_time": 360,
+      "type": "sermon",
+      "description": "The sermon follows the dramatic presentation, focusing on God's redemptive plan from creation through the lives of key biblical figures, including Abraham, Isaac, Jacob, and Joseph. The pastor emphasizes the themes of faith and obedience in God's covenant promises, encouraging the congregation to trust in God's continual guidance.",
+      "keywords": ["redemption", "faith", "obedience", "covenant", "promises"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["Genesis 1-50"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 1415,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, extending a heartfelt call for the congregation to deepen their relationship with God. The pastor encourages everyone to respond to God's invitation for transformation and faith.",
+      "keywords": ["prayer", "invitation", "transformation"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Trust and Obey]",
+      "start_time": 3495,
+      "type": "music",
+      "description": "The service concludes with a congregational hymn where everyone is invited to sing 'Trust and Obey'. This uplifting moment fosters unity and reaffirms the commitment to live according to God's teachings.",
+      "keywords": ["hymn", "congregation", "worship"],
+      "performers": ["[Unknown]"],
+      "songs": ["Trust and Obey"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3535,
+      "type": "prayer",
+      "description": "A closing prayer wraps up the service, where the pastor blesses the congregation and asks for God's guidance in their daily lives. This final moment encourages everyone to carry the message of the service with them.",
+      "keywords": ["closing", "blessing", "guidance"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

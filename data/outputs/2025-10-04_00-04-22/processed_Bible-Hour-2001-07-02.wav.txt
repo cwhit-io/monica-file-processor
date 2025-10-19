@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: You Are Holy",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir leads the congregation in a worshipful song, expressing the holiness of God. The repetition of the chorus reinforces the theme of reverence and devotion. This segment invites worshipers to collectively acknowledge God's greatness in a joyful atmosphere.",
+      "keywords": ["worship", "choir", "holiness", "praise", "congregation"],
+      "performers": ["[Choir]"],
+      "songs": ["You Are Holy"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: I Will Worship",
+      "start_time": 405,
+      "type": "music",
+      "description": "The choir continues ushering the congregation into worship with a song about complete devotion and commitment to God. The lyrics emphasize a personal promise to worship with all one's heart and strength. This segment uplifts the spirit of the gathered community.",
+      "keywords": ["worship", "commitment", "congregation", "devotion", "praise"],
+      "performers": ["[Choir]"],
+      "songs": ["I Will Worship"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 589,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, asking for God's presence and guidance throughout the service. This prayer sets a tone of reverence and community, inviting everyone to engage with the worship experience.",
+      "keywords": ["prayer", "worship", "guidance", "community", "God"],
+      "performers": ["[Pastor]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Acts 1-21",
+      "start_time": 607,
+      "type": "scripture",
+      "description": "The pastor invites the congregation to open their Bibles to the Book of Acts for a reading that encapsulates the journey of the early church. This reading highlights the growth and challenges faced by the believers, framing the upcoming sermon.",
+      "keywords": ["Acts", "Bible", "early church", "scripture", "reading"],
+      "performers": ["[Pastor]"],
+      "songs": [],
+      "scripture_references": ["Acts 1-21"]
+    },
+    {
+      "title": "Message: Living a Life of Worship (Acts 1-21)",
+      "start_time": 621,
+      "type": "sermon",
+      "description": "The pastor delivers a compelling sermon focused on the concept of living a life of worship. He explores the lessons from the Book of Acts, emphasizing the early church's unity, mission, and unwavering faith. The message encourages congregation members to reflect on their own commitment to God's calling.",
+      "keywords": ["worship", "Acts", "sermon", "unity", "faith"],
+      "performers": ["[Pastor]"],
+      "songs": [],
+      "scripture_references": ["Acts 1-21"]
+    },
+    {
+      "title": "Choir: Holy Holy",
+      "start_time": 3111,
+      "type": "music",
+      "description": "The choir leads an ending song, repeating phrases that exalt God's holiness. This musical finale creates a powerful moment, affirming the central themes of the service and inviting the congregation to reflect on God's majesty.",
+      "keywords": ["worship", "choir", "holiness", "praise", "finale"],
+      "performers": ["[Choir]"],
+      "songs": ["Holy Holy"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3407,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that reinforces the message shared during the sermon. This prayer encompasses requests for strength and guidance as congregants go about their week, fostering a sense of community and belonging.",
+      "keywords": ["prayer", "closing", "community", "strength", "guidance"],
+      "performers": ["[Pastor]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Encouragement to Share Stories",
+      "start_time": 3413,
+      "type": "announcement",
+      "description": "The pastor encourages the congregation to share their testimonies and experiences regarding the impact of the church and its services on their lives. The call to action aims to strengthen community ties and highlight the role of the church in individual journeys.",
+      "keywords": ["announcement", "testimony", "community", "impact", "sharing"],
+      "performers": ["[Pastor]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

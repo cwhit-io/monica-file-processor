@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Go forth",
+      "start_time": 548,
+      "type": "music",
+      "description": "The choir performs a powerful song titled 'Go forth', expressing encouragement and inspiration as worshippers prepare their hearts for the message to follow. The uplifting melody and harmonies create a spirit of unity and anticipation within the congregation.",
+      "keywords": ["choir", "go forth", "worship", "music"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["Go forth"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Global Missions",
+      "start_time": 807,
+      "type": "announcement",
+      "description": "Pastor Kelly Bird highlights the importance of global missions by identifying and honoring members of the congregation who are actively serving in various capacities around the world. This moment serves to inspire the church family to engage further in supporting and learning about global missions.",
+      "keywords": ["missions", "service", "congregation", "global"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 481,
+      "type": "prayer",
+      "description": "An opening prayer is offered to prepare the congregation's hearts and minds for worship and the message ahead. The prayer seeks God's guidance and presence during the service, fostering a spirit of reflection and readiness.",
+      "keywords": ["prayer", "worship", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: God’s Call to Jonah (Jonah 1)",
+      "start_time": 1061,
+      "type": "sermon",
+      "description": "In the sermon, Pastor Kelly Bird explores the biblical story of Jonah and God's call for him to preach to Nineveh. The message discusses how Jonah initially fled from God's command and reflects on what it means to respond to God's calling in our lives, emphasizing the importance of being open to His direction and purpose.",
+      "keywords": ["Jonah", "calling", "God", "Nineveh", "response"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Jonah 1"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3488,
+      "type": "prayer",
+      "description": "A heartfelt invitation prayer is offered, encouraging attendees to consider their personal response to God's call. The prayer emphasizes openness and readiness to serve, fostering a sense of community as individuals reflect on their spiritual journey.",
+      "keywords": ["invitation", "prayer", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Go Forth (Reprise)",
+      "start_time": 3550,
+      "type": "music",
+      "description": "The choir returns to perform a reprise of 'Go forth,' uplifting the congregation with a repeated expression of joy and encouragement. This performance serves as a celebratory conclusion to the service, reminding everyone of their mission to go out into the world.",
+      "keywords": ["choir", "go forth", "reprise", "celebration"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["Go forth"],
+      "scripture_references": []
+    }
+  ]
+}
+```

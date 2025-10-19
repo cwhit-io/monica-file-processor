@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Medley of Praise Songs",
+      "start_time": 93,
+      "type": "music",
+      "description": "The choir leads the congregation in a vibrant medley of praise songs. The music celebrates God's strength and majesty, inviting everyone to worship together. The performance creates an uplifting atmosphere that sets the tone for the service.",
+      "keywords": ["choir", "praise", "worship", "music", "God"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Medley of Praise Songs"],
+      "scripture_references": []
+    },
+    {
+      "title": "Special Music: Be Still, My Soul",
+      "start_time": 1062,
+      "type": "music",
+      "description": "Paul Turner performs a heartfelt piano piece, 'Be Still, My Soul,' in his final Sunday at the church. Accompanied by Scott Schindler on the organ, this tender performance resonates with the congregation, offering a moment of reflection.",
+      "keywords": ["music", "piano", "worship", "Paul Turner", "musical tribute"],
+      "performers": ["Paul Turner", "Scott Schindler"],
+      "songs": ["Be Still, My Soul"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1360,
+      "type": "prayer",
+      "description": "A prayer of gratitude and worship is offered, thanking God for His presence and grace. The speaker acknowledges the holiness of the gathering and asks for strength and healing for those in need within the community.",
+      "keywords": ["prayer", "worship", "thanksgiving", "strength", "healing"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Love and Knowledge (1 Corinthians 8)",
+      "start_time": 1853,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a teaching from 1 Corinthians 8, addressing issues of liberty and the responsibility of knowledge among believers. He emphasizes the principles of love over knowledge and warns against leading others astray through one's actions.",
+      "keywords": ["1 Corinthians", "sermon", "knowledge", "love", "Christian living"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 8"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3514,
+      "type": "prayer",
+      "description": "In an invitation prayer, the congregation is encouraged to seek a personal relationship with Jesus. The speaker leads a prayer for forgiveness, inviting those present to open their hearts to God and accept His salvation.",
+      "keywords": ["invitation", "prayer", "salvation", "forgiveness", "relationship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

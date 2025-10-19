@@ -1,0 +1,106 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Worship Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat music set that sets the tone for the gathering. It invites the congregation into a spirit of worship and prepares their hearts for the upcoming elements of the service.",
+      "keywords": ["worship", "music", "uplifting", "praise"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Unidentified Song",
+      "start_time": 31,
+      "type": "music",
+      "description": "The choir performs a song that inspires and engages the congregation. This music enhances the worship atmosphere and encourages participation as people reflect on the lyrics and the message behind the song.",
+      "keywords": ["choir", "song", "worship", "praise"],
+      "performers": ["Choir"],
+      "songs": ["Unidentified Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Isaiah 58",
+      "start_time": 179,
+      "type": "scripture",
+      "description": "The pastor reads from Isaiah 58, highlighting God's message about true spirituality and care for others. This scripture serves as a foundation for the teaching to follow, emphasizing the importance of aligning actions with God’s heart.",
+      "keywords": ["Isaiah", "scripture", "reading", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Isaiah 58"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 450,
+      "type": "prayer",
+      "description": "The congregation participates in an opening prayer, acknowledging their shortcomings and seeking God's guidance. This prayer focuses on asking for transformation and alignment with God's will, preparing hearts for the worship experience ahead.",
+      "keywords": ["prayer", "opening", "worship", "transformation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Film Clip: Live 58",
+      "start_time": 474,
+      "type": "music",
+      "description": "A film clip titled 'Live 58' is shown, which visually represents the message of Isaiah 58. This powerful presentation encourages the congregation to consider their role in combating poverty and injustice through actionable love.",
+      "keywords": ["film", "clip", "live", "compassion"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Living Out Isaiah 58 (Isaiah 58)",
+      "start_time": 1219,
+      "type": "sermon",
+      "description": "The sermon dives deep into Isaiah 58, exploring what it means to truly fast and live in accordance with God's heart. The pastor outlines four essential elements that must not be neglected in the Christian life, emphasizing selflessness, social justice, and the importance of being a light to those in need.",
+      "keywords": ["sermon", "Isaiah", "fasting", "light", "justice", "selflessness"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Isaiah 58"]
+    },
+    {
+      "title": "drama: Testimony: Kirsty's Journey",
+      "start_time": 978,
+      "type": "drama",
+      "description": "Kirsty shares her personal journey of overcoming financial struggles and finding purpose in helping others, particularly through her involvement with her church's mission in Kenya. Her story illustrates the transformative power of faith and community support.",
+      "keywords": ["drama", "testimony", "Kirsty", "overcoming", "faith"],
+      "performers": ["Kirsty"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Ory's Redemption",
+      "start_time": 1055,
+      "type": "testimony",
+      "description": "Ory shares his dramatic transformation from a gang member to a mentor helping others escape a life of addiction. His powerful testimony highlights the redemptive power of faith and the importance of giving back to the community.",
+      "keywords": ["testimony", "Ory", "redemption", "faith", "addiction"],
+      "performers": ["Ory"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3480,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, in which the pastor asks for God's blessing and guidance as the congregation prepares to go into their week. This prayer focuses on continued transformation and the courage to act with compassion.",
+      "keywords": ["prayer", "closing", "blessing", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Upbeat Worship Music",
+      "start_time": 3490,
+      "type": "music",
+      "description": "The service closes with upbeat music that encourages the congregation to leave with a joyful heart and a spirit of worship. This closing music serves as a reminder to carry the message of the day into their daily lives.",
+      "keywords": ["worship", "music", "joyful", "praise"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

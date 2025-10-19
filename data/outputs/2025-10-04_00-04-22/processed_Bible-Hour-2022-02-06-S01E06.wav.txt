@@ -1,0 +1,36 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Message: Counterculture Success (Psalm 90)",
+      "start_time": 0,
+      "type": "sermon",
+      "description": "In today's message, the pastor discusses the concept of counterculture success through Psalm 90. Highlighting themes of God's sovereignty, human frailty, the brevity of life, and the possibility of fulfillment, he encourages the congregation to align their understanding of success with God's perspective. The call to liberate ministry from the success syndrome resonates with everyone called to serve.",
+      "keywords": ["success", "Moses", "Psalm 90", "sovereignty", "fulfillment"],
+      "performers": ["Pastor Kevin"],
+      "songs": [],
+      "scripture_references": ["Psalm 90"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 2250,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting the congregation to focus their hearts and minds on worship and the message. It sets an atmosphere of reverence and expectation for the teachings to follow.",
+      "keywords": ["worship", "community", "focus"],
+      "performers": ["Pastor Kevin"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2361,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, encouraging the congregation to reflect on the teachings of the day. It asks for God's guidance in applying the insights about counterculture success into their daily lives.",
+      "keywords": ["reflection", "guidance", "application"],
+      "performers": ["Pastor Kevin"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

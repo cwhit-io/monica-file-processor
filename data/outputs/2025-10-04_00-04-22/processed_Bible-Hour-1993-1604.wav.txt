@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: My Faith Has Found a Resting Place",
+      "start_time": 100,
+      "type": "music",
+      "description": "The sanctuary choir leads the congregation in a heartfelt song, expressing deep trust and faith in Jesus Christ. The lyrics highlight the reliance on Christ's sacrifice and grace, reinforcing the community's shared belief in salvation through faith.",
+      "keywords": ["faith", "trust", "Jesus", "salvation", "choir"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["My Faith Has Found a Resting Place"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Friend of a Wounded Heart",
+      "start_time": 320,
+      "type": "music",
+      "description": "Becky Woolman presents a moving solo that encapsulates themes of healing and friendship in Christ. The song encourages listeners to find solace in Jesus, who understands their pain, providing hope and comfort through trials.",
+      "keywords": ["healing", "hope", "friendship", "Jesus", "solo"],
+      "performers": ["Becky Woolman"],
+      "songs": ["Friend of a Wounded Heart"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Patriotic Panorama Event",
+      "start_time": 610,
+      "type": "announcement",
+      "description": "The pastor shares details about an upcoming special event at the church called the Patriotic Panorama, inviting the congregation to participate. The event promises music and reflection on American values, creating community engagement.",
+      "keywords": ["event", "Patriotic Panorama", "community", "invitation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Understanding Difficult Times (Revelation 10)",
+      "start_time": 930,
+      "type": "sermon",
+      "description": "Pastor Moore delivers an insightful sermon focusing on the sovereignty of God as presented in Revelation 10. He addresses the struggle believers face in understanding God’s goodness during challenging times, referencing the story of Job to illustrate faith amid suffering.",
+      "keywords": ["sovereignty", "God", "suffering", "Job", "faith"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 10", "Luke 11", "Job 1-2", "Job 38-42"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3347,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by the pastor, inviting attendees to reflect on the message shared. The prayer emphasizes gratitude and a desire for spiritual growth, encapsulating the community's hopes and faith.",
+      "keywords": ["prayer", "gratitude", "spiritual growth", "community"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

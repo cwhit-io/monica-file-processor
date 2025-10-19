@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Blood of the Ties",
+      "start_time": 86,
+      "type": "music",
+      "description": "The Sanctuary Choir performs the song 'Blood of the Ties,' celebrating themes of redemption and remembrance. The music creates an atmosphere of worship and unity among the congregation. This is a highlight of the service, emphasizing the church's commitment to musical worship.",
+      "keywords": ["choir", "blood", "ties", "worship", "music"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Blood of the Ties"],
+      "scripture_references": []
+    },
+    {
+      "title": "Handbell Choir: Blood of the Ties",
+      "start_time": 375,
+      "type": "music",
+      "description": "The Handbell Choir continues with the performance of 'Blood of the Ties,' enhancing the reverent mood established earlier in the service. The intricate coordination and harmony of the bells provide a unique auditory experience, drawing the congregation deeper into worship.",
+      "keywords": ["handbell", "choir", "music", "worship"],
+      "performers": ["Handbell Choir"],
+      "songs": ["Blood of the Ties"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Passing the Point of No Return (Exodus 7)",
+      "start_time": 965,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a critical message on spiritual commitment titled 'Passing the Point of No Return.' Through biblical narratives, particularly from Exodus, he challenges listeners to consider the urgency of accepting Christ before it's too late. The sermon discusses how repeated rejection of God's truth can lead to a hardened heart, stressing the importance of timely faith.",
+      "keywords": ["sermon", "Russell Moore", "Exodus", "spiritual commitment", "salvation"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Exodus 7"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3380,
+      "type": "prayer",
+      "description": "An Invitation Prayer is offered, inviting those who have felt the call to accept Christ to make that commitment. The prayer focuses on sincerity and God's grace, creating a significant moment for congregants to reflect on their faith journey. It encourages openness to God and commitment to change.",
+      "keywords": ["prayer", "invitation", "commitment", "salvation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3408,
+      "type": "prayer",
+      "description": "The service concludes with a Closing Prayer led by Pastor Russell Moore. In this moment, the congregation is invited to express gratitude and seek guidance as they leave. The prayer emphasizes God's continual presence in their lives and encourages them to carry the message of the sermon into everyday actions.",
+      "keywords": ["prayer", "closing", "guidance", "gratitude"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

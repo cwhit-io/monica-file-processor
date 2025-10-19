@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Anthem of Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a warm welcome followed by the choir leading an anthem of worship. This moment sets the tone for the service, inviting attendees to open their hearts to God’s Word through music. The congregation is encouraged to listen carefully to the lyrics, reflecting on their commitment to the Lord.",
+      "keywords": ["worship", "choir", "invitation", "music", "grace"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Anthem of Worship"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Room in My Heart",
+      "start_time": 260,
+      "type": "music",
+      "description": "Following the choir, the congregation engages in singing a hymn about making space for Jesus in their lives. The lyrics emphasize commitment and surrender, serving as a reminder of the new year and renewed faith in Christ. The atmosphere is filled with collective praise as everyone joins in the worship.",
+      "keywords": ["hymn", "Jesus", "commitment", "congregation", "worship"],
+      "performers": [],
+      "songs": ["Room in My Heart"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Calvary Covers It All",
+      "start_time": 503,
+      "type": "music",
+      "description": "Dennis Kirschner performs a solo that captures the essence of God’s forgiveness and grace through the message that Calvary covers all. The song reflects on the redemptive power of Jesus’ sacrifice, resonating deeply with the congregation as they reflect on their personal experiences of grace.",
+      "keywords": ["forgiveness", "grace", "Jesus", "Calvary", "redemption"],
+      "performers": ["Dennis Kirschner"],
+      "songs": ["Calvary Covers It All"],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Don Bartlett's Story",
+      "start_time": 3196,
+      "type": "testimony",
+      "description": "Don Bartlett shares his unique testimony, highlighting his journey through challenges such as poverty and rejection. His story emphasizes the transformative power of Jesus Christ, encouraging others to embrace faith and find hope amidst difficulties. His heartfelt words resonate with both those familiar with struggle and those seeking strength.",
+      "keywords": ["testimony", "faith", "hope", "Jesus", "transformation"],
+      "performers": ["Don Bartlett"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Embracing Jesus (John 3:16)",
+      "start_time": 3348,
+      "type": "sermon",
+      "description": "The sermon centers on the importance of making a decision regarding Jesus Christ, drawing from personal stories and Biblical truths. The speaker emphasizes the universal need for hope and forgiveness, inviting the congregation to accept Jesus as their personal Savior. This profound message serves to challenge and inspire attendees towards a life-changing relationship with Christ.",
+      "keywords": ["sermon", "Jesus", "hope", "forgiveness", "decision"],
+      "performers": ["Guest Speaker"],
+      "songs": [],
+      "scripture_references": ["John 3:16"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3421,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, encouraging the congregation to reflect on their spiritual decisions in light of the message shared. This moment is a call to action, as individuals are invited to respond to the sermon and commit their lives to Christ, fostering a spirit of openness and readiness for spiritual renewal.",
+      "keywords": ["prayer", "invitation", "commitment", "spiritual", "salvation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Closing Thoughts",
+      "start_time": 3475,
+      "type": "announcement",
+      "description": "The service concludes with closing thoughts that encourage attendees to consider their personal relationships with Jesus. This segment includes reminders of upcoming events and an invitation to participate in fellowship and community outreach. It aims to keep the congregation engaged beyond the service.",
+      "keywords": ["closing", "community", "fellowship", "events", "announcements"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

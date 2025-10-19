@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 761,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting God's presence and acknowledging the joy of a relationship with Christ. The prayer emphasizes the importance of truth in worship and the hope that God's Spirit will minister through the upcoming message.",
+      "keywords": ["prayer", "worship", "God", "relationship"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Colossians 1",
+      "start_time": 792,
+      "type": "scripture",
+      "description": "The congregation is invited to turn to Colossians chapter 1 for the scripture reading. The chapter is pivotal as it lays the foundation for the sermon, which focuses on the supremacy and sufficiency of Christ in salvation.",
+      "keywords": ["Colossians", "scripture", "reading", "Bible"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Colossians 1"]
+    },
+    {
+      "title": "Message: The Right Man for the Job (Colossians 1)",
+      "start_time": 799,
+      "type": "sermon",
+      "description": "Pastor Moore draws from Colossians 1 to discuss the need for the right man to provide salvation. He explains Jesus' qualifications, highlighting His divine nature, the creation of all things by Him, and His role as sustainer. The message stresses that Christ is uniquely suited for the role of Savior and emphasizes the importance of placing faith in Him for redemption and eternal life.",
+      "keywords": ["Jesus", "salvation", "Colossians", "Pastor Moore"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Colossians 1"]
+    },
+    {
+      "title": "Solo: Jesus, Lord to Me",
+      "start_time": 569,
+      "type": "music",
+      "description": "A solo performance features the song 'Jesus, Lord to Me,' expressing deep personal worship and recognition of Christ's lordship and significance in the individual's life.",
+      "keywords": ["solo", "worship", "Jesus", "music"],
+      "performers": ["Unknown"],
+      "songs": ["Jesus, Lord to Me"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3152,
+      "type": "prayer",
+      "description": "Pastor Moore leads an invitation prayer, encouraging attendees to accept Christ as their personal Savior. The prayer is heartfelt, emphasizing the importance of inviting Jesus into one's heart for forgiveness and hope.",
+      "keywords": ["invitation", "prayer", "salvation", "Jesus"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Church Updates",
+      "start_time": 2941,
+      "type": "announcement",
+      "description": "The closing announcements highlight exciting updates within the church, including an upcoming outreach service and an encouraging report on contributions surpassing the budget. The announcements foster a sense of community and involvement among attendees.",
+      "keywords": ["announcement", "service", "community", "updates"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2941,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that expresses gratitude for the message. It encourages the congregation to carry the presence of Christ into their week and acknowledges the significance of Jesus in their lives.",
+      "keywords": ["closing", "prayer", "thanksgiving", "Christ"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

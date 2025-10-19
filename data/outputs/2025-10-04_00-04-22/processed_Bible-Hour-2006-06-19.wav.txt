@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 459,
+      "type": "prayer",
+      "description": "The opening prayer sets the spiritual tone for the service, inviting the congregation to connect intimately with God. The prayer highlights the importance of letting go of distractions and focusing on worship. It emphasizes the need for divine assistance in identifying personal barriers to a closer relationship with God.",
+      "keywords": ["prayer", "worship", "God", "intimacy", "congregation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Letting Go of Unforgiveness (Matthew 18:21-35)",
+      "start_time": 729,
+      "type": "sermon",
+      "description": "This sermon explores the theme of forgiveness, focusing on the parable of the unforgiving servant from Matthew 18. Sermon highlights the importance of recognizing our own sins in relation to forgiving others. It discusses the four prison walls we face: revenge, resentment, regret, and resisting blessing, urging the congregation to let go for true freedom in Christ.",
+      "keywords": ["forgiveness", "Matthew", "sermon", "unforgiving servant", "freedom"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 18:21-35"]
+    },
+    {
+      "title": "Congregational Hymn: I Surrender All",
+      "start_time": 3340,
+      "type": "music",
+      "description": "The hymn 'I Surrender All' serves as a heartfelt response to the sermon, inviting the congregation to commit themselves fully to God. This passionate song emphasizes themes of surrender, trust, and worship. It encourages the community to release their burdens and embrace a life of devotion.",
+      "keywords": ["hymn", "surrender", "worship", "trust", "devotion"],
+      "performers": ["Team"],
+      "songs": ["I Surrender All"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3719,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, reinforcing the messages shared during the sermon and hymn. It seeks divine help for the congregation to genuinely let go of any barriers to intimacy with God. The prayer underscores gratitude and commitment to living a life of forgiveness.",
+      "keywords": ["prayer", "closing", "forgiveness", "God", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

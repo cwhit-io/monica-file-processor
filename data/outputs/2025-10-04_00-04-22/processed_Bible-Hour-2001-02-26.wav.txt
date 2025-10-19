@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Congregational Hymn: [Singing]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with vibrant singing as the congregation participates in worship. The joyful atmosphere sets a reverent tone for the message to follow. This section features heartfelt praise and sets the stage for the upcoming teaching.",
+      "keywords": ["worship", "singing", "congregation", "praise", "hymn"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Spreading the Gospel (Acts 13)",
+      "start_time": 203,
+      "type": "sermon",
+      "description": "The sermon focuses on Acts 13, exploring God's intentional plan for spreading the gospel beyond Jerusalem. The speaker highlights the diverse leadership in the Antioch church, the church's mission, and the importance of ministering to the Lord to discern God's will.",
+      "keywords": ["Acts", "gospel", "Antioch", "mission", "leadership"],
+      "performers": ["[Speaker Name]"],
+      "songs": [],
+      "scripture_references": ["Acts 1:8", "Acts 13"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3314,
+      "type": "prayer",
+      "description": "The opening prayer invites God’s presence and guidance for the service. It emphasizes the importance of worship and requests that hearts be open to receiving the message delivered that day.",
+      "keywords": ["prayer", "worship", "guidance", "service"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 3390,
+      "type": "music",
+      "description": "The choir performs a soul-stirring anthem that uplifts the congregation. The song encapsulates themes of faith and devotion, reinforcing the message of the sermon and connecting the congregation in worship.",
+      "keywords": ["choir", "faith", "devotion", "worship", "anthem"],
+      "performers": ["Black Honk Baptist Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3504,
+      "type": "prayer",
+      "description": "The closing prayer concludes the service, expressing gratitude for the gathered community and the message shared. It seeks blessings for those going into the week ahead, encouraging them to embody the principles discussed.",
+      "keywords": ["closing", "prayer", "gratitude", "blessing", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

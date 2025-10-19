@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Special Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with a special performance featuring the Sanctuary Choir and Orchestra, providing uplifting music intended to encourage the congregation. The atmosphere is filled with harmony as attendees come together in worship.",
+      "keywords": ["choir", "orchestra", "worship", "music"],
+      "performers": ["Sanctuary Choir", "Orchestra"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Special Music",
+      "start_time": 348,
+      "type": "music",
+      "description": "Continuing the musical offerings, this segment showcases additional uplifting music, creating an atmosphere of joy and praise. The performance emphasizes the theme of hope in challenging times, engaging the audience in worship.",
+      "keywords": ["music", "worship", "hope"],
+      "performers": ["Sanctuary Choir", "Brian Loewson"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Discussion with Steve and Maria Gardner",
+      "start_time": 724,
+      "type": "interview",
+      "description": "An engaging interview segment with Steve and Maria Gardner discusses their upcoming album 'The Eye of the Storm' and their music ministry. They share insights about their personal experiences and the inspiration behind their work, inviting the congregation to join their musical journey.",
+      "keywords": ["Steve Gardner", "Maria Gardner", "interview", "music", "ministry"],
+      "performers": ["Steve Gardner", "Maria Gardner"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Calvary's Love",
+      "start_time": 909,
+      "type": "music",
+      "description": "The Sanctuary Choir performs 'Calvary's Love', delivering a powerful and emotional rendition that speaks to the depth of God's love. This segment enhances the worship experience by drawing attention to the sacrifice and grace found in Faith.",
+      "keywords": ["calvary", "love", "worship", "choir"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Calvary's Love"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Character Building (James 1:2-4)",
+      "start_time": 1026,
+      "type": "sermon",
+      "description": "Pastor Russell Moore begins a transformative sermon series on the Book of James, focusing on the theme of character building through trials. He emphasizes that God prioritizes our growth in character over our comfort, urging the congregation to embrace trials with a sense of joy and purpose.",
+      "keywords": ["sermon", "character", "trials", "James"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["James 1:2-4"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3358,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer, inviting the congregation to reflect on the messages shared during the service. It's a moment of connection with God, emphasizing gratitude and the commitment to apply the teachings received.",
+      "keywords": ["prayer", "closing", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 3374,
+      "type": "announcement",
+      "description": "Announcements regarding upcoming church events are shared with the congregation, providing information on opportunities to engage further within the community. This includes special performances and gatherings that foster fellowship among church members.",
+      "keywords": ["announcements", "events", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

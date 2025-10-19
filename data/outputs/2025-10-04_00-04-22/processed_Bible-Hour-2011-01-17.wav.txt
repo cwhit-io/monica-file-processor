@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Untitled Performance]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The church service opens with upbeat music that sets a joyful atmosphere. As the congregation claps along, the spirit of worship begins to fill the room. This initial musical segment invites everyone to engage with the service energetically and joyfully.",
+      "keywords": ["worship", "choir", "music", "joy", "clapping"],
+      "performers": ["Chain of Lakes Correctional Facility Choir"],
+      "songs": ["Untitled Performance"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Oh, Come Let Us Magnify the Lord]",
+      "start_time": 426,
+      "type": "music",
+      "description": "The choir leads the congregation in a powerful rendition of 'Oh, Come Let Us Magnify the Lord.' This song emphasizes the praise and glory due to God, encouraging heartfelt worship from all present. The performance creates an atmosphere of unity and celebration among the worshippers.",
+      "keywords": ["worship", "choir", "music", "praise", "magnify"],
+      "performers": ["Chain of Lakes Correctional Facility Choir"],
+      "songs": ["Oh, Come Let Us Magnify the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Our God Is an Awesome God]",
+      "start_time": 633,
+      "type": "music",
+      "description": "The choir continues with a beloved classic, 'Our God Is an Awesome God.' This vibrant piece celebrates God's sovereignty and power, reminding the congregation of His continual presence in their lives. The enthusiastic performance inspires joy and admiration for the Lord.",
+      "keywords": ["worship", "choir", "awesome", "God", "music"],
+      "performers": ["Chain of Lakes Correctional Facility Choir"],
+      "songs": ["Our God Is an Awesome God"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Bow Down and Worship Him]",
+      "start_time": 900,
+      "type": "music",
+      "description": "In this segment, the choir invites the congregation to 'Bow Down and Worship Him,' emphasizing the importance of surrender and reverence to God. The heartfelt performance encourages attendees to reflect on their relationship with the Lord and the significance of true worship.",
+      "keywords": ["worship", "reverence", "bow down", "surrender", "music"],
+      "performers": ["Chain of Lakes Correctional Facility Choir"],
+      "songs": ["Bow Down and Worship Him"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Excessive Pursuit of God (Luke 15)",
+      "start_time": 1215,
+      "type": "sermon",
+      "description": "The sermon begins a new series titled 'Excessive,' focusing on God's nature of relentless pursuit. The speaker illustrates this through parables in Luke 15, highlighting God's extravagant love for those who are lost. By sharing powerful stories, the message reminds believers of God's commitment to seek and save the lost.",
+      "keywords": ["God", "excessive", "pursuit", "love", "Luke 15"],
+      "performers": ["Corbin"],
+      "songs": [],
+      "scripture_references": ["Luke 15"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3100,
+      "type": "prayer",
+      "description": "An opening prayer is offered, seeking God's presence and guidance throughout the service. The prayer emphasizes the desire for spiritual growth among the congregation and for divine inspiration during the worship and teachings that follow. It's an invitation to focus hearts and minds on God.",
+      "keywords": ["prayer", "worship", "guidance", "spiritual growth", "invitation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [Luke 15]",
+      "start_time": 3170,
+      "type": "scripture",
+      "description": "The speaker leads a scripture reading from Luke 15, recounting the parables of the lost sheep, lost coin, and prodigal son. This reading illustrates God's heart for redemption and the joy in heaven over one sinner who repents. It serves as a foundation for understanding God's relentless pursuit of us.",
+      "keywords": ["scripture", "reading", "Luke", "salvation", "redemption"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Luke 15"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3471,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for His presence and the lessons learned through the worship and teaching. This prayer seeks continued guidance and encourages the congregation to live in response to God's excessive love and pursuit.",
+      "keywords": ["prayer", "closing", "thanksgiving", "guidance", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

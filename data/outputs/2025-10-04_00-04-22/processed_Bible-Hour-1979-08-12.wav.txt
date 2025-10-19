@@ -1,0 +1,96 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 60,
+      "type": "music",
+      "description": "The choir performs a heartwarming piece, filling the auditorium with uplifting melodies. Their harmonious sound resonates with the congregation, setting a joyous atmosphere in the service. The visible participation of the audience adds to the community spirit in this worship moment.",
+      "keywords": ["choir", "music", "worship", "joy", "community"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown Title]",
+      "start_time": 494,
+      "type": "music",
+      "description": "George Omen plays a beautiful solo on the trumpet, captivating the congregation with his skillful performance. The music serves as a reminder of God’s presence and beauty in our lives. His musical talent adds a special flavor to the service.",
+      "keywords": ["trumpet", "solo", "performance", "worship", "God"],
+      "performers": ["George Omen"],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Whatever It Takes",
+      "start_time": 1043,
+      "type": "music",
+      "description": "Ron Hackett delivers a heartfelt rendition of 'Whatever It Takes,' inviting reflection and personal commitment. The song's message encourages attendees to consider what sacrifices they're willing to make to deepen their relationship with Christ. It stirs emotions and prompts introspection among the listeners.",
+      "keywords": ["whatever it takes", "sacrifice", "commitment", "worship"],
+      "performers": ["Ron Hackett"],
+      "songs": ["Whatever It Takes"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Oh, to Be Like Thee",
+      "start_time": 1405,
+      "type": "music",
+      "description": "Marilyn Wong sings 'Oh, to Be Like Thee,' a prayerful song that expresses a longing for Christ-like attributes. The lyrics invite congregants to reflect on their spiritual journeys. The heartfelt delivery resonates with the audience, calling them to transformation.",
+      "keywords": ["oh to be like thee", "transformation", "longing", "worship"],
+      "performers": ["Marilyn Wong"],
+      "songs": ["Oh, to Be Like Thee"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1733,
+      "type": "prayer",
+      "description": "The pastor leads the congregation in an opening prayer, asking for God's guidance and blessing through the service. This moment sets a reflective tone, inviting attendees to prepare their hearts for worship. It fosters a communal spirit of seeking divine presence.",
+      "keywords": ["prayer", "opening", "guidance", "worship"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: John 17",
+      "start_time": 1691,
+      "type": "scripture",
+      "description": "The congregation listens attentively as a passage from John 17 is read. This scripture highlights Jesus' prayer for his followers. It reminds the listeners of their relationship with Christ, providing a foundation for the sermon that follows.",
+      "keywords": ["John", "scripture", "prayer", "Jesus", "followers"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["John 17"]
+    },
+    {
+      "title": "Message: The Prayer of Jesus (John 17:24)",
+      "start_time": 1716,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers a powerful sermon based on John 17:24, focusing on Jesus' prayer for believers to be with Him. The sermon explores themes of divine love, eternal fellowship, and the significance of being part of God’s family. It encourages the congregation to reflect on their personal faith journey and hope in heaven.",
+      "keywords": ["Jesus", "prayer", "eternal life", "fellowship", "faith"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["John 17:24"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3427,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, asking for God's continued presence and guidance in the lives of the congregation. It serves as a heartfelt conclusion, reinforcing the message shared in the sermon and music. It invites attendees to carry the service's themes into their daily lives.",
+      "keywords": ["closing prayer", "guidance", "conclusion", "worship"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Invitation to Join Next Week",
+      "start_time": 3521,
+      "type": "announcement",
+      "description": "The service concludes with an invitation for attendees to join the next week's service. This moment reinforces community and the ongoing journey of faith the church embodies. It encourages fellowship and continuity in spiritual growth together.",
+      "keywords": ["invitation", "next week", "community", "worship"],
+      "performers": ["Jack Gray"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

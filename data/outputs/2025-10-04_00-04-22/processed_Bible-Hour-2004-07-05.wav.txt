@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Music",
+      "start_time": 30,
+      "type": "music",
+      "description": "The service begins with an uplifting and energetic song, setting a positive tone for the gathering. The congregation engages with the lively atmosphere, preparing their hearts for worship. This initial segment creates an environment of joy and anticipation for the service ahead.",
+      "keywords": ["music", "worship", "joy", "community", "celebration"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 85,
+      "type": "announcement",
+      "description": "Steve, one of the teaching pastors, shares upcoming events and encourages attendance at the Willow Creek Association Leadership Summit. He also invites the congregation to participate in a baptism event planned for August 15th, fostering community involvement and spiritual growth.",
+      "keywords": ["events", "baptism", "leadership", "community", "growth"],
+      "performers": ["Steve"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "sermon: Contemptible Offerings (Malachi 1)",
+      "start_time": 132,
+      "type": "sermon",
+      "description": "The sermon focuses on the theme of contemptible offerings as expressed in Malachi 1. Steve explores how the Israelites offered blind and lame animals as sacrifices, which did not honor God. He challenges the congregation to examine their own practices of prayer, giving, and obeying God's commands to ensure they offer Him their best.",
+      "keywords": ["sermon", "Malachi", "offerings", "sacrifice", "faith"],
+      "performers": ["Steve"],
+      "songs": [],
+      "scripture_references": ["Malachi 1"]
+    },
+    {
+      "title": "Gentle Music",
+      "start_time": 671,
+      "type": "music",
+      "description": "A reflective gentle music segment allows the congregation to meditate on the themes raised in the sermon. It creates a calm atmosphere conducive to prayer and reflection. Worshippers are invited to connect with God personally, possibly considering their own offerings and commitment to Him.",
+      "keywords": ["music", "worship", "meditation", "prayer", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 731,
+      "type": "prayer",
+      "description": "The closing prayer emphasizes gratitude and reflection on the sermon. It encourages the congregation to carry the themes of the service into their daily lives, seeking personal and communal transformation. This prayer serves as a reminder of the commitments made to honor God in all aspects of life.",
+      "keywords": ["prayer", "gratitude", "commitment", "transformation", "community"],
+      "performers": ["Steve"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Gentle Music",
+      "start_time": 3216,
+      "type": "music",
+      "description": "The service concludes with another gentle music segment. This allows attendees to leave with a reflective mindset, resonating with the messages shared throughout the service. The song further invites individual contemplation before departing.",
+      "keywords": ["music", "worship", "reflection", "closure"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

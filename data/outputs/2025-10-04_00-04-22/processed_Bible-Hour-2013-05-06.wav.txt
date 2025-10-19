@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [MUSIC]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with upbeat music, setting an inviting and warm atmosphere for everyone in attendance. It's a joyful moment that prepares the congregation for the day's message, particularly focusing on celebrating mothers. The music resonates with enthusiasm, engaging the audience right from the start.",
+      "keywords": ["music", "upbeat", "celebration", "mothers", "atmosphere"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Mother's Day Celebration",
+      "start_time": 31,
+      "type": "announcement",
+      "description": "The host welcomes everyone to the service, especially acknowledging the mothers in the congregation as Mother's Day is being celebrated. He expresses gratitude for the hard work and dedication of mothers, emphasizing their significance within both family and church communities.",
+      "keywords": ["welcome", "mothers", "gratitude", "celebration", "community"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [MUSIC]",
+      "start_time": 176,
+      "type": "music",
+      "description": "A solo performance takes place, contributing to the intimate atmosphere of the service. The song is chosen to resonate with the themes of motherhood and appreciation, further uplifting the spirits of those in attendance.",
+      "keywords": ["solo", "music", "appreciation", "atmosphere", "motherhood"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [MUSIC]",
+      "start_time": 221,
+      "type": "music",
+      "description": "The congregation joins together in a hymn, strengthening the communal aspect of the service. This moment serves as a collective expression of faith and unity, enhancing the focus on God's presence during this special celebration.",
+      "keywords": ["congregational", "hymn", "community", "faith", "unity"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [1 John 2]",
+      "start_time": 1050,
+      "type": "scripture",
+      "description": "The scripture reading for the day comes from 1 John 2, where key themes of faith and the family of God are introduced. This segment prepares the congregation for the following message, highlighting the essential truths about believers and their relationship with God.",
+      "keywords": ["scripture", "1 John", "faith", "relationship", "believers"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["1 John 2"]
+    },
+    {
+      "title": "Message: The Family of God (1 John 2)",
+      "start_time": 1060,
+      "type": "sermon",
+      "description": "The sermon focuses on the dynamics of the family of God, emphasizing forgiveness, security in faith, and the strength of young believers. The speaker illustrates the contrast between the reality of grace versus shame, encouraging the congregation to reflect on their spiritual inputs and responses to God's truth.",
+      "keywords": ["sermon", "forgiveness", "faith", "spirituality", "community"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["1 John 2:12-14"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2977,
+      "type": "prayer",
+      "description": "The service transitions into a prayer inviting mothers and congregation members to seek God's encouragement and strength. This collective prayer seeks to uplift those who may be struggling and to affirm the power of God's spirit in their lives.",
+      "keywords": ["prayer", "invitation", "encouragement", "strength", "community"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Closing Music]",
+      "start_time": 2999,
+      "type": "music",
+      "description": "The service concludes with a heartfelt choir performance, allowing the congregation to reflect on the day's messages. This final musical piece serves as a celebration of the community and the strength found in faith, encouraging attendees to carry the uplifting spirit into their week ahead.",
+      "keywords": ["closing", "choir", "reflection", "community", "celebration"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: How Great Is Our God",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir leads the congregation in a powerful rendition of 'How Great Is Our God'. The congregation is encouraged to sing along, expressing their unity in worship and praise for the greatness of God. This moment sets a tone of reverence as they prepare for the service ahead.",
+      "keywords": ["choir", "worship", "singing", "God", "greatness"],
+      "performers": ["Choir"],
+      "songs": ["How Great Is Our God"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1152,
+      "type": "prayer",
+      "description": "The leader opens the service with a heartfelt prayer, inviting the congregation to reflect on God's sovereignty and to ask for guidance during the service. This prayer sets a spiritual foundation as participants are called to engage with the message.",
+      "keywords": ["prayer", "opening", "congregation", "guidance", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Jesus as the Advocate (Luke 22)",
+      "start_time": 1487,
+      "type": "sermon",
+      "description": "The sermon focuses on Jesus as the perfect advocate and teacher, emphasizing his intercessory role and the importance of prayer. It explores Peter's denial, God's sovereignty, and the significance of submission to God's will, encouraging congregants to trust in God through challenging times.",
+      "keywords": ["sermon", "Jesus", "advocate", "prayer", "sovereignty"],
+      "performers": ["Elder"],
+      "songs": [],
+      "scripture_references": ["Luke 22"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3169,
+      "type": "prayer",
+      "description": "As the sermon draws to a close, an invitation prayer is offered, prompting congregants to reflect on their personal relationship with God and consider areas where they need to surrender. This prayer is a call to action, encouraging individuals to trust God more deeply.",
+      "keywords": ["invitation", "prayer", "reflection", "surrender", "trust"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Father in Heaven",
+      "start_time": 3184,
+      "type": "music",
+      "description": "The congregation joins together in singing 'Father in Heaven', reinforcing themes of prayer and community. This moment of collective worship serves as a powerful closing to the service, emphasizing the unity and dedication of the church as they lift their voices in praise.",
+      "keywords": ["hymn", "congregation", "worship", "prayer", "unity"],
+      "performers": [],
+      "songs": ["Father in Heaven"],
+      "scripture_references": []
+    }
+  ]
+}
+```

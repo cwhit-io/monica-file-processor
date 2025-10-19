@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Great as Thy Faithfulness",
+      "start_time": 57,
+      "type": "music",
+      "description": "The choir performs a lovely piece titled 'Great as Thy Faithfulness', celebrating the faithfulness of God. The music creates an atmosphere of worship, encouraging congregants to reflect on God’s unwavering support throughout their lives.",
+      "keywords": ["choir", "great as thy faithfulness", "worship", "music", "god"],
+      "performers": ["Choir"],
+      "songs": ["Great as Thy Faithfulness"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: I Can Not Tell",
+      "start_time": 66,
+      "type": "music",
+      "description": "Margie Isaacson performs a solo titled 'I Can Not Tell'. Her moving voice delivers a heartfelt rendition that draws the congregation into a deeper experience of worship and reflection on the mysteries of faith.",
+      "keywords": ["solo", "margie isaacson", "worship", "music", "reflect"],
+      "performers": ["Margie Isaacson"],
+      "songs": ["I Can Not Tell"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Our Role as a Christian (Romans 13)",
+      "start_time": 342,
+      "type": "sermon",
+      "description": "Steve Longbrake discusses 'Our Role as a Christian' through the lens of Romans 13. He emphasizes the Christian’s responsibility towards governing authorities, highlighting themes of submission, prayer, and being active participants in society while remaining accountable to God.",
+      "keywords": ["sermon", "role", "christian", "government", "responsibility"],
+      "performers": ["Steve Longbrake"],
+      "songs": [],
+      "scripture_references": ["Romans 13"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3406,
+      "type": "prayer",
+      "description": "A prayer inviting all to reflect upon their relationship with Christ. The congregation is encouraged to seek a deeper connection with God and to consider the decision of accepting Him into their hearts.",
+      "keywords": ["prayer", "invitation", "reflect", "relationship", "christ"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3453,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for His presence and asking for guidance for the coming week. It serves as a moment of reflection for the congregation, solidifying their commitments made during the service.",
+      "keywords": ["prayer", "closing", "guidance", "worship", "thanksgiving"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Bible Hour Invitation",
+      "start_time": 3529,
+      "type": "announcement",
+      "description": "Ed Richard invites the congregation to continue joining for the Bible Hour each week. While it includes a reminder of the program's availability, it encourages attendees to stay engaged with the ministry.",
+      "keywords": ["announcement", "invite", "bible hour", "join", "community"],
+      "performers": ["Ed Richard"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

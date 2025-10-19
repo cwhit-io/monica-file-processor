@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Praise to God",
+      "start_time": 124,
+      "type": "music",
+      "description": "The sanctuary choir performs a heartfelt anthem, invoking admiration for God's love and His sending of Jesus. The lyrics reflect on the themes of adoration and divine deliverance, encouraging the congregation to join in praise.",
+      "keywords": ["choir", "praise", "God", "love", "Jesus"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Praise to God whose love was shown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: God and God Alone",
+      "start_time": 366,
+      "type": "music",
+      "description": "A soloist presents a stirring rendition of 'God and God Alone,' emphasizing the sovereignty and uniqueness of God in creation and truth. The performance captivates the audience, reinforcing the theme of divine supremacy.",
+      "keywords": ["solo", "God", "sovereignty", "worship"],
+      "performers": ["Bill Lehman"],
+      "songs": ["God and God Alone"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Joyful Citizens (Philippians 1:27-30)",
+      "start_time": 942,
+      "type": "sermon",
+      "description": "Pastor Russell Moore discusses the theme of being joyful citizens despite cultural turmoil. He examines Philippians 1:27-30, urging Christians to conduct themselves in a manner worthy of the gospel and to unite for the advancement of their faith amidst societal challenges.",
+      "keywords": ["Philippians", "joy", "citizenship", "gospel", "Pastor Russell Moore"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Philippians 1"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3412,
+      "type": "prayer",
+      "description": "The congregation participates in a collective opening prayer, inviting God's presence and guidance throughout the service. The prayer reflects gratitude and a desire for spiritual growth among the attendees.",
+      "keywords": ["prayer", "opening", "worship", "congregation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: In My Brokenness",
+      "start_time": 708,
+      "type": "music",
+      "description": "A solo performance of 'In My Brokenness' captivates the audience, expressing themes of vulnerability and the longing for divine comfort. The poignant lyrics resonate with listeners, inviting personal reflection and worship.",
+      "keywords": ["solo", "brokenness", "worship"],
+      "performers": ["Lisa Fini"],
+      "songs": ["In My Brokenness"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3474,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, asking for God’s continued guidance and mercy for the congregation. The prayer emphasizes a commitment to live out the message shared in the service.",
+      "keywords": ["prayer", "closing", "congregation", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Final Worship",
+      "start_time": 3562,
+      "type": "music",
+      "description": "The sanctuary choir performs a final worship song, encouraging everyone to leave with a heart full of praise. The powerful melody and meaningful lyrics invite the congregation to reflect on the message delivered during the service.",
+      "keywords": ["choir", "worship", "congregation", "music"],
+      "performers": ["Sanctuary Choir"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

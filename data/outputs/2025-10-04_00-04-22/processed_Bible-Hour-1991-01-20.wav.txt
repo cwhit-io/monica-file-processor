@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Heal Our Land",
+      "start_time": 235,
+      "type": "music",
+      "description": "The Sanctuary Choir performs a heartfelt rendition of 'Heal Our Land,' emphasizing themes of humility and seeking God's mercy. The lyrics resonate with a plea for divine intervention and healing for the nation. The congregation participates in this powerful moment of worship and reflection.",
+      "keywords": ["heal", "land", "humility", "prayer", "mercy"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Heal Our Land"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: O God, Our Help in Ages Past",
+      "start_time": 516,
+      "type": "music",
+      "description": "The congregation joins together to sing the hymn 'O God, Our Help in Ages Past,' which reminds worshippers of God's eternal presence and faithfulness through trials. This hymn encourages strong participation as the community reflects on their shared faith and hope.",
+      "keywords": ["O God", "help", "hymn", "faithfulness", "community"],
+      "performers": [],
+      "songs": ["O God, Our Help in Ages Past"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Marilyn Wong",
+      "start_time": 626,
+      "type": "music",
+      "description": "Marilyn Wong sings a solo that highlights the greatness of God and His constant presence, encouraging the congregation to rejoice in His might. The lyrics remind everyone of the importance of faith and finding joy in God’s unwavering power.",
+      "keywords": ["greatness", "rejoice", "faith", "God", "power"],
+      "performers": ["Marilyn Wong"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1097,
+      "type": "prayer",
+      "description": "A sincere opening prayer is offered, asking for God's presence and guidance during the service. This moment sets a solemn tone, inviting the congregation to reflect on their connection with God and the urgent needs of the world.",
+      "keywords": ["prayer", "guidance", "presence", "worship", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Sharing Your Faith (Matthew 13:47-52)",
+      "start_time": 1751,
+      "type": "sermon",
+      "description": "In his sermon, Pastor Jim Pearson delivers a powerful message titled 'Sharing Your Faith,' exploring the urgency of evangelism in light of impending judgment. He emphasizes the need for believers to reflect on their convictions and share their faith with others, using parables to illustrate the coming separation of the righteous from the unrighteous.",
+      "keywords": ["faith", "evangelism", "judgment", "Matthew 13", "sharing"],
+      "performers": ["Jim Pearson"],
+      "songs": [],
+      "scripture_references": ["Matthew 13:47-52"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3591,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer that invites congregants to commit their new resolutions for faith-sharing to God. The prayer reinforces the message of the sermon, encouraging all to carry the teachings into their daily lives.",
+      "keywords": ["closing prayer", "commitment", "resolutions", "faith", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

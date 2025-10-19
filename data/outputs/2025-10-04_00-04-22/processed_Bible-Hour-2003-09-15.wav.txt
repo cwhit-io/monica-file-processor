@@ -1,0 +1,114 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: Lord of Heaven",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir opens the service with a joyful affirmation of God's holiness. Lyrics express praise and adoration, inviting the congregation to enter into worship.",
+      "keywords": ["praise", "holy", "worship", "choir", "song"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Lord of Heaven"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 252,
+      "type": "prayer",
+      "description": "The pastor offers an opening prayer, thanking the Lord for the opportunity to worship and asking for open hearts during the service. The prayer sets a reverent tone for the gathering.",
+      "keywords": ["prayer", "thanksgiving", "worship", "community", "family"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Carolyn Brody",
+      "start_time": 268,
+      "type": "testimony",
+      "description": "Carolyn shares her heartfelt testimony about her journey to faith in Jesus Christ, recounting a pivotal moment of realization during a retreat. Her story is a powerful reminder of God's constant presence.",
+      "keywords": ["testimony", "faith", "Carolyn", "surrender", "story"],
+      "performers": ["Carolyn Brody"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "baptism: Carolyn Brody",
+      "start_time": 490,
+      "type": "baptism",
+      "description": "The pastor baptizes Carolyn, celebrating her full surrender to Christ. The congregation rejoices as she publicly declares her commitment to the faith in front of family and friends.",
+      "keywords": ["baptism", "faith", "celebration", "Carolyn", "community"],
+      "performers": ["Pastor", "Carolyn Brody"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: John Runquist",
+      "start_time": 579,
+      "type": "testimony",
+      "description": "John shares his inspiring story of faith and healing, highlighting the role of his family and friends in his journey. His testimony reflects on God's faithfulness through trials.",
+      "keywords": ["testimony", "faith", "John", "healing", "family"],
+      "performers": ["John Runquist"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "baptism: John Runquist",
+      "start_time": 899,
+      "type": "baptism",
+      "description": "John is baptized by the pastor before an enthusiastic congregation, marking his commitment to follow Christ. This joyful moment underscores the theme of new beginnings.",
+      "keywords": ["baptism", "John", "celebration", "faith", "community"],
+      "performers": ["Pastor", "John Runquist"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Dave Schock",
+      "start_time": 928,
+      "type": "testimony",
+      "description": "Dave shares his journey of redemption and growth in faith after years of struggle. His heartfelt sharing inspires others to see the transformative power of God's grace.",
+      "keywords": ["testimony", "faith", "Dave", "redemption", "community"],
+      "performers": ["Dave Schock"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "baptism: Dave Schock",
+      "start_time": 1206,
+      "type": "baptism",
+      "description": "Dave is baptized in a moment filled with joy and affirmation from the congregation. This act symbolizes his full dedication to living a life for Christ.",
+      "keywords": ["baptism", "Dave", "celebration", "faith", "community"],
+      "performers": ["Pastor", "Dave Schock"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Closing Hymn",
+      "start_time": 1528,
+      "type": "music",
+      "description": "The choir leads a powerful closing hymn, encouraging the congregation to respond to the message of the day. The uplifting music serves as a fitting conclusion to the service.",
+      "keywords": ["worship", "choir", "hymn", "celebration", "community"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Closing Hymn"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Real Love Serving (Philippians 2:3-7)",
+      "start_time": 1555,
+      "type": "sermon",
+      "description": "The pastor delivers a compelling message on the theme of serving, centered on Philippians 2:3-7. He articulates how real love is demonstrated through selfless service, using Jesus as the ultimate example.",
+      "keywords": ["sermon", "serving", "love", "Philippians", "Jesus"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Philippians 2:3-7"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3563,
+      "type": "prayer",
+      "description": "The pastor leads a closing prayer, thanking God for the service and asking for strength to serve others in love. The prayer invites the congregation to carry the message into their daily lives.",
+      "keywords": ["prayer", "closing", "thankfulness", "community", "faith"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Come Praise the Lord",
+      "start_time": 89,
+      "type": "music",
+      "description": "The chapel choir leads the congregation in a spirited rendition of 'Come Praise the Lord.' The song highlights themes of worship and praise, inviting everyone to join in celebration. With lively lyrics, the music sets a joyful tone for the service.",
+      "keywords": ["worship", "choir", "praise", "song"],
+      "performers": ["Chapel Choir"],
+      "songs": ["Come Praise the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Sunday Morning Sunshine",
+      "start_time": 335,
+      "type": "music",
+      "description": "Brian Losen performs 'Sunday Morning Sunshine,' a poignant song that reflects on the contrasts of life around the church and the call to care for those in need. The lyrics evoke feelings of compassion, reminding listeners of the urgency of their Christian duty.",
+      "keywords": ["compassion", "faith", "needs", "worship"],
+      "performers": ["Brian Losen"],
+      "songs": ["Sunday Morning Sunshine"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: I Love You",
+      "start_time": 676,
+      "type": "music",
+      "description": "Brian Losen delivers a heartfelt rendition of 'I Love You,' emphasizing God's love and sacrifice. The song resonates with the congregation, encouraging a deep reflection on love and thanksgiving. It captures the essence of Christ's ultimate gift.",
+      "keywords": ["love", "sacrifice", "worship"],
+      "performers": ["Brian Losen"],
+      "songs": ["I Love You"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The New Jerusalem (Revelation 21)",
+      "start_time": 926,
+      "type": "sermon",
+      "description": "Pastor Russell Moore explores Revelation 21, focusing on the glorious new Jerusalem and its significance. He articulates the transforming presence of God in heaven, highlighted by vivid imagery and eternal hope. The sermon encourages believers to live in anticipation of their eternal home and the profound joy of being in God's presence.",
+      "keywords": ["heaven", "new Jerusalem", "Revelation", "glory"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 21"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, invoking God's presence and guidance. It establishes a tone of reverence and reflection, inviting the congregation to center their hearts on worship and the Word.",
+      "keywords": ["prayer", "worship", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Revelation 21",
+      "start_time": 926,
+      "type": "scripture",
+      "description": "The congregation listens attentively as Revelation 21 is read, laying the groundwork for the sermon. The verses describe the beauty and glory of the new heaven and new earth, preparing hearts for the message that follows.",
+      "keywords": ["Revelation", "scripture", "heaven"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Revelation 21"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3425,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for His Word and the worship experience. It serves as a moment of reflection, encouraging attendees to carry the message into their lives.",
+      "keywords": ["closing", "prayer", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Summary of Bible Hour",
+      "start_time": 3428,
+      "type": "announcement",
+      "description": "The host wraps up the service with announcements, highlighting future messages and encouraging viewers to engage with the ministry. This brief segment reinforces community and ongoing spiritual growth.",
+      "keywords": ["announcement", "community", "engagement"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

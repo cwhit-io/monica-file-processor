@@ -1,0 +1,106 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 90,
+      "type": "music",
+      "description": "The music segment features the Sanctuary Choir as they perform a special piece that uplifts the congregation and prepares hearts for the service ahead. It sets a tone of worship and reflection, inviting everyone to engage in the spirit of praise.",
+      "keywords": ["choir", "worship", "music", "praise", "spirit"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [We Have a Story to Tell to the Nations]",
+      "start_time": 386,
+      "type": "music",
+      "description": "Congregational participation is encouraged as the hymn 'We Have a Story to Tell to the Nations' is sung. The lyrics serve as a reminder of the church’s mission to share the good news about Jesus Christ with the world, creating a powerful sense of unity among those gathered.",
+      "keywords": ["hymn", "congregational", "worship", "mission", "unity"],
+      "performers": ["Congregation"],
+      "songs": ["We Have a Story to Tell to the Nations"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Church Events",
+      "start_time": 744,
+      "type": "announcement",
+      "description": "Updates on upcoming events at the church are shared, including a concert by Buddy Green and an open house for the community. This segment emphasizes the church’s ongoing engagement with both its members and the broader community.",
+      "keywords": ["events", "community", "church", "concert", "open house"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 1031,
+      "type": "music",
+      "description": "A solo performance adds a heartfelt touch to the service, providing a moment of personal reflection and worship. The song serves to bridge between the announcements and the upcoming sermon, enhancing the spiritual atmosphere.",
+      "keywords": ["solo", "music", "reflection", "worship", "spiritual"],
+      "performers": ["Joni King"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1265,
+      "type": "prayer",
+      "description": "The congregation bows in prayer, seeking God’s presence and guidance for the service. The prayer focuses on inviting the Holy Spirit to work in hearts and lives during the message and throughout the worship experience.",
+      "keywords": ["prayer", "opening", "spiritual", "guidance", "community"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [Acts 2]",
+      "start_time": 1532,
+      "type": "scripture",
+      "description": "The scriptures are read, specifically from the Book of Acts, which recounts the early church's formation and the outpouring of the Holy Spirit at Pentecost. This reading sets the stage for the sermon on recognizing the wonders of God.",
+      "keywords": ["scripture", "reading", "Acts", "Pentecost", "Holy Spirit"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Acts 2"]
+    },
+    {
+      "title": "Message: Wonder of Wonders (Acts 2)",
+      "start_time": 1559,
+      "type": "sermon",
+      "description": "Dr. Ken Cole delivers an in-depth sermon exploring the theme of wonders as recounted in Acts 2. He discusses the significance of the Holy Spirit's arrival and the impact on the early church, emphasizing how believers can rejoice in the miraculous wonders of God in their own lives today.",
+      "keywords": ["sermon", "wonders", "Holy Spirit", "Acts", "church"],
+      "performers": ["Ken Cole"],
+      "songs": [],
+      "scripture_references": ["Acts 2"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3340,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, calling individuals to respond to the message shared by Dr. Cole. The prayer reinforces the importance of personal faith and seeking God's presence, inviting attendees to open their hearts to Christ.",
+      "keywords": ["invitation", "prayer", "faith", "response", "spiritual"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Have Thine Own Way, Lord]",
+      "start_time": 3430,
+      "type": "music",
+      "description": "As the service comes to a close, the congregation sings 'Have Thine Own Way, Lord'. This hymn reflects a commitment to surrender to God's will and invites personal reflection on their spiritual journey.",
+      "keywords": ["hymn", "congregational", "worship", "surrender", "commitment"],
+      "performers": ["Congregation"],
+      "songs": ["Have Thine Own Way, Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3513,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that thanks God for His presence during the service and seeks His guidance as attendees return to their weekly lives. The prayer emphasizes ongoing spiritual growth and community fellowship.",
+      "keywords": ["closing", "prayer", "thanksgiving", "guidance", "fellowship"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

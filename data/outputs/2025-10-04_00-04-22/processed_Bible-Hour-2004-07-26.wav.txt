@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Upbeat Song]",
+      "start_time": 30,
+      "type": "music",
+      "description": "The service begins with an upbeat song performed by the choir, setting a lively and welcoming tone for the congregation. The lyrics are in a foreign language, adding a multicultural aspect to the worship experience as the congregation engages in joyful singing.",
+      "keywords": ["music", "choir", "upbeat", "worship", "congregation"],
+      "performers": ["Choir"],
+      "songs": ["Upbeat Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Choir Performance]",
+      "start_time": 219,
+      "type": "music",
+      "description": "Following the opening song, the choir presents an extended musical performance that resonates deeply with the congregation. The arrangement includes rich harmonies and showcases the choir's vocal talents, enhancing the spiritual atmosphere of the service.",
+      "keywords": ["music", "choir", "performance", "spiritual", "worship"],
+      "performers": ["Choir"],
+      "songs": ["Choir Performance"],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Erin Scott",
+      "start_time": 649,
+      "type": "testimony",
+      "description": "Erin Scott shares her powerful testimony about her struggles with anorexia and bulimia. She reflects on the deeper longing for acceptance and healing that led her to a transformative understanding of God's unconditional love and support. Her vulnerability inspires the congregation to seek fulfillment in their relationship with God.",
+      "keywords": ["testimony", "Erin Scott", "acceptance", "healing", "God"],
+      "performers": ["Erin Scott"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1206,
+      "type": "prayer",
+      "description": "The pastor leads the congregation in an opening prayer, thanking God for Erin's story and asking for open hearts to receive His message. The prayer emphasizes themes of surrender and seeking God's will in their lives as they enter into worship.",
+      "keywords": ["prayer", "opening", "congregation", "surrender", "worship"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Hide and Seek (1 Kings 18)",
+      "start_time": 1208,
+      "type": "sermon",
+      "description": "The sermon explores the theme of 'Hide and Seek,' focusing on how individuals respond when God seeks them. The pastor discusses several Biblical examples, particularly Elijah's calling, and emphasizes the importance of humility and seeking God's will rather than hiding in pride or fear. This engaging message challenges the congregation to examine their own spiritual journeys and encourages them to seek God actively.",
+      "keywords": ["sermon", "hide and seek", "Elijah", "God's will", "humility"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["1 Kings 18"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3498,
+      "type": "prayer",
+      "description": "As the service comes to a close, the pastor leads a closing prayer, inviting the congregation to seek God's presence in their lives throughout the week. The prayer reinforces the key themes of the sermon, asking for strength to surrender pride and embrace humility.",
+      "keywords": ["prayer", "closing", "congregation", "seeking God", "humility"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

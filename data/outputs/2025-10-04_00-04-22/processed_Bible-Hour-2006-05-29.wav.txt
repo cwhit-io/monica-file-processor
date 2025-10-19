@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Sweet, Sweet Presence of Jesus",
+      "start_time": 224,
+      "type": "music",
+      "description": "The choir leads in a heartfelt song, 'Sweet, Sweet Presence of Jesus,' expressing the profound impact of Jesus's presence on the soul. The lyrics reflect themes of wholeness, freedom, and the transformative power of grace.",
+      "keywords": ["presence", "Jesus", "grace", "worship", "spirituality"],
+      "performers": ["Choir"],
+      "songs": ["Sweet, Sweet Presence of Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: To God Be the Glory",
+      "start_time": 676,
+      "type": "music",
+      "description": "The congregation joins in singing 'To God Be the Glory,' a classic hymn written by Fanny Crosby. With energetic participation, worshippers celebrate God's perfection and redemption, emphasizing gratitude for His marvelous works.",
+      "keywords": ["hymn", "worship", "Fanny Crosby", "glory", "praise"],
+      "performers": ["Congregation"],
+      "songs": ["To God Be the Glory"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Black Hawk Christian School",
+      "start_time": 512,
+      "type": "announcement",
+      "description": "Sam Barfell, Superintendent of Black Hawk Christian School, shares the school's commitment to academic excellence grounded in biblical teachings. He invites families to consider enrolling their children, highlighting the school’s values and opportunities.",
+      "keywords": ["Black Hawk", "Christian School", "education", "excellence", "faith"],
+      "performers": ["Sam Barfell"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1292,
+      "type": "prayer",
+      "description": "The pastor leads an opening prayer, expressing gratitude for memories of those who have passed and honoring military service members. The prayer seeks God's guidance and blessings for the service and the congregation.",
+      "keywords": ["prayer", "gratitude", "remembrance", "blessings", "community"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Joshua 8",
+      "start_time": 1268,
+      "type": "scripture",
+      "description": "A reading from the book of Joshua, focusing on chapter 8, where the Israelites are commanded to attack the city of Ai. It recounts their strategy and God’s guidance in their pursuits.",
+      "keywords": ["Joshua", "scripture", "Israelites", "Ai", "Bible"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Joshua 8"]
+    },
+    {
+      "title": "Message: Victory Through Obedience (Joshua 8)",
+      "start_time": 1344,
+      "type": "sermon",
+      "description": "The sermon explores victory through obedience, illustrating how Joshua leads the Israelites in reconciling their previous defeat by obeying God's commands. The pastor emphasizes the importance of remembering God’s plans in challenging times.",
+      "keywords": ["sermon", "obedience", "victory", "Joshua", "Israel"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Joshua 8"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3450,
+      "type": "prayer",
+      "description": "In the invitation prayer, the pastor calls upon those who have not yet received the gift of salvation to believe in Christ. The prayer offers encouragement for congregants to bring glory to God in their lives.",
+      "keywords": ["invitation", "prayer", "salvation", "believe", "glory"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [MUSIC]",
+      "start_time": 3548,
+      "type": "music",
+      "description": "The service concludes with a musical piece by the choir, uplifting the congregation in praise and worship, closing the service on a high and spiritual note.",
+      "keywords": ["worship", "music", "choir", "service", "celebration"],
+      "performers": ["Choir"],
+      "songs": ["[MUSIC]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

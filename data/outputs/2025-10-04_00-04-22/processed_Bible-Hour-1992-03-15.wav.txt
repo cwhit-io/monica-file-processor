@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Message: Living and Dying (1 Corinthians 15:54-58)",
+      "start_time": 0,
+      "type": "sermon",
+      "description": "Pastor Russell Moore discusses the subject of death, reflecting on its reality in light of recent losses in the church community. He emphasizes the importance of understanding death in a biblical sense, affirming hope in Christ and the victory over death. With emotional anecdotes and scriptural references, he encourages living with purpose and readiness for eternity.",
+      "keywords": ["death", "life", "victory", "Christ", "1 Corinthians", "heaven", "hope", "church"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 15:54-58"]
+    },
+    {
+      "title": "Solo: I Love You, Lord",
+      "start_time": 79,
+      "type": "music",
+      "description": "Lois Clancy introduces a reflective reading, followed by Kevin Rowe's heartfelt solo performance of 'I Love You, Lord'. The song embodies a deep love and devotion to God, inviting the congregation to worship and meditate on His presence.",
+      "keywords": ["worship", "love", "devotion", "Kevin Rowe", "song"],
+      "performers": ["Kevin Rowe"],
+      "songs": ["I Love You, Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: I Am Determined",
+      "start_time": 560,
+      "type": "music",
+      "description": "The sanctuary choir performs 'I Am Determined', a powerful anthem of faith and resilience. It encourages believers to remain steadfast in their commitment to God, no matter the hardships faced. The uplifting music inspires the congregation to trust in God's plan.",
+      "keywords": ["choir", "faith", "resilience", "worship", "song"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["I Am Determined"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 713,
+      "type": "prayer",
+      "description": "The service is opened with a prayer, setting the tone for worship and reflection. The prayer emphasizes seeking God's presence and comfort, especially amid the sorrow felt by the community due to recent events. It invites the congregation to prepare their hearts for the service.",
+      "keywords": ["prayer", "worship", "community", "comfort"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Hymn Number 295",
+      "start_time": 730,
+      "type": "music",
+      "description": "The congregation joins together in singing Hymn Number 295. Through this hymn, they express unity and collective faith, reinforcing the themes of perseverance and encouragement found in the previous segments. This joyful singing uplifts the spirit of the service.",
+      "keywords": ["hymn", "congregation", "unity", "worship"],
+      "performers": [],
+      "songs": ["Hymn Number 295"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 836,
+      "type": "announcement",
+      "description": "Various upcoming church events are announced, including a Good Friday service and a dramatic presentation called 'Spark in Judea'. The announcements serve to keep the congregation informed and engaged in the church community and activities.",
+      "keywords": ["events", "Good Friday", "drama", "announcement"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Reflection",
+      "start_time": 980,
+      "type": "music",
+      "description": "The music ministry performs a reflective piece fostering contemplation of Jesus' death and resurrection, tying into the themes of the previous sermon. This segment transitions the service toward deeper spiritual reflection and the significance of Christ's sacrifice.",
+      "keywords": ["reflection", "choir", "music", "Jesus", "resurrection"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Reflection"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1034,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, inviting the congregation to reflect on the message shared and to seek God's guidance as they return to their daily lives. The prayer serves as a reminder of the hope found in Christ amid life's challenges.",
+      "keywords": ["closing prayer", "hope", "guidance", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

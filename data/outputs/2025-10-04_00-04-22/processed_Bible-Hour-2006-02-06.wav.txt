@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: I Lift It Up",
+      "start_time": 112,
+      "type": "music",
+      "description": "The choir performs a heartfelt rendition of 'I Lift It Up,' inviting the congregation into a worshipful atmosphere. The song emphasizes themes of reverence and devotion, encouraging attendees to offer their hearts to the Lord. Repeated phrases underline a collective expression of worship.",
+      "keywords": ["worship", "choir", "I Lift It Up", "devotion", "praise"],
+      "performers": ["Choir"],
+      "songs": ["I Lift It Up"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 783,
+      "type": "prayer",
+      "description": "The service transitions to an opening prayer, where a heartfelt plea is made for divine guidance and wisdom. The prayer lifts up key individuals involved in the ministry, asking for their humility and the impact of their words on the congregation's hearts.",
+      "keywords": ["prayer", "guidance", "humility", "hearts", "wisdom"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Transforming Love (Romans 12)",
+      "start_time": 828,
+      "type": "sermon",
+      "description": "The sermon explores the profound theme of love as taught in Romans 12. The speaker illustrates how our perception of God influences our capacity to share and care for others. Through personal anecdotes and scripture references, the message emphasizes self-sacrificial love and its practical outworking in community life.",
+      "keywords": ["sermon", "love", "Romans 12", "self-sacrifice", "community"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["Romans 12"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 1827,
+      "type": "prayer",
+      "description": "An invitation prayer calls upon the congregation to reflect on the message of love and consider their own hearts. The atmosphere is charged with the intent of drawing closer to God, as individuals are encouraged to express their desires for transformation in the Lord's eyes.",
+      "keywords": ["invitation", "prayer", "transformation", "reflection", "intimacy"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: I Must Decrease",
+      "start_time": 3443,
+      "type": "music",
+      "description": "The congregation joins together in singing 'I Must Decrease,' a hymn that encapsulates the essence of humility and reliance on God. The repeated refrains foster a sense of unity as attendees glorify God, reinforcing the themes of submission and dedication to His will.",
+      "keywords": ["congregational", "hymn", "humility", "I Must Decrease", "unity"],
+      "performers": ["Congregation"],
+      "songs": ["I Must Decrease"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Closing Worship",
+      "start_time": 3472,
+      "type": "music",
+      "description": "As the service draws to a close, the choir leads a final worship piece, inviting the congregation to lift their voices in praise. The music serves as a powerful conclusion to the service, encouraging a continued spirit of worship and reflection as attendees prepare to go out into the world.",
+      "keywords": ["closing", "worship", "choir", "praise", "reflection"],
+      "performers": ["Choir"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

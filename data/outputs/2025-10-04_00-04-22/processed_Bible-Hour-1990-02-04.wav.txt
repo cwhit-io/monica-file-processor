@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: There Is a Savior",
+      "start_time": 158,
+      "type": "music",
+      "description": "The sanctuary choir performs a heartfelt song entitled 'There Is a Savior,' beautifully expressing the comforting thought of Jesus as our Savior and Shepherd. The lyrics highlight His gentle guidance and love, assuring the congregation of His comforting presence in their lives.",
+      "keywords": ["choir", "savior", "jesus", "comfort", "shepherd"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["There Is a Savior"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Savior, Like a Shepherd Lead Us",
+      "start_time": 424,
+      "type": "music",
+      "description": "The congregation joins in singing the beloved hymn 'Savior, Like a Shepherd Lead Us.' The first, second, and fourth stanzas are lifted in worship, reinforcing a sense of community and adoration for Christ as the guiding shepherd.",
+      "keywords": ["hymn", "savior", "shepherd", "congregation", "worship"],
+      "performers": ["Congregation"],
+      "songs": ["Savior, Like a Shepherd Lead Us"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: He's the One",
+      "start_time": 596,
+      "type": "music",
+      "description": "A solo performance of 'He's the One' captivates the audience with lyrics that celebrate Jesus' power and ability to heal the brokenness in our lives. The heartfelt delivery offers a message of hope and reassurance to all listening.",
+      "keywords": ["solo", "jesus", "hope", "power", "healing"],
+      "performers": ["Marilyn Wong"],
+      "songs": ["He's the One"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1224,
+      "type": "prayer",
+      "description": "The opening prayer invites the congregation to reflect on their homes and the blessings they enjoy. It acknowledges the transient nature of life while encouraging a focus on eternity, setting a reverent tone for the service.",
+      "keywords": ["prayer", "opening", "congregation", "eternity", "blessings"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: It is Too Soon to Quit (2 Thessalonians 1:1-12)",
+      "start_time": 1362,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a powerful sermon titled 'It is Too Soon to Quit', based on 2 Thessalonians 1:1-12. He discusses the importance of perseverance in faith, drawing lessons from the struggles of Abraham Lincoln. The sermon emphasizes three core principles for enduring tough times and reminds the congregation of God's promises and the strength found in prayer.",
+      "keywords": ["sermon", "perseverance", "faith", "abraham lincoln", "2 thessalonians"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["2 Thessalonians 1:1-12"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3393,
+      "type": "prayer",
+      "description": "In the closing prayer, the congregation is invited to submit their hearts and decisions to God. The prayer encapsulates the service's themes, encouraging a commitment to trust in Christ and seek His guidance in their lives.",
+      "keywords": ["prayer", "closing", "commitment", "trust", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

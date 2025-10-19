@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: O, How I Love You",
+      "start_time": 270,
+      "type": "music",
+      "description": "The sanctuary choir delivers a heartfelt performance, expressing their love and devotion through the song 'O, How I Love You.' The lyrics emphasize deep adoration and a personal connection with God, creating a worshipful atmosphere that invites congregational participation.",
+      "keywords": ["choir", "love", "worship", "adoration"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["O, How I Love You"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Down from His Glory",
+      "start_time": 661,
+      "type": "music",
+      "description": "A soloist performs 'Down from His Glory,' sharing the story of Jesus' humble beginnings and His immense love for humanity. This piece captures the essence of grace and redemption, inspiring the congregation to reflect on Jesus' sacrifice.",
+      "keywords": ["solo", "Jesus", "sacrifice", "glory"],
+      "performers": ["Soloist"],
+      "songs": ["Down from His Glory"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Resolutions (Ephesians 2:10)",
+      "start_time": 1588,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers an inspiring message on personal resolutions for the new year, focusing on Ephesians 2:10, which declares believers as God's masterpiece. He encourages the congregation to take responsibility as ambassadors for Christ and to cultivate genuine relationships, pushing for a life lived purposefully and positively. Practical applications include prioritizing family and fostering meaningful connections.",
+      "keywords": ["resolutions", "masterpiece", "ambassador", "relationships"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Ephesians 2:10"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3410,
+      "type": "prayer",
+      "description": "In the closing prayer, Pastor Moore thanks God for the message and music shared during the service. He intercedes for those who have made spiritual decisions, asking for guidance in their new paths and encouraging them to grow in faith.",
+      "keywords": ["prayer", "faith", "guidance", "community"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

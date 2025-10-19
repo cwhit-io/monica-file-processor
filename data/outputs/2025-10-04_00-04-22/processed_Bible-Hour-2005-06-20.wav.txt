@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Jesus, Jesus, Jesus",
+      "start_time": 125,
+      "type": "music",
+      "description": "The choir performs a moving rendition of 'Jesus, Jesus, Jesus,' highlighting the importance of His name. The song encourages the congregation to reflect on the significance of Jesus in their lives, emphasizing themes of salvation and worship.",
+      "keywords": ["jesus", "choir", "worship", "music", "praise"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["Jesus, Jesus, Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 768,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer led by the senior pastor. He expresses gratitude for the congregation and seeks divine guidance for the worship service, asking for hearts to be open to the messages shared.",
+      "keywords": ["prayer", "opening", "gratitude", "worship"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Living in Harmony (1 Peter 3:8-12)",
+      "start_time": 828,
+      "type": "sermon",
+      "description": "In this sermon, Pastor Kelly Bird discusses living a harmonious life based on 1 Peter 3:8-12. He emphasizes six principles: being sympathetic, loving as brothers, showing compassion, being humble, avoiding retaliation, and blessing others. The sermon encourages listeners to practice these principles in their daily lives, fostering stronger relationships.",
+      "keywords": ["harmony", "1 peter", "sympathy", "love", "humility"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["1 Peter 3:8-12"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3556,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, thanking God for His guidance and asking for help in applying the sermon’s teachings on harmony in the congregation's lives. The pastor emphasizes the importance of blessing others and living in accordance with God's will.",
+      "keywords": ["closing", "prayer", "thanksgiving", "guidance"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: A Song of Thanksgiving",
+      "start_time": 215,
+      "type": "music",
+      "description": "The sanctuary choir presents a heartfelt piece titled 'A Song of Thanksgiving.' This music sets a reflective tone for the service, inviting the congregation to embrace a spirit of gratitude and remembrance of God's blessings. The melody is gentle and uplifting, creating an atmosphere of thanksgiving.",
+      "keywords": ["choir", "thanksgiving", "gratitude", "music", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["A Song of Thanksgiving"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: His Name Is Wonderful",
+      "start_time": 629,
+      "type": "music",
+      "description": "The congregation joins together in singing 'His Name Is Wonderful.' This hymn expresses deep reverence and excitement for the Lord. It fosters a collective spirit of worship as attendees lift their voices in unison, acknowledging the magnificence of God's name.",
+      "keywords": ["congregational", "hymn", "worship", "music", "praise"],
+      "performers": [],
+      "songs": ["His Name Is Wonderful"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown Title]",
+      "start_time": 874,
+      "type": "music",
+      "description": "Keith and Starr Bratagum share a moving solo performance, delighting the audience with their melodic harmonies. This special music moment captures the essence of worship and gratitude during the Thanksgiving service. Their presentation invites reflection on the themes of thanksgiving and praise.",
+      "keywords": ["solo", "praise", "thanksgiving", "worship", "harmony"],
+      "performers": ["Keith Bratagum", "Starr Bratagum"],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Jude 1:24-25",
+      "start_time": 2280,
+      "type": "scripture",
+      "description": "The scripture reading comes from Jude 1:24-25, emphasizing God's ability to keep believers from falling and presenting them as faultless. This reading encapsulates the themes of security and salvation, encouraging the congregation to reflect on their relationship with God.",
+      "keywords": ["scripture", "Jude", "salvation", "faith", "thanksgiving"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Jude 1:24-25"]
+    },
+    {
+      "title": "Message: Praise and Thanksgiving (Jude 1:24-25)",
+      "start_time": 2296,
+      "type": "sermon",
+      "description": "In this powerful sermon, Pastor Rick Hawks delves into the theme of thanksgiving, drawn from Jude's doxology. He highlights the reasons for praise, discussing God's sovereignty, grace, and the joyous anticipation of being presented before Him faultless. The message encourages a heart of gratitude even amid adversity, reinforcing the beauty of God's faithfulness.",
+      "keywords": ["sermon", "thanksgiving", "praise", "Jude", "faith"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Jude 1:24-25"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1860,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting the Holy Spirit's presence. It's a moment for the congregation to center their hearts and minds on God, acknowledging their gratitude for His blessings and grace. This prayer sets a reverent tone as the service unfolds.",
+      "keywords": ["opening", "prayer", "gratitude", "worship", "spiritual"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3520,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, thanking God for His love and the messages shared. This collective moment allows attendees to reaffirm their faith and commitment to living out the teachings of gratitude and praise emphasized during the service. It's a heartfelt send-off as the congregation prepares to leave.",
+      "keywords": ["closing", "prayer", "thanksgiving", "worship", "spiritual"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

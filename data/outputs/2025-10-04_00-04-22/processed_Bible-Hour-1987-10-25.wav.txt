@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: I Just Keep Trusting My Lord",
+      "start_time": 309,
+      "type": "music",
+      "description": "The Sanctuary Choir performs a moving piece that focuses on trust and faith in Jesus Christ. The lyrics highlight the joy and peace that come from placing one's trust in the Lord, drawing the congregation closer together in worship.",
+      "keywords": ["trust", "faith", "choir", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["I Just Keep Trusting My Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: My Faith Looks Up to Thee",
+      "start_time": 601,
+      "type": "music",
+      "description": "A beautiful solo performance of 'My Faith Looks Up to Thee' focusing on deep trust in God. The heartfelt rendition emphasizes reliance on Christ through life's trials and celebrates His mercy and grace.",
+      "keywords": ["faith", "trust", "grace", "solo"],
+      "performers": ["Brian Lowson"],
+      "songs": ["My Faith Looks Up to Thee"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: It Was for You",
+      "start_time": 1296,
+      "type": "music",
+      "description": "The congregation joins in singing 'It Was for You,' a hymn that proclaims the sacrificial love of Jesus Christ. This heartfelt song invites worshippers to reflect on the personal nature of Christ’s redemption and His call to receive grace.",
+      "keywords": ["hymn", "redemption", "grace", "congregation"],
+      "performers": [],
+      "songs": ["It Was for You"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1496,
+      "type": "prayer",
+      "description": "In this opening prayer, the congregation seeks God's presence and grace, acknowledging their need for Him. The prayer emphasizes the importance of unity in worship and the recognition of God's sovereignty and love.",
+      "keywords": ["prayer", "worship", "unity", "God"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Acts of the Apostates (Jude 1:1-4)",
+      "start_time": 259,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a compelling sermon based on Jude 1:1-4, addressing the issue of apostasy within the church. He highlights the importance of contending for the faith against false teachings and emphasizes a personal relationship with Christ, challenging believers to remain steadfast.",
+      "keywords": ["apostasy", "church", "faith", "Jude", "sermon"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Jude 1:1-4"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3534,
+      "type": "prayer",
+      "description": "During the invitation prayer, the pastor encourages those who feel a tug at their hearts to respond to Christ's call. This moment is marked by a genuine plea for God's forgiveness and acceptance, inviting listeners to embrace a personal relationship with Jesus.",
+      "keywords": ["invitation", "prayer", "forgiveness", "relationship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3600,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer that reflects gratitude for the message received and a commitment to live out the teachings shared. The congregation is reminded of God's presence as they depart to serve and witness in their communities.",
+      "keywords": ["closing", "prayer", "thanks", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

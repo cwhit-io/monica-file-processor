@@ -1,0 +1,96 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Congregational Hymn: Soft Music",
+      "start_time": 21,
+      "type": "music",
+      "description": "The service begins with a gentle and uplifting music set, creating an inviting atmosphere for worship and reflection. The congregation is encouraged to engage with the music and prepare their hearts for the service ahead.",
+      "keywords": ["music", "worship", "atmosphere"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unknown Title]",
+      "start_time": 61,
+      "type": "music",
+      "description": "The choir presents a lively song inviting participation from the congregation, enhancing the worship experience. The music aims to uplift and unite everyone in praise.",
+      "keywords": ["choir", "worship", "song"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unknown Title]",
+      "start_time": 223,
+      "type": "music",
+      "description": "Continuing with joyful and spirited music, the choir engages the congregation, encouraging active participation in singing praise. This time serves as a celebration of faith through music.",
+      "keywords": ["choir", "worship", "song"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unknown Title]",
+      "start_time": 375,
+      "type": "music",
+      "description": "The choir leads another dynamic piece that resonates with themes of togetherness and joy in worship. The congregation is invited to be fully engaged during this musical interlude.",
+      "keywords": ["choir", "worship", "song"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 556,
+      "type": "prayer",
+      "description": "An opening prayer is offered, setting the tone for the service and inviting the congregation to focus on God. This prayer helps establish a spiritual atmosphere for the message and worship that follows.",
+      "keywords": ["prayer", "worship", "focus"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: True Confession (Daniel 9)",
+      "start_time": 1141,
+      "type": "sermon",
+      "description": "The sermon focuses on Daniel Chapter 9, exploring the themes of true confession and the importance of sincere communication with God. The message highlights Daniel's deep devotion and the need for confession as part of effective prayer.",
+      "keywords": ["sermon", "Daniel", "confession", "prayer"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["Daniel 9:1-21"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3205,
+      "type": "prayer",
+      "description": "A prayer of invitation is extended, encouraging the congregation to reflect on their personal relationship with God. This moment allows for introspection and a call to engage more deeply in faith.",
+      "keywords": ["prayer", "invitation", "reflection"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Great Is Thy Faithfulness",
+      "start_time": 3381,
+      "type": "music",
+      "description": "The congregation sings 'Great Is Thy Faithfulness,' celebrating God's enduring nature and faithfulness in their lives. This hymn serves as a powerful reminder of God's promises and presence.",
+      "keywords": ["hymn", "faithfulness", "worship"],
+      "performers": [],
+      "songs": ["Great Is Thy Faithfulness"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3510,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, giving thanks for the time spent in worship and reflection. It encourages the congregation to take the teachings of the day into their week ahead.",
+      "keywords": ["prayer", "closing", "thanksgiving"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

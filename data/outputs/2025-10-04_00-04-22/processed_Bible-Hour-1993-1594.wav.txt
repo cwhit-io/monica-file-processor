@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Sing Me a Song About Jesus",
+      "start_time": 59,
+      "type": "music",
+      "description": "The Sanctuary Choir performs a heartfelt rendition of 'Sing Me a Song About Jesus,' celebrating their faith through music. The choir's powerful harmonies invite the congregation to reflect on the life and teachings of Jesus. This worshipful moment aims to uplift and inspire as the music resonates in the hearts of all present.",
+      "keywords": ["worship", "choir", "Jesus", "song", "faith"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Sing Me a Song About Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Sing Me a Song About Jesus",
+      "start_time": 148,
+      "type": "music",
+      "description": "The choir continues with the song 'Sing Me a Song About Jesus,' further exploring the themes of hope and devotion. Their melodies create a worshipful atmosphere, encouraging participation from the congregation. This segment heightens the sense of community and collective adoration amidst musical praise.",
+      "keywords": ["worship", "choir", "community", "praise", "devotion"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Sing Me a Song About Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: I Want to Know Why",
+      "start_time": 290,
+      "type": "music",
+      "description": "Soloist Lisa Feeney presents 'I Want to Know Why,' a poignant song filled with emotions of doubt and faith in God's plans. The performance is characterized by heartfelt lyrics that reflect a deep longing for understanding during challenging times. The congregation is invited to engage deeply with the message of trust in God's providence.",
+      "keywords": ["faith", "doubt", "God", "song", "understanding"],
+      "performers": ["Lisa Feeney"],
+      "songs": ["I Want to Know Why"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: I Want to Know Why",
+      "start_time": 529,
+      "type": "music",
+      "description": "The performance of 'I Want to Know Why' concludes as the worship service continues to explore themes of faith and reliance on God. The emotional delivery leaves a resonating impact on the audience, encouraging introspection and communal engagement through music. This segment drives home the message of trusting in God despite uncertainties.",
+      "keywords": ["faith", "trust", "God", "song", "worship"],
+      "performers": ["Lisa Feeney"],
+      "songs": ["I Want to Know Why"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 580,
+      "type": "prayer",
+      "description": "The service transitions into an opening prayer led by Pastor Russell Moore, inviting the congregation to bow their heads in reverence. The prayer sets the tone for the worship, asking for God's presence and guidance throughout the service. It underscores the importance of seeking God before diving into worship and teaching.",
+      "keywords": ["prayer", "worship", "congregation", "guidance", "God"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 2 Chronicles 25",
+      "start_time": 950,
+      "type": "scripture",
+      "description": "The congregation engages in a reading from 2 Chronicles 25, focusing on King Amaziah's reign. This scripture sets the foundation for the day’s sermon by reflecting on themes of worship and the heart's condition in honoring God. The reading encourages a connection between the ancient text and present-day worship experiences.",
+      "keywords": ["scripture", "2 Chronicles", "worship", "Amaziah", "Bible"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["2 Chronicles 25"]
+    },
+    {
+      "title": "Message: True Worship (2 Chronicles 25)",
+      "start_time": 976,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a powerful sermon discussing the nature of true worship, drawing insights from 2 Chronicles 25. He emphasizes the importance of worshiping with a whole heart and living out that worship in daily actions. The sermon challenges the congregation to evaluate their own worship practices against biblical principles.",
+      "keywords": ["worship", "sermon", "Russell Moore", "2 Chronicles", "heart"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["2 Chronicles 25"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3536,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer by Pastor Russell Moore, inviting congregants to commit their lives and decisions to God. This prayer encapsulates the themes of worship discussed throughout the service and encourages the congregation to apply these principles in their everyday lives.",
+      "keywords": ["closing", "prayer", "commitment", "worship", "God"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

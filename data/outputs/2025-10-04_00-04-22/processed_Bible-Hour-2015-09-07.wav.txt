@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Your Cross",
+      "start_time": 28,
+      "type": "music",
+      "description": "The choir leads the congregation in singing a heartfelt song that emphasizes the power of the cross. Lyrics celebrate the transformative effect of grace and invite worshippers to engage with the music. The joyful tone aims to uplift spirits and draw everyone closer to the heart of worship.",
+      "keywords": ["cross", "grace", "worship", "joy", "spirit"],
+      "performers": ["Choir"],
+      "songs": ["Your Cross"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Celebration Song",
+      "start_time": 403,
+      "type": "music",
+      "description": "Following the opening, the choir performs a vibrant song that invites listeners to celebrate through song and dance. The lyrics encourage the congregation to open their hearts in praise, creating an atmosphere of worship. This segment emphasizes the joy found in communal singing together.",
+      "keywords": ["celebration", "song", "praise", "worship", "joy"],
+      "performers": ["Choir"],
+      "songs": ["Celebration Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 655,
+      "type": "prayer",
+      "description": "The pastor leads the congregation in an opening prayer, expressing gratitude for God's presence and the upcoming events of the service. He invites the community to reflect on their lives and gives thanks for the opportunity to gather. The prayer focuses on joyfulness in worship and God’s work in the lives of believers.",
+      "keywords": ["prayer", "gratitude", "worship", "community", "God"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Genesis 1",
+      "start_time": 723,
+      "type": "scripture",
+      "description": "The pastor reads from the book of Genesis, recounting the creation of the world. This reading establishes the foundation of the sermon and emphasizes the divine act of creation. It serves to remind the congregation of their Creator’s power and intent.",
+      "keywords": ["Genesis", "creation", "scripture", "God", "beginning"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Genesis 1"]
+    },
+    {
+      "title": "Message: The Power of Creation (Genesis 1)",
+      "start_time": 861,
+      "type": "sermon",
+      "description": "In this profound sermon, the pastor explores the creation account in Genesis, explaining who God is and the orderly nature of creation. He addresses contemporary challenges to the biblical account of creation, contrasting it with modern theories. The sermon emphasizes trust in God's word and care for the Creator in every aspect of life.",
+      "keywords": ["creation", "God", "order", "sermon", "trust"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Genesis 1"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2886,
+      "type": "prayer",
+      "description": "The pastor offers an invitation prayer, asking God to open hearts and minds to the message delivered. He invites individuals to respond personally to their Creator and encourages reflection on their faith journey. This moment fosters an environment for spiritual renewal and commitment.",
+      "keywords": ["invitation", "prayer", "faith", "God", "renewal"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: How Great Thou Art",
+      "start_time": 2916,
+      "type": "music",
+      "description": "The congregation joins together in singing 'How Great Thou Art,' a hymn that praises the majesty of God’s creation and His love. This beloved hymn encourages a deep sense of awe and wonder as participants reflect on God’s greatness through nature and salvation. The singing strengthens community bonds and uplifts spirits.",
+      "keywords": ["hymn", "majesty", "praise", "worship", "awe"],
+      "performers": ["Congregation"],
+      "songs": ["How Great Thou Art"],
+      "scripture_references": []
+    },
+    {
+      "title": "baptism: Baptism: Celebration of Faith",
+      "start_time": 3132,
+      "type": "baptism",
+      "description": "The church celebrates a joyful baptism service where individuals publicly declare their faith in Jesus Christ. Attendees witness the act of baptism, which symbolizes new life and commitment to God. This moment unifies the congregation in a shared experience of faith and joy.",
+      "keywords": ["baptism", "faith", "celebration", "testimony", "community"],
+      "performers": ["Pastor", "Baptism Candidates"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

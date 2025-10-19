@@ -1,0 +1,64 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: A Mighty Fortress",
+      "start_time": 155,
+      "type": "music",
+      "description": "The sanctuary choir delivers a powerful rendition of 'A Mighty Fortress,' emphasizing the strength and might of faith in Jesus Christ. The lyrics remind the congregation of divine protection and faith in God’s steadfastness, encouraging unity through song. The performance reflects a deep commitment to worship and reverence for God’s power.",
+      "keywords": ["choir", "A Mighty Fortress", "faith", "worship", "protection"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["A Mighty Fortress"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: My Jesus, I Love Thee",
+      "start_time": 570,
+      "type": "music",
+      "description": "David and Debbie Johnson perform a moving instrumental duet of 'My Jesus, I Love Thee,' creating an atmosphere of reflection and devotion. This performance invites the congregation to engage spiritually, meditating on the love and sacrifice of Jesus. The heartfelt rendition enhances the worship experience, encouraging deeper faith.",
+      "keywords": ["David Johnson", "Debbie Johnson", "worship", "devotion", "Jesus"],
+      "performers": ["David Johnson", "Debbie Johnson"],
+      "songs": ["My Jesus, I Love Thee"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: My Faith Is Built on Nothing Less",
+      "start_time": 411,
+      "type": "music",
+      "description": "The congregation participates joyfully in singing 'My Faith Is Built on Nothing Less,' expressing unity in faith and trust in Jesus Christ. The hymn reaffirms the solid foundation believers find in Christ, reinforcing themes of reliance and assurance. This segment solidifies the community aspect of worship as everyone joins in praise.",
+      "keywords": ["congregation", "hymn", "faith", "Jesus", "unity"],
+      "performers": [],
+      "songs": ["My Faith Is Built on Nothing Less"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1189,
+      "type": "prayer",
+      "description": "The opening prayer sets the tone for the service, encouraging the congregation to focus on God's promises and faithfulness. The prayer emphasizes gratitude for healing within the community and the importance of worship. This moment creates a heartfelt connection among attendees, fostering a spirit of reverence.",
+      "keywords": ["prayer", "worship", "healing", "community", "gratefulness"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: God's Anger on Hold (Psalm 78:38-39)",
+      "start_time": 136,
+      "type": "sermon",
+      "description": "Tim Teder delivers a challenging message on the theme 'God's Anger on Hold,' centered on God's patience with humanity. He explores scriptural examples, emphasizing how God remains merciful even in the face of disbelief and disobedience. The sermon calls for personal reflection on our reactions to God's patience and encourages a grateful response to His grace.",
+      "keywords": ["sermon", "patience", "God", "mercy", "disobedience"],
+      "performers": ["Tim Teder"],
+      "songs": [],
+      "scripture_references": ["Psalms 78:38-39"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3535,
+      "type": "prayer",
+      "description": "The closing prayer provides a moment of reflection, thanking God for His patience and love. It encourages congregants to internalize the message of the sermon, fostering a spirit of commitment to live in accordance with God’s teachings. This moment of prayer wraps up the service with a strong sense of community and spiritual growth.",
+      "keywords": ["prayer", "reflection", "thankfulness", "community", "spiritual growth"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: All Glory to Jesus",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir sings a heartfelt hymn of appreciation to Jesus. This musical moment emphasizes the glory and majesty of Christ, inviting the congregation to reflect on the significance of Jesus' reign. The performance uplifts the spirit of worship among those present.",
+      "keywords": ["choir", "hymn", "appreciation", "worship"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["All Glory to Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Thank You, Lord",
+      "start_time": 294,
+      "type": "music",
+      "description": "Ron Hackett delivers a moving solo, expressing gratitude for life's trials and the strength gained through faith. His heartfelt rendition encourages the congregation to embrace divine guidance amidst challenges. The lyrics resonate with themes of patience, learning, and gratitude.",
+      "keywords": ["solo", "gratitude", "trials", "faith"],
+      "performers": ["Ron Hackett"],
+      "songs": ["Thank You, Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: I Take the Finite Risk",
+      "start_time": 1221,
+      "type": "music",
+      "description": "Starr Narwald performs a solo, illustrating belief and trust in God through trials and the unknown. Her emotional singing captivates the audience and reinforces the theme of faith. The song encourages deeper reflection on how trust shapes our spiritual journey.",
+      "keywords": ["solo", "trust", "faith", "journey"],
+      "performers": ["Starr Narwald"],
+      "songs": ["I Take the Finite Risk"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1670,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting God’s presence and guidance for the worship and teaching that will follow. The prayer emphasizes unity among the congregation and preparation to receive the Word of God.",
+      "keywords": ["prayer", "opening", "guidance", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Matthew 25",
+      "start_time": 1430,
+      "type": "scripture",
+      "description": "A passage from Matthew 25 is read, focusing on the parable of the talents. This scripture sets the stage for the sermon, highlighting themes of stewardship and accountability before God.",
+      "keywords": ["scripture", "Matthew", "parable", "talents"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 25"]
+    },
+    {
+      "title": "Message: The Parable of the Talents (Matthew 25)",
+      "start_time": 1445,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers a powerful sermon on stewardship, exploring the parable of the talents. He emphasizes the importance of using one's abilities and resources wisely for God's kingdom. The sermon reinforces the idea that every believer has a role in God’s ministry.",
+      "keywords": ["sermon", "stewardship", "talents", "accountability"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Matthew 25:14-30"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2090,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, allowing attendees to reflect on the message and consider their personal response to God's call for stewardship. This moment encourages individuals to commit their talents and lives to God's service.",
+      "keywords": ["prayer", "invitation", "commitment", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Amazing Grace",
+      "start_time": 1170,
+      "type": "music",
+      "description": "The congregation joins in singing 'Amazing Grace,' a beloved hymn that emphasizes grace and redemption. This communal worship moment unites the church in praise and gratitude for God's unending grace through faith.",
+      "keywords": ["hymn", "grace", "redemption", "worship"],
+      "performers": [],
+      "songs": ["Amazing Grace"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2215,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, giving thanks for the worship experience and asking for God's continued guidance throughout the week. This prayer reinforces the themes of stewardship and faithfulness addressed during the service.",
+      "keywords": ["prayer", "closing", "thanksgiving", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Opening Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with upbeat music, creating a warm and welcoming atmosphere for the congregation. As the music plays, attendees gather and prepare for the service ahead.",
+      "keywords": ["upbeat", "music", "welcome", "atmosphere"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Welcoming and Introduction",
+      "start_time": 31,
+      "type": "announcement",
+      "description": "Kelly Bird welcomes everyone to the service and expresses gratitude for their attendance. He acknowledges the recent tragic events in Haiti and the desire to help those impacted.",
+      "keywords": ["welcome", "intro", "Haiti", "help"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir Performance",
+      "start_time": 216,
+      "type": "music",
+      "description": "The choir takes the stage to perform a beautiful rendition of a song, uplifting the spirits of the congregation. This moment enhances the sense of community and worship.",
+      "keywords": ["choir", "performance", "worship"],
+      "performers": ["Choir"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Gentle Background Music",
+      "start_time": 315,
+      "type": "music",
+      "description": "Gentle music plays in the background, setting a serene mood during a reflective moment in the service. This atmosphere encourages contemplation and connection with God.",
+      "keywords": ["gentle", "music", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Extended Choir Performance",
+      "start_time": 348,
+      "type": "music",
+      "description": "The choir continues to deliver a stirring performance that resonates deeply with the congregation. The song deepens the worship experience and draws attendees into a spirit of praise.",
+      "keywords": ["choir", "performance", "worship", "praise"],
+      "performers": ["Choir"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Gospel's Transformative Power (Ephesians 2)",
+      "start_time": 603,
+      "type": "sermon",
+      "description": "In this powerful sermon, Kelly Bird unfolds Ephesians 2, emphasizing the gospel's transformative power. He explores themes of salvation, grace, and the practical outworking of faith in everyday life, urging the congregation to live as 'God's workmanship' prepared for good works.",
+      "keywords": ["gospel", "Ephesians", "salvation", "grace", "workmanship"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Ephesians 2"]
+    },
+    {
+      "title": "drama: God’s Masterpiece",
+      "start_time": 3281,
+      "type": "drama",
+      "description": "A creative drama presentation illustrates how God shapes individuals into masterpieces for his purpose. Through dialogue and engaging visuals, it highlights the ongoing work God does in believers' lives.",
+      "keywords": ["drama", "God", "masterpiece", "shaping"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3483,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer led by Kelly Bird. He prays for courage, transformation, and opportunities for the congregation to live out their faith in practical ways.",
+      "keywords": ["prayer", "closing", "courage", "transformation"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

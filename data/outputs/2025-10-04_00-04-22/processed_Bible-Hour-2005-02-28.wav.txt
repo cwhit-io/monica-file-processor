@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 30,
+      "type": "music",
+      "description": "The service begins with a powerful choir piece that sets a dramatic atmosphere for worship. The music engages the audience and prepares their hearts for the message to follow. The choir's harmonies resonate throughout the space, creating a communal spirit of praise.",
+      "keywords": ["choir", "music", "worship", "praise", "drama"],
+      "performers": ["Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Thank You for Saving Me. Now What? (1 Peter 1:13-16)",
+      "start_time": 539,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird delivers a thought-provoking sermon focusing on the concept of holiness as outlined in 1 Peter. He encourages the congregation to understand their identity as followers of Christ, emphasizing that their actions should reflect who they are in Him. Themes of mental preparation, obedience, and living out one's faith are woven throughout the message, with personal stories illustrating the application of Scripture.",
+      "keywords": ["holiness", "identity", "1 Peter", "obedience", "salvation"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["1 Peter 1:13-16"]
+    },
+    {
+      "title": "Congregational Hymn: [Song Title]",
+      "start_time": 3439,
+      "type": "music",
+      "description": "The congregation joins in a heartfelt hymn, lifting their voices in unison. This moment of worship fosters a sense of community and reflection as attendees focus on the message of the sermon. The hymn ties back to the themes of gratitude and holiness emphasized in the service.",
+      "keywords": ["hymn", "worship", "congregation", "community", "praise"],
+      "performers": ["Congregation"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3446,
+      "type": "prayer",
+      "description": "The service transitions into an opening prayer led by Pastor Bird. During this time, he guides the congregation in seeking God's presence and blessing over the service. The prayer emphasizes openness to God's word and a desire for spiritual growth.",
+      "keywords": ["prayer", "worship", "community", "God's presence"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 812,
+      "type": "music",
+      "description": "A soloist performs a reflective piece that encourages worship and contemplation among the congregation. The beautiful melody and heartfelt lyrics invite attendees to connect more deeply with the themes of the service.",
+      "keywords": ["solo", "music", "worship", "reflection", "praise"],
+      "performers": ["[Artist Name]"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3551,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, inviting attendees to reflect on the messages shared and commit to living out their faith. Pastor Bird asks for God's guidance and encouragement in applying the teachings in their daily lives.",
+      "keywords": ["closing", "prayer", "reflection", "commitment", "faith"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

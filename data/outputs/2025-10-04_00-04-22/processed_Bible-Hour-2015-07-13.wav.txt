@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 30,
+      "type": "music",
+      "description": "The choir performs a beautiful piece that captivates the congregation, setting a reverent atmosphere for the service.",
+      "keywords": ["choir", "worship", "music", "praise", "performance"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 213,
+      "type": "music",
+      "description": "Following a cheerful applause, the choir continues to lead the congregation in uplifting songs that emphasize worship and connection with God.",
+      "keywords": ["choir", "worship", "music", "praise", "song"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 715,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, inviting God to meet with the congregation. The prayer expresses adoration and requests for guidance through the service.",
+      "keywords": ["prayer", "opening", "worship", "God", "invitation"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "scripture: Scripture Reading: [Hebrews 10]",
+      "start_time": 646,
+      "type": "scripture",
+      "description": "The congregation engages with a powerful scripture reading from Hebrews 10:19-25, focusing on the confidence believers have through Jesus.",
+      "keywords": ["scripture", "Hebrews", "faith", "Jesus", "confidence"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["Hebrews 10:19-25"]
+    },
+    {
+      "title": "Message: From Great to Good (Hebrews 10)",
+      "start_time": 811,
+      "type": "sermon",
+      "description": "The sermon elaborates on the greatness of Jesus, comparing Him to various figures in Judaic history like prophets and angels, affirming His supreme position and the transformational power He has over believers' lives.",
+      "keywords": ["sermon", "Jesus", "greatness", "Hebrews", "faith"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["Hebrews 10"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3555,
+      "type": "prayer",
+      "description": "The service concludes with a prayer, asking God for strength and guidance as the congregation reflects on the message and prepares to enter the world.",
+      "keywords": ["closing", "prayer", "reflection", "worship"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    }
+  ]
+}
+```

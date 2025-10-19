@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: The Virgin Mary Had a Baby Boy",
+      "start_time": 55,
+      "type": "music",
+      "description": "The choir performs a lively rendition of 'The Virgin Mary Had a Baby Boy,' celebrating the birth of Jesus. The repetitive refrains emphasize the joy of Jesus being the Savior of the world, engaging the congregation in a festive spirit. This song sets a joyful tone for the service, bringing nostalgia and warmth associated with holiday celebrations.",
+      "keywords": ["choir", "Christmas", "joy", "Jesus", "savior"],
+      "performers": ["Black Hawk Baptist Choir"],
+      "songs": ["The Virgin Mary Had a Baby Boy"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Don't Tell It on the Mountain",
+      "start_time": 187,
+      "type": "music",
+      "description": "The choir continues with a spirited performance of 'Don't Tell It on the Mountain,' inviting the congregation to share the news of Jesus' birth joyfully. The upbeat nature of the song encourages an atmosphere of celebration and community, allowing participants to feel a deep connection through shared hymns of praise.",
+      "keywords": ["choir", "celebration", "Christmas", "Jesus", "worship"],
+      "performers": ["Black Hawk Baptist Choir"],
+      "songs": ["Don't Tell It on the Mountain"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unidentified Song]",
+      "start_time": 281,
+      "type": "music",
+      "description": "The choir captivates the audience with a medley of songs, eliciting applause and engagement from the congregation. This performance showcases the choir's abilities and fosters a spirit of worship, drawing everyone into a moment of reflection and gratitude as they embrace the holiday's true meaning.",
+      "keywords": ["choir", "medley", "worship", "celebration", "community"],
+      "performers": ["Black Hawk Baptist Choir"],
+      "songs": ["[Unidentified Song]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Is the Bible True? (Various Scriptures)",
+      "start_time": 759,
+      "type": "sermon",
+      "description": "Pastor Russell Moore presents a compelling message exploring the truth of the Bible, addressing its uniqueness. Over 1,600 years of compilation by diverse authors provide a continuous narrative that verifies its reliability, circulation, and predictions. The sermon challenges the congregation to reflect on the implications of the Bible as God's inspired word in their lives, urging them to explore its teachings.",
+      "keywords": ["Bible", "truth", "scripture", "faith", "God"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Genesis 1:1", "Isaiah 55:9", "Job 26:7"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3490,
+      "type": "prayer",
+      "description": "As the service concludes, Pastor Russell Moore leads a heartfelt closing prayer, asking for God's guidance and strength for those seeking spiritual answers. He encourages the congregation to turn to scripture and invites those in need of support to reach out to the church for further assistance.",
+      "keywords": ["prayer", "closure", "God", "support", "community"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

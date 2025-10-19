@@ -1,0 +1,36 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Message: Sinfulness of Humanity (Ephesians 2:1-3)",
+      "start_time": 0,
+      "type": "sermon",
+      "description": "The sermon discusses the sinfulness of humanity as depicted in Ephesians chapter two. The speaker emphasizes that all people have sinned and are in need of a savior, highlighting the concept that we are saved from death, sin, and our own past. It challenges listeners to recognize their spiritual state and the importance of connecting to Jesus for true life.",
+      "keywords": ["sinfulness", "humanity", "death", "Ephesians", "savior"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["Ephesians 2:1-3"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 2430,
+      "type": "prayer",
+      "description": "An opening prayer setting the tone for the service, inviting the presence of God and asking for guidance during the sermon. The prayer aims to prepare the hearts of the congregation to receive the message.",
+      "keywords": ["prayer", "opening", "service", "guidance", "presence"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2523,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, thanking God for the message delivered and encouraging congregants to reflect on their personal relationship with Jesus. It invites attendees to take action based on the sermon and seek God's help in their lives.",
+      "keywords": ["prayer", "closing", "thankful", "reflection", "action"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

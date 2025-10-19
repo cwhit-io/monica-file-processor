@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: I Go to God in Prayer",
+      "start_time": 118,
+      "type": "music",
+      "description": "The choir performs a heartfelt piece focusing on the theme of prayer and reliance on God during difficult times. The lyrics emphasize casting burdens on Jesus and finding strength in faith. The music creates an uplifting atmosphere, inviting the congregation to reflect on their own prayer life.",
+      "keywords": ["choir", "prayer", "God", "strength", "faith"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["I Go to God in Prayer"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Living Water, Bread of Life",
+      "start_time": 539,
+      "type": "music",
+      "description": "A solo performance that beautifully illustrates the longing for spiritual fulfillment through the imagery of living water and bread of life. The singer conveys a deep yearning for God, resting in the assurance that true satisfaction comes from Him alone. The song evokes a sense of hope and divine connection.",
+      "keywords": ["solo", "spiritual", "longing", "fulfillment", "hope"],
+      "performers": ["Unknown"],
+      "songs": ["Living Water, Bread of Life"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Happiness is Not the Goal (Matthew 5)",
+      "start_time": 686,
+      "type": "sermon",
+      "description": "The sermon explores the contrast between worldly happiness and true fulfillment found in spiritual values as taught in the Beatitudes. The speaker emphasizes that pursuing happiness can lead to compromised integrity and broken relationships, and instead, advocates for a pursuit of righteousness as a deeper source of joy. Key scriptural insights are drawn, illuminating Jesus's teachings on what it means to be truly blessed.",
+      "keywords": ["happiness", "beatitudes", "spirituality", "righteousness", "Jesus"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": ["Matthew 5"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3505,
+      "type": "prayer",
+      "description": "The pastor leads an invitation prayer, encouraging congregants to open their hearts to God's message and seek happiness through spiritual alignment. This prayer emphasizes commitment to pursuing righteousness and grace in their lives. It serves as an opportunity for reflection and dedication to faith.",
+      "keywords": ["invitation", "prayer", "commitment", "reflection", "faith"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

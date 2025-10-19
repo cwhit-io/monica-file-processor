@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "announcement: Celebrating Our Pastor",
+      "start_time": 0,
+      "type": "announcement",
+      "description": "The service begins with a warm welcome from Pastor Weiz, who acknowledges the absence of Pastor Kevin and his wife Jessica. He encourages the congregation to appreciate their pastor's contribution upon their return. He emphasizes the importance of honoring their efforts and recognizing their impact on the community.",
+      "keywords": ["pastor", "celebration", "appreciation", "community"],
+      "performers": ["Weiz"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Corinthians 13",
+      "start_time": 77,
+      "type": "scripture",
+      "description": "Pastor Weiz introduces the scripture reading for the day, focusing on 1 Corinthians 13, which discusses the profound and complex nature of love. He sets the stage for the message by reflecting on how love is essential in the life of every believer.",
+      "keywords": ["scripture", "1 Corinthians", "love"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 13"]
+    },
+    {
+      "title": "Message: Unyielding Perseverance (1 Corinthians 13)",
+      "start_time": 465,
+      "type": "sermon",
+      "description": "In his sermon, Pastor Weiz discusses the theme of 'Unyielding Perseverance,' emphasizing that true love requires effort, especially during conflicts. He encourages the congregation to reflect on their relationships and to choose love, even in difficult circumstances. The message focuses on the qualities of love described in 1 Corinthians 13, explaining how they should shape Christian interactions.",
+      "keywords": ["love", "perseverance", "1 Corinthians", "relationships"],
+      "performers": ["Weiz"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 13:1-7"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2250,
+      "type": "prayer",
+      "description": "As the sermon concludes, Pastor Weiz leads the congregation in an invitation prayer, encouraging individuals to open their hearts to Jesus. He emphasizes the importance of allowing Jesus into their lives to fill any emptiness and transform their relationships. This prayer is a moment for personal reflection and commitment.",
+      "keywords": ["prayer", "invitation", "Jesus"],
+      "performers": ["Weiz"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2458,
+      "type": "prayer",
+      "description": "The service ends with a closing prayer led by Pastor Weiz, thanking God for His love and for the message shared that day. The congregation is encouraged to carry the message of love into their daily lives and relationships. This moment serves as a reflective conclusion to the service.",
+      "keywords": ["closing", "prayer", "thankfulness"],
+      "performers": ["Weiz"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

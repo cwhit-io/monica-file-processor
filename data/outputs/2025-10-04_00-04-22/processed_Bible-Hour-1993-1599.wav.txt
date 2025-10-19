@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Special Music",
+      "start_time": 320,
+      "type": "music",
+      "description": "The sanctuary choir performs special music in celebration of Easter, setting a reflective tone for the service. The music complements the themes of resurrection and hope that are central to the Easter message, inviting the congregation into a spirit of worship and reflection.",
+      "keywords": ["choir", "Easter", "music", "worship", "celebration"],
+      "performers": ["Sanctuary Choir"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Way, The Truth, and The Life (John 14:6)",
+      "start_time": 876,
+      "type": "sermon",
+      "description": "Pastor Russell Moore's Easter sermon centers on the profound statement of Jesus declaring Himself as ‘The Way, The Truth, and The Life.’ He explores the implications of this truth in the context of contemporary society, urging listeners to seek a deeper understanding of Easter beyond superficial traditions and societal distractions. He emphasizes the critical need for spiritual direction and reconciliation with God.",
+      "keywords": ["sermon", "Easter", "Jesus", "truth", "life", "society", "spirituality"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["John 14:6"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3395,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, inviting those who feel the call to accept Jesus Christ as their personal Savior. It is a moment to reflect on the sermon and the significance of Easter, encouraging congregants to commit or recommit their lives to Christ.",
+      "keywords": ["prayer", "invitation", "Savior", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Celebration Music",
+      "start_time": 3553,
+      "type": "music",
+      "description": "The service concludes with celebratory music by the choir, reinforcing the joyous feeling of Easter Sunday. This piece is intended to uplift and inspire the congregation, encapsulating the themes of resurrection and hope in Christ.",
+      "keywords": ["choir", "celebration", "music", "Easter", "joy"],
+      "performers": ["Sanctuary Choir"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

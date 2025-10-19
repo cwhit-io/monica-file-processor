@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: This is the Day",
+      "start_time": 108,
+      "type": "music",
+      "description": "The sanctuary choir begins the service with the uplifting song 'This is the Day'. The congregation joins in celebration, expressing joy and gratitude for the day the Lord has made. The lyrics invite everyone to rejoice and be glad, creating a lively and joyful atmosphere in the church.",
+      "keywords": ["choir", "worship", "rejoice", "celebration", "song"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["This is the Day"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: I Will Lay Down My Life",
+      "start_time": 350,
+      "type": "music",
+      "description": "Dan Thorlson presents his heartfelt solo performance, 'I Will Lay Down My Life'. The song reflects themes of surrender and love, emphasizing the importance of putting others before oneself. The emotional delivery resonates with the congregation, highlighting personal struggles and the transformative power of faith.",
+      "keywords": ["solo", "surrender", "faith", "love", "Dan Thorlson"],
+      "performers": ["Dan Thorlson"],
+      "songs": ["I Will Lay Down My Life"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Father, Not My Will But Yours",
+      "start_time": 763,
+      "type": "music",
+      "description": "Dan Thorlson performs 'Father, Not My Will But Yours', a moving solo that speaks to the struggle of obedience in faith. The lyrics emphasize trusting God's plan over our own desires, engaging the audience in a moment of reflection on their relationship with God. The song deepens the congregational worship experience.",
+      "keywords": ["solo", "obedience", "faith", "trust", "Dan Thorlson"],
+      "performers": ["Dan Thorlson"],
+      "songs": ["Father, Not My Will But Yours"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Tell the World I'm What? (John 1)",
+      "start_time": 1406,
+      "type": "sermon",
+      "description": "Dr. Robert Neenheiss delivers a compelling sermon on evangelism, encouraging believers to share their faith confidently. He emphasizes the importance of personal encounters with Christ and the urgency of sharing the message of reconciliation with friends and family. The message provides practical steps for effective evangelism.",
+      "keywords": ["evangelism", "Dr. Neenheiss", "John 1", "message", "reconciliation"],
+      "performers": ["Dr. Robert Neenheiss"],
+      "songs": [],
+      "scripture_references": ["John 1"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3405,
+      "type": "prayer",
+      "description": "In a reflective moment, an invitation prayer is offered to those considering a commitment to Christ. The prayer acknowledges the need for forgiveness and encourages attendees to embrace a personal relationship with Jesus, emphasizing His love and grace. It fosters a spirit of openness and connection.",
+      "keywords": ["prayer", "invitation", "commitment", "forgiveness", "grace"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: I'll Tell the World That I'm a Christian",
+      "start_time": 3255,
+      "type": "music",
+      "description": "The service concludes with the choir performing 'I'll Tell the World That I'm a Christian'. The congregation is encouraged to boldly declare their faith, resonating with the themes of the sermon. This engaging anthem of faith reinforces the call to evangelism and community sharing of the gospel.",
+      "keywords": ["choir", "faith", "boldness", "declaration", "song"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["I'll Tell the World That I'm a Christian"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3441,
+      "type": "prayer",
+      "description": "A closing prayer concludes the service, asking for God's guidance and help in the matters discussed during the worship. The prayer reinforces the themes of commitment to sharing the gospel and living out one's faith. It provides a moment of reflection and unity among the attendees.",
+      "keywords": ["closing prayer", "unity", "guidance", "commitment", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

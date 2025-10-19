@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Trust Him",
+      "start_time": 53,
+      "type": "music",
+      "description": "The choir performs a heartfelt song centered around trust and faith in Jesus. The lyrics express a deep love and confidence in God's presence and guidance. This musical piece sets a reverent tone for the service, encouraging the congregation to reflect on their relationship with Christ.",
+      "keywords": ["choir", "trust", "Jesus", "faith", "worship"],
+      "performers": ["Choir"],
+      "songs": ["Trust Him"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: I Will Trust Jesus",
+      "start_time": 121,
+      "type": "music",
+      "description": "The congregation joins in singing a powerful hymn celebrating their trust in Jesus. This hymn emphasizes the themes of reliance on God and the comfort found in His presence. The communal aspect of this singing fosters unity and spiritual connection among the attendees.",
+      "keywords": ["congregational", "hymn", "trust", "unity", "worship"],
+      "performers": ["Congregation"],
+      "songs": ["I Will Trust Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Jesus, Precious Jesus",
+      "start_time": 289,
+      "type": "music",
+      "description": "A solo performance captures the congregation's attention with a poignant song highlighting the beauty and preciousness of Jesus. The heartfelt delivery invites listeners to reflect on their personal relationship with Christ, deepening their worship experience.",
+      "keywords": ["solo", "Jesus", "worship", "reflection", "faith"],
+      "performers": ["Soloist"],
+      "songs": ["Jesus, Precious Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 429,
+      "type": "prayer",
+      "description": "The pastor leads an opening prayer, inviting the Holy Spirit to join the service. This prayer sets the tone for the worship experience, asking for guidance and a receptive heart as the congregation gathers to seek God and learn from His word.",
+      "keywords": ["opening", "prayer", "worship", "Holy Spirit", "guidance"],
+      "performers": ["Pastor Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Peter 3",
+      "start_time": 616,
+      "type": "scripture",
+      "description": "The pastor reads from 1 Peter 3, emphasizing the call for harmonious and right relationships within the body of Christ. This scripture serves as the foundation for today’s sermon, highlighting themes of unity and community in the church.",
+      "keywords": ["1 Peter", "scripture", "reading", "relationships", "unity"],
+      "performers": ["Pastor Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["1 Peter 3"]
+    },
+    {
+      "title": "Message: Right Relations in the Body of Christ (1 Peter 3:8-12)",
+      "start_time": 624,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird delivers a powerful sermon focusing on the importance of right relationships within the church. Drawing from 1 Peter 3:8-12, he encourages the congregation to embody harmony, sympathy, brotherly love, kindness, and humility. The pastor emphasizes that the church's effectiveness depends on healthy interactions among its members, urging attendees to reflect on their personal relationships.",
+      "keywords": ["sermon", "relationships", "unity", "church", "1 Peter"],
+      "performers": ["Pastor Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["1 Peter 3:8-12"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3170,
+      "type": "prayer",
+      "description": "As the service comes to a close, the pastor leads a closing prayer, thanking God for His presence and asking for help in applying the lessons learned today. This moment of prayer invites the congregation to reflect on their relationships and seek God’s guidance in fostering unity and harmony.",
+      "keywords": ["closing", "prayer", "worship", "reflection", "guidance"],
+      "performers": ["Pastor Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Finale Hymn",
+      "start_time": 3592,
+      "type": "music",
+      "description": "The choir performs a powerful finale hymn, energizing the congregation as they prepare to leave. This piece encapsulates the themes of the service, celebrating God's love and the unity of the church. It encourages the attendees to carry the message of the day into their daily lives.",
+      "keywords": ["choir", "hymn", "celebration", "unity", "worship"],
+      "performers": ["Choir"],
+      "songs": ["Finale Hymn"],
+      "scripture_references": []
+    }
+  ]
+}
+```

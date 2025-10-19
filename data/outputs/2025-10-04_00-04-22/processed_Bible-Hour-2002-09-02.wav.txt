@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: The Church is One Foundation",
+      "start_time": 58,
+      "type": "music",
+      "description": "The choir leads the congregation in singing 'The Church is One Foundation,' emphasizing the unity and faith within the church community. The hymn celebrates the church's divine foundation in Christ, underscoring its significance as the body of believers. It encourages attendees to reflect on their role in this holy assembly.",
+      "keywords": ["choir", "hymn", "foundation", "unity", "faith"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["The Church is One Foundation"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Service Changes",
+      "start_time": 307,
+      "type": "announcement",
+      "description": "Teaching Pastor Mitch announces the upcoming change to two services starting September 22nd, aimed at accommodating more attendees. He explains the focus on responding to God's call and the importance of community involvement in church life. This segment encourages the congregation to embrace the opportunity for spiritual growth.",
+      "keywords": ["announcement", "service", "September", "community", "growth"],
+      "performers": ["Mitch"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Call, Challenge, Change (1 Peter 2:9)",
+      "start_time": 380,
+      "type": "sermon",
+      "description": "In this heartfelt sermon, Pastor Mitch explores the themes of God's call, the challenges it presents, and the transformative change it brings in our lives. Drawing on 1 Peter 2:9, he emphasizes living out a faith that impacts both personal lives and the broader community. The message inspires attendees to embrace their purpose and celebrate their relationships with God.",
+      "keywords": ["sermon", "call", "change", "challenge", "1 Peter"],
+      "performers": ["Mitch"],
+      "songs": [],
+      "scripture_references": ["1 Peter 2:9"]
+    },
+    {
+      "title": "Solo: All or None",
+      "start_time": 1356,
+      "type": "music",
+      "description": "A solo performance of 'All or None' invites the congregation to reflect on the importance of wholehearted worship. The lyrics emphasize the necessity of giving everything to God in worship, both collectively and individually. This song serves to encourage personal devotion and commitment.",
+      "keywords": ["solo", "worship", "dedication", "song", "devotion"],
+      "performers": ["Unknown"],
+      "songs": ["All or None"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1375,
+      "type": "prayer",
+      "description": "Led by a pastor, the opening prayer focuses on seeking God's presence and guidance for the service. It establishes the atmosphere of worship and devotion to God, inviting the congregation to align their hearts with God's will. Attendees are encouraged to reflect on their personal desires in their relationship with God.",
+      "keywords": ["prayer", "opening", "worship", "guidance", "community"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Testimony: Andy and Beth Strobel",
+      "start_time": 2381,
+      "type": "interview",
+      "description": "Andy and Beth Strobel share their journey of faith and how they found their way to Blackhawk. Their testimonies highlight the transformative power of embracing a relationship with Jesus rather than mere religious practices. They encourage congregation members to step out of their comfort zones and actively engage in community life.",
+      "keywords": ["testimony", "faith", "community", "engagement", "transformation"],
+      "performers": ["Andy Strobel", "Beth Strobel"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3124,
+      "type": "prayer",
+      "description": "The closing prayer encapsulates the themes of gratitude and commitment expressed during the service. It encourages attendees to carry the message of faith into their lives and to remain steadfast in their relationships with God. This prayer reinforces the importance of community and serving one another.",
+      "keywords": ["prayer", "closing", "gratitude", "commitment", "community"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

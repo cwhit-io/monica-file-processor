@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Old Hymn of Praise]",
+      "start_time": 261,
+      "type": "music",
+      "description": "The choir begins the worship service with an inspiring hymn, setting the tone for the day's proceedings. It calls upon the congregation to focus their hearts and minds on the Lord Jesus Christ. The music evokes a deep sense of reverence and unity among those present.",
+      "keywords": ["choir", "hymn", "worship", "praise", "Jesus"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Old Hymn of Praise"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Come to the Table]",
+      "start_time": 596,
+      "type": "music",
+      "description": "A solo performance of 'Come to the Table' fills the room with heartfelt reflections on forgiveness and grace. The lyrics speak of Jesus' love and the invitation to partake in redemption and healing. This moving piece encourages personal introspection and connection with the divine.",
+      "keywords": ["solo", "forgiveness", "grace", "Jesus", "redemption"],
+      "performers": ["Kerry Johnson"],
+      "songs": ["Come to the Table"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1875,
+      "type": "prayer",
+      "description": "Pastor Rick leads the congregation in an opening prayer, inviting the presence of the Lord into the service. He prays for comfort, strength, and encouragement for those who are struggling, and for a spirit of unity and love to embody the gathered community as they worship together.",
+      "keywords": ["prayer", "unity", "comfort", "worship", "community"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [1 Corinthians 13]",
+      "start_time": 2025,
+      "type": "scripture",
+      "description": "The congregation is guided to open their Bibles to 1 Corinthians 13, known as the 'Love Chapter.' The passage is read aloud, emphasizing the profound descriptions of love and its everlasting nature. This sets the stage for the sermon, framing love as the core theme.",
+      "keywords": ["scripture", "love", "1 Corinthians", "Bible", "reading"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 13"]
+    },
+    {
+      "title": "Message: Love Never Fails (1 Corinthians 13:8-13)",
+      "start_time": 2030,
+      "type": "sermon",
+      "description": "Pastor Rick delivers a powerful sermon on the theme 'Love Never Fails,' delving deeply into 1 Corinthians 13:8-13. He explores the significance of love in relationships, emphasizing its persistence even in trials. The discourse is filled with rich theology, practical advice, and poignant illustrations from scripture.",
+      "keywords": ["sermon", "love", "1 Corinthians", "persistence", "relationships"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 13:8-13"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3529,
+      "type": "prayer",
+      "description": "In a heartfelt closing prayer, Pastor Rick asks for God's guidance and blessings upon the decisions made during the service. He prays for all who are seeking forgiveness and a deeper relationship with Christ, signifying the end of the service while inviting continued reflection.",
+      "keywords": ["prayer", "closure", "forgiveness", "guidance", "reflection"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Invitation to Connect with the Ministry",
+      "start_time": 3534,
+      "type": "announcement",
+      "description": "The service concludes with an invitation for those who made spiritual decisions to connect with the ministry. There is encouragement to write in for resources that will aid in their new journey, affirming the church's commitment to support individuals in their spiritual growth.",
+      "keywords": ["announcement", "ministry", "resources", "spiritual", "support"],
+      "performers": ["Bill VR"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

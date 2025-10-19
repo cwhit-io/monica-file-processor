@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Praise You Lord Forever",
+      "start_time": 60,
+      "type": "music",
+      "description": "The choir performs an uplifting anthem celebrating the eternal glory of God. The lyrics express deep worship and gratitude, inviting the congregation to join in a collective praise. This vibrant start sets a joyous tone for the service.",
+      "keywords": ["choir", "praise", "worship", "God", "eternity"],
+      "performers": ["Choir"],
+      "songs": ["Praise You Lord Forever"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Showers of Blessing",
+      "start_time": 141,
+      "type": "music",
+      "description": "The choir continues with the heartfelt song 'Showers of Blessing,' which emphasizes the need for God's mercy and grace in the lives of believers. The piece encourages the congregation to reflect on God's blessings and the refreshing renewal He provides.",
+      "keywords": ["music", "blessings", "grace", "mercy", "renewal"],
+      "performers": ["Choir"],
+      "songs": ["Showers of Blessing"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: We Need the Lord",
+      "start_time": 1658,
+      "type": "music",
+      "description": "A soloist sings 'We Need the Lord,' expressing a deep longing for divine guidance and presence. The song resonates with themes of dependency on God, highlighting the importance of recognizing our need for His support in daily life.",
+      "keywords": ["solo", "need", "guidance", "dependency", "faith"],
+      "performers": ["Dee Thompson"],
+      "songs": ["We Need the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 2012,
+      "type": "prayer",
+      "description": "The opening prayer highlights the congregation's need for divine guidance and intervention. The pastor leads a heartfelt prayer asking for God's presence throughout the service and for individual hearts to be open to His word.",
+      "keywords": ["prayer", "guidance", "spiritual", "intervention", "community"],
+      "performers": ["Pastor Bill Ella"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Recognizing Our Need for God (Matthew 5)",
+      "start_time": 2120,
+      "type": "sermon",
+      "description": "Pastor Bill Ella presents a powerful sermon based on Matthew 5, focusing on recognizing our need for God as foundational to experiencing His blessings. He explores the Beatitudes, emphasizing the call for humility and the importance of mourning over sin to connect with God's grace.",
+      "keywords": ["sermon", "Matthew", "Beatitudes", "humility", "grace"],
+      "performers": ["Pastor Bill Ella"],
+      "songs": [],
+      "scripture_references": ["Matthew 5:3-12"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3480,
+      "type": "prayer",
+      "description": "The closing prayer reinforces the themes presented in the sermon, thanking God for His presence and asking for strength to recognize our spiritual needs. It serves as a commitment to seek God's guidance and maintain a heart aligned with His will.",
+      "keywords": ["closing", "prayer", "commitment", "thanksgiving", "spiritual"],
+      "performers": ["Pastor Bill Ella"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Invitation to Respond",
+      "start_time": 3490,
+      "type": "announcement",
+      "description": "The pastor invites congregants to respond to the message through prayer and action, encouraging them to share decisions they've made regarding their faith. He emphasizes the importance of community support and ongoing growth in Christ.",
+      "keywords": ["announcement", "invitation", "response", "community", "faith"],
+      "performers": ["Pastor Bill Ella"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

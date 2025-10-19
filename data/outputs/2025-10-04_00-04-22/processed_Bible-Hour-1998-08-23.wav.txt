@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Congregational Hymn: [unknown]",
+      "start_time": 50,
+      "type": "music",
+      "description": "The congregation engages in a spirited hymn, bringing the community together in worship. The music lifts spirits and sets a worshipful atmosphere for the service. It's a moment of collective praise and reverence.",
+      "keywords": ["worship", "hymn", "community", "praise", "song"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [unknown]",
+      "start_time": 75,
+      "type": "music",
+      "description": "The choir presents a heartfelt piece, drawing everyone into a deeper connection with God. Their voices blend harmoniously, creating an atmosphere of spiritual reflection and gratitude.",
+      "keywords": ["choir", "worship", "praise", "music", "community"],
+      "performers": ["Black Hawk Baptist Choir"],
+      "songs": ["unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [unknown]",
+      "start_time": 340,
+      "type": "music",
+      "description": "Another congregational hymn occurs, emphasizing unity and shared faith. This musical segment allows congregants to reflect on their personal relationship with God while singing together.",
+      "keywords": ["hymn", "unity", "worship", "faith", "song"],
+      "performers": ["Black Hawk Baptist Church"],
+      "songs": ["unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [John 20]",
+      "start_time": 692,
+      "type": "scripture",
+      "description": "A reading from the Gospel of John highlights the miraculous acts of Jesus, emphasizing belief in Him for eternal life. It sets the stage for the sermon, underlining the central theme of faith.",
+      "keywords": ["John", "miracles", "faith", "believe", "Jesus"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["John 20"]
+    },
+    {
+      "title": "Message: Spiritual Blindness (John 9)",
+      "start_time": 692,
+      "type": "sermon",
+      "description": "The sermon delves into spiritual blindness, contrasting the experiences of a physically blind man who sees Jesus for who He is with those who see but do not believe. The preacher challenges the audience to examine their reactions to Christ and encourages seekers to pursue spiritual sight.",
+      "keywords": ["spiritual blindness", "Jesus", "faith", "miracle", "blindness"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": ["John 9"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3475,
+      "type": "prayer",
+      "description": "The service closes with an invitation to pray for spiritual sight and clarity in understanding Jesus. It's a moment of collective prayer, seeking God's guidance.",
+      "keywords": ["prayer", "spiritual sight", "guidance", "community", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Closing Remarks",
+      "start_time": 3545,
+      "type": "announcement",
+      "description": "In closing, the pastor reminds attendees of future gatherings and resources available for those seeking to deepen their faith. It's a gentle encouragement to engage more with the community.",
+      "keywords": ["community", "announcement", "engagement", "faith", "next steps"],
+      "performers": ["Craig Volcker"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

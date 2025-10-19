@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 30,
+      "type": "music",
+      "description": "The service opens with a vibrant choir piece, inviting the congregation into a spirit of worship. The song sets a festive and reflective tone, inviting everyone to contemplate the significance of their breaths and moments dedicated to the Lord.",
+      "keywords": ["choir", "worship", "song", "Lord", "breath"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 101,
+      "type": "music",
+      "description": "A solo performance follows, deepening the worship experience with heartfelt lyrics. This piece emphasizes giving one's life and heart to God, reinforcing the theme of surrender and dedication to the divine.",
+      "keywords": ["solo", "worship", "heart", "surrender", "life"],
+      "performers": ["[]"],
+      "songs": ["Lord, I Give You My Heart"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "announcement: Christmas with Black Hawk",
+      "start_time": 562,
+      "type": "announcement",
+      "description": "Senior Pastor Kelly Bird introduces the upcoming Christmas performance titled 'Home'. He shares the excitement and purpose of the event, challenging the congregation to invite others to experience the message of hope centered around Christmas.",
+      "keywords": ["Christmas", "Black Hawk", "announcement", "event", "invitation"],
+      "performers": ["Kelly Bird", "Corbin Miller"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Message: Fully Surrendered Life (1 Thessalonians 1:1-3)",
+      "start_time": 1271,
+      "type": "sermon",
+      "description": "Pastor Mitch dives into the book of 1 Thessalonians, examining the transforming power of living a fully surrendered life in Christ. He highlights the importance of faith, love, and hope, and encourages the congregation to evaluate their lives against these principles.",
+      "keywords": ["sermon", "Thessalonians", "faith", "love", "hope"],
+      "performers": ["Mitch"],
+      "songs": ["[]"],
+      "scripture_references": ["1 Thessalonians 1"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3326,
+      "type": "prayer",
+      "description": "Before closing, the pastor invites the congregation to reflect on their relationship with Christ and offers a prayer of invitation. This moment seeks to open hearts to receive God's message of grace and peace.",
+      "keywords": ["invitation", "prayer", "reflection", "grace", "peace"],
+      "performers": ["Mitch"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Congregational Hymn: Great Is Thy Faithfulness",
+      "start_time": 3547,
+      "type": "music",
+      "description": "The service concludes with a powerful congregational hymn, 'Great Is Thy Faithfulness'. Led by the pastor and choir, the congregation joins in reverently singing praises that reflect on God’s constant faithfulness and mercy.",
+      "keywords": ["hymn", "congregation", "faithfulness", "worship", "praise"],
+      "performers": ["[]"],
+      "songs": ["Great Is Thy Faithfulness"],
+      "scripture_references": ["[]"]
+    }
+  ]
+}
+```

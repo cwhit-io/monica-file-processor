@@ -1,0 +1,74 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unknown Song]",
+      "start_time": 30,
+      "type": "music",
+      "description": "The service opens with dramatic and upbeat music, setting a lively atmosphere for worship. The congregation is invited to join in and connect with the theme of praise and gratitude.",
+      "keywords": ["music", "worship", "praise", "choir"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [You Are My King]",
+      "start_time": 90,
+      "type": "music",
+      "description": "The congregation participates in singing a powerful hymn that emphasizes their connection to God as their King. The lyrics are reflective and full of heartfelt devotion, encouraging engagement from all attendees.",
+      "keywords": ["hymn", "worship", "king", "devotion"],
+      "performers": ["[Unknown]"],
+      "songs": ["You Are My King"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown Song]",
+      "start_time": 260,
+      "type": "music",
+      "description": "A solo performance takes center stage, delivering a moving song that resonates with themes of forgiveness and love. The emotional delivery captures the audience, inviting them to reflect on their own experiences.",
+      "keywords": ["solo", "forgiveness", "love", "music"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 679,
+      "type": "prayer",
+      "description": "The service transitions into an opening prayer where the congregation is invited to focus their hearts on God. The prayer emphasizes gratitude, recognizing God's forgiveness and mercy.",
+      "keywords": ["prayer", "opening", "focus", "gratitude"],
+      "performers": ["[Mitch]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Real Love and Forgiveness (John 3:16)",
+      "start_time": 729,
+      "type": "sermon",
+      "description": "In this sermon, Mitch dives deep into the concept of real love and its necessity in forgiveness. He addresses sin's presence and power, framing forgiveness as a pivotal choice in our relationships. Drawing from the Gospel of John, he explores practical steps to let go of revenge, bitterness, regret, and withholding blessings, encouraging the congregation to embrace a mindset of unconditional love and grace.",
+      "keywords": ["forgiveness", "love", "sin", "grace", "Mitch"],
+      "performers": ["Mitch"],
+      "songs": [],
+      "scripture_references": ["John 3:16"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3534,
+      "type": "prayer",
+      "description": "The service culminates in an invitation prayer inviting the congregation to respond to the message. This reflective moment encourages individuals to seek personal forgiveness and extend it to others in their lives.",
+      "keywords": ["prayer", "invitation", "forgiveness", "reflection"],
+      "performers": ["[Mitch]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Closing Song]",
+      "start_time": 3564,
+      "type": "music",
+      "description": "The service ends with a powerful closing song performed by the choir. The lyrics reinforce themes of love and forgiveness, leaving the congregation inspired to live out the message of real love in their daily lives.",
+      "keywords": ["music", "choir", "closing", "inspiration"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    }
+  ]
+}

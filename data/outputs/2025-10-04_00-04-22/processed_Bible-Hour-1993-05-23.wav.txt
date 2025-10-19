@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Sing Me a Song About Jesus",
+      "start_time": 104,
+      "type": "music",
+      "description": "The sanctuary choir and orchestra lead the congregation in a spirited song that honors Jesus. The lyrics celebrate His marvelous works and invite the listeners to reflect on their faith and relationship with Him. This uplifting choir performance sets a joyful tone for the service.",
+      "keywords": ["choir", "Jesus", "song", "worship", "music"],
+      "performers": ["Sanctuary Choir", "Orchestra"],
+      "songs": ["Sing Me a Song About Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [unknown]",
+      "start_time": 774,
+      "type": "music",
+      "description": "A solo performance follows the choir, delivering a moving piece that suggests themes of God's omnipotence and ever-present nature. The soloist's rendition brings a reflective atmosphere as the congregation contemplates the profound truth shared in the song.",
+      "keywords": ["solo", "worship", "God", "omnipotence", "music"],
+      "performers": ["Susan Stump", "Scott"],
+      "songs": ["[unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3433,
+      "type": "prayer",
+      "description": "Pastor Moore leads an opening prayer, inviting everyone to join in seeking God's guidance and blessing for the service. This prayer sets the spiritual tone for the gathering, emphasizing the importance of humility and reliance on God's presence.",
+      "keywords": ["prayer", "opening", "blessing", "guidance", "worship"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Revelation 11",
+      "start_time": 0,
+      "type": "scripture",
+      "description": "The congregation is invited to turn to Revelation chapter 11 as the scripture reading begins. This powerful passage introduces the theme of true witnesses in times of adversity, shedding light on God's promise and presence amidst challenges.",
+      "keywords": ["Revelation", "scripture", "witness", "faith", "God"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Revelation 11"]
+    },
+    {
+      "title": "Message: The Marks of a True Witness (Revelation 11)",
+      "start_time": 999,
+      "type": "sermon",
+      "description": "Pastor Moore delivers a profound sermon focusing on the characteristics of true witnesses as illustrated in Revelation 11. He expounds on four key marks including the message of repentance, empowerment from the Holy Spirit, a lifelong commitment to the gospel, and the hope of resurrection. Drawing from both Old and New Testament principles, he challenges the congregation to evaluate their own witness in a contemporary setting.",
+      "keywords": ["sermon", "witness", "repentance", "gospel", "empowerment"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 11"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3424,
+      "type": "prayer",
+      "description": "In response to the sermon, an invitation prayer is led by Pastor Moore, encouraging those who feel a call to accept Christ as their Savior. This moment offers an opportunity for reflection and personal commitment to faith.",
+      "keywords": ["prayer", "invitation", "commitment", "faith", "Savior"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [unknown]",
+      "start_time": 3489,
+      "type": "music",
+      "description": "The service concludes with a congregational hymn, allowing everyone to join together in song. The hymn's message reinforces the themes of faith, encouragement, and community, providing a fitting end to the service.",
+      "keywords": ["congregational", "hymn", "worship", "community", "faith"],
+      "performers": [],
+      "songs": ["[unknown]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

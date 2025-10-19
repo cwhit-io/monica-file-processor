@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Only Trust Him",
+      "start_time": 69,
+      "type": "music",
+      "description": "The choir leads the congregation in a hymn of invitation, encouraging all to trust in Jesus. The stirring melody and heartfelt lyrics serve to uplift those present, emphasizing faith and reliance on Christ. This sets a worshipful tone for the service.",
+      "keywords": ["trust", "Jesus", "hymn", "faith", "choir"],
+      "performers": ["Don Kruger"],
+      "songs": ["Only Trust Him"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Give Me Jesus",
+      "start_time": 309,
+      "type": "music",
+      "description": "Blake Leopold performs a soulful rendition of 'Give Me Jesus', capturing the audience's attention with poignant lyrics that express a deep longing for Jesus. The song resonates with many, providing a moment of reflection and devotion.",
+      "keywords": ["Jesus", "soul", "longing", "faith", "solo"],
+      "performers": ["Blake Leopold"],
+      "songs": ["Give Me Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1054,
+      "type": "prayer",
+      "description": "The congregation joins in a prayer led by Pastor David Gerelin, asking for guidance and the Holy Spirit's presence during the service. This prayer sets the spiritual atmosphere for the sermon to follow and prepares hearts for the Word.",
+      "keywords": ["prayer", "guidance", "spirit", "worship", "congregation"],
+      "performers": ["David Gerelin"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Homosexuality and Alternate Lifestyle (Genesis 1:27)",
+      "start_time": 1129,
+      "type": "sermon",
+      "description": "Pastor Gerelin delivers a challenging sermon on the topic of homosexuality and alternate lifestyles, exploring biblical perspectives from Genesis through the New Testament. He unpacks key scriptures to discuss cultural shifts and moral truths, urging the congregation to stand firm in their faith amidst societal changes.",
+      "keywords": ["homosexuality", "sermon", "scripture", "faith", "culture"],
+      "performers": ["David Gerelin"],
+      "songs": [],
+      "scripture_references": ["Genesis 1:27", "Genesis 19", "Romans 1", "1 Corinthians 6", "1 Timothy 1"]
+    },
+    {
+      "title": "drama: Invitation to Trust",
+      "start_time": 3430,
+      "type": "drama",
+      "description": "The service concludes with a reflective drama focusing on themes of repentance and trust in Jesus. Participants portray various narratives of seeking forgiveness and understanding God's grace, reinforcing the sermon’s themes and encouraging personal commitment.",
+      "keywords": ["drama", "invitation", "trust", "forgiveness", "grace"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3440,
+      "type": "prayer",
+      "description": "In a heartfelt closing prayer, Pastor Gerelin invites attendees to respond to the message. He prays for strength and guidance, encouraging those feeling burdened to seek Jesus' comfort and grace.",
+      "keywords": ["prayer", "closing", "strength", "comfort", "Jesus"],
+      "performers": ["David Gerelin"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Services",
+      "start_time": 3500,
+      "type": "announcement",
+      "description": "The service ends with announcements about upcoming events and services at the church. This includes invitations to participate in community activities and worship opportunities.",
+      "keywords": ["announcement", "church", "community", "worship", "events"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

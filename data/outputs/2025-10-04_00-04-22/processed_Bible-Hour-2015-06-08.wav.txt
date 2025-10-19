@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with uplifting music, setting the tone for worship. The lyrics speak of God's goodness and love, emphasizing His role as a source of peace during troubles. The congregation is invited into a moment of reflection and praise.",
+      "keywords": ["worship", "music", "praise", "God", "peace"],
+      "performers": ["Choir"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 50,
+      "type": "music",
+      "description": "Continuing with vibrant musical arrangements, the choir engages the congregation with significant themes about God’s attributes. The songs reflect a deep longing for connection with the divine, reinforcing the idea of God’s presence in every moment.",
+      "keywords": ["music", "choir", "praise", "God", "light"],
+      "performers": ["Choir"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1348,
+      "type": "prayer",
+      "description": "The opening prayer invites the congregation to prepare their hearts for worship. The pastor recognizes both those in triumph and those in struggle, emphasizing God's everlasting presence through all seasons of life. It is a call for gratitude and faith.",
+      "keywords": ["prayer", "worship", "thanksgiving", "struggle", "presence"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [Mark 1]",
+      "start_time": 1453,
+      "type": "scripture",
+      "description": "A scripture reading from the book of Mark highlights the profound significance of who Jesus is. Key concepts include the divinity of Christ and the calling of John the Baptist to prepare the way, laying the foundation for the message to come.",
+      "keywords": ["scripture", "Mark", "Jesus", "John the Baptist", "identity"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Mark 1"]
+    },
+    {
+      "title": "Message: A Jesus-Shaped Idea of God (Mark 1)",
+      "start_time": 1500,
+      "type": "sermon",
+      "description": "The sermon explores A.W. Tozer's quote regarding the importance of our thoughts about God. The pastor emphasizes that having a Jesus-shaped understanding of God is vital. He leads the congregation through Mark 1, providing insights into Jesus' identity and mission, and calls for a personal reflection on who Jesus is to each individual.",
+      "keywords": ["sermon", "Jesus", "God", "identity", "Mark"],
+      "performers": ["Steve Webster"],
+      "songs": [],
+      "scripture_references": ["Mark 1"]
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 3191,
+      "type": "music",
+      "description": "Following the sermon, the choir leads another powerful musical session, encouraging the congregation to respond in worship. The lyrics speak of surrender and devotion, allowing attendees to reflect on their commitments and faith in Christ.",
+      "keywords": ["worship", "choir", "surrender", "faith", "devotion"],
+      "performers": ["Choir"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3514,
+      "type": "prayer",
+      "description": "The closing prayer expresses gratitude for God's presence and invites the congregation to carry the messages of the service throughout their week. It reinforces the community's connection to God and each other, encouraging continual worship and thanksgiving.",
+      "keywords": ["prayer", "gratitude", "community", "worship", "thanksgiving"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

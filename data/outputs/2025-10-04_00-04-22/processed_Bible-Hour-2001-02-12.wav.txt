@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with uplifting choir music, setting a joyful atmosphere for worship. The congregation is invited to join in praise, creating a collective engagement with the sacred space. The melody resonates with the attendees, fostering a sense of community and reverence.",
+      "keywords": ["choir", "worship", "music", "praise", "community"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 22,
+      "type": "prayer",
+      "description": "The worship leader offers an opening prayer, inviting God's presence into the service. This moment serves as a transition from the musical worship into the spiritual teaching expected in the service. Attendees are encouraged to focus their hearts and minds on the message to come.",
+      "keywords": ["opening prayer", "God's presence", "focus", "service", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Marianne Gibson",
+      "start_time": 200,
+      "type": "testimony",
+      "description": "Marianne Gibson shares her personal journey through change within the church over the past 35 years. She reflects on the traditional practices of her childhood and emphasizes the importance of understanding worship beyond just music. Her story reveals significant lessons about obedience and the heart of worship.",
+      "keywords": ["testimony", "worship", "change", "obedience", "Marianne Gibson"],
+      "performers": ["Marianne Gibson"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Nancy",
+      "start_time": 414,
+      "type": "testimony",
+      "description": "Nancy shares her perspective on change in worship styles, emphasizing that the essence of worship remains rooted in praise and glorifying God. She highlights that regardless of the music style, the focus should always be on drawing closer to God and sharing His greatness.",
+      "keywords": ["testimony", "worship", "change", "Nancy", "praise"],
+      "performers": ["Nancy"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Tony Opliger",
+      "start_time": 490,
+      "type": "testimony",
+      "description": "Tony Opliger discusses his childhood at Black Hawk Church and the significant changes he encountered as he grew older. His experiences in diverse environments during college opened his understanding of faith and truth, highlighting the importance of adaptability in a changing world.",
+      "keywords": ["testimony", "change", "faith", "Tony Opliger", "adaptability"],
+      "performers": ["Tony Opliger"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: God and Change (Acts 11)",
+      "start_time": 1320,
+      "type": "sermon",
+      "description": "The sermon focuses on the theme of change in the context of faith, as illustrated through Peter's story in Acts 11. The pastor emphasizes God's role in bringing about transformation and challenges congregants to reflect on their responses to change within the church and their lives. Practical applications about remaining open to God's leading are discussed, encouraging personal growth and adaptability.",
+      "keywords": ["sermon", "God", "change", "Acts 11", "Peter", "transformation"],
+      "performers": ["Pastor Kelly"],
+      "songs": [],
+      "scripture_references": ["Acts 11"]
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 3145,
+      "type": "music",
+      "description": "Following the sermon, the choir leads the congregation in a powerful musical piece that reinforces the message of the service. The songs encourage communal worship, inviting everyone to engage their hearts and voices in praise. This segment solidifies the day's themes of change and reliance on God.",
+      "keywords": ["choir", "music", "worship", "praise", "community"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3505,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, reinforcing the themes of change and God's presence throughout the worship experience. The prayer seeks guidance for the congregation as they navigate the changes in their lives and the church, while also expressing gratitude for the communal worship.",
+      "keywords": ["closing prayer", "God's guidance", "community", "gratitude", "change"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

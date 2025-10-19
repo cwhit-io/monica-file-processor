@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Congregational Hymn: When We All Get to Heaven",
+      "start_time": 99,
+      "type": "music",
+      "description": "The sanctuary choir and orchestra lead the congregation in the beloved hymn 'When We All Get to Heaven,' celebrating the hope of eternal life and the joy of reunion with Christ. The song emphasizes the joy and victory in singing together as believers. It's a powerful reminder of the promise of heaven for all who trust in Jesus.",
+      "keywords": ["hymn", "heaven", "victory", "joy", "choir"],
+      "performers": ["Sanctuary Choir", "Orchestra"],
+      "songs": ["When We All Get to Heaven"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: You Took a Miracle",
+      "start_time": 625,
+      "type": "music",
+      "description": "Sisters Marilyn Wong and Marcia Richards perform 'You Took a Miracle,' a touching solo that reflects on the miracle of God's love and salvation. This heartfelt performance draws the congregation into a moment of worship and gratitude for God's extraordinary grace in their lives.",
+      "keywords": ["miracle", "love", "salvation", "worship", "sisters"],
+      "performers": ["Marilyn Wong", "Marcia Richards"],
+      "songs": ["You Took a Miracle"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Character of Leadership (Judges 13-16)",
+      "start_time": 771,
+      "type": "sermon",
+      "description": "Pastor Russell Moore explores the life of Samson, an Old Testament character, to illustrate the importance of character in leadership. Through an extensive examination of Scripture, he highlights how Samson's character deficits led to his downfall despite his immense potential and God's calling on his life. The sermon underscores that who a person is in Christ matters more than their abilities.",
+      "keywords": ["Samson", "character", "leadership", "scripture", "Ephesians"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Judges 13-16", "1 Timothy 3"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3449,
+      "type": "prayer",
+      "description": "In the closing prayer, the congregation is invited to reflect on the message from Pastor Moore, asking God for forgiveness and strength to embody godly character in their lives. The prayer emphasizes the need for grace and commitment to follow God's leadership.",
+      "keywords": ["prayer", "forgiveness", "strength", "grace", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Invitation to Follow Christ",
+      "start_time": 3425,
+      "type": "announcement",
+      "description": "Pastor Russell Moore invites listeners who have trusted in Christ as their Savior to take a moment to pray for forgiveness and accept Christ into their hearts. A pamphlet titled 'Lessons on Assurance' is offered to help new believers start their spiritual journey.",
+      "keywords": ["invitation", "prayer", "salvation", "believers", "spiritual journey"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

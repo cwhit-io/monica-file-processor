@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Crown Him with Many Crowns",
+      "start_time": 142,
+      "type": "music",
+      "description": "The sanctuary choir performs a stirring rendition of 'Crown Him with Many Crowns.' This uplifting hymn celebrates the majesty and glory of Christ as King, inviting the congregation to reflect on His sovereignty and to worship joyfully.",
+      "keywords": ["Crown Him with Many Crowns", "choir", "worship", "hymn", "Christ"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Crown Him with Many Crowns"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: He Lives",
+      "start_time": 390,
+      "type": "music",
+      "description": "The congregation joins in singing 'He Lives,' expressing their faith in the living Christ. This hymn is a declaration of the believers' assurance in Jesus' resurrection and presence in their lives as they sing with enthusiasm.",
+      "keywords": ["He Lives", "congregational hymn", "faith", "worship", "resurrection"],
+      "performers": [],
+      "songs": ["He Lives"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown]",
+      "start_time": 549,
+      "type": "music",
+      "description": "Marilyn Wong performs a solo that aims to inspire the congregation with a focus on Jesus Christ. The heartfelt performance is intended to lead listeners into a deeper worship experience.",
+      "keywords": ["Marilyn Wong", "solo", "inspiration", "worship", "Jesus"],
+      "performers": ["Marilyn Wong"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Come and Worship",
+      "start_time": 895,
+      "type": "music",
+      "description": "The Reflection ensemble leads the worshippers in singing 'Come and Worship,' inviting all nations to join in praise and declare God's greatness. The song emphasizes a call to all believers and expresses deep reverence for God's power.",
+      "keywords": ["Come and Worship", "Reflection", "worship", "nations", "praise"],
+      "performers": ["Reflection"],
+      "songs": ["Come and Worship"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1095,
+      "type": "prayer",
+      "description": "An opening prayer is offered to set the tone for worship, expressing gratitude for God's grace and asking for His guidance as the congregation comes together in fellowship and worship. The prayer highlights the importance of coming to God in thanksgiving.",
+      "keywords": ["gratitude", "prayer", "worship", "thanksgiving", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: In Search of Excellence (Philippians 1:9-11)",
+      "start_time": 1557,
+      "type": "sermon",
+      "description": "Associate Pastor Jim Pearson delivers a message entitled 'In Search of Excellence,' focusing on the apostle Paul's guidance to the Philippians. The sermon emphasizes pursuing excellence in Christian living through love, daily walk, and bearing fruit for Christ. It challenges believers to reflect on their lives and align their pursuits with biblical teachings.",
+      "keywords": ["excellence", "Philippians", "sermon", "Christian living", "Paul"],
+      "performers": ["Jim Pearson"],
+      "songs": [],
+      "scripture_references": ["Philippians 1:9-11"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3455,
+      "type": "prayer",
+      "description": "An invitation prayer is offered at the end of the service, encouraging those who feel a call to trust in Christ as their Savior. It emphasizes the need for forgiveness and final commitment to Jesus, allowing participants to reflect on their personal relationship with God.",
+      "keywords": ["invitation", "prayer", "commitment", "Savior", "forgiveness"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Ministry Update",
+      "start_time": 3499,
+      "type": "announcement",
+      "description": "The host provides essential updates about the ministry, encouraging viewers to connect with the Bible Hour and informing them about available resources like the pamphlet 'Lessons on Assurance.' It highlights the outreach efforts of the ministry and expresses gratitude for the viewer's support.",
+      "keywords": ["Bible Hour", "announcement", "ministry", "resources", "support"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

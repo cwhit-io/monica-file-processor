@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Basics of Life",
+      "start_time": 118,
+      "type": "music",
+      "description": "The chamber choir performs a heartfelt song emphasizing the importance of returning to the fundamental values of life including purity of heart and enduring faith. The song reflects on contemporary challenges while encouraging listeners to find hope in faith and love.",
+      "keywords": ["basics", "life", "faith", "hope", "choir"],
+      "performers": ["Chamber Choir"],
+      "songs": ["Basics of Life"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 611,
+      "type": "prayer",
+      "description": "An opening prayer is offered, expressing gratitude and setting the tone for the service. It emphasizes fellowship and the upcoming message as a guide for spiritual growth.",
+      "keywords": ["prayer", "opening", "gratitude", "fellowship", "message"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: How Beautiful",
+      "start_time": 792,
+      "type": "music",
+      "description": "Margie Isaacson delivers a touching solo, 'How Beautiful,' celebrating the beauty of Christ and His sacrifice. The song invites reflection on the significance of faith and service.",
+      "keywords": ["beautiful", "sacrifice", "faith", "worship", "solo"],
+      "performers": ["Margie Isaacson"],
+      "songs": ["How Beautiful"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Christ is Coming (Revelation 22)",
+      "start_time": 1045,
+      "type": "sermon",
+      "description": "In this final message from Revelation, the pastor Russell Moore discusses the return of Christ and what that means for believers. He challenges the audience to reflect on their faith and commitment to live in anticipation of His coming, emphasizing the importance of obedience, worship, and evangelism.",
+      "keywords": ["sermon", "Revelation", "faith", "commitment", "Christ"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 22"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3405,
+      "type": "prayer",
+      "description": "A prayer of invitation is prayed, encouraging individuals to accept Christ into their hearts. The prayer brings closure to the message, calling for reflection and commitment to faith.",
+      "keywords": ["invitation", "prayer", "commitment", "faith", "salvation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Lessons on Assurance",
+      "start_time": 3460,
+      "type": "music",
+      "description": "The program concludes with a solo presentation focusing on assurance in faith. It reiterates the importance of trust in God as the audience is invited to reflect on their personal spiritual journeys.",
+      "keywords": ["assurance", "faith", "trust", "solo", "spiritual"],
+      "performers": ["Margie Isaacson"],
+      "songs": ["Lessons on Assurance"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3505,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, thanking God for His presence and guidance. It emphasizes the call to live in readiness for Christ's return and encourages the congregation in their faith journey.",
+      "keywords": ["closing", "prayer", "gratitude", "faith", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

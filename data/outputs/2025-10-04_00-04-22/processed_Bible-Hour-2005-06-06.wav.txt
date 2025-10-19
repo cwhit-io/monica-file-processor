@@ -1,0 +1,54 @@
+{
+  "chapters": [
+    {
+      "title": "drama: Interactive Story: Jonah",
+      "start_time": 0,
+      "type": "drama",
+      "description": "An engaging storytelling session about Jonah is conducted with audience participation. The storyteller prompts the audience to respond and emphasizes the themes of obedience and God's mercy. Children hear about Jonah's journey, his flight from God's command, and the lessons learned through his experiences.",
+      "keywords": ["Jonah", "obedience", "God", "mercy", "storytelling"],
+      "performers": ["[]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Nana",
+      "start_time": 778,
+      "type": "music",
+      "description": "The choir performs an uplifting song titled 'Nana,' filled with fun motions that engage the audience. The performance creates a joyful atmosphere and encourages participation from the congregation.",
+      "keywords": ["Choir", "Nana", "music", "worship", "participation"],
+      "performers": ["[]"],
+      "songs": ["Nana"],
+      "scripture_references": []
+    },
+    {
+      "title": "sermon: Family Matters: A Call to Love and Responsibility (Ephesians 5)",
+      "start_time": 1017,
+      "type": "sermon",
+      "description": "Dr. Bill Brown delivers a heartfelt message on the importance of family relationships, emphasizing love and responsibility in marriage and parenting. Drawing from the book of Ephesians, he challenges the congregation to reflect on how they can embody Christ's love within their families, stressing the need for commitment and understanding.",
+      "keywords": ["family", "love", "Ephesians", "commitment", "responsibility"],
+      "performers": ["Dr. Bill Brown"],
+      "songs": [],
+      "scripture_references": ["Ephesians 5"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3548,
+      "type": "prayer",
+      "description": "A solemn invitation prayer is offered, inviting attendees to reflect on the sermon and consider their relationship with God and their families. The prayer seeks divine guidance and strength to implement the lessons learned.",
+      "keywords": ["prayer", "invitation", "reflection", "guidance", "families"],
+      "performers": ["[]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Conclusion Song",
+      "start_time": 3582,
+      "type": "music",
+      "description": "The service concludes with a choir performance, uniting the congregation in worship through song. This final piece encapsulates the themes discussed throughout the service, reinforcing the message of love and community.",
+      "keywords": ["Choir", "worship", "conclusion", "community", "song"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "chapters": [
+    {
+      "title": "Congregational Hymn: Come Thou Almighty King",
+      "start_time": 407,
+      "type": "music",
+      "description": "The congregation joins together to sing 'Come Thou Almighty King.' The atmosphere is filled with joyful expressions of faith as people stand and lift their voices in praise. This hymn emphasizes the power and majesty of God, inviting His presence into the gathering.",
+      "keywords": ["come thou almighty king", "hymn", "praise", "congregation", "worship"],
+      "performers": ["Congregation"],
+      "songs": ["Come Thou Almighty King"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: In Only a Moment",
+      "start_time": 531,
+      "type": "music",
+      "description": "Lois Clancy performs a touching solo titled 'In Only a Moment.' The song reflects on the transformative moment when believers will be called to meet Christ. The lyrics speak about hope and renewal, reminding the congregation of the promise of eternal life.",
+      "keywords": ["solo", "lois clancy", "in only a moment", "christ", "hope"],
+      "performers": ["Lois Clancy"],
+      "songs": ["In Only a Moment"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1255,
+      "type": "prayer",
+      "description": "The pastor leads the congregation in an opening prayer, inviting the presence of God to fill the service. The prayer expresses gratitude for God's blessings and seeks guidance for the worship ahead. It sets a reverent tone for the gathering.",
+      "keywords": ["opening prayer", "worship", "gratitude", "guidance", "service"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Queen Vashti: A Profile in Courage (Esther 1)",
+      "start_time": 1486,
+      "type": "sermon",
+      "description": "Pastor Rickoff delivers a compelling sermon on Queen Vashti from the Book of Esther. He illustrates her courage to reject the king's command to display her beauty at a drunken feast, highlighting themes of integrity and the importance of saying 'no' to compromise. The sermon encourages believers to uphold their values amidst societal pressures.",
+      "keywords": ["sermon", "queen vashti", "integrity", "courage", "esther"],
+      "performers": ["Pastor Rickoff"],
+      "songs": [],
+      "scripture_references": ["Esther 1"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3486,
+      "type": "prayer",
+      "description": "After the sermon, the pastor offers an invitation prayer, guiding anyone seeking to know Christ to open their hearts. This moment emphasizes the church's mission to lead individuals towards salvation and a personal relationship with Jesus.",
+      "keywords": ["invitation prayer", "salvation", "jesus", "open hearts", "belief"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: He Alone",
+      "start_time": 1171,
+      "type": "music",
+      "description": "The choir performs the powerful anthem 'He Alone,' declaring the supremacy of Christ. The lyrics emphasize His worthiness of praise and honor. The choir's harmonies create an uplifting and worshipful atmosphere, encouraging the congregation to join in their adoration.",
+      "keywords": ["choir", "he alone", "worship", "christ", "supremacy"],
+      "performers": ["Choir"],
+      "songs": ["He Alone"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3466,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by the pastor. This prayer seeks God's blessing on the congregation as they leave, and it reaffirms the message of the sermon. It encapsulates the morning's worship and dedication to living out faith in daily life.",
+      "keywords": ["closing prayer", "blessing", "faith", "worship", "dedication"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

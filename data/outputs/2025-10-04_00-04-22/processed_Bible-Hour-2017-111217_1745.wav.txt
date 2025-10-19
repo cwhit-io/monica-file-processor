@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Glorious Day",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a lively choir performance, uplifting the congregation with the song 'Glorious Day.' The lyrics celebrate the power of redemption and calling, focusing on themes of rescue and transformation. The atmosphere resonates with energy as attendees join in the worship.",
+      "keywords": ["worship", "choir", "glorious", "day", "redemption"],
+      "performers": ["Choir"],
+      "songs": ["Glorious Day"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Open Hands",
+      "start_time": 156,
+      "type": "music",
+      "description": "A heartfelt solo performance titled 'Open Hands' invites the congregation to surrender their burdens and trust in God's plan. The lyrics reflect a personal commitment to living for God's glory, encouraging believers to open their hearts and hands to Him.",
+      "keywords": ["surrender", "trust", "commitment", "glory", "solo"],
+      "performers": ["Soloist"],
+      "songs": ["Open Hands"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: How Great Is Our God",
+      "start_time": 641,
+      "type": "music",
+      "description": "The congregation unites in singing 'How Great Is Our God,' a declaration of God's majesty and power. This hymn encourages worshippers to celebrate God's greatness and His sovereignty over all creation, fostering a sense of community in praise.",
+      "keywords": ["congregation", "worship", "greatness", "hymn", "praise"],
+      "performers": [],
+      "songs": ["How Great Is Our God"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Welcome and Message Introduction",
+      "start_time": 860,
+      "type": "announcement",
+      "description": "The service leader welcomes everyone, highlighting the importance of witnessing God's transformative work in lives. The anticipation builds for the upcoming sermon by Tiberius Rata, who is introduced as a brilliant teacher continuing the series on openness.",
+      "keywords": ["welcome", "announcement", "message", "community", "transformation"],
+      "performers": ["Service Leader"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Open to be Owned (1 Chronicles 29)",
+      "start_time": 1188,
+      "type": "sermon",
+      "description": "Tiberius Rata presents a powerful sermon based on 1 Chronicles 29, emphasizing the themes of sacrificial giving and leadership by example. He explains how David prepared for the temple and challenges believers to consider their own openness to God. The message encourages generous living as a form of worship, advocating that all we have ultimately belongs to God.",
+      "keywords": ["Tiberius Rata", "sacrifice", "David", "temple", "generosity"],
+      "performers": ["Tiberius Rata"],
+      "songs": [],
+      "scripture_references": ["1 Chronicles 29"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3302,
+      "type": "prayer",
+      "description": "In a reflective closing prayer, the congregation is invited to commit their lives and resources to God fully. Emphasizing gratitude and community service, the prayer seeks blessings over the church's ministries and expresses a longing for spiritual growth among members.",
+      "keywords": ["prayer", "commitment", "gratitude", "community", "blessings"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

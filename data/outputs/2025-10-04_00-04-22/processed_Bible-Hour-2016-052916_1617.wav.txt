@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Let it be Jesus",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir opens the service with a spiritually uplifting rendition of 'Let it be Jesus.' The lyrics emphasize devotion and reliance on Jesus in times of abandonment and challenges. The song sets a worshipful tone for the congregation, inviting everyone to reflect on their faith.",
+      "keywords": ["jesus", "worship", "choir", "faith", "devotion"],
+      "performers": ["Choir"],
+      "songs": ["Let it be Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: It is Well",
+      "start_time": 262,
+      "type": "music",
+      "description": "The congregation sings the classic hymn 'It is Well' together, expressing trust in God's sovereignty despite life's trials. This hymn resonates deeply, reminding participants of the peace that comes from faith, even in difficult circumstances.",
+      "keywords": ["hymn", "faith", "peace", "god", "trust"],
+      "performers": ["Congregation"],
+      "songs": ["It is well"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Joshua 23",
+      "start_time": 896,
+      "type": "scripture",
+      "description": "The reading from Joshua 23 highlights God's faithfulness and guidance. As Joshua addresses the leaders of Israel, he emphasizes the importance of recalling God's past actions and His promises to their ancestors.",
+      "keywords": ["joshua", "scripture", "faithfulness", "leaders"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Joshua 23"]
+    },
+    {
+      "title": "Message: Choose This Day Whom You Will Serve (Joshua 24)",
+      "start_time": 1052,
+      "type": "sermon",
+      "description": "The sermon focuses on Joshua's call to Israel to choose whom they will serve, encapsulating the necessity of faithfulness and obedience to God. The speaker draws parallels to modern challenges of faith and personal responsibility, urging the congregation to remove idols and reaffirm their commitment to God, especially in families.",
+      "keywords": ["joshua", "sermon", "faith", "obedience", "idols"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Joshua 24:14-15"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3188,
+      "type": "prayer",
+      "description": "In this invitation prayer, the pastor encourages the congregation to reflect on their personal faith and relationship with God. It's a moment for individuals to consider their commitments and seek God's guidance for their lives. The prayer is heartfelt, evoking a response to the earlier message.",
+      "keywords": ["prayer", "invitation", "commitment", "god"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: I Have Decided to Follow Jesus",
+      "start_time": 3234,
+      "type": "music",
+      "description": "The congregation sings 'I Have Decided to Follow Jesus' as a declaration of their faith and commitment to follow Christ. This hymn reinforces the message of the sermon, encouraging believers to take a stand for their faith and not turn back.",
+      "keywords": ["hymn", "commitment", "jesus", "follow"],
+      "performers": ["Congregation"],
+      "songs": ["I have decided to follow Jesus"],
+      "scripture_references": []
+    }
+  ]
+}
+```

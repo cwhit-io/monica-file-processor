@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: The King of Love, My Shepherd Is",
+      "start_time": 106,
+      "type": "music",
+      "description": "The sanctuary choir performs 'The King of Love, My Shepherd Is', creating an atmosphere of reverence and setting the tone for worship. The lyrics reflect on the theme of Christ as the Good Shepherd, emphasizing comfort and guidance. This poetic rendition invites the congregation to connect with the message of God's nurturing care.",
+      "keywords": ["choir", "worship", "shepherd", "music", "comfort"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["The King of Love, My Shepherd Is"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Gentle Shepherd",
+      "start_time": 361,
+      "type": "music",
+      "description": "The congregation joins in singing 'Gentle Shepherd', a heartfelt hymn that expresses dependence on Christ as the gentle leader. This musical moment helps the community reflect on God's tenderness and guidance. It's a call for comfort in reliance on divine support.",
+      "keywords": ["hymn", "gentle", "shepherd", "congregation", "worship"],
+      "performers": [],
+      "songs": ["Gentle Shepherd"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: How Majestic Is Your Name",
+      "start_time": 575,
+      "type": "music",
+      "description": "A soloist presents 'How Majestic Is Your Name', bringing a poignant worship experience that magnifies the greatness of God. The lyrics recapture the beauty of creation and God's sovereignty, inviting the audience to participate in adoration and reflection. It emphasizes themes of praise and reverence.",
+      "keywords": ["solo", "worship", "majesty", "God", "praise"],
+      "performers": ["Susan Toyrac"],
+      "songs": ["How Majestic Is Your Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Good Shepherd (Psalm 23)",
+      "start_time": 1336,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a powerful message on Psalm 23, emphasizing the intimate relationship between the shepherd and his sheep. He explores themes of provision, care, and the commitment of Christ as the Good Shepherd. The sermon reflects on deep spiritual truths about trust, guidance, and the struggles of faith, ultimately reminding the congregation of God's unwavering support.",
+      "keywords": ["sermon", "shepherd", "faith", "Psalm 23", "provision"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Psalm 23"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting God’s presence and guidance throughout the worship and teaching. This prayer sets a tone of reverence and anticipation, emphasizing the community's collective desire for spiritual growth and connection with the Lord.",
+      "keywords": ["prayer", "worship", "community", "guidance", "God"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3454,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, thanking God for His word and asking for continued guidance in the week ahead. This moment strikes a balance between reflection and anticipation, encouraging the congregation to carry the message of the service into their daily lives.",
+      "keywords": ["prayer", "closing", "thanksgiving", "guidance", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Sharing Life Experiences",
+      "start_time": 786,
+      "type": "testimony",
+      "description": "A heartfelt testimony is shared, reflecting on personal loss and the comfort found in God during difficult times. The speaker offers insights into the healing power of faith and the assurance of eternal life through Christ. This testimony resonates with themes of hope and the importance of community support in times of grief.",
+      "keywords": ["testimony", "loss", "faith", "comfort", "hope"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Church Activities Update",
+      "start_time": 914,
+      "type": "announcement",
+      "description": "Church announcements highlight upcoming events, including Bible studies and community outreach programs. The purpose of these gatherings is to foster spiritual growth and fellowship among congregants. Each event aims to further engage the community in worship and learning.",
+      "keywords": ["announcement", "community", "events", "bible study", "church"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

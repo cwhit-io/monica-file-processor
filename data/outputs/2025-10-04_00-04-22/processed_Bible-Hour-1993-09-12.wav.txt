@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Praise Live for What You've Done",
+      "start_time": 41,
+      "type": "music",
+      "description": "The sanctuary choir leads the congregation in a powerful song of praise, expressing gratitude for the divine presence in their lives. The lyrics highlight themes of majesty and glory, giving worshippers an opportunity to participate in uplifting song. This moment sets a tone of reverence for the service ahead.",
+      "keywords": ["choir", "praise", "worship", "Jesus", "song"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Praise Live for What You've Done"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Precious Lord, Take My Hand",
+      "start_time": 348,
+      "type": "music",
+      "description": "Robin Hipschman takes center stage to perform 'Precious Lord, Take My Hand,' a deeply moving solo that connects the congregation with themes of comfort and guidance. Her heartfelt delivery uplifts the audience, compelling them to reflect on their own spiritual journeys and trust in divine support.",
+      "keywords": ["solo", "Robin Hipschman", "comfort", "guidance", "Jesus"],
+      "performers": ["Robin Hipschman"],
+      "songs": ["Precious Lord, Take My Hand"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: People Believe in Love",
+      "start_time": 660,
+      "type": "music",
+      "description": "The choir presents 'People Believe in Love,' blending joyful melodies and meaningful lyrics that resonate with the congregation. This segment of music serves to affirm the hopeful message of love and community within the church, inviting participation and reflection.",
+      "keywords": ["choir", "love", "community", "joy", "song"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["People Believe in Love"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: A Musical Journey",
+      "start_time": 794,
+      "type": "music",
+      "description": "The choir continues to captivate the audience with 'A Musical Journey,' offering an inspiring auditory experience. This section emphasizes the joy of shared faith and musical expression within the community, fostering a deeper connection among the worshippers.",
+      "keywords": ["choir", "musical", "community", "worship", "song"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["A Musical Journey"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Happiness is the Poor in Spirit (Matthew 5:3)",
+      "start_time": 961,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a thought-provoking sermon based on Matthew 5:3, challenging the conventional definitions of happiness. He discusses the truth that true happiness starts with recognizing our spiritual poverty and reliance on God. The message encourages listeners to seek genuine contentment through humility and relationship with the divine.",
+      "keywords": ["sermon", "happiness", "spirituality", "humility", "Matthew 5"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Matthew 5:3"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3409,
+      "type": "prayer",
+      "description": "The congregation engages in an invitation prayer, offering a moment for individuals to reflect on their faith and relationship with God. This prayer is a call to action, encouraging participants to open their hearts and consider their spiritual needs.",
+      "keywords": ["prayer", "invitation", "reflection", "faith", "God"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3468,
+      "type": "prayer",
+      "description": "As the service concludes, a closing prayer unites the congregation in a shared moment of gratitude and reflection. This prayer serves as an uplifting send-off, invoking blessings for the congregation's journeys ahead.",
+      "keywords": ["prayer", "closing", "blessing", "community", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Joining the Bible Hour",
+      "start_time": 3536,
+      "type": "announcement",
+      "description": "In the final segment, an announcement is made inviting listeners to join the Bible Hour each week. It highlights the church's commitment to community and spiritual growth through continued engagement in the ministry.",
+      "keywords": ["announcement", "Bible Hour", "community", "spiritual growth", "invitation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

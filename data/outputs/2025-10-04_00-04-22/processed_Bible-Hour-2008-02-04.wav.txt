@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Instrumental Worship]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with a powerful instrumental worship piece that invites congregation members into a space of reflection and reverence. The music sets a tone of anticipation for the message to follow.",
+      "keywords": ["worship", "music", "instrumental"],
+      "performers": ["Choir"],
+      "songs": ["Instrumental Worship"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 301,
+      "type": "prayer",
+      "description": "The senior pastor leads an opening prayer, asking for God's presence and guidance throughout the service. This moment calls the congregation to prepare their hearts for worship and the message ahead.",
+      "keywords": ["prayer", "opening", "worship"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Preparing for the Crucifixion and Resurrection (John 13:1-17)",
+      "start_time": 480,
+      "type": "sermon",
+      "description": "The pastor shares a heartfelt message about the importance of preparing our hearts for the upcoming crucifixion and resurrection of Jesus. Emphasizing the need for reflection and spiritual readiness, he encourages the congregation to engage in scripture reading and personal commitments over the coming weeks, illustrating the significance of Christ's sacrifice.",
+      "keywords": ["sermon", "crucifixion", "resurrection", "preparation", "Jesus"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": ["John 13"]
+    },
+    {
+      "title": "Choir: [Traditional Hymn]",
+      "start_time": 3490,
+      "type": "music",
+      "description": "The choir performs a traditional hymn that stirs emotions and reinforces the themes of sacrifice and faith. This moment allows the congregation to join in communal worship, lifting their voices in praise.",
+      "keywords": ["hymn", "worship", "choir"],
+      "performers": ["Choir"],
+      "songs": ["Traditional Hymn"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [John 13]",
+      "start_time": 3590,
+      "type": "scripture",
+      "description": "A reading from the Gospel of John, chapter 13, recounting Jesus washing the disciples' feet. This passage emphasizes humility and service, reminding the congregation of Jesus' example as they prepare for the upcoming weeks.",
+      "keywords": ["Bible", "scripture", "John 13"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["John 13"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3640,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, where the pastor asks for God's blessing over the congregation as they embark on the six-week preparation journey. This prayer solidifies the themes of the message and invites God's guidance in their spiritual endeavors.",
+      "keywords": ["prayer", "closing"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Celebratory Song]",
+      "start_time": 3740,
+      "type": "music",
+      "description": "A celebratory song performed by the choir that uplifts the spirit of the congregation. This song serves as a joyful farewell, sending members into their week with encouragement and hope.",
+      "keywords": ["celebration", "music", "hope"],
+      "performers": ["Choir"],
+      "songs": ["Celebratory Song"],
+      "scripture_references": []
+    }
+  ]
+}
+```

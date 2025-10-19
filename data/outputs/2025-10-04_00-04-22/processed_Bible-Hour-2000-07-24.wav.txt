@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Upbeat Worship Music]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat choir performance, setting a positive and energetic tone for the worship experience. This music invites the congregation to engage and feel uplifted, preparing their hearts for the message ahead.",
+      "keywords": ["worship", "choir", "music"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["[Upbeat Worship Music]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 171,
+      "type": "prayer",
+      "description": "The pastor offers an opening prayer, asking for God's presence and guidance during the service. This moment is dedicated to seeking divine inspiration and setting a reverent atmosphere for worship and learning.",
+      "keywords": ["prayer", "worship", "guidance"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: [Audience Member's Story]",
+      "start_time": 392,
+      "type": "testimony",
+      "description": "An audience member shares a heartfelt testimony about the influence of their mother in their spiritual life. This personal story emphasizes the power of prayer and family support, resonating deeply with the congregation.",
+      "keywords": ["testimony", "mother", "influence"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Wives and Mothers' Influence (Deuteronomy 6)",
+      "start_time": 409,
+      "type": "sermon",
+      "description": "The sermon focuses on the significant influence of mothers and wives, exploring biblical principles from Deuteronomy 6. The speaker illustrates both the tenderness and the strength required in these roles, encouraging mothers to uphold spiritual values and nurture their families through love and sacrifice.",
+      "keywords": ["sermon", "influence", "mothers", "wives"],
+      "performers": ["Denny Howard"],
+      "songs": [],
+      "scripture_references": ["Deuteronomy 6"]
+    },
+    {
+      "title": "Solo: [Somewhere in the World]",
+      "start_time": 3315,
+      "type": "music",
+      "description": "A solo performance takes place, featuring the song 'Somewhere in the World'. This touching piece resonates with the audience, highlighting themes of hope and the nurturing roles of mothers. Its heartfelt lyrics reflect the spirit of the service.",
+      "keywords": ["music", "solo", "hope"],
+      "performers": ["Wayne Watson"],
+      "songs": ["Somewhere in the World"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3752,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, encouraging congregants to reflect on the message and consider their personal relationship with God. This moment aims to invite attendees to take a step closer to faith and community.",
+      "keywords": ["invitation", "prayer", "faith"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3800,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for the teachings and experiences shared. The pastor asks for God's blessing as attendees return to their daily lives, carrying the message of love and influence with them.",
+      "keywords": ["closing", "prayer", "blessing"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Service Recap and Invitation",
+      "start_time": 3413,
+      "type": "announcement",
+      "description": "The pastor makes a brief announcement, summarizing the key points of the service and inviting attendees to connect with the church community further. This is an opportunity for congregants to engage more deeply with their faith.",
+      "keywords": ["announcement", "community", "invitation"],
+      "performers": ["Craig Volker"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

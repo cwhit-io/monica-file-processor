@@ -1,0 +1,96 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Welcome Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with upbeat music, creating a welcoming atmosphere for the congregation as they gather. The sounds of celebration and joy resonate through the space, inviting attendees to engage in the service.",
+      "keywords": ["music", "welcome", "celebration"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Guitar Music",
+      "start_time": 30,
+      "type": "music",
+      "description": "Guitar music accompanies the starting moments of the service, enhancing the warm ambiance. It serves as a transition into the gathering, allowing the attendees to settle while enjoying gentle melodies.",
+      "keywords": ["guitar", "music", "gathering"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Introduction of Intern",
+      "start_time": 221,
+      "type": "announcement",
+      "description": "Benji Holder introduces himself as the summer intern at the church, sharing his background and passion for worship. He expresses his excitement to work with the worship team and connect with the church family.",
+      "keywords": ["Benji Holder", "intern", "worship"],
+      "performers": ["Benji Holder"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Lead On, O King Eternal",
+      "start_time": 308,
+      "type": "music",
+      "description": "The congregation participates in singing 'Lead On, O King Eternal,' a hymn celebrating faith and guidance. This vibrant song invites the community to reflect on their dedication and commitment to God.",
+      "keywords": ["hymn", "congregational", "worship"],
+      "performers": [],
+      "songs": ["Lead On, O King Eternal"],
+      "scripture_references": []
+    },
+    {
+      "title": "Passionate Praise Music",
+      "start_time": 534,
+      "type": "music",
+      "description": "Uplifting music fills the space, encouraging congregants to engage in heartfelt worship. The melodies resonate deeply, creating an atmosphere of praise and openness to the message that follows.",
+      "keywords": ["worship", "music", "praise"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: God's Faithfulness and the Hatch Family (1 Timothy 6)",
+      "start_time": 1162,
+      "type": "sermon",
+      "description": "In this heartfelt sermon, the speaker reflects on the tragic loss of Dr. Steve and Kim Hatch, emphasizing the importance of God's faithfulness during times of grief. Drawing from 1 Timothy 6, lessons on rich living, generosity, and the true treasures of life are explored.",
+      "keywords": ["sermon", "faithfulness", "grief", "1 Timothy"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Timothy 6:17-19", "1 Thessalonians 4:13-18", "Psalm 34:17-18"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3400,
+      "type": "prayer",
+      "description": "The congregation is invited to unify in prayer, focusing on God's presence and comfort during times of need. This moment encourages reflection and connection as individuals seek strength and guidance.",
+      "keywords": ["prayer", "invitation", "unity"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Benediction and Dismissal",
+      "start_time": 3440,
+      "type": "announcement",
+      "description": "As the service concludes, the speaker offers a benediction, encouraging the congregation to pursue righteousness and faith. This farewell is a reminder of the week ahead and a call to embody their faith in everyday life.",
+      "keywords": ["benediction", "dismissal", "congregation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Uplifting Goodbye Music",
+      "start_time": 3516,
+      "type": "music",
+      "description": "The service wraps up with uplifting music, leaving the congregation with a sense of hope and community spirit. This final melody reinforces the themes of the day and encourages continued reflection on the messages shared.",
+      "keywords": ["goodbye", "music", "hope"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

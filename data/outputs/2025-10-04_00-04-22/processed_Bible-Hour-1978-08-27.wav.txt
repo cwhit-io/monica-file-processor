@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: There's Just Something About My Jesus",
+      "start_time": 54,
+      "type": "music",
+      "description": "The Black Hawk Singers perform a heartfelt piece titled 'There's Just Something About My Jesus.' The song reflects on the profound impact of a personal relationship with Jesus, expressing joy and transformation experienced by believers. The lyrics emphasize the mysterious and powerful influence He continues to have in their lives.",
+      "keywords": ["Black Hawk Singers", "Jesus", "transformation", "joy", "relationship"],
+      "performers": ["Black Hawk Singers"],
+      "songs": ["There's Just Something About My Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Corinthians 15",
+      "start_time": 377,
+      "type": "scripture",
+      "description": "The reading from 1 Corinthians 15 highlights the glory of the resurrection. It contrasts earthly mortality with the promise of eternal life, emphasizing the transformative power of Christ's resurrection and its significance for believers. The passage reassures the faithful of victory over death.",
+      "keywords": ["resurrection", "1 Corinthians", "eternal life", "glory", "mortality"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 15"]
+    },
+    {
+      "title": "Choir: Calvary Medley",
+      "start_time": 561,
+      "type": "music",
+      "description": "The Black Hawk Singers deliver a poignant Calvary medley, intertwining various songs that capture the essence of Christ's sacrifice. This medley serves as a powerful reminder of the central theme of the church's faith—redemption through the cross, resonating deeply with the congregation.",
+      "keywords": ["Calvary", "sacrifice", "redemption", "Black Hawk Singers", "medley"],
+      "performers": ["Black Hawk Singers"],
+      "songs": ["Calvary Medley"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Coming of Christ (1 Thessalonians 4:13-18)",
+      "start_time": 1615,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers an impactful sermon on the return of Christ, focusing on 1 Thessalonians 4:13-18. He reassures believers about the resurrection and the hope of reunion with loved ones. Using personal stories and scripture, he emphasizes the importance of living in anticipation of Christ's imminent return and the comfort it brings during times of mourning.",
+      "keywords": ["David Jeremiah", "return of Christ", "resurrection", "1 Thessalonians", "hope"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["1 Thessalonians 4:13-18"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3400,
+      "type": "prayer",
+      "description": "The service concludes with a solemn closing prayer offered by Pastor Jeremiah. He invites the congregation to reflect on the sermon’s message, seeking God's guidance and comfort in light of the hope of Christ's return. The prayer encapsulates the themes of hope, faith, and community.",
+      "keywords": ["prayer", "closing", "hope", "faith", "community"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

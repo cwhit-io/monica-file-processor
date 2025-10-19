@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Worship Him",
+      "start_time": 240,
+      "type": "music",
+      "description": "The sanctuary choir leads the congregation in a passionate song of worship, inviting everyone to exalt and praise God. The lyrics celebrate the majesty and glory of the Lord, creating an atmosphere of reverence and joy among those present. This segment is marked by heartfelt singing and a focus on collective worship.",
+      "keywords": ["worship", "majesty", "glory", "choir", "singing"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Worship Him"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Heart Like Mine",
+      "start_time": 569,
+      "type": "music",
+      "description": "Kevin Rowe delivers a touching solo performance that shares a profound message of healing and hope. Through his heartfelt lyrics, he expresses the challenges of feeling lost and the joy brought by divine love. This song resonates with the struggles of many, reminding the congregation of God's presence in times of hardship.",
+      "keywords": ["hope", "healing", "love", "struggle", "faith"],
+      "performers": ["Kevin Rowe"],
+      "songs": ["Heart Like Mine"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 783,
+      "type": "announcement",
+      "description": "Pastor Rick Hawks and another speaker discuss several upcoming events at Black Hawk Baptist Church, including a New Testament seminar and a guest appearance by Jim Murray. They highlight the significance of these events for community spiritual growth and encourage attendees to participate actively.",
+      "keywords": ["seminar", "events", "church", "community", "guest"],
+      "performers": ["Rick Hawks", "Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1329,
+      "type": "prayer",
+      "description": "The service transitions into a solemn opening prayer, inviting the congregation to reflect and seek God's guidance. This prayer serves as a heartfelt plea for God's presence, comfort, and deeper connection during the service. It emphasizes themes of vulnerability and the need for divine intervention.",
+      "keywords": ["prayer", "guidance", "reflection", "divine", "connection"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Managing Our Mistakes (Proverbs 28:13)",
+      "start_time": 158,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a powerful message on the theme of managing mistakes, emphasizing the inevitability of errors in human life. He articulates how confession and acceptance of our failures lead to mercy and restoration. Referencing scripture from Proverbs 28:13, he explores the importance of owning our sins and recognizing the grace available through Christ.",
+      "keywords": ["mistakes", "confession", "grace", "mercy", "forgiveness"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Proverbs 28:13"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3602,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service, encouraging the congregation to reflect on the message and apply the principles discussed. The pastor prays for God's guidance and strength to accept mistakes and show forgiveness to others. This moment serves as an invitation to deepen one's spiritual journey and reliance on God's grace.",
+      "keywords": ["closing", "guidance", "forgiveness", "reflection", "strength"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

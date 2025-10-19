@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: The Rock of Faith",
+      "start_time": 269,
+      "type": "music",
+      "description": "The choir leads the congregation in a majestic song, emphasizing the strength and foundation found in Jesus Christ. The focus is on being firmly positioned on this Rock of Faith. The powerful lyrics encourage worshippers to reflect on their own faith and reliance on Christ.",
+      "keywords": ["choir", "faith", "Jesus", "praise", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["The Rock of Faith"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: I Sing the Mighty Power of God",
+      "start_time": 481,
+      "type": "music",
+      "description": "The congregation participates in singing 'I Sing the Mighty Power of God,' a hymn celebrating God's creation and power. All three verses are sung, fostering a spirit of unity and worship among attendees as they proclaim God's goodness and majesty.",
+      "keywords": ["hymn", "creation", "God", "worship", "power"],
+      "performers": [],
+      "songs": ["I Sing the Mighty Power of God"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: You Are Forever God",
+      "start_time": 1355,
+      "type": "music",
+      "description": "Lynn Rolle performs a touching solo titled 'You Are Forever God,' reflecting on God's eternal nature and guidance. The heartfelt lyrics resonate with the congregation, encouraging personal reflection on God's constant presence and support through life's challenges.",
+      "keywords": ["solo", "God", "eternal", "guidance", "presence"],
+      "performers": ["Lynn Rolle"],
+      "songs": ["You Are Forever God"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1556,
+      "type": "prayer",
+      "description": "A prayer is offered to thank God for His guidance and to ask for comfort for those in pain or distress. The prayer is a moment to seek solace for the community, addressing various needs and reaffirming faith in God's sovereignty during tough circumstances.",
+      "keywords": ["prayer", "guidance", "comfort", "community", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Are the Bad Guys Really So Bad? (Jude 12-16)",
+      "start_time": 1800,
+      "type": "sermon",
+      "description": "The sermon delves into the book of Jude, focusing on the characteristics of false teachers and their dangerous impact on faith. Using powerful metaphors, the pastor explains the emptiness of their teachings, emphasizing the necessity of discerning truth from falsehood and seeking genuine faith in Christ.",
+      "keywords": ["sermon", "Jude", "false teachers", "faith", "discernment"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Jude 12-16"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3532,
+      "type": "prayer",
+      "description": "An invitation prayer is offered, encouraging individuals to seek Christ's forgiveness and guidance in their lives. The pastor invites anyone who feels the need for spiritual renewal to pray along, highlighting the importance of a personal relationship with God.",
+      "keywords": ["prayer", "invitation", "forgiveness", "relationship", "renewal"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Your Decision",
+      "start_time": 3560,
+      "type": "music",
+      "description": "A solo performance aligns with the invitation, emphasizing themes of accepting Christ and the transformative power of faith. The song serves as a poignant moment for reflection, inviting the congregation to consider their spiritual decisions in light of the message shared.",
+      "keywords": ["solo", "decision", "acceptance", "faith"],
+      "performers": [],
+      "songs": ["Your Decision"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3568,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for the time of worship and for the messages shared. It also asks for His guidance as attendees go back into their daily lives, emphasizing a commitment to carry the teachings forward.",
+      "keywords": ["prayer", "closing", "worship", "guidance", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

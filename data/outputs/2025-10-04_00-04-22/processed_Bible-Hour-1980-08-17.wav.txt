@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: O Glorious Love",
+      "start_time": 105,
+      "type": "music",
+      "description": "The choir performs a beautiful rendition of 'O Glorious Love'. This uplifting performance sets a tone of worship and gratitude, inviting the congregation to reflect on the theme of divine love.",
+      "keywords": ["choir", "worship", "love"],
+      "performers": ["Black Hawk Baptist Choir"],
+      "songs": ["O Glorious Love"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown]",
+      "start_time": 342,
+      "type": "music",
+      "description": "Lenna Peterson, a new member of the church, shares a heartfelt solo that embodies the spirit of the service. Her performance resonates with themes of faith and community, enhancing the atmosphere of worship.",
+      "keywords": ["solo", "faith", "community"],
+      "performers": ["Lenna Peterson"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: No One Ever Cared for Me Like Jesus",
+      "start_time": 962,
+      "type": "music",
+      "description": "The congregation joins in singing 'No One Ever Cared for Me Like Jesus', reflecting on the depth of God's love. This hymn encourages worshippers to consider their personal experiences of Christ's care and friendship.",
+      "keywords": ["hymn", "Jesus", "care"],
+      "performers": ["Congregation"],
+      "songs": ["No One Ever Cared for Me Like Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: How Marvelous, How Wonderful",
+      "start_time": 1184,
+      "type": "music",
+      "description": "The Black Hawk Singers deliver a powerful performance of 'How Marvelous, How Wonderful', celebrating the love of the Savior. This song reinforces the themes of redemption and grace, drawing the congregation deeper into worship.",
+      "keywords": ["choir", "Savior", "redemption"],
+      "performers": ["Black Hawk Singers"],
+      "songs": ["How Marvelous, How Wonderful"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1550,
+      "type": "prayer",
+      "description": "A thoughtful opening prayer led by Pastor David Jeremiah sets a spiritual tone for the service. He focuses on seeking understanding and the application of God's Word in the lives of the congregation.",
+      "keywords": ["prayer", "opening", "spirit"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The New Birth (John 3:1-13)",
+      "start_time": 1448,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers an insightful sermon on the concept of being 'born again' as taught in John 3. He explores the importance of spiritual transformation, emphasizing the necessity of divine intervention for true change.",
+      "keywords": ["sermon", "new birth", "transformation"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["John 3:1-13"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3379,
+      "type": "prayer",
+      "description": "The closing prayer, offered by Pastor Jeremiah, invites attendees to reflect on the message and make personal commitments. It emphasizes the importance of accepting Christ's transformative work in their lives.",
+      "keywords": ["prayer", "closing", "commitment"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [When We All See Jesus]",
+      "start_time": 104,
+      "type": "music",
+      "description": "The sanctuary choir leads the congregation in a joyous rendition, celebrating the promise of seeing Jesus together. The lyrics emphasize faith, hope, and the joy of reunion in heaven, creating an uplifting atmosphere filled with encouragement and unity.",
+      "keywords": ["choir", "jesus", "hope", "victory", "celebration"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["When We All See Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Holy, Holy, Holy]",
+      "start_time": 685,
+      "type": "music",
+      "description": "The choir presents 'Holy, Holy, Holy', a powerful hymn that praises the holiness and might of God. The performance involves rich harmonies, inviting the congregation to participate in worship and reflect on God's majesty.",
+      "keywords": ["hymn", "worship", "holy", "praise", "congregation"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Holy, Holy, Holy"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Importance of Motherhood (Proverbs 15:20)",
+      "start_time": 857,
+      "type": "sermon",
+      "description": "Pastor Moore delivers an impactful message on motherhood, addressing societal undervaluation and the biblical perspective on the role of a mother. He encourages all mothers, acknowledging the unique difficulties they face while emphasizing the profound impact they have on future generations.",
+      "keywords": ["motherhood", "proverbs", "sermon", "encouragement", "family"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Proverbs 15"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3421,
+      "type": "prayer",
+      "description": "Pastor Moore leads an invitation prayer, inviting those who feel a calling to commit their lives to Christ. This heartfelt moment encourages personal reflection and a deep spiritual connection.",
+      "keywords": ["prayer", "invitation", "commitment", "christ"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Bible Hour Events",
+      "start_time": 3471,
+      "type": "announcement",
+      "description": "The service concludes with announcements regarding upcoming Bible Hour events and resources available to congregants. Pastor Moore encourages participation and emphasizes the importance of community in faith.",
+      "keywords": ["announcement", "bible hour", "community", "events"],
+      "performers": ["Ross McCamble"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: No Other Name",
+      "start_time": 106,
+      "type": "music",
+      "description": "The Sanctuary Choir and Orchestra perform a powerful rendition of 'No Other Name,' uplifting the congregation with their melodious voices. The song centers on the significance and glory of the name of Jesus, creating a reverent atmosphere of worship.",
+      "keywords": ["choir", "orchestra", "no other name", "worship", "musical"],
+      "performers": ["Sanctuary Choir and Orchestra"],
+      "songs": ["No Other Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: All Hail the Power of Jesus' Name",
+      "start_time": 376,
+      "type": "music",
+      "description": "The congregation participates in singing the hymn 'All Hail the Power of Jesus' Name.' This classic hymn celebrates Jesus' sovereignty, inviting attendees to express their reverence through song. The hymn creates a communal sense of praise and worship.",
+      "keywords": ["congregational", "hymn", "worship", "praise", "jesus"],
+      "performers": [],
+      "songs": ["All Hail the Power of Jesus' Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown Title]",
+      "start_time": 640,
+      "type": "music",
+      "description": "A solo performance takes place, featuring gentle piano music, which sets a reflective mood for the service. The soloist encourages an atmosphere conducive for personal meditation and contemplation of God's grace.",
+      "keywords": ["solo", "piano", "reflection", "grace", "worship"],
+      "performers": ["Keith Brodigam"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1317,
+      "type": "prayer",
+      "description": "In the opening prayer, the pastor intercedes for individuals facing various hardships, including grief and healing. He seeks God’s strength and healing for the congregation, setting a tone of reliance on divine grace throughout the service.",
+      "keywords": ["prayer", "community", "grief", "healing", "god's grace"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Jonah 4",
+      "start_time": 1449,
+      "type": "scripture",
+      "description": "The pastor reads from Jonah chapter 4, providing the biblical foundation for the day's message. This scriptural foundation brings context to the sermon and invites listeners to reflect on the themes of frustration and mercy.",
+      "keywords": ["bible", "scripture", "jonah", "frustration", "mercy"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Jonah 4"]
+    },
+    {
+      "title": "Message: Fighting Frustration (Jonah 4)",
+      "start_time": 1460,
+      "type": "sermon",
+      "description": "In this sermon, Pastor Rick Hawks explores the theme of frustration through the lens of Jonah's life. He discusses the causes of Jonah's frustration and offers solutions rooted in surrendering our will to God. Key points include acknowledging our emotions and valuing people over possessions.",
+      "keywords": ["frustration", "sermon", "jonah", "surrender", "life lessons"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Jonah 4"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3442,
+      "type": "prayer",
+      "description": "The invitation prayer is offered, prompting participants to reflect on their relationship with God and encouraging decisions of faith. The pastor leads the congregation in acknowledging their need for Christ, concluding the service with a compassionate appeal.",
+      "keywords": ["invitation", "prayer", "faith", "reflection", "worship"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

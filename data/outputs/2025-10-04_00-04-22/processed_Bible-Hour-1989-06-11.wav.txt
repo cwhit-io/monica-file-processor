@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: It Is Well with My Soul",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with a heartfelt choir performance singing 'It Is Well with My Soul,' a song that reflects on peace amidst turmoil. The song sets a reflective tone, inviting the congregation to a place of comfort and assurance. This performance resonates deeply with themes of healing and trust in God's providence.",
+      "keywords": ["choir", "It Is Well", "soul", "music", "comfort"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["It Is Well with My Soul"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Wonderful Words of Life",
+      "start_time": 509,
+      "type": "music",
+      "description": "Joni King delivers a solo of 'Wonderful Words of Life,' a song that emphasizes the power and beauty of God's word. The performance uplifts the congregation and reinforces the significance of scripture in their spiritual lives. The song serves as a reminder of the guidance we receive through God's teachings.",
+      "keywords": ["solo", "Joni King", "words", "life", "scripture"],
+      "performers": ["Joni King"],
+      "songs": ["Wonderful Words of Life"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Blessed Assurance",
+      "start_time": 568,
+      "type": "music",
+      "description": "The congregation joins together in singing 'Blessed Assurance,' reinforcing themes of faith and security in God's promises. This hymn encourages the community to celebrate their shared beliefs and find strength in unity. The joyous atmosphere is palpable as voices blend in This declaration of faith.",
+      "keywords": ["congregational", "hymn", "assurance", "faith", "unity"],
+      "performers": [],
+      "songs": ["Blessed Assurance"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1224,
+      "type": "prayer",
+      "description": "The service transitions into an opening prayer led by the youth pastor, Tim Teder. This prayer invites God's presence into the gathering and sets the stage for the worship and message to follow. It emphasizes a collective heart posture of openness to God's guidance during the service.",
+      "keywords": ["prayer", "opening", "worship", "God", "community"],
+      "performers": ["Tim Teder"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Matthew 18",
+      "start_time": 1290,
+      "type": "scripture",
+      "description": "A reading from Matthew 18 is shared, setting the context for the sermon on forgiveness. This passage highlights the teachings of Jesus regarding how to approach forgiveness within relationships. The reading serves as a foundation for deeper exploration and reflection throughout the message.",
+      "keywords": ["scripture", "Matthew", "forgiveness", "teaching", "Jesus"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 18"]
+    },
+    {
+      "title": "Message: Forgiveness (Matthew 18:21-35)",
+      "start_time": 1298,
+      "type": "sermon",
+      "description": "Youth pastor Tim Teder delivers an impactful sermon on forgiveness, addressing key questions about how often, how far, and how deeply we should forgive. Drawing from Matthew 18:21-35, he illustrates the limitless nature of God's forgiveness and our call to emulate that grace. Throughout the message, Teder emphasizes the importance of sincere forgiveness in maintaining healthy relationships and spiritual well-being.",
+      "keywords": ["forgiveness", "sermon", "Matthew 18", "grace", "relationships"],
+      "performers": ["Tim Teder"],
+      "songs": [],
+      "scripture_references": ["Matthew 18:21-35"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3500,
+      "type": "prayer",
+      "description": "As the service concludes, a closing prayer is offered, inviting the congregation to reflect on the message brought forth. This prayer seeks God's strength to apply the lessons of forgiveness in their lives. It encourages unity among the attendees as they go forth, binding their hearts in the spirit of the service.",
+      "keywords": ["prayer", "closing", "forgiveness", "reflection", "unity"],
+      "performers": ["Tim Teder"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 3621,
+      "type": "announcement",
+      "description": "The pastor shares important announcements regarding upcoming events, including a special patriotic celebration and guest speakers for the summer Bible conference. This segment emphasizes the church's community involvement and encourages members to participate in activities that promote spiritual growth.",
+      "keywords": ["announcement", "events", "community", "Bible conference", "patriotic"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

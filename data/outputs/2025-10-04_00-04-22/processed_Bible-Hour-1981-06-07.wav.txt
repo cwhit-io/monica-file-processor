@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 35,
+      "type": "music",
+      "description": "The choir leads the congregation in an uplifting musical piece that sets a joyful tone for the service. Their harmonious voices blend beautifully, inviting the congregation to join in worship. This performance emphasizes the significance of music in enhancing the overall worship experience.",
+      "keywords": ["choir", "worship", "music", "service", "praise"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 300,
+      "type": "music",
+      "description": "Stephen Maria Gardner perform a special church anthem that resonates with the themes of faith and patriotism. Their rendition adds a personal touch to the service, enriching the worship atmosphere with heartfelt melodies. The congregation is encouraged to reflect on their faith as they listen to the powerful lyrics.",
+      "keywords": ["solo", "music", "faith", "patriotism", "anthem"],
+      "performers": ["Stephen Maria Gardner"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 492,
+      "type": "music",
+      "description": "Keith Brodigum shares a solo performance that adds a personal and reverent touch to the service. His uplifting music invites everyone to engage and reflect on their personal relationship with God. This segment emphasizes the role of individual testimonies in worship.",
+      "keywords": ["solo", "music", "worship", "testimony", "reflection"],
+      "performers": ["Keith Brodigum"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1210,
+      "type": "prayer",
+      "description": "Pastor David Jerramon opens the service with a heartfelt prayer, inviting God’s presence into the worship experience. He expresses gratitude for God’s word and prays for open hearts and attentive minds. This prayer sets a tone of reverence and expectation for the message to follow.",
+      "keywords": ["prayer", "worship", "gratitude", "God", "service"],
+      "performers": ["Pastor David Jerramon"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [Acts 20]",
+      "start_time": 1223,
+      "type": "scripture",
+      "description": "The congregation is invited to turn to Acts 20, where Pastor David Jerramon shares key verses that highlight the priorities of the church. This scripture reading builds the foundation for the upcoming sermon and engages congregants in biblical reflection.",
+      "keywords": ["Acts", "scripture", "reading", "church", "priorities"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Acts 20"]
+    },
+    {
+      "title": "Message: The Priorities of the Church (Acts 20)",
+      "start_time": 1244,
+      "type": "sermon",
+      "description": "Pastor David Jerramon delivers an impactful sermon focused on the priorities of the church, emphasizing the necessity of preaching God’s Word. He discusses the importance of evangelism, expositional preaching, and the need for churches to maintain a commitment to biblical truths. The message encourages the congregation to engage deeply with their faith and the teachings of scripture.",
+      "keywords": ["sermon", "priorities", "church", "preaching", "evangelism"],
+      "performers": ["Pastor David Jerramon"],
+      "songs": [],
+      "scripture_references": ["Acts 20"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3421,
+      "type": "prayer",
+      "description": "Pastor David Jerramon concludes the service with a closing prayer, thanking God for the message shared. He prays for the congregation to apply the teachings in their daily lives and urges them to seek God's guidance. This prayer serves as a spiritual send-off for attendees.",
+      "keywords": ["prayer", "closing", "God", "message", "blessing"],
+      "performers": ["Pastor David Jerramon"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

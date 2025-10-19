@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat music segment that sets a joyful atmosphere. The congregation is invited into a spirit of worship, creating a sense of community and anticipation for the service ahead. This lively introduction engages the audience and prepares them for the message.",
+      "keywords": ["worship", "music", "joy", "community", "celebration"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Annual Compassion Offering",
+      "start_time": 30,
+      "type": "announcement",
+      "description": "The host shares updates about the church's annual compassion offering, highlighting the remarkable generosity shown by the congregation. This year, donations will support an orphanage in Nairobi, which aims to assist special needs children. The message emphasizes the importance of communal efforts in aiding those in need.",
+      "keywords": ["compassion", "offering", "generosity", "Nairobi", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Worship Song",
+      "start_time": 233,
+      "type": "music",
+      "description": "The choir leads in a heartfelt worship song that encourages the congregation to participate. The performance serves as a moment for reflection and praise, enhancing the worship experience and drawing the community closer together in their faith.",
+      "keywords": ["worship", "choir", "song", "praise"],
+      "performers": ["Choir"],
+      "songs": ["Worship Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Inspirational Piece",
+      "start_time": 439,
+      "type": "music",
+      "description": "A soloist delivers an inspiring piece that resonates with the themes of faith and community. This segment allows for an intimate moment where listeners can reflect on their personal relationships with God and each other.",
+      "keywords": ["faith", "inspiration", "solo", "reflection"],
+      "performers": ["Soloist"],
+      "songs": ["Inspirational Piece"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Worship Together",
+      "start_time": 546,
+      "type": "music",
+      "description": "The congregation joins together in a hymn that fosters a sense of unity in worship. This collective singing underscores the theme of togetherness as church members express their faith and adoration.",
+      "keywords": ["hymn", "congregational", "unity", "worship"],
+      "performers": [],
+      "songs": ["Worship Together"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: We Are Family (Various Scriptures)",
+      "start_time": 1020,
+      "type": "sermon",
+      "description": "The sermon titled 'We Are Family' delves into the complexities of familial relationships and the spiritual battles that impact them. Emphasizing the importance of supporting one another, the speaker explores how God helps families confront challenges and grow in love and understanding. Scriptural references and personal anecdotes illustrate the lessons throughout.",
+      "keywords": ["family", "spiritual battle", "support", "love", "understanding"],
+      "performers": ["Speaker"],
+      "songs": [],
+      "scripture_references": ["Genesis 1:27", "Jeremiah 29:11"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3440,
+      "type": "prayer",
+      "description": "The service concludes with an invitation prayer, encouraging attendees to reflect on their personal relationship with God. This moment is dedicated to opening hearts and minds to the lessons learned during the service, fostering a sense of community and individual connection to faith.",
+      "keywords": ["prayer", "invitation", "community", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Closing Worship",
+      "start_time": 3506,
+      "type": "music",
+      "description": "The service wraps up with a closing musical piece that allows the congregation to embrace the message shared. Participants are encouraged to carry the themes of family and spiritual growth into their daily lives as they depart.",
+      "keywords": ["closing", "worship", "faith", "family"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

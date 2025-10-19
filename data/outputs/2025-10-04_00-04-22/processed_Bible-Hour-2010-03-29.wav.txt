@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: HOTTERNING TO YOU",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a stirring theme music followed by the choir singing 'Hotterning to You'. This uplifting performance captures the congregation's anticipation and engagement as they seek a deeper connection through song.",
+      "keywords": ["choir", "theme music", "hotterning", "worship", "celebration"],
+      "performers": ["Choir"],
+      "songs": ["Hotterning to You"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: HOTTERNING TO YOU",
+      "start_time": 30,
+      "type": "music",
+      "description": "The congregation joins in singing 'Hotterning to You', expressing their yearning and hope. The heartfelt lyrics echo the communal desire to connect with the divine, creating an atmosphere filled with devotion and emotional resonance.",
+      "keywords": ["congregational", "hymn", "worship", "community", "hope"],
+      "performers": [],
+      "songs": ["Hotterning to You"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Welcome and Invitation",
+      "start_time": 386,
+      "type": "announcement",
+      "description": "The speaker greets the viewers on this Easter Sunday, inviting them to celebrate the resurrection of Jesus. There's a heartfelt message about connecting with the local church family and experiencing the joy of communal worship.",
+      "keywords": ["Easter", "invitation", "community", "celebration", "connection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 547,
+      "type": "prayer",
+      "description": "The service transitions into an opening prayer where the congregation is encouraged to settle their hearts and minds. This prayer seeks divine presence and guidance during the service, fostering a sense of unity and focus among attendees.",
+      "keywords": ["prayer", "opening", "unity", "worship", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Mark 11",
+      "start_time": 836,
+      "type": "scripture",
+      "description": "A scripture reading from Mark 11 recounts Jesus' triumphal entry into Jerusalem. This segment highlights key moments of the biblical narrative, emphasizing the significance of this event in the Easter story.",
+      "keywords": ["Mark", "scripture", "Jesus", "Jerusalem", "Easter"],
+      "performers": ["Jan", "Alan"],
+      "songs": [],
+      "scripture_references": ["Mark 11"]
+    },
+    {
+      "title": "Message: Living Out Our Faith (Ephesians 4)",
+      "start_time": 1000,
+      "type": "sermon",
+      "description": "In this sermon, the speaker delves into Ephesians 4, discussing practical applications of faith in everyday life. Key themes include honesty, interpersonal relationships, and living out one's beliefs with integrity and kindness. The message encourages listeners to embrace their identity in Christ and make choices that reflect that identity.",
+      "keywords": ["Ephesians", "faith", "application", "integrity", "relationships"],
+      "performers": ["Speaker"],
+      "songs": [],
+      "scripture_references": ["Ephesians 4:25-32"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3404,
+      "type": "prayer",
+      "description": "A closing prayer wraps up the service, allowing the congregation to reflect on the message delivered. This moment emphasizes gratitude, community support, and a call to action based on the teachings shared during the service.",
+      "keywords": ["closing", "prayer", "gratitude", "community", "reflection"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Upbeat Exit Music",
+      "start_time": 3484,
+      "type": "music",
+      "description": "The service concludes with an upbeat solo performance that encourages joyful celebration among the congregation. This lively piece signifies the end of the service, uplifting spirits and sending attendees out with a sense of hope and encouragement.",
+      "keywords": ["solo", "exit", "music", "celebration", "joy"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

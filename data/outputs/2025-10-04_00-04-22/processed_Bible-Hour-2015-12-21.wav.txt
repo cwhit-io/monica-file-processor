@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: No Other Name",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir leads the congregation in a worshipful song centered on the name of Jesus. The lyrics repeatedly express devotion and longing to be in His presence, setting a tone of reverence for the service. This song emphasizes Jesus' significance in the lives of believers.",
+      "keywords": ["worship", "Jesus", "choir", "devotion"],
+      "performers": ["Choir"],
+      "songs": ["No Other Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Yours Is The Name",
+      "start_time": 144,
+      "type": "music",
+      "description": "The choir continues with a powerful piece that highlights the significance of Jesus' name. The lyrics celebrate His mercy, grace, and the love that believers experience through Him. This song reinforces the importance of His name in the spiritual journey of the congregation.",
+      "keywords": ["worship", "Jesus", "choir", "mercy", "grace"],
+      "performers": ["Choir"],
+      "songs": ["Yours Is The Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Bless The Lord",
+      "start_time": 386,
+      "type": "music",
+      "description": "The choir invites everyone into a heartfelt moment of worship with a well-known hymn that calls upon the congregation to bless the Lord. The lyrics encourage joyful singing and reflection on God's goodness, fostering a spirit of gratitude and praise among the attendees.",
+      "keywords": ["worship", "hymn", "gratitude", "praise"],
+      "performers": ["Choir"],
+      "songs": ["Bless The Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Matthew 2",
+      "start_time": 713,
+      "type": "scripture",
+      "description": "The passage from Matthew 2 recounts the visit of the Magi seeking the newborn King. It highlights their journey, the reaction of King Herod, and the significance of the star that guided them. This reading sets the stage for the sermon, emphasizing the fulfillment of prophecy.",
+      "keywords": ["Magi", "Herod", "prophecy", "journey"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Matthew 2"]
+    },
+    {
+      "title": "Message: The Meaning of Worship (Matthew 2)",
+      "start_time": 920,
+      "type": "sermon",
+      "description": "Rick Raber delves into the topic of worship, reflecting on the Magi's visit to Jesus. He emphasizes that true worship requires action, intent, and acknowledgment of Jesus' authority. Raber challenges the congregation to evaluate their own worship practices and consider the significance of Jesus' name in their lives.",
+      "keywords": ["worship", "Magi", "Jesus", "King", "prophecy"],
+      "performers": ["Rick Raber"],
+      "songs": [],
+      "scripture_references": ["Matthew 2"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3481,
+      "type": "prayer",
+      "description": "In closing, the congregation is invited to reflect and respond to the message through prayer. The prayer focuses on bringing hearts before the Lord, seeking to honor Jesus' name, and committing to live out true worship in everyday life. This moment solidifies the themes shared during the service.",
+      "keywords": ["prayer", "worship", "invitation", "reflection"],
+      "performers": ["Rick Raber"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

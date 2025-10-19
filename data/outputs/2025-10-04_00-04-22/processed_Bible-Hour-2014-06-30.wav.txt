@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [unknown]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a vibrant choir performance, inviting the congregation to sing along. The atmosphere is uplifting and sets the tone for the worship. The joyful music engages the community, preparing hearts for the message ahead.",
+      "keywords": ["choir", "worship", "singing"],
+      "performers": ["[unknown]"],
+      "songs": ["[unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [unknown]",
+      "start_time": 242,
+      "type": "music",
+      "description": "The choir continues with another spirited song, enhancing the worship experience through heartfelt melodies. The music fosters an environment of praise, encouraging participation among the attendees. This segment reinforces community through shared worship.",
+      "keywords": ["choir", "worship", "community"],
+      "performers": ["[unknown]"],
+      "songs": ["[unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 547,
+      "type": "prayer",
+      "description": "The service transitions into an opening prayer, where the leader intercedes for a mission team in India. The prayer focuses on divine guidance, clarity in ministry, and the empowering work of the Holy Spirit. It sets a spiritual tone for the upcoming message.",
+      "keywords": ["prayer", "mission", "guidance", "community"],
+      "performers": ["Josh Rang"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Holy Spirit's Role in the Church (1 Corinthians 12)",
+      "start_time": 591,
+      "type": "sermon",
+      "description": "The sermon focuses on 1 Corinthians 12, discussing the work of the Holy Spirit and spiritual gifts in the church. The speaker emphasizes the importance of recognizing the Spirit's role in revealing Christ, empowering the church, and the unique gifts each member brings for the common good.",
+      "keywords": ["sermon", "Holy Spirit", "spiritual gifts", "1 Corinthians", "church"],
+      "performers": ["Josh Rang"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 12:1-11"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3257,
+      "type": "prayer",
+      "description": "Following the sermon, an invitation prayer is offered, inviting congregants to reflect and respond to the message. The prayer emphasizes God’s love, the communal aspect of faith, and encourages individuals to engage with the Holy Spirit's presence in their lives.",
+      "keywords": ["invitation", "prayer", "response", "Holy Spirit"],
+      "performers": ["Josh Rang"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: I Stand Amazed in the Presence",
+      "start_time": 3549,
+      "type": "music",
+      "description": "The service concludes with the congregation singing a well-loved hymn, 'I Stand Amazed in the Presence.' This hymn reflects on Jesus' love and sacrifice, evoking a sense of awe and gratitude within the worshippers. The vibrant singing reinforces the community's bond through shared beliefs.",
+      "keywords": ["hymn", "worship", "community", "Jesus", "love"],
+      "performers": ["[unknown]"],
+      "songs": ["I Stand Amazed in the Presence"],
+      "scripture_references": []
+    }
+  ]
+}
+```

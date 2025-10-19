@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Jesus Saves",
+      "start_time": 60,
+      "type": "music",
+      "description": "The choir sings an uplifting rendition of the hymn 'Jesus Saves'. This performance blends traditional elements with modern instrumentation, enhancing the message of salvation. The music aims to engage the congregation in reflection on the significance of Jesus as their Savior.",
+      "keywords": ["choir", "jesus saves", "salvation", "worship", "music"],
+      "performers": ["Choir"],
+      "songs": ["Jesus Saves"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: What a Wonderful Savior",
+      "start_time": 411,
+      "type": "music",
+      "description": "The congregation joins in singing the hymn 'What a Wonderful Savior'. This collective worship experience emphasizes the joy and gratitude of knowing Jesus Christ as Lord. The familiar melody allows everyone to participate in expressing their faith through song.",
+      "keywords": ["congregational", "hymn", "worship", "jesus", "savior"],
+      "performers": [],
+      "songs": ["What a Wonderful Savior"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Where the Joy Comes From",
+      "start_time": 911,
+      "type": "music",
+      "description": "A solo performance reflects on the source of joy in life, emphasizing the gifts from God. The lyrics convey a message of divine grace that fills the believer's heart. The artist aims to inspire the congregation to recognize and appreciate the joy that comes from the Lord.",
+      "keywords": ["solo", "joy", "god", "music", "grace"],
+      "performers": ["Unknown"],
+      "songs": ["Where the Joy Comes From"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Spiritual Growth (1 Corinthians 3:1-9)",
+      "start_time": 2526,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a message on spiritual growth based on 1 Corinthians 3. He discusses the distinction between spiritual immaturity and maturity, urging believers to evaluate their spiritual status. The sermon encourages individuals to grow beyond dependence towards nurturing others in faith.",
+      "keywords": ["spiritual growth", "maturity", "1 corinthians", "rick hawks", "faith"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 3:1-9"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 130,
+      "type": "prayer",
+      "description": "Pastor Rick leads an opening prayer, inviting God's presence and guidance throughout the service. This moment establishes a spiritual tone for the worship gathering, focusing the congregation's hearts on connecting with God. The prayer emphasizes themes of gratitude and readiness to receive His word.",
+      "keywords": ["prayer", "opening", "worship", "god", "community"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3481,
+      "type": "prayer",
+      "description": "An invitation prayer is offered to those who have made decisions regarding their spiritual journey. Pastor Rick encourages individuals to invite Christ into their hearts, emphasizing the importance of personal faith. This prayer aims to comfort and guide new believers as they begin or continue their spiritual walk.",
+      "keywords": ["invitation", "prayer", "faith", "rick hawks", "god"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Concert",
+      "start_time": 1090,
+      "type": "announcement",
+      "description": "Details on an upcoming concert featuring Steve Maria Gardner are shared. The announcement highlights the excitement surrounding the event and encourages attendance to experience new music. It emphasizes the community aspect and the opportunity for fellowship through the concert.",
+      "keywords": ["announcement", "concert", "music", "community", "steve maria"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a brief musical introduction that sets a worshipful tone. The choir encourages the congregation to engage in singing as they prepare to dive deeper into worship.",
+      "keywords": ["worship", "choir", "music"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Song Title]",
+      "start_time": 70,
+      "type": "music",
+      "description": "A congregational hymn begins, inviting all attendees to join in worship. The lyrics emphasize themes of faith and surrender, fostering a spirit of unity among the participants as they sing together.",
+      "keywords": ["hymn", "worship", "faith"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 275,
+      "type": "music",
+      "description": "The service features a heartfelt solo, adding a personal touch to the worship experience. This performance allows for reflective worship, leading the congregation to contemplate their faith and relationship with God.",
+      "keywords": ["solo", "worship", "reflection"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Easter Celebration Details",
+      "start_time": 420,
+      "type": "announcement",
+      "description": "The speaker shares details about the upcoming Easter services, highlighting their significance and inviting the congregation to participate. The announcement fosters excitement and anticipation for the joyous celebration of the Resurrection.",
+      "keywords": ["Easter", "celebration", "invite"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Ken and Nora Stewart",
+      "start_time": 556,
+      "type": "interview",
+      "description": "Ken and Nora Stewart share their journey of faith and community service through their audiology clinic. They discuss lessons learned, the challenges faced, and how they have embraced God's call to help others through their mission work.",
+      "keywords": ["Ken Stewart", "Nora Stewart", "faith"],
+      "performers": ["Ken Stewart", "Nora Stewart"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Bold Provision (2 Kings 4:1-7)",
+      "start_time": 1931,
+      "type": "sermon",
+      "description": "The sermon focuses on the story of a widow with a debt she cannot pay. The speaker emphasizes that God can do a lot with our perceived little. Through God's provision, the widow learns to trust in His power and sufficiency. Key lessons are shared on faith and the importance of recognizing our gifts, however small they may seem.",
+      "keywords": ["boldness", "provision", "faith"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["2 Kings 4:1-7"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3333,
+      "type": "prayer",
+      "description": "An invitation prayer beckons those who may wish to accept Jesus into their lives. It is a moment of reflection and openness, encouraging attendees to respond to God’s call in their hearts.",
+      "keywords": ["prayer", "invitation", "acceptance"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3550,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service by asking for God's blessing and guidance as attendees go forth into their week. It is a collective prayer of hope and commitment to live out their faith.",
+      "keywords": ["closing", "prayer", "blessing"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

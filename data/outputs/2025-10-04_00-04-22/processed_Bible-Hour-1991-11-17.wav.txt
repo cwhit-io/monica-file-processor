@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Be Exalted, O God",
+      "start_time": 99,
+      "type": "music",
+      "description": "The sanctuary choir and orchestra lead the congregation in a powerful worship song, 'Be Exalted, O God.' This piece sets a tone of reverence and praise, inviting all to prepare their hearts for the service ahead. The performance elicits joy and brings the community together in worship.",
+      "keywords": ["worship", "choir", "praise", "community", "song"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Be Exalted, O God"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: We Are Victors",
+      "start_time": 351,
+      "type": "music",
+      "description": "The music transitions as Reflection presents 'We Are Victors,' celebrating the triumph of faith in Christ. This uplifting song resonates with themes of victory and spiritual conquest, reinforcing the message of hope and encouragement in the Christian walk.",
+      "keywords": ["victory", "faith", "hope", "worship", "encouragement"],
+      "performers": ["Reflection"],
+      "songs": ["We Are Victors"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 360,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer that invites God's presence and guidance throughout the worship. This moment reflects the congregation’s collective heart, asking for spiritual insight and encouragement as they gather for the message and fellowship.",
+      "keywords": ["prayer", "guidance", "community", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Biblical Stewardship (2 Corinthians 9:7)",
+      "start_time": 1199,
+      "type": "sermon",
+      "description": "Pastor Russell Moore explores the principles of biblical stewardship, particularly focusing on the dynamics of giving as indicated in 2 Corinthians 9:7. He emphasizes that giving should come from the heart and reflects a personal commitment to God’s work, drawing connections between personal faith and community support, ultimately highlighting the joy and blessings of sacrificial giving.",
+      "keywords": ["stewardship", "giving", "sacrifice", "faith", "community"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["2 Corinthians 9:7"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3377,
+      "type": "prayer",
+      "description": "A heartfelt invitation prayer is offered, encouraging attendees to reflect on their personal relationship with God as they consider their giving and stewardship. This prayer emphasizes openness to God's leading in their lives and the importance of seeking His guidance in financial matters.",
+      "keywords": ["invitation", "prayer", "reflection", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Closing Hymn",
+      "start_time": 3518,
+      "type": "music",
+      "description": "The service concludes with a joyful closing hymn that engages the congregation in worship. This communal singing reinforces the messages shared during the sermon and unifies the participants as they leave, armed with encouragement and a renewed focus on their commitments to God.",
+      "keywords": ["worship", "hymn", "community", "closing"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

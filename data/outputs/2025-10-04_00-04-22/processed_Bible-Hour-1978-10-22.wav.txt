@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: God's Word Shall Stand",
+      "start_time": 51,
+      "type": "music",
+      "description": "The choir performs a powerful song titled 'God's Word Shall Stand.' The lyrics emphasize the enduring nature of God's Word and its role in the lives of believers, encouraging the congregation to rely on scripture for strength and guidance. The stirring performance serves as a reminder of the foundation of faith amid life's challenges.",
+      "keywords": ["choir", "song", "God's Word", "faith", "endurance"],
+      "performers": ["Blackhawk Choir"],
+      "songs": ["God's Word Shall Stand"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 2 Kings 7:1-9",
+      "start_time": 319,
+      "type": "scripture",
+      "description": "A reading from 2 Kings chapter 7, verses 1 through 9, recounts the story of the lepers who discovered God's miracle during a time of famine. The reading sets the stage for the upcoming sermon by highlighting the themes of desperation, hope, and divine intervention. The scripture illustrates God's power to transform dire situations.",
+      "keywords": ["2 Kings", "scripture", "lepers", "miracle", "famine"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["2 Kings 7:1-9"]
+    },
+    {
+      "title": "Solo: Turn Around",
+      "start_time": 494,
+      "type": "music",
+      "description": "A solo performance by Narwhal captivates the audience with the heartfelt song 'Turn Around.' The lyrics reflect on themes of wandering away from God and the struggles of returning home. The song reinforces the message of redemption and the love of God waiting for those who seek Him again.",
+      "keywords": ["solo", "Narwhal", "redemption", "return", "God's love"],
+      "performers": ["Narwhal"],
+      "songs": ["Turn Around"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Call to Share the Good News (2 Kings 7)",
+      "start_time": 1500,
+      "type": "sermon",
+      "description": "Pastor David Jeremiah delivers a compelling sermon based on the story of the lepers from 2 Kings 7, emphasizing the importance of sharing the good news of salvation. He highlights how the lepers moved from despair to discovery and felt the urgency to inform others about God's provision. The message challenges the congregation to not hoard their faith but actively share it with others.",
+      "keywords": ["sermon", "David Jeremiah", "good news", "sharing the gospel", "2 Kings"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["2 Kings 7:1-9", "Leviticus 26:27-29"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3324,
+      "type": "prayer",
+      "description": "An invitation prayer led by Pastor David Jeremiah invites the congregation to respond to the message shared. He prays for all those who felt compelled to make a decision regarding their faith, asking for God's guidance and strength. It's a solemn moment that encourages reflection and commitment to Christ.",
+      "keywords": ["prayer", "invitation", "commitment", "faith", "guidance"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Restore to Me the Joy",
+      "start_time": 1214,
+      "type": "music",
+      "description": "The congregation joins together in singing the hymn 'Restore to Me the Joy.' The hymn echoes David's plea for renewed joy and emphasizes the restoration of relationship with God. The shared worship fosters a sense of community and collective yearning for spiritual rejuvenation.",
+      "keywords": ["congregational", "hymn", "worship", "joy", "community"],
+      "performers": [],
+      "songs": ["Restore to Me the Joy"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3324,
+      "type": "prayer",
+      "description": "Pastor David Jeremiah leads a closing prayer, thanking God for the service and asking for His blessings upon the congregation as they go forth. The prayer reinforces the themes of worship, prayer, and the call to spread God's word into the community and the world.",
+      "keywords": ["closing prayer", "blessings", "thanksgiving", "community", "outreach"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Ministry Opportunities",
+      "start_time": 3483,
+      "type": "announcement",
+      "description": "Pastor David Jeremiah emphasizes upcoming ministry opportunities for the congregation to engage in outreach and service. He shares about various programs aimed at providing support to the community and encourages members to get involved. It’s a call to action, inviting the church family to live out their faith practically.",
+      "keywords": ["announcement", "ministry", "outreach", "service", "community"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

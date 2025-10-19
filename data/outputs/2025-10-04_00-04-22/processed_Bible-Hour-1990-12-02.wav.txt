@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Song of Exaltation",
+      "start_time": 158,
+      "type": "music",
+      "description": "The Sanctuary Choir delivers a vibrant rendition of 'Song of Exaltation,' filling the church with joyful praise. The choir's harmonies resonate profoundly, inviting all to rejoice and give thanks to God. The performance emphasizes themes of celebration and divine glory, setting an uplifting tone for the service.",
+      "keywords": ["choir", "song of exaltation", "praise", "God", "rejoice"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Song of Exaltation"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Rock of Ages",
+      "start_time": 377,
+      "type": "music",
+      "description": "'Rock of Ages' is performed as a solo, providing a reflective moment of worship. The singer expresses deep reliance on God for protection and salvation, highlighting the theme of finding refuge in faith. This poignant selection encourages personal connection to God in times of need.",
+      "keywords": ["rock of ages", "solo", "worship", "salvation", "faith"],
+      "performers": ["Amy Roth"],
+      "songs": ["Rock of Ages"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Because He Lives",
+      "start_time": 451,
+      "type": "music",
+      "description": "The solo performance of 'Because He Lives' inspires hope and assurance in listeners. The lyrics remind us of the transformative power of faith, encouraging belief in a God who walks with us through life's challenges. This uplifting song reinforces themes of resurrection and life's purpose.",
+      "keywords": ["because he lives", "solo", "hope", "assurance", "faith"],
+      "performers": ["Amy Roth"],
+      "songs": ["Because He Lives"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Living Christmas Tree Tickets",
+      "start_time": 583,
+      "type": "announcement",
+      "description": "An announcement regarding the Living Christmas Tree tickets signals excitement in the church community. All tickets for the concerts have been distributed, and a waiting list is available for those still interested. The announcement builds anticipation for the upcoming events.",
+      "keywords": ["living christmas tree", "tickets", "announcement", "community", "events"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Dr. David Burnham",
+      "start_time": 628,
+      "type": "interview",
+      "description": "In a warm exchange between the host and Dr. David Burnham, conversations touch on missions trips to Romania and the remarkable changes taking place there post-revolution. They discuss the spread of joy and freedom in congregational worship, highlighting the spiritual hunger among believers.",
+      "keywords": ["interview", "David Burnham", "missions", "Romania", "freedom"],
+      "performers": ["Dr. David Burnham"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Theology of Suffering (1 Peter 1:6-7)",
+      "start_time": 3031,
+      "type": "sermon",
+      "description": "Dr. David Burnham delivers a profound sermon on 'The Theology of Suffering.' Drawing insights from his experiences in Romania, he emphasizes the authentic faith of believers who endure hardship. He stresses the importance of genuine faith tested by trials, celebrating the hope found through Christ amid suffering.",
+      "keywords": ["theology", "suffering", "biblical teaching", "faith", "hope"],
+      "performers": ["Dr. David Burnham"],
+      "songs": [],
+      "scripture_references": ["1 Peter 1:6-7"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3484,
+      "type": "prayer",
+      "description": "Following the sermon, an invitation prayer is offered to those seeking to accept Christ. The pastor guides the congregation into a personal moment of reflection and commitment, inviting individuals to open their hearts to Christ as their Savior.",
+      "keywords": ["prayer", "invitation", "commitment", "Christ", "salvation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3536,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer, expressing gratitude for the message shared and asking for God’s guidance moving forward. The congregation is invited to reflect on the teachings and to carry them into their daily lives.",
+      "keywords": ["closing prayer", "gratitude", "guidance", "congregation", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

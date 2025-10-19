@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat music segment that sets a joyful atmosphere for the gathering. The music invites the congregation to prepare their hearts for worship and connection. It serves as an engaging introduction to the service.",
+      "keywords": ["upbeat", "music", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Series Introduction",
+      "start_time": 30,
+      "type": "announcement",
+      "description": "The speaker welcomes the audience and introduces exciting details about the current sermon series titled 'Core', focusing on essential Christian doctrines. He emphasizes the importance of these core beliefs in everyday life and encourages active participation in personal and group studies.",
+      "keywords": ["announcement", "Core", "series", "doctrine"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 587,
+      "type": "prayer",
+      "description": "The speaker leads the congregation in an opening prayer, inviting God's presence and guidance for the service. He acknowledges the need for divine wisdom and clarity while preparing to share profound truths from scripture.",
+      "keywords": ["prayer", "opening", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Doctrine of Sin (Romans 3:10-12)",
+      "start_time": 588,
+      "type": "sermon",
+      "description": "The sermon dives deep into the doctrine of sin, discussing its nature both as an inherent condition and as a conscious choice. The speaker connects sin to the hope found in Christ, emphasizing the relationship between acknowledgment of sin and redemption through faith. Several biblical references are used to substantiate the teachings.",
+      "keywords": ["sin", "redemption", "doctrine", "hope", "Romans"],
+      "performers": ["Josh Rang"],
+      "songs": [],
+      "scripture_references": ["Romans 3:10-12", "Ephesians 2", "Genesis 3", "John 3:16"]
+    },
+    {
+      "title": "Congregational Hymn: Let Us Adore",
+      "start_time": 2565,
+      "type": "music",
+      "description": "The congregation joins together to sing a heartfelt hymn, reflecting on the messages shared during the sermon. This musical segment enhances the worship experience, allowing members to express their faith and commitment in a unified voice.",
+      "keywords": ["hymn", "worship", "congregational"],
+      "performers": ["Congregation"],
+      "songs": ["Let Us Adore"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: John 6",
+      "start_time": 2934,
+      "type": "scripture",
+      "description": "A reading from the Gospel of John is shared, where Jesus speaks about being the bread of life. This scriptural passage underscores the themes of sustenance and spiritual nourishment, aligning with the sermon’s focus on Christ's redemptive work.",
+      "keywords": ["scripture", "John", "bread of life"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["John 6"]
+    },
+    {
+      "title": "Choir: Blessed Assurance",
+      "start_time": 3447,
+      "type": "music",
+      "description": "The choir presents a moving rendition of 'Blessed Assurance', uplifting the congregation through music. This segment allows for a reflective moment, where worshippers can contemplate the themes of grace, assurance, and peace found in Christ.",
+      "keywords": ["choir", "music", "worship"],
+      "performers": ["Choir"],
+      "songs": ["Blessed Assurance"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3513,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, thanking God for His presence and asking for His guidance as attendees carry the lessons learned into their daily lives. This moment solidifies the community’s commitment to live out their faith.",
+      "keywords": ["closing", "prayer", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

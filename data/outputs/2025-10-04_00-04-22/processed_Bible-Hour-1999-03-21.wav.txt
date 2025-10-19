@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: I Give You Thanks",
+      "start_time": 87,
+      "type": "music",
+      "description": "The choir leads the congregation in a heartfelt song of gratitude, 'I Give You Thanks.' This piece emphasizes thankfulness to God for His strength and support through life's challenges. The repetitive chorus invites everyone to join in expressing their appreciation and creates a communal atmosphere of worship.",
+      "keywords": ["choir", "thanksgiving", "gratitude", "worship", "song"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["I Give You Thanks"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Joyful Gratitude (1 Thessalonians 5)",
+      "start_time": 941,
+      "type": "sermon",
+      "description": "The pastor delivers a thought-provoking message from 1 Thessalonians 5 about the commands to rejoice always and give thanks in everything. He explores the core values and choices that lead to a life filled with joyful gratitude, challenging the congregation to reflect on their attitudes amid life's difficulties. By sharing relatable anecdotes and insights from Scripture, the message encourages believers to pursue joy proactively.",
+      "keywords": ["joy", "gratitude", "1 Thessalonians", "life challenges", "Christian faith"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["1 Thessalonians 5:16-18"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3403,
+      "type": "prayer",
+      "description": "The service is opened with a prayer led by the pastor, invoking God's guidance and presence among the congregation. Attendees are reminded of the importance of choosing gratitude and joy in life's circumstances. This prayer sets a reflective tone for the rest of the service, encouraging worshippers to engage with the themes of the message.",
+      "keywords": ["prayer", "opening", "guidance", "God", "worship"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown Title]",
+      "start_time": 469,
+      "type": "music",
+      "description": "A solo performance occurs following the opening prayer, moving the congregation to a place of worship and reflection. The artist shares a moment of music that underlines the significance of gratitude in the Christian faith, inviting the audience to engage personally in the song's message.",
+      "keywords": ["solo", "worship", "music", "reflection", "faith"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3560,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, where the pastor asks for strength and commitment from God to embody joy and gratitude in daily life. This heartfelt moment encourages attendees to carry the sermon’s message beyond the church walls and into their interactions throughout the week.",
+      "keywords": ["closing", "prayer", "commitment", "faith", "community"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

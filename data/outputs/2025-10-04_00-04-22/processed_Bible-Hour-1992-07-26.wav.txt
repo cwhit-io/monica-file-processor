@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: All Hail the Power of Jesus Name",
+      "start_time": 76,
+      "type": "music",
+      "description": "The service begins with a vibrant performance by the sanctuary choir, uplifting everyone in attendance. This song celebrates the glory and power of Jesus, inviting the congregation to reflect on His sovereignty. The music sets an encouraging tone for the worship experience ahead.",
+      "keywords": ["choir", "Jesus", "power", "worship"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["All Hail the Power of Jesus Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: For All the World",
+      "start_time": 234,
+      "type": "music",
+      "description": "Kerry Johnson performs a heartfelt solo entitled 'For All the World'. The song emphasizes the importance of compassion and mercy in the Christian life. Listeners are encouraged to resonate with the lyrics, reflecting on their own role in bringing hope to the world.",
+      "keywords": ["solo", "Kerry Johnson", "compassion", "mercy", "hope"],
+      "performers": ["Kerry Johnson"],
+      "songs": ["For All the World"],
+      "scripture_references": []
+    },
+    {
+      "title": "Trumpet Trio: Stand Up, Stand Up for Jesus",
+      "start_time": 710,
+      "type": "music",
+      "description": "The trumpet trio beautifully renders 'Stand Up, Stand Up for Jesus', enhancing the worship atmosphere. This grand tune calls followers to take a stand for their faith, reminding them of their responsibilities as believers in the world. The performance invites worshippers to engage actively with their faith.",
+      "keywords": ["trumpet", "worship", "faith", "call to action"],
+      "performers": ["Trumpet Trio"],
+      "songs": ["Stand Up, Stand Up for Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Restoring Godly Leadership in the Church (1 Timothy 5:19-25)",
+      "start_time": 967,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a profound message on 'Restoring Godly Leadership in the Church'. Through the lens of 1 Timothy 5:19-25, he explores the challenges faced by church leaders and the necessary steps to maintain integrity among them. The sermon addresses the heartache of fallen leaders and provides guidance on how to honor, protect, and restore them to ensure the church's holiness.",
+      "keywords": ["sermon", "leadership", "restoration", "integrity", "1 Timothy"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 5:19-25"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service opens with a heartfelt prayer inviting God’s presence into the worship experience. The prayer seeks guidance, worship, and acknowledgement of God’s sovereignty. It sets the tone for the service as a collective gathering in faith.",
+      "keywords": ["prayer", "worship", "gathering", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3446,
+      "type": "prayer",
+      "description": "An invitation prayer follows the sermon, inviting those who felt moved by the message to commit their lives to Christ or deepen their faith. This reflective time encourages participants to engage personally with their faith decisions and seek spiritual growth.",
+      "keywords": ["invitation", "prayer", "faith", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Final Reflection",
+      "start_time": 3409,
+      "type": "music",
+      "description": "The service closes with music that provides a moment for reflection on the message shared. This musical interlude allows attendees to meditate on their relationships with God and the call to uphold godly leadership in their communities.",
+      "keywords": ["reflection", "music", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

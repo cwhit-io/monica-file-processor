@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: My Hope Is Built",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat performance by the choir, singing 'My Hope Is Built.' This uplifting song emphasizes the theme of trusting in Jesus through life's storms, reminding the congregation of His steadfastness and love. The music sets a positive tone for the worship experience.",
+      "keywords": ["hope", "choir", "trust", "Jesus", "worship"],
+      "performers": ["Choir"],
+      "songs": ["My Hope Is Built"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: When I Shall Come",
+      "start_time": 162,
+      "type": "music",
+      "description": "The choir continues to lead the congregation in a reflective and powerful rendition of 'When I Shall Come with Trumpets'. The lyrics express a longing to stand before God unblemished by His grace. This song deepens the worship atmosphere as attendees contemplate their faith and salvation.",
+      "keywords": ["trumpets", "grace", "worship", "choir", "faith"],
+      "performers": ["Choir"],
+      "songs": ["When I Shall Come"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Praise",
+      "start_time": 469,
+      "type": "music",
+      "description": "The choir engages the congregation with another lively song, encouraging everyone to clap and give praise. The music fosters a participatory spirit as attendees express their gratitude and thankfulness. It serves as an uplifting moment in the service, focusing on the shared joy of worship.",
+      "keywords": ["praise", "worship", "choir", "clap", "community"],
+      "performers": ["Choir"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Untouchables: Singleness (1 Corinthians 7)",
+      "start_time": 764,
+      "type": "sermon",
+      "description": "Kelly Bird presents a thought-provoking sermon focusing on singleness within the church context. He addresses misconceptions and highlights the value of unmarried individuals, drawing from biblical text in 1 Corinthians 7. Throughout, he challenges cultural norms and invites the congregation to rethink their views on marriage and singleness.",
+      "keywords": ["singleness", "sermon", "1 Corinthians", "church", "value"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 7:25-28", "1 Corinthians 7:32-35"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1190,
+      "type": "prayer",
+      "description": "An opening prayer is offered, expressing gratitude for the privilege of worship and inviting God's presence into the service. This moment sets the stage for the congregation to open their hearts to worship and the message that will follow, seeking transformation through God's Word.",
+      "keywords": ["prayer", "worship", "gratitude", "God", "community"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Additional Worship",
+      "start_time": 904,
+      "type": "music",
+      "description": "The choir leads another significant piece of worship, inviting congregants to engage fully in praise. The energetic performance supports the themes discussed in the sermon, encouraging a deeper connection with God before the service closes.",
+      "keywords": ["worship", "choir", "praise", "music", "community"],
+      "performers": ["Choir"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Insights on Singleness",
+      "start_time": 2912,
+      "type": "interview",
+      "description": "In this segment, Kelly Bird interviews Janice Morese, who shares her personal experiences and insights regarding singleness. The discussion highlights themes of faith, companionship, and the challenges faced by singles in the church community, providing a valuable perspective for both singles and married individuals.",
+      "keywords": ["singleness", "insights", "interview", "faith", "community"],
+      "performers": ["Janice Morese", "Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3483,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, asking God to instill the teachings from the sermon deep in the hearts of the congregation. This prayer reinforces the message about valuing all stages of life and serving God wholeheartedly, creating a reflective end to the service.",
+      "keywords": ["closing", "prayer", "service", "community", "God"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

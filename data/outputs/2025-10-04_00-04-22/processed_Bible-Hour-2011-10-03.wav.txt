@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Upbeat Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an energetic choir performance, setting an uplifting atmosphere. The choir sings a series of worship songs that encourages the congregation to engage in praise. The upbeat music invites everyone to participate and feel connected in worship.",
+      "keywords": ["worship", "choir", "music", "community", "praise"],
+      "performers": ["Choir"],
+      "songs": ["Upbeat Worship"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Give Him Glory",
+      "start_time": 228,
+      "type": "music",
+      "description": "The service transitions to a congregational hymn, inviting everyone to sing together. The lyrics focus on giving glory, allowing the attendees to reflect on their faith and express their devotion through music. This hymn strengthens the sense of community among participants.",
+      "keywords": ["hymn", "glory", "community", "faith", "praise"],
+      "performers": ["Congregation"],
+      "songs": ["Give Him Glory"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Lagos Institute of Biblical Studies",
+      "start_time": 366,
+      "type": "announcement",
+      "description": "The hosts introduce the Lagos Institute of Biblical Studies, sharing insights about its exciting developments and community impact. They discuss upcoming classes in Spanish and English, emphasizing the opportunity for spiritual growth and education within the community. This segment highlights their mission to make biblical teaching accessible.",
+      "keywords": ["Lagos", "Bible", "community", "education", "teaching"],
+      "performers": ["Rod Obit", "Jesus Escabato"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Moving Forward",
+      "start_time": 715,
+      "type": "music",
+      "description": "A solo performance follows, focusing on themes of renewal and moving forward in one's faith. The singer emphasizes surrendering to Christ and embracing new beginnings. This uplifting song resonates strongly with the congregation, encouraging personal reflection on their spiritual journeys.",
+      "keywords": ["solo", "renewal", "faith", "surrender", "healing"],
+      "performers": ["Soloist"],
+      "songs": ["Moving Forward"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Spiritual Growth (1 Corinthians 13:11)",
+      "start_time": 1019,
+      "type": "sermon",
+      "description": "In this engaging sermon, the speaker addresses the importance of spiritual growth using the metaphor of children and adults. Drawing from 1 Corinthians 13:11, he contrasts childish behaviors with mature spiritual practices. The message focuses on the necessity of growth in speech, thoughts, and choices, motivating the congregation to pursue deeper faith and understanding.",
+      "keywords": ["spiritual growth", "maturity", "1 Corinthians", "faith", "discipleship"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 13:11"]
+    },
+    {
+      "title": "Choir: God is For Us",
+      "start_time": 3200,
+      "type": "music",
+      "description": "The choir performs a soulful piece that reassures the congregation of God's unwavering support and love. The lyrics express themes of comfort and assurance, resonating deeply with the attendees. This performance serves as a powerful reminder of God's presence in their lives.",
+      "keywords": ["choir", "God", "support", "love", "assurance"],
+      "performers": ["Choir"],
+      "songs": ["God is For Us"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3490,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer, where the pastor invites the congregation to reflect on the messages shared. This prayer emphasizes a collective desire for growth and maturity in faith. It serves as a spiritual sending-off, encouraging attendees to apply the teachings in their daily lives.",
+      "keywords": ["prayer", "closing", "spiritual growth", "community", "faith"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

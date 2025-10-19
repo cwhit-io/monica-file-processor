@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "drama: Dramatic Opening Music",
+      "start_time": 0,
+      "type": "drama",
+      "description": "The service begins with dramatic and upbeat music, setting an engaging atmosphere for the gathering. The music transitions smoothly, enhancing the energy and mood of the congregation as they come together to worship.",
+      "keywords": ["dramatic", "upbeat", "music", "atmosphere"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Welcome and Invitation",
+      "start_time": 60,
+      "type": "announcement",
+      "description": "Mitch, the teaching pastor, welcomes the congregation and invites them to the Wednesday night worship service. He introduces the ongoing series and highlights the importance of applying wisdom from Proverbs to everyday life, emphasizing the series' relevance and community-building aspect.",
+      "keywords": ["welcome", "invitation", "community", "series"],
+      "performers": ["Mitch"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: When Holiness Meets Hostility (1 Peter 2:4-10)",
+      "start_time": 90,
+      "type": "sermon",
+      "description": "The sermon focuses on 1 Peter, discussing the concept of believers as living stones forming a spiritual house. Mitch explores the significance of Christ as the cornerstone and the need for believers to be connected and aligned with Him. The message encourages self-reflection about one's relationship with Christ as the foundation of life.",
+      "keywords": ["sermon", "1 Peter", "cornerstone", "living stones", "faith"],
+      "performers": ["Mitch"],
+      "songs": [],
+      "scripture_references": ["1 Peter 2:4-10"]
+    },
+    {
+      "title": "Choir: Uplifting Worship Song",
+      "start_time": 399,
+      "type": "music",
+      "description": "The choir performs an uplifting worship song that expresses the joy of living for God and the transformation that comes from surrendering to righteousness. The lyrics inspire the congregation to connect with the divine through heartfelt praise.",
+      "keywords": ["worship", "joy", "choir", "praise"],
+      "performers": ["Choir"],
+      "songs": ["Uplifting Worship Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 491,
+      "type": "prayer",
+      "description": "In the opening prayer, God is praised for the joy found in living a life dedicated to Him. The congregation is invited to offer themselves as living sacrifices, asking for guidance and openness to the truth of His word during the service.",
+      "keywords": ["prayer", "opening", "sacrifice", "guidance"],
+      "performers": ["Mitch"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Reflective Worship Song",
+      "start_time": 577,
+      "type": "music",
+      "description": "The choir performs a reflective worship song that touches on themes of suffering and resilience. The poignant lyrics remind the congregation of God’s promises during difficult times and invite reflection on their faith journey.",
+      "keywords": ["worship", "reflection", "choir", "suffering", "resilience"],
+      "performers": ["Choir"],
+      "songs": ["Reflective Worship Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Another Uplifting Worship Song",
+      "start_time": 661,
+      "type": "music",
+      "description": "The choir continues with a powerful worship song that reinforces themes of love and hope amidst life's challenges. This emotionally charged performance serves to unite the congregation in shared expressions of faith and trust in God's plan.",
+      "keywords": ["worship", "hope", "choir", "love"],
+      "performers": ["Choir"],
+      "songs": ["Another Uplifting Worship Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3441,
+      "type": "prayer",
+      "description": "The closing prayer is a heartfelt appeal for God to strengthen the community and deepen their connection with Christ. The pastor emphasizes living out one's faith and encourages evangelism as a byproduct of sincere love and commitment to God.",
+      "keywords": ["prayer", "closing", "community", "love", "evangelism"],
+      "performers": ["Mitch"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

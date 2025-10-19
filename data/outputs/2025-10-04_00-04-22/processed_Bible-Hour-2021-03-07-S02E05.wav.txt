@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Message: Un-resentful Forgiveness (1 Corinthians 13:4-5)",
+      "start_time": 0,
+      "type": "sermon",
+      "description": "The sermon focuses on the concept of un-resentful forgiveness, grounded in biblical principles from 1 Corinthians and Ephesians. The speaker elaborates on how true love, defined by patience and kindness, is free from irritation and resentment. Key practical steps toward forgiveness are shared, including the importance of addressing past hurts through letters and worship.",
+      "keywords": ["forgiveness", "love", "resentment", "Ephesians", "unconditional"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 13:4-5", "Ephesians 4:32"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 2135,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer, inviting the presence of God and preparing the congregation for worship and the message ahead. This moment sets a spiritual tone for the gathering, emphasizing humility and connection to God.",
+      "keywords": ["prayer", "worship", "presence", "congregation", "spiritual"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 2140,
+      "type": "music",
+      "description": "The choir performs a vibrant piece that uplifts the congregation, fostering a communal spirit of worship. The song’s themes resonate with the message of love and forgiveness discussed earlier, encouraging unity among the attendees.",
+      "keywords": ["choir", "worship", "music", "unity", "community"],
+      "performers": ["Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Ephesians 4",
+      "start_time": 2160,
+      "type": "scripture",
+      "description": "A designated reader presents the scripture from Ephesians 4, emphasizing the call to kindness, compassion, and mutual forgiveness among members of the church. This reading bridges the gap between the worship and the sermon, reinforcing the key themes.",
+      "keywords": ["Ephesians", "scripture", "reading", "forgiveness", "kindness"],
+      "performers": ["Reader"],
+      "songs": [],
+      "scripture_references": ["Ephesians 4"]
+    },
+    {
+      "title": "Congregational Hymn: [Song Title]",
+      "start_time": 2180,
+      "type": "music",
+      "description": "The congregation participates in singing a hymn that encapsulates the themes of love and forgiveness. The atmosphere is filled with communal praise, encouraging attendees to reflect on the message shared and their personal journeys.",
+      "keywords": ["hymn", "singing", "congregation", "praise", "forgiveness"],
+      "performers": ["Congregation"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2200,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, summing up the messages of the day and seeking God's help in practicing forgiveness in daily life. This prayer invites the congregation to internalize the sermon.",
+      "keywords": ["prayer", "closure", "forgiveness", "God", "worship"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 2220,
+      "type": "announcement",
+      "description": "The service wraps up with an announcement segment, highlighting upcoming church events and encouraging participation. This moment fosters community engagement and provides information for congregants to stay connected.",
+      "keywords": ["announcements", "events", "engagement", "community", "information"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Worship Song",
+      "start_time": 48,
+      "type": "music",
+      "description": "A powerful worship segment where voices unite in praise and song, guiding the congregation into a spiritual atmosphere. The songs are filled with uplifting lyrics that engage worshippers and encourage reflection on faith.",
+      "keywords": ["worship", "choir", "praise", "song"],
+      "performers": ["Choir"],
+      "songs": ["Unknown"],
+      "scripture_references": [""]
+    },
+    {
+      "title": "Message: Service that leads to surrender (Matthew 5:13-16)",
+      "start_time": 108,
+      "type": "sermon",
+      "description": "Pastor Mitch imparts insightful teachings from Matthew 5 about identity as Christians, emphasizing that believers are called to be the salt and light of the world. The sermon intertwines personal stories and the importance of service, showing how good works glorify God and lead others to surrender.",
+      "keywords": ["identity", "Matthew", "service", "surrender", "salt", "light"],
+      "performers": ["Mitch"],
+      "songs": ["Unknown"],
+      "scripture_references": ["Matthew 5:13-16"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1078,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer sets the tone for the service, inviting the Holy Spirit to guide and enrich the experience of all attendees. The prayer emphasizes the themes of identity and service discussed in the sermon.",
+      "keywords": ["prayer", "spiritual", "surrender"],
+      "performers": ["Mitch"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: It is well with my soul",
+      "start_time": 403,
+      "type": "music",
+      "description": "The choir leads the congregation in a moving rendition of 'It is well with my soul', a hymn that speaks to themes of peace and faith amidst challenges. The collective voices uplift the spirit, creating a profound moment of reflection.",
+      "keywords": ["hymn", "peace", "faith", "choir"],
+      "performers": ["Choir"],
+      "songs": ["It is well with my soul"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 633,
+      "type": "prayer",
+      "description": "A solemn invitation prayer encourages attendees to reflect on their relationship with God and consider coming forward for prayer or spiritual guidance. The prayer underscores the themes of surrender and restoration.",
+      "keywords": ["invitation", "prayer", "reflection", "surrender"],
+      "performers": ["Mitch"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Worship Song",
+      "start_time": 817,
+      "type": "music",
+      "description": "The music continues as the choir presents another worship piece, inviting congregants to engage in heartfelt worship. The melody and lyrics provide a space for personal connection and communal praise.",
+      "keywords": ["worship", "choir", "praise", "song"],
+      "performers": ["Choir"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: A personal journey of faith",
+      "start_time": 1320,
+      "type": "testimony",
+      "description": "A member of the congregation shares their personal faith journey, highlighting challenges they faced and how surrendering to God brought healing and purpose. The testimony inspires others to reflect on their own journeys.",
+      "keywords": ["testimony", "faith", "healing", "personal"],
+      "performers": ["Member from congregation"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2992,
+      "type": "prayer",
+      "description": "The closing prayer encapsulates the themes of the service, asking for God’s guidance and blessing as attendees return to their daily lives. It reinforces a commitment to live out their faith and serve others.",
+      "keywords": ["closing", "prayer", "faith", "service"],
+      "performers": ["Mitch"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

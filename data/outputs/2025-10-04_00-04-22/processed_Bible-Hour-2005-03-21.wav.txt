@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Praise",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an uplifting music segment, setting a joyful and inviting atmosphere for the congregation. This upbeat melody invites attendees to engage positively and prepares them for the worship experience ahead.",
+      "keywords": ["music", "worship", "joyful", "praise", "service"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Celebrating the Church of Fort Wayne",
+      "start_time": 30,
+      "type": "interview",
+      "description": "Senior Pastor Kelly Bird opens the service by discussing the significance of community and church collaboration in Fort Wayne. He introduces Pastor Ron Williams from Pathway Community Church, sharing insights into their mission and growth as a church.",
+      "keywords": ["Kelly Bird", "Ron Williams", "Pathway Community Church", "Fort Wayne", "community"],
+      "performers": ["Kelly Bird", "Ron Williams"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Gentle Hymn",
+      "start_time": 766,
+      "type": "music",
+      "description": "A gentle hymn plays, creating a reflective and peaceful moment for the congregation. This music enables attendees to connect spiritually and mentally, fostering an atmosphere conducive to worship and introspection.",
+      "keywords": ["hymn", "worship", "gentle", "reflective", "peace"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "sermon: A Love that Never Fails (1 Peter 1:22-25)",
+      "start_time": 865,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird delivers an impactful sermon on the theme of love and its importance in the Christian life. He examines 1 Peter 1:22-25, emphasizing the call to love others fervently and the transformative power of God's love in our lives. The message inspires and challenges the congregation to embody this love in their lives and relationships.",
+      "keywords": ["love", "sermon", "1 Peter", "fervent", "community"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["1 Peter 1:22-25"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1206,
+      "type": "prayer",
+      "description": "As the service draws to a close, Pastor Kelly Bird leads the congregation in a heartfelt closing prayer. The prayer seeks divine intervention to strengthen relationships and encourage everyone to love one another fervently, reinforcing the message of the sermon.",
+      "keywords": ["prayer", "closing", "community", "love", "strength"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Reflective Worship",
+      "start_time": 3535,
+      "type": "music",
+      "description": "A reflective worship segment concludes the service. The soothing music allows the congregation to meditate on the message and connect with their faith. It serves as a beautiful end to the service, leaving attendees with a sense of peace and hope.",
+      "keywords": ["worship", "reflective", "conclusion", "meditation", "peace"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

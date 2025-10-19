@@ -1,0 +1,96 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Worship Music",
+      "start_time": 57,
+      "type": "music",
+      "description": "The church service begins with uplifting music that sets a positive atmosphere for the gathering. This inviting ambiance encourages the congregation to prepare their hearts for worship.",
+      "keywords": ["worship", "music", "celebration", "atmosphere", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Church News and Events",
+      "start_time": 87,
+      "type": "announcement",
+      "description": "Senior Pastor Kelly Bird shares church news and upcoming events, focusing on the excitement of the new school year at Black Hawk Christian School. He expresses gratitude for the faculty and encourages the congregation to get involved.",
+      "keywords": ["church", "news", "school", "community", "involvement"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3190,
+      "type": "prayer",
+      "description": "Pastor Bird leads the congregation in an opening prayer, asking for God's presence and guidance during the service. He invites the congregation to open their hearts and minds to the word of God.",
+      "keywords": ["prayer", "opening", "guidance", "worship"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Into the Power of Christ",
+      "start_time": 369,
+      "type": "music",
+      "description": "The choir performs a powerful song that celebrates the strength of faith in Christ. The lyrics emphasize victory over fear and the assurance of God's presence.",
+      "keywords": ["choir", "music", "faith", "victory", "God"],
+      "performers": [],
+      "songs": ["Into the Power of Christ"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: 1 Kings 18",
+      "start_time": 487,
+      "type": "scripture",
+      "description": "Pastor Bird invites the congregation to turn to 1 Kings chapter 18. He sets the stage for the message by explaining the context of the scripture and the significance of the showdown between Elijah and the prophets of Baal.",
+      "keywords": ["scripture", "1 Kings", "Elijah", "Baal", "context"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["1 Kings 18"]
+    },
+    {
+      "title": "Message: The Power of God Revealed (1 Kings 18)",
+      "start_time": 487,
+      "type": "sermon",
+      "description": "In a powerful sermon, Pastor Bird explores the dramatic confrontation on Mount Carmel where Elijah challenges the prophets of Baal. He draws lessons about faith, idolatry, and the reality of God's sovereignty, encouraging the congregation to prioritize their relationship with God.",
+      "keywords": ["Elijah", "Baal", "faith", "God's sovereignty", "idolatry"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["1 Kings 18"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3500,
+      "type": "prayer",
+      "description": "Pastor Bird offers an invitation prayer, asking the congregation to reflect on their relationship with God and consider opening their hearts to Him. This moment is a call to personal commitment and surrender.",
+      "keywords": ["invitation", "prayer", "surrender", "commitment"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: The Joy of the Lord",
+      "start_time": 2833,
+      "type": "music",
+      "description": "The congregation joins in singing a hymn that praises the joy and strength found in the Lord. This communal act of worship reinforces the message of God's goodness and reigns in the hearts of the people.",
+      "keywords": ["congregational", "hymn", "worship", "joy", "strength"],
+      "performers": [],
+      "songs": ["The Joy of the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3538,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Bird. He thanks God for the message shared and asks for the congregation's hearts to be ignited to serve and worship boldly in their daily lives.",
+      "keywords": ["closing", "prayer", "thanksgiving", "worship"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

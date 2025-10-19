@@ -1,0 +1,46 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Celebration of Grace",
+      "start_time": 30,
+      "type": "music",
+      "description": "The music begins with a choir singing a series of worshipful lyrics focused on God's grace and glory. The congregation is invited to celebrate and worship, singing about the everlasting nature of God's praise.",
+      "keywords": ["worship", "grace", "choir", "celebration", "songs"],
+      "performers": ["Choir"],
+      "songs": ["Celebration of Grace"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Glory to Your Name",
+      "start_time": 168,
+      "type": "music",
+      "description": "The choir continues with a powerful anthem reaffirming their commitment to glorify God's name. The lyrics emphasize the beauty and majesty of God, drawing the congregation into deeper worship.",
+      "keywords": ["worship", "glory", "choir", "majesty", "songs"],
+      "performers": ["Choir"],
+      "songs": ["Glory to Your Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Generous Living (Malachi 3:8-10)",
+      "start_time": 306,
+      "type": "sermon",
+      "description": "Pastor Kelly Bird delivers a compelling sermon on the concept of 'Generous Living,' encouraging the congregation to reflect on their responses to God's generosity. The sermon explores biblical principles about giving and the significance of generosity in both personal and communal contexts.",
+      "keywords": ["generosity", "sermon", "faith", "vows", "sacrifice"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Malachi 3:8-10"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3557,
+      "type": "prayer",
+      "description": "The service concludes with an invitation prayer led by the pastor, encouraging those in attendance to respond to the message. This is a moment for individuals to dedicate their lives to God and embrace a journey of generosity and faith.",
+      "keywords": ["invitation", "prayer", "dedication", "faith", "response"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

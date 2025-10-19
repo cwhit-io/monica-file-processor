@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Worship: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with a powerful music segment led by the choir, setting an atmosphere of worship and reverence. The congregation engages in heartfelt singing, preparing their hearts for the service ahead.",
+      "keywords": ["worship", "choir", "music"],
+      "performers": ["choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [Genesis 32]",
+      "start_time": 813,
+      "type": "scripture",
+      "description": "The scripture reading from Genesis 32 recounts the story of Jacob wrestling with a divine figure. It highlights themes of struggle, perseverance, and the transformation that occurs through encounters with God.",
+      "keywords": ["Jacob", "wrestling", "Genesis"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Genesis 32"]
+    },
+    {
+      "title": "Message: [The Struggle of Jacob] (Genesis 31-32)",
+      "start_time": 892,
+      "type": "sermon",
+      "description": "In this sermon, the interim preaching pastor reflects on Jacob's journey and encounters with God, emphasizing God's promises and guidance through challenging circumstances. The message encourages reliance on God's voice, patience in waiting, and the importance of prayer. The transformation of Jacob into Israel serves as a metaphor for spiritual growth through struggles.",
+      "keywords": ["Jacob", "Israel", "struggle", "prayer", "waiting"],
+      "performers": ["interim preaching pastor"],
+      "songs": [],
+      "scripture_references": ["Genesis 31", "Genesis 32"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3256,
+      "type": "prayer",
+      "description": "As the service transitions, an opening prayer is offered, inviting God's presence into the worship service. The prayer emphasizes gratitude, seeking reconciliation, and the need for God's guidance in the lives of the congregation.",
+      "keywords": ["prayer", "reconciliation", "gratitude"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Great Are You Lord]",
+      "start_time": 3333,
+      "type": "music",
+      "description": "The choir leads the congregation in singing 'Great Are You Lord,' bringing a spirit of praise and worship. The song emphasizes God's greatness and love, encouraging the congregation to lift their voices in unison, praising Him for His goodness.",
+      "keywords": ["greatness", "praise", "worship"],
+      "performers": ["choir"],
+      "songs": ["Great Are You Lord"],
+      "scripture_references": []
+    }
+  ]
+}
+```

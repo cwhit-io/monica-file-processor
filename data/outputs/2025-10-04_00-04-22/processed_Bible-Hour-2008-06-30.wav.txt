@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: We Are Free",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir performs a powerful and uplifting song celebrating freedom and salvation. Lyrics emphasize being liberated from sin and experiencing everlasting joy through faith. The song conveys themes of hope and spiritual emancipation.",
+      "keywords": ["freedom", "salvation", "joy", "spiritual", "worship"],
+      "performers": ["Choir"],
+      "songs": ["We Are Free"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 274,
+      "type": "prayer",
+      "description": "The opening prayer invites the congregation to engage with God and reflect on their spiritual hunger and thirst. It draws from passages that illustrate a longing for righteousness and a relationship with the living God.",
+      "keywords": ["prayer", "engagement", "righteousness", "hunger", "thirst"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["Psalm 42:1-2", "Psalm 84:2", "Jeremiah 2:13"]
+    },
+    {
+      "title": "Message: God Wants You Happy (Matthew 5)",
+      "start_time": 549,
+      "type": "sermon",
+      "description": "The sermon explores the Beatitudes, emphasizing the importance of spiritual hunger and thirst for righteousness. The speaker illustrates how seeking happiness through God’s definitions leads to true fulfillment and purpose. It culminates in a deeper understanding of the relationship between our spiritual condition and the righteousness found in Jesus.",
+      "keywords": ["Beatitudes", "happiness", "righteousness", "spiritual growth", "faith"],
+      "performers": ["Steve Longbrake"],
+      "songs": [],
+      "scripture_references": ["Matthew 5"]
+    },
+    {
+      "title": "testimony: Hunger and Thirst for Righteousness",
+      "start_time": 2298,
+      "type": "testimony",
+      "description": "Jones shares a personal testimony about his experiences of hunger and thirst in Uganda, both physically and spiritually. He describes how those experiences shaped his understanding of true satisfaction found in Jesus Christ, highlighting the transformative power of faith.",
+      "keywords": ["testimony", "hunger", "thirst", "Uganda", "faith"],
+      "performers": ["Jones Bekimi"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3406,
+      "type": "prayer",
+      "description": "The invitation prayer calls the congregation to respond to the message and seek deeper fulfillment in their relationship with God. It emphasizes the importance of recognizing one's spiritual needs and turning to Christ for satisfaction.",
+      "keywords": ["invitation", "response", "prayer", "spirituality", "satisfaction"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Better Is One Day",
+      "start_time": 3492,
+      "type": "music",
+      "description": "The congregation sings a beloved hymn that expresses a longing for the presence of God. This song reinforces the themes of the service, inviting participants to reaffirm their desire for spiritual closeness and intimate worship.",
+      "keywords": ["worship", "hymn", "presence", "God", "congregation"],
+      "performers": ["Congregation"],
+      "songs": ["Better Is One Day"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: We Adore You",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir leads a heartfelt song of adoration, inviting the congregation to engage in worship through music. Themes of reverence and dedication to God are highlighted, creating a powerful worship experience.",
+      "keywords": ["adoration", "worship", "spiritual", "sacred", "music"],
+      "performers": ["Choir"],
+      "songs": ["We Adore You"],
+      "scripture_references": []
+    }
+  ]
+}
+```

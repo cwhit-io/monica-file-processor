@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: We'll Stand",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with uplifting music as the choir leads the congregation in the song 'We'll Stand.' This song sets an encouraging tone for worship and spirit for the day ahead.",
+      "keywords": ["choir", "worship", "song", "spiritual", "community"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["We'll Stand"],
+      "scripture_references": []
+    },
+    {
+      "title": "Soft Instrumental",
+      "start_time": 114,
+      "type": "music",
+      "description": "A gentle instrumental piece follows, filling the sanctuary with a calming atmosphere that invites reflection and spiritual preparation for the subsequent teachings.",
+      "keywords": ["instrumental", "reflection", "calm", "worship", "music"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Spiritual Renewal (James 5)",
+      "start_time": 262,
+      "type": "sermon",
+      "description": "Pastor Moore shares a profound sermon on James 5, discussing spiritual weakness and the power of prayer. He emphasizes that spiritual healing, rather than physical wellness, is God's priority, encouraging the spiritually weary to seek support from elders and the community.",
+      "keywords": ["James", "prayer", "spirituality", "strength", "healing"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": ["James 5"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3440,
+      "type": "prayer",
+      "description": "An opening prayer led by Pastor Moore invites the congregation to center their hearts on God, acknowledging His sovereignty and grace as they begin worship together.",
+      "keywords": ["prayer", "worship", "community", "God", "surrender"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3481,
+      "type": "prayer",
+      "description": "As the service draws to a close, Pastor Moore leads a closing prayer, thanking God for His presence and asking for spiritual strength and guidance for the week ahead as the congregation departs.",
+      "keywords": ["closing", "prayer", "thanksgiving", "blessing", "worship"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

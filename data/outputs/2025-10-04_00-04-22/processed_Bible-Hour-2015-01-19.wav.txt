@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Opening Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with cheerful upbeat music that sets a joyful tone for the gathering. This music creates an inviting atmosphere as attendees arrive and prepare for the service ahead.",
+      "keywords": ["music", "upbeat", "joyful", "service", "opening"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 60,
+      "type": "prayer",
+      "description": "Pastor Steve Webster opens the service by welcoming everyone and leading an opening prayer. He invites the Holy Spirit's presence into the service and encourages attendees to prepare their hearts for worship and the message ahead.",
+      "keywords": ["prayer", "opening", "worship", "Steve Webster", "Holy Spirit"],
+      "performers": ["Steve Webster"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Service Format and Invitation",
+      "start_time": 196,
+      "type": "announcement",
+      "description": "Pastor Steve shares important updates about the service format, explaining the new single worship service structure at Black Hawk Ministries. He invites people to engage with the church community both during the services and in smaller gatherings.",
+      "keywords": ["announcement", "service format", "community", "worship", "Black Hawk"],
+      "performers": ["Steve Webster"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Real Life (Romans 7:21-25)",
+      "start_time": 464,
+      "type": "sermon",
+      "description": "Rick Raber delivers a compelling message about 'Real Life,' focusing on the internal conflict between the flesh and the spirit. He emphasizes the importance of authenticity and vulnerability in Christian life, and the transformative power of the Holy Spirit for believers engaging in their daily struggles.",
+      "keywords": ["sermon", "real life", "Rick Raber", "Holy Spirit", "struggles"],
+      "performers": ["Rick Raber"],
+      "songs": [],
+      "scripture_references": ["Romans 7:21-25"]
+    },
+    {
+      "title": "Congregational Hymn: Lord, I Need You",
+      "start_time": 3265,
+      "type": "music",
+      "description": "The congregation joins together in singing 'Lord, I Need You,' a heartfelt hymn that expresses dependence on God's grace. This moment of worship fosters a community of believers seeking God's presence and strength amid life's challenges.",
+      "keywords": ["hymn", "worship", "congregation", "grace", "Lord, I Need You"],
+      "performers": ["Darren and the band"],
+      "songs": ["Lord, I Need You"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3503,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Steve Webster. He encourages the congregation to rely on the Holy Spirit for guidance and strength as they leave and enter their week.",
+      "keywords": ["closing", "prayer", "Steve Webster", "Holy Spirit", "congregation"],
+      "performers": ["Steve Webster"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

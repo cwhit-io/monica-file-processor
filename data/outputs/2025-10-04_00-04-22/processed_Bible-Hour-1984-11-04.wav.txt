@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Special Guest Performance",
+      "start_time": 60,
+      "type": "music",
+      "description": "The service begins with uplifting music from the sanctuary choir, highlighting the importance of music in expressing love and praise to God. Special guest Larnell Harris joins in, bringing excitement and a powerful performance that encourages the congregation to engage in worship. The atmosphere is filled with joy as the music inspires everyone present.",
+      "keywords": ["choir", "Larnell Harris", "praise", "worship", "music"],
+      "performers": ["Larnell Harris"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Unknown Performance",
+      "start_time": 416,
+      "type": "music",
+      "description": "A solo performance captivates the audience, continuing the theme of worship and praise. The singer's voice resonates with the congregation, drawing them into a deeper experience of worship. This moment emphasizes the personal connection one can have with music as a form of devotion.",
+      "keywords": ["solo", "worship", "praise"],
+      "performers": ["Unknown"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Unknown Performance",
+      "start_time": 588,
+      "type": "music",
+      "description": "The choir returns to showcase another piece, enhancing the worship experience through harmonized voices that uplift the congregation's spirits. The selection serves as a reminder of God's grace and love, encouraging attendees to reflect on their faith. The blending of voices creates a beautiful tapestry of sound that resonates with the heart.",
+      "keywords": ["choir", "hymn", "grace", "worship"],
+      "performers": ["Unknown"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1102,
+      "type": "prayer",
+      "description": "The pastor leads the congregation in an opening prayer, invoking God's presence and guidance as they gather for worship. This moment sets the tone for the service, emphasizing the need for spiritual reflection and divine connection. It is an appeal for God's blessings on the worship and the community.",
+      "keywords": ["prayer", "worship", "community"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Assurance of Salvation (2 Peter 2)",
+      "start_time": 1681,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a powerful message discussing the assurance of salvation using the scripture from 2 Peter. He addresses the complexities of faith, examining the nature of true profession versus genuine possession of faith in Christ. Through poignant illustrations and scriptural references, he encourages the congregation to reflect deeply on their own faith and relationship with Christ.",
+      "keywords": ["salvation", "assurance", "faith", "2 Peter"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["2 Peter 2:20-22"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3363,
+      "type": "prayer",
+      "description": "The pastor leads an invitation prayer, calling individuals to respond to the message delivered during the sermon. He invites anyone yearning for a deeper relationship with Christ to seek Him sincerely and ask for guidance. This heartfelt prayer seeks to nurture the spiritual awakenings among the congregation.",
+      "keywords": ["invitation", "prayer", "faith"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Closing Hymn",
+      "start_time": 3508,
+      "type": "music",
+      "description": "The service concludes with a closing hymn performed by the choir, encapsulating the themes of love, redemption, and hope that were emphasized throughout the worship. This final musical piece invites everyone to leave with a sense of spiritual fulfillment and encouragement to carry their faith into the world.",
+      "keywords": ["closing hymn", "worship", "choir"],
+      "performers": ["Unknown"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3603,
+      "type": "prayer",
+      "description": "The closing prayer is delivered, thanking God for the time of worship and fellowship. The pastor asks for continued guidance and blessings upon the congregation as they depart. This moment reinforces the communal bond formed during the service and encourages everyone to act on their faith in the coming days.",
+      "keywords": ["closing prayer", "worship", "community"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

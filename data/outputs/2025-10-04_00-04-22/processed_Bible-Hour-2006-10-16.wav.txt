@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 0,
+      "type": "prayer",
+      "description": "The service begins with a heartfelt opening prayer, inviting the presence of God among the congregation. It sets a tone of reverence and expectation for the service ahead. The prayer emphasizes themes of discipleship and the transformative power of grace in our lives.",
+      "keywords": ["prayer", "discipleship", "grace", "community", "worship"],
+      "performers": ["[]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: To God Be the Glory",
+      "start_time": 665,
+      "type": "music",
+      "description": "The congregation joins together in singing 'To God Be the Glory,' a hymn celebrating God's tremendous works and gifts. The lyrics express joy and gratitude for salvation through Jesus Christ, reinforcing community worship and unity in faith.",
+      "keywords": ["hymn", "worship", "congregation", "joy", "salvation"],
+      "performers": ["Corbin team"],
+      "songs": ["To God Be the Glory"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: A Thousand Songs",
+      "start_time": 1125,
+      "type": "music",
+      "description": "The choir performs 'A Thousand Songs,' blending powerful melodies with lyrics that reflect on the sovereignty and love of God. The performance invites attendees to reflect on their spiritual journey and the abundance of grace found in Christ.",
+      "keywords": ["choir", "worship", "grace", "melody", "reflect"],
+      "performers": ["Corbin team"],
+      "songs": ["A Thousand Songs"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Grace of Discipline (Proverbs 3:11-12)",
+      "start_time": 1113,
+      "type": "sermon",
+      "description": "Pastor Mitch delivers a sermon titled 'The Grace of Discipline,' reflecting on Proverbs 3:11-12. He discusses the importance of discipline in the context of parenting and spiritual growth, using basketball analogies to illustrate the four ways we sin and the grace that accompanies each type. The message emphasizes that discipline is a reflection of God's love and a pathway to becoming true disciples of Christ.",
+      "keywords": ["discipline", "grace", "sermon", "Proverbs", "parenting", "discipleship"],
+      "performers": ["Mitch"],
+      "songs": [],
+      "scripture_references": ["Proverbs 3:11-12"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3281,
+      "type": "prayer",
+      "description": "An invitation prayer is offered as attendees are invited to reflect on their personal journey of faith. This prayer seeks to open hearts to God's guidance and prompts congregants to consider their relationship with Christ. It emphasizes seeking transformation and grace in their lives.",
+      "keywords": ["invitation", "prayer", "reflection", "transformation", "guidance"],
+      "performers": ["[]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Turn Your Eyes Upon Jesus",
+      "start_time": 3289,
+      "type": "music",
+      "description": "The congregation joins in singing 'Turn Your Eyes Upon Jesus,' focusing on the themes of assurance and divine guidance. This hymn encourages worshippers to fix their eyes on Christ amidst life's distractions, underscoring the message of hope and peace found in Him.",
+      "keywords": ["hymn", "worship", "Jesus", "hope", "faith"],
+      "performers": ["Steph"],
+      "songs": ["Turn Your Eyes Upon Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3500,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer that reaffirms the messages shared throughout the service. It serves as a final blessing over the congregation, encouraging them to live out what they have learned and carry the love of Christ into the week ahead.",
+      "keywords": ["closing", "prayer", "blessing", "worship", "community"],
+      "performers": ["[]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

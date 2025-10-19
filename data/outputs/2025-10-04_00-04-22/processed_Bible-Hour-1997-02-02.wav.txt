@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Determined",
+      "start_time": 74,
+      "type": "music",
+      "description": "The choir performs a powerful song that expresses determination in faith despite life's trials. The lyrics affirm an unwavering commitment to live for God, echoing sentiments of strength and resilience. The atmosphere is uplifting, encouraging congregation members to reflect on their own spiritual journeys.",
+      "keywords": ["determination", "faith", "choir", "strength", "resilience"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Determined"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Back to the Basics",
+      "start_time": 301,
+      "type": "music",
+      "description": "The choir continues with a song focusing on returning to the fundamentals of faith and life. The theme revolves around purity of heart, love, and grounded faith, emphasizing the importance of these values in a world often filled with distractions. This reflective piece touches the congregation deeply.",
+      "keywords": ["basics", "faith", "purity", "love", "reflection"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Back to the Basics"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Ephesians 4",
+      "start_time": 608,
+      "type": "scripture",
+      "description": "The congregation engages in a scripture reading from Ephesians 4. This passage lays the foundation for the upcoming sermon by emphasizing transformation and the call to live in accordance with the teachings of Christ. Members are encouraged to focus on the implications of these verses for their lives.",
+      "keywords": ["Ephesians", "scripture", "readings", "transformation", "teaching"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Ephesians 4"]
+    },
+    {
+      "title": "Message: Transformation (Ephesians 4:25-32)",
+      "start_time": 617,
+      "type": "sermon",
+      "description": "Pastor Moore delivers an impactful message on personal transformation rooted in Ephesians 4. He highlights five critical exchanges believers should make to mature in their faith, including trading falsehood for truth and anger for forgiveness. Through relatable stories and practical applications, he challenges the congregation to reflect on their spiritual journey and relationships.",
+      "keywords": ["transformation", "Ephesians", "sermon", "spiritual growth", "forgiveness"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Ephesians 4:25-32"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3511,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer led by Pastor Moore. He reflects on the central themes of the service, asking for divine guidance and strength for the congregation to apply the teachings from the sermon in their daily lives. This moment creates a profound sense of community and commitment to spiritual growth.",
+      "keywords": ["prayer", "closing", "community", "spiritual growth", "commitment"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Bible Hour Ministry",
+      "start_time": 3551,
+      "type": "announcement",
+      "description": "An announcement is made about the Bible Hour ministry, encouraging participation and support from the congregation. Although product promotions are typically avoided, this segment focuses on the community's role in fostering spiritual growth through the ministry. Members are invited to engage with future services and opportunities.",
+      "keywords": ["Bible Hour", "ministry", "community", "spiritual growth", "engagement"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

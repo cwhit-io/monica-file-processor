@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat musical piece, setting a joyful tone for the congregation. The music creates an atmosphere of energy and excitement as attendees settle into the service.",
+      "keywords": ["music", "upbeat", "joyful", "atmosphere", "congregation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Unidentified",
+      "start_time": 33,
+      "type": "music",
+      "description": "The congregation joins together in a vibrant hymn, filling the space with voices in praise. The collective worship reinforces community and shared faith among attendees as they lift their voices.",
+      "keywords": ["hymn", "worship", "congregation", "praise", "community"],
+      "performers": [],
+      "songs": ["Unidentified"],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Melinda Connolly's Testimony",
+      "start_time": 309,
+      "type": "interview",
+      "description": "Pastor engages Melinda Connolly in a heartfelt discussion about her journey and growth in serving others. She shares her experiences and reflections on faith, highlighting the importance of engaging in the needs of the community.",
+      "keywords": ["testimony", "faith", "serving", "growth", "community"],
+      "performers": ["Melinda Connolly"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Unidentified",
+      "start_time": 763,
+      "type": "music",
+      "description": "The choir presents a powerful musical piece that resonates with the themes of devotion and celebration of faith. Their harmonious voices uplift the congregation, reinforcing the message of the day.",
+      "keywords": ["choir", "music", "devotion", "celebration", "faith"],
+      "performers": ["Choir"],
+      "songs": ["Unidentified"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Reflections on Jesus' Last Week (John 12)",
+      "start_time": 1056,
+      "type": "sermon",
+      "description": "The pastor preaches a profound message centered on John 12, reflecting on the events leading up to the crucifixion of Jesus. He challenges listeners to consider how they would live if they had limited time left, drawing parallels to Jesus' final days, purpose, and teachings on service.",
+      "keywords": ["sermon", "Jesus", "last week", "crucifixion", "faith"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["John 12"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3481,
+      "type": "prayer",
+      "description": "The pastor leads a closing prayer, inviting the congregation to reflect on the message shared. He asks for strength and courage to live in service to others, encouraging believers to commit their lives to meaningful action and faith.",
+      "keywords": ["prayer", "closing", "service", "faith", "strength"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

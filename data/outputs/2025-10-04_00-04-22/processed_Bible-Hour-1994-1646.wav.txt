@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 85,
+      "type": "music",
+      "description": "The sanctuary choir and orchestra open the service with a powerful anthem that blends lyrics of hope and faith. The performance sets a worshipful tone for the rest of the service, encouraging the congregation to focus on the message of salvation.",
+      "keywords": ["choir", "orchestra", "worship", "music"],
+      "performers": ["Sanctuary Choir", "Orchestra"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [He Wore My Crown]",
+      "start_time": 637,
+      "type": "music",
+      "description": "Reed LaFavor delivers a heartfelt solo performance, echoing themes of redemption and grace. The lyrics reflect on the poignant sacrifice of Christ, reinforcing the message of love and salvation central to the service.",
+      "keywords": ["solo", "redemption", "grace", "sacrifice"],
+      "performers": ["Reed LaFavor"],
+      "songs": ["He Wore My Crown"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Eternal Security (Romans 8:31-39)",
+      "start_time": 914,
+      "type": "sermon",
+      "description": "Pastor Moore's sermon focuses on the doctrine of eternal security, emphasizing that once a person is truly saved, they cannot lose their salvation. He outlines key biblical truths supporting this doctrine and addresses common concerns about faith during difficult times.",
+      "keywords": ["salvation", "eternal security", "faith", "Romans", "Romans 8"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Romans 8:31-39"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3365,
+      "type": "prayer",
+      "description": "Pastor Moore leads the congregation in an invitation prayer, encouraging those who have made decisions regarding their faith to commit their lives to Christ. The prayer emphasizes the importance of seeking forgiveness and assurance in God’s promises.",
+      "keywords": ["prayer", "invitation", "commitment", "faith"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Musical: The Attic",
+      "start_time": 548,
+      "type": "announcement",
+      "description": "A reminder for the congregation about the upcoming musical presentation by the Praise Kids, featuring children aged 10 to 12. The musical, titled 'The Attic,' encourages creativity and acceptance among youth, highlighting the significance of their ministry.",
+      "keywords": ["musical", "children", "Praise Kids", "creativity"],
+      "performers": ["Judy Rodenbach"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3452,
+      "type": "prayer",
+      "description": "In the closing prayer, Pastor Moore thanks God for the service and encourages those who prayed for salvation to reach out for guidance. The prayer reiterates the importance of faith and spiritual growth in Christ.",
+      "keywords": ["closing prayer", "thanksgiving", "salvation", "guidance"],
+      "performers": ["Pastor Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

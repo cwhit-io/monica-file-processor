@@ -1,0 +1,44 @@
+{
+  "chapters": [
+    {
+      "title": "scripture: Scripture Reading: [2 Corinthians 9:1-11]",
+      "start_time": 0,
+      "type": "scripture",
+      "description": "The pastor reads from 2 Corinthians 9, where Paul speaks to the church at Corinth about their readiness to contribute to an offering for the saints. He emphasizes the significance of their generosity and how it impacts others.",
+      "keywords": ["scripture", "2 Corinthians", "Paul", "offering", "generosity"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["2 Corinthians 9:1-11"]
+    },
+    {
+      "title": "Message: Overflowing Promises (2 Corinthians 9)",
+      "start_time": 240,
+      "type": "sermon",
+      "description": "In this sermon, the pastor discusses the principle of grace giving, emphasizing that God desires our hearts over our money. He highlights the importance of inspiration and intentionality in generosity, connecting it to divine promises that fill us with hope and sufficiency. Throughout this inspiring message, he encourages listeners to reflect on their own lives and what they are inspiring in their communities.",
+      "keywords": ["grace", "giving", "generosity", "Paul", "Christ", "overflowing"],
+      "performers": ["Pastor [Name]"],
+      "songs": [],
+      "scripture_references": ["2 Corinthians 9"]
+    },
+    {
+      "title": "drama: Drama: Facing Challenges",
+      "start_time": 1620,
+      "type": "drama",
+      "description": "A short drama presentation highlights personal challenges faced by community members, exploring themes of grace, support, and redemption. It serves as a reminder of the church's role in uplifting and encouraging one another.",
+      "keywords": ["drama", "challenges", "community", "support"],
+      "performers": ["Drama Team"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1884,
+      "type": "prayer",
+      "description": "The service concludes with a powerful closing prayer, asking for God's guidance and strength as the congregation reflects on the messages shared. It emphasizes seeking God's will and being generous in all aspects of life.",
+      "keywords": ["prayer", "closing", "reflection", "guidance"],
+      "performers": ["Pastor [Name]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

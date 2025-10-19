@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Sanctuary Choir: Make His Praise Glorious",
+      "start_time": 156,
+      "type": "music",
+      "description": "The sanctuary choir lifts the congregation with an uplifting performance of 'Make His Praise Glorious.' This song emphasizes the importance of worship and gratitude towards God, encouraging everyone to join in the celebration. The vibrant energy of the music creates a joyful atmosphere that resonates with the attendees.",
+      "keywords": ["choir", "worship", "praise", "music", "glorious"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Make His Praise Glorious"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Jesus the Very Thought of Thee",
+      "start_time": 426,
+      "type": "music",
+      "description": "The congregation unites in a meditative hymn, 'Jesus the Very Thought of Thee,' which invites reflection and deep devotion. The performance alternates between instrumentation and an acapella rendition, drawing the hearts and minds of those present toward the focus of Jesus’ love. This beautiful hymn sets a reflective mood among the attendees.",
+      "keywords": ["hymn", "Jesus", "meditation", "congregational", "worship"],
+      "performers": [],
+      "songs": ["Jesus the Very Thought of Thee"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Lynn Rolle: O Calvary's Lamb",
+      "start_time": 628,
+      "type": "music",
+      "description": "Lynn Rolle performs a touching solo rendition of 'O Calvary's Lamb,' capturing the profound significance of Jesus' sacrifice. The heartfelt delivery encourages listeners to contemplate the depth of God's love and grace in their lives. The emotional weight of the song resonates deeply with the audience, enhancing the worship experience.",
+      "keywords": ["solo", "Lynn Rolle", "Calvary", "sacrifice", "love"],
+      "performers": ["Lynn Rolle"],
+      "songs": ["O Calvary's Lamb"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Desiring the Word (1 Peter 1:1-3)",
+      "start_time": 125,
+      "type": "sermon",
+      "description": "Pastor Russell Moore's sermon, 'Desiring the Word,' delves into how Christians can cultivate a passion for Scripture. Drawing from 1 Peter, he emphasizes the need to crave spiritual nourishment and highlights misdirected passions that can hinder spiritual growth. The message encourages believers to prioritize their relationship with God and foster deeper connections with one another.",
+      "keywords": ["sermon", "pastor", "spiritual growth", "1 Peter", "craving"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Peter 1:1-3"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3500,
+      "type": "prayer",
+      "description": "Pastor Russell Moore leads an invitation prayer, inviting anyone who has placed their faith in Christ to respond. This prayer emphasizes acceptance, grace, and a personal relationship with Jesus. It provides an opportunity for reflection and commitment, encouraging those in attendance to take the next steps in their spiritual journey.",
+      "keywords": ["prayer", "invitation", "commitment", "faith", "Jesus"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3533,
+      "type": "prayer",
+      "description": "In the closing prayer, Pastor Russell Moore expresses gratitude for the service and seeks God's blessing over the congregation. The prayer serves as a heartfelt conclusion, reinforcing the message shared during the service. Attendees feel uplifted as they depart, carrying the essence of worship into their daily lives.",
+      "keywords": ["closing", "prayer", "gratitude", "blessing", "worship"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

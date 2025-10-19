@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Worship: Praise God for the privilege of worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with vibrant music that sets an uplifting atmosphere. Congregants participate in worship, expressing gratitude and praise through song. This segment highlights the community spirit as they gather to celebrate together.",
+      "keywords": ["worship", "community", "music", "praise"],
+      "performers": ["Corbin and team"],
+      "songs": ["unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Ephesians 5:1-14",
+      "start_time": 492,
+      "type": "scripture",
+      "description": "The pastor reads from Ephesians 5:1-14, emphasizing the call to imitate God and walk in love. This reading sets the stage for the following teachings about morality, purity, and the significance of light in the believer's life.",
+      "keywords": ["Ephesians", "scripture", "light", "love", "morality"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Ephesians 5:1-14"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 764,
+      "type": "prayer",
+      "description": "In this heartfelt opening prayer, the pastor invites congregants to seek God's presence and guidance. The prayer emphasizes thankfulness and the need for spiritual renewal, encouraging the community to open their hearts to God's teaching.",
+      "keywords": ["prayer", "community", "God", "guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Walking in Love and Light (Ephesians 5:1-14)",
+      "start_time": 858,
+      "type": "sermon",
+      "description": "The sermon explores the tension between living in purity versus the temptations of immorality and greed, as outlined in Ephesians 5. The pastor encourages the congregation to walk as children of light, carefully navigating their lives to reflect God’s love and avoid darkness.",
+      "keywords": ["Ephesians", "purity", "immorality", "light", "love"],
+      "performers": ["Kelly Burton"],
+      "songs": [],
+      "scripture_references": ["Ephesians 5:1-14"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3476,
+      "type": "prayer",
+      "description": "In this invitation prayer, the pastor calls on the congregation to reflect on the message and respond to God's urging. It is a moment of commitment and reflection where individuals are encouraged to bring their struggles before God.",
+      "keywords": ["invitation", "prayer", "response", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Powerful Worship",
+      "start_time": 3480,
+      "type": "music",
+      "description": "The choir leads the congregation in a powerful worship song that lifts spirits and reinforces the themes of the service. This moment of music allows congregants to immerse themselves in worship and community.",
+      "keywords": ["music", "worship", "choir", "community"],
+      "performers": ["Corbin and team"],
+      "songs": ["unknown"],
+      "scripture_references": []
+    }
+  ]
+}
+```

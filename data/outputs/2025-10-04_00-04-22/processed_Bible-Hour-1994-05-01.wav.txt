@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Solo: I'm Praying for You",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a heartfelt solo performance titled 'I'm Praying for You,' expressing deep emotional support and powerful intercession. The lyrics reassure listeners that God hears their prayers and is there for them in difficult times. This moment sets a tone of compassion and reliance on faith.",
+      "keywords": ["prayer", "support", "faith", "God", "encouragement"],
+      "performers": ["Unknown"],
+      "songs": ["I'm Praying for You"],
+      "scripture_references": []
+    },
+    {
+      "title": "Special Music: Blessed be the Lord",
+      "start_time": 300,
+      "type": "music",
+      "description": "The swordbearers from Cedarville College take the stage to deliver inspiring music. Their performance focuses on themes of divine strength and faithfulness. The congregation is likely uplifted by the musical celebration, reinforcing the message of hope and trust in God.",
+      "keywords": ["worship", "strength", "faithfulness", "praise", "music"],
+      "performers": ["Swordbearers from Cedarville College"],
+      "songs": ["Blessed be the Lord"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Role of the Wife (Ephesians 5)",
+      "start_time": 679,
+      "type": "sermon",
+      "description": "Pastor Russell Moore presents a detailed teaching on the role of the wife according to Ephesians 5. He emphasizes the biblical concept of submission, clarifying its meaning and intent within a loving marriage. Throughout the sermon, Moore encourages mutual respect and understanding, highlighting the husband's responsibility to love and understand his wife deeply.",
+      "keywords": ["marriage", "Ephesians", "submission", "love", "roles"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Ephesians 5"]
+    },
+    {
+      "title": "Special Music: God is Able",
+      "start_time": 3237,
+      "type": "music",
+      "description": "The service features a powerful performance of 'God is Able,' which celebrates God's capability to deliver and fortify believers in times of trouble. This song reflects themes of resilience and trust in divine power, reinforcing the overall message of hope shared throughout the service.",
+      "keywords": ["God", "deliverance", "power", "faith", "worship"],
+      "performers": ["Unknown"],
+      "songs": ["God is Able"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3385,
+      "type": "prayer",
+      "description": "The service concludes with an intimate closing prayer, inviting congregants to engage in personal reflection and commitment to their faith. This moment provides a space for individuals to connect with God and embrace the teachings shared during the service.",
+      "keywords": ["prayer", "reflection", "faith", "commitment", "community"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: The Lord Rains",
+      "start_time": 60,
+      "type": "music",
+      "description": "The service begins with a powerful performance by the choir featuring the song 'The Lord Rains' composed by Bruce Greer. This uplifting song sets the tone for the worship experience and evokes a sense of divine majesty. The audience responds warmly, applauding the choir's heartfelt rendition.",
+      "keywords": ["choir", "the lord rains", "bruce greer", "music", "worship"],
+      "performers": ["Black Hawk Choir"],
+      "songs": ["The Lord Rains"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Easter Song",
+      "start_time": 598,
+      "type": "music",
+      "description": "After the choir's performance, Bruce Greer plays a solo arrangement of 'Easter Song' accompanied by the orchestra. The gentle and melodious piece creates a reflective atmosphere, inviting the congregation to meditate on the significance of Easter and the resurrection.",
+      "keywords": ["bruce greer", "easter song", "solo", "music", "reflection"],
+      "performers": ["Bruce Greer"],
+      "songs": ["Easter Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Joyful, Joyful, We Adore Thee",
+      "start_time": 1106,
+      "type": "music",
+      "description": "The congregation joins in singing 'Joyful, Joyful, We Adore Thee,' creating a participatory worship experience. Led by the choir and accompanied by pianos, this beloved hymn celebrates God's glory and elicits joy and gratitude among the worshippers.",
+      "keywords": ["congregation", "joyful, joyful, we adore thee", "hymn", "worship", "praise"],
+      "performers": ["Congregation", "Scott Schindler", "Bruce Greer"],
+      "songs": ["Joyful, Joyful, We Adore Thee"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1411,
+      "type": "prayer",
+      "description": "Pastor Rick Hawks leads an opening prayer, expressing gratitude and seeking forgiveness for the congregation's inconsistencies. He invites God’s presence, asking for insight and power in the upcoming teaching from Scripture. This prayer reflects a spirit of humility and dependence on God.",
+      "keywords": ["opening prayer", "gratitude", "forgiveness", "worship", "humility"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: John 2-3",
+      "start_time": 1578,
+      "type": "scripture",
+      "description": "The scripture reading is presented from the Gospel of John, covering chapters 2:23 through 3:16. This passage introduces the discussion with Nicodemus about being 'born again,' setting the context for the sermon. The reading emphasizes themes of faith and divine love.",
+      "keywords": ["scripture", "john", "nicodemus", "born again", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["John 2:23-3:16"]
+    },
+    {
+      "title": "Message: Church Leader, Whose Religion Left Him Lacking Something (John 2:23-3:16)",
+      "start_time": 1578,
+      "type": "sermon",
+      "description": "In this sermon, Pastor Rick Hawks explores the encounter between Jesus and Nicodemus, focusing on the theme of spiritual insufficiency despite religious credentials. He illustrates how religion alone fails to bring true salvation, emphasizing the necessity of being 'born again' to truly know God.",
+      "keywords": ["sermon", "nicodemus", "religion", "born again", "salvation"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["John 2:23-3:16"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3526,
+      "type": "prayer",
+      "description": "The service concludes with an invitation prayer led by Pastor Rick Hawks. This prayer invites those who feel a need for Christ to come forward, offering a heartfelt plea for spiritual transformation and a deeper relationship with God. It underscores the message of salvation presented in the sermon.",
+      "keywords": ["invitation", "prayer", "spiritual", "salvation", "transformation"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

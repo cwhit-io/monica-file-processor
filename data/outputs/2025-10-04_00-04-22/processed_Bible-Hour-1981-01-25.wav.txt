@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Marinatha",
+      "start_time": 20,
+      "type": "music",
+      "description": "The choir, under the direction of Mr. Don Kruger, opens the service by singing 'Marinatha'. This uplifting anthem sets the spiritual tone for the morning, reflecting on the theme of the second coming of Jesus Christ.",
+      "keywords": ["choir", "Marinatha", "praise", "worship"],
+      "performers": ["Mr. Don Kruger"],
+      "songs": ["Marinatha"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Are You Ready?",
+      "start_time": 240,
+      "type": "music",
+      "description": "Mr. and Mrs. Al Peterson perform a solo with the stirring song 'Are You Ready?'. The lyrics challenge the audience to reflect on their readiness for the return of Christ, resonating deeply during this worship time.",
+      "keywords": ["solo", "preparedness", "judgment", "worship"],
+      "performers": ["Mr. Al Peterson", "Mrs. Al Peterson"],
+      "songs": ["Are You Ready?"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Jesus is the Joy of My Salvation",
+      "start_time": 770,
+      "type": "music",
+      "description": "The congregation joyfully participates in singing 'Jesus is the Joy of My Salvation'. This congregational hymn emphasizes the source of true joy and hope in Christ, engaging the assembly in a spirit of worship.",
+      "keywords": ["congregational", "joy", "salvation", "worship"],
+      "performers": [],
+      "songs": ["Jesus is the Joy of My Salvation"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: John 5",
+      "start_time": 1412,
+      "type": "scripture",
+      "description": "Pastor Jeremiah reads from John 5, bringing the congregation into the narrative of Jesus' healing of the paralytic at the pool of Bethesda. This scripture sets the foundation for the upcoming sermon.",
+      "keywords": ["John", "scripture reading", "healing", "hospitality"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["John 5"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1564,
+      "type": "prayer",
+      "description": "Pastor Jeremiah leads the Opening Prayer, invoking God's presence and guidance as the service continues. This proactive appeal aims to prepare the hearts of the attendees for the message ahead.",
+      "keywords": ["prayer", "worship", "guidance", "community"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Miracle of the Paralytic at the Pool (John 5:1-9)",
+      "start_time": 1635,
+      "type": "sermon",
+      "description": "In this impactful sermon, Pastor Jeremiah dives into the miracle of Jesus healing the paralytic at the pool of Bethesda. He discusses themes of healing, grace, and the spiritual significance of faith and desire for transformation, urging listeners to contemplate their own needs for healing.",
+      "keywords": ["sermon", "miracle", "healing", "John", "grace"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["John 5:1-9"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3362,
+      "type": "prayer",
+      "description": "The Invitation Prayer is offered at the conclusion of the sermon, inviting individuals to respond to the message and consider their relationship with Jesus. This moment serves as an appeal for salvation and commitment.",
+      "keywords": ["invitation", "prayer", "salvation", "commitment"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Closing Remarks",
+      "start_time": 3400,
+      "type": "announcement",
+      "description": "Pastor Jeremiah shares closing remarks and encourages members to reach out for spiritual materials that can help in their growth. This includes an appeal for viewers to connect further with the church's ministry.",
+      "keywords": ["announcement", "materials", "ministry", "growth"],
+      "performers": ["Pastor David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

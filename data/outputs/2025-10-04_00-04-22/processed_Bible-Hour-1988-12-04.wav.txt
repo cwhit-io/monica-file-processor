@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [No Title Identified]",
+      "start_time": 90,
+      "type": "music",
+      "description": "The choir leads the congregation in a heartfelt song, setting a reflective tone for the service. The lyrics speak to themes of longing and divine love, inviting listeners to contemplate their own relationships and faith. This beautiful performance serves as a prelude to the message that follows.",
+      "keywords": ["choir", "worship", "longing", "divine love"],
+      "performers": ["[Unknown]"],
+      "songs": ["[No Title Identified]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [No Title Identified]",
+      "start_time": 295,
+      "type": "music",
+      "description": "A soloist delivers a poignant performance that touches on themes of hope and the anticipation of Jesus' coming. The lyrics convey deep emotional resonance, encouraging the congregation to reflect on their spiritual journey and connection to God.",
+      "keywords": ["soloist", "hope", "anticipation", "Jesus"],
+      "performers": ["[Unknown]"],
+      "songs": ["[No Title Identified]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: What the Bible Says About Sex (Genesis 2)",
+      "start_time": 2153,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks addresses the sensitive topic of human sexuality through the lens of scripture. Drawing from Genesis, he discusses God’s design for relationships, emphasizing the importance of purpose, values, and commitment. The sermon provides a biblical perspective on maintaining moral purity amidst societal challenges.",
+      "keywords": ["sermon", "sexuality", "Genesis", "relationships", "morality"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Genesis 2"]
+    },
+    {
+      "title": "testimony: Fran's Life Change",
+      "start_time": 1542,
+      "type": "testimony",
+      "description": "Fran shares her powerful testimony of transformation through faith in Jesus. Describing her struggles and the realization of Christ's love, she illustrates how her encounter with God brought hope and purpose back into her life. Her story emphasizes the healing and redemptive power of faith.",
+      "keywords": ["testimony", "transformation", "faith", "hope"],
+      "performers": ["Fran"],
+      "songs": [],
+      "scripture_references": ["Romans 5:8", "1 Corinthians 3"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1861,
+      "type": "prayer",
+      "description": "A sincere opening prayer is offered, thanking God for the opportunity to gather and seek transformation through His word. The prayer focuses on inviting God's presence into the service and preparing hearts for worship and teaching.",
+      "keywords": ["prayer", "opening", "worship", "gathering"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Church Events",
+      "start_time": 1314,
+      "type": "announcement",
+      "description": "The pastor shares details about upcoming church events, including a special Christmas Eve service. The invitation emphasizes community outreach, encouraging those without a church home to join the congregation for a meaningful celebration.",
+      "keywords": ["announcement", "Christmas Eve", "community", "worship"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3550,
+      "type": "prayer",
+      "description": "The closing prayer reflects on the day's message and the importance of living a life aligned with God's will. It is a moment for the congregation to commit to applying the lessons learned and seek God's guidance in their lives.",
+      "keywords": ["prayer", "closing", "reflection", "commitment"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Hope is Everlasting Love",
+      "start_time": 38,
+      "type": "music",
+      "description": "The service begins with the Chancellor Choir performing 'Hope is Everlasting Love'. The uplifting lyrics convey themes of divine love and spiritual assurance, setting a foundation for the service that follows.",
+      "keywords": ["choir", "hope", "love", "spiritual", "worship"],
+      "performers": ["Chancellor Choir"],
+      "songs": ["Hope is Everlasting Love"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Audience of One",
+      "start_time": 265,
+      "type": "music",
+      "description": "David Staton sings 'Audience of One', a powerful solo that emphasizes the relationship between the singer and Jesus. The song underscores the importance of focusing on divine approval rather than human judgment.",
+      "keywords": ["David Staton", "solo", "worship", "Jesus", "divine"],
+      "performers": ["David Staton"],
+      "songs": ["Audience of One"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 556,
+      "type": "prayer",
+      "description": "The service includes an opening prayer, expressing gratitude for the opportunity to gather and inviting God's presence to guide the worship. This prayer sets the spiritual tone for the session, encouraging participants to seek divine encouragement.",
+      "keywords": ["prayer", "gratitude", "worship", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Hope in Despair (Romans 15:4)",
+      "start_time": 974,
+      "type": "sermon",
+      "description": "The sermon focuses on the theme of hope amidst despair, drawing insights from Romans 15:4. The preacher shares personal stories, provides encouragement for those feeling hopeless, and illustrates the message through the biblical story of Elijah, offering practical steps for regaining hope.",
+      "keywords": ["hope", "despair", "sermon", "Elijah", "Romans"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": ["Romans 15:4", "1 Kings 19"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3420,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, inviting attendees to reflect on the teachings shared. This moment encourages individuals to seek a personal relationship with Christ and opens a pathway for anyone who wishes to accept Him into their lives.",
+      "keywords": ["closing", "reflection", "prayer", "worship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Future Service Details",
+      "start_time": 3533,
+      "type": "announcement",
+      "description": "Jeff Carlson invites listeners to join each week for the Bible Hour, sharing details about future services and highlighting opportunities for growth and community involvement within the church. The invitation emphasizes the warmth and inclusiveness of the church community.",
+      "keywords": ["Bible Hour", "community", "involvement", "growth"],
+      "performers": ["Jeff Carlson"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

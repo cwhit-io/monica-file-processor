@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with uplifting music performed by the sanctuary choir, encouraging the congregation to engage in worship and reflection. The choir creates an atmosphere of celebration and joy, setting the tone for the service.",
+      "keywords": ["worship", "choir", "music", "celebration"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Song Title]",
+      "start_time": 104,
+      "type": "music",
+      "description": "The congregation joins in singing an inspiring hymn, which emphasizes themes of faith and hope. This communal act of singing brings the church together, reinforcing their shared beliefs and encouraging participation.",
+      "keywords": ["hymn", "faith", "hope", "congregation"],
+      "performers": [],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: My Faith Still Holds On",
+      "start_time": 676,
+      "type": "music",
+      "description": "A solo performance captivates the congregation with heartfelt lyrics that express unwavering faith and trust in God. This moment provides a personal reflection on the singer's relationship with Christ, enhancing the worship experience.",
+      "keywords": ["solo", "faith", "worship", "personal"],
+      "performers": ["Susan Stump"],
+      "songs": ["My Faith Still Holds On"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 996,
+      "type": "prayer",
+      "description": "The opening prayer invites the congregation to focus on God's presence as they seek His guidance and blessing for the service. This moment serves to prepare hearts and minds for worship and teaching.",
+      "keywords": ["prayer", "worship", "guidance", "blessing"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Living for Others (Philippians 2:17-30)",
+      "start_time": 1006,
+      "type": "sermon",
+      "description": "The pastor delivers a powerful message based on Philippians 2, exploring the theme of selflessness and serving others. By highlighting the lives of Paul, Timothy, and Epaphroditus, he encourages the congregation to adopt a mindset focused on the welfare of others, ultimately reflecting Christ's love.",
+      "keywords": ["sermon", "selflessness", "Philippians", "Paul", "Timothy", "Epaphroditus"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Philippians 2:17-30"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3410,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, asking for God's continued guidance and strength for the week ahead. This moment reinforces the community's commitment to supporting one another in their faith journeys.",
+      "keywords": ["prayer", "closing", "guidance", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

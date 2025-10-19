@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: God's Almighty Son",
+      "start_time": 98,
+      "type": "music",
+      "description": "The sanctuary choir performed a medley of hymns entitled 'God's Almighty Son', setting a worshipful tone for the service. The music aims to uplift the congregation and prepare their hearts for the upcoming message. The choir's harmonious blend invites engagement and reflection.",
+      "keywords": ["choir", "hymns", "worship", "God's Almighty Son"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["God's Almighty Son"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: It Is Well With My Soul",
+      "start_time": 105,
+      "type": "music",
+      "description": "Tim Newton delivered a powerful solo performance of the classic hymn 'It Is Well With My Soul'. This soulful rendition encourages the congregation to embrace peace amid life's trials, reminding them of God's unchanging nature and faithfulness.",
+      "keywords": ["solo", "hymn", "worship", "It Is Well With My Soul"],
+      "performers": ["Tim Newton"],
+      "songs": ["It Is Well With My Soul"],
+      "scripture_references": []
+    },
+    {
+      "title": "Handbell Choir: Thou art worthy",
+      "start_time": 113,
+      "type": "music",
+      "description": "The handbell choir brought a melodious performance titled 'Thou art worthy', captivating the audience with their unique sound and skillful execution. This piece serves to glorify God, inviting the congregation into a deeper atmosphere of worship.",
+      "keywords": ["handbells", "music", "worship", "Thou art worthy"],
+      "performers": ["Handbell Choir"],
+      "songs": ["Thou art worthy"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Joseph: A Leader of Character (Genesis 37-50)",
+      "start_time": 1239,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivered an impactful sermon on Joseph, emphasizing the importance of character over giftedness in leadership. Through Joseph's journey, the message highlighted lessons on faithfulness, teachability, and availability to God's purposes, illustrating how God uses character built through adversity to prepare individuals for His plans.",
+      "keywords": ["Joseph", "leadership", "character", "faithfulness", "adversity"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Genesis 37-50"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3428,
+      "type": "prayer",
+      "description": "The service opened with a heartfelt prayer, inviting God's presence and blessing on the time of worship. The prayer emphasized a desire for the congregation to be open to God’s word and receptive to His teachings during the service.",
+      "keywords": ["prayer", "worship", "service", "God's presence"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3445,
+      "type": "prayer",
+      "description": "Pastor Moore concluded the service with a closing prayer, encouraging attendees to reflect on the message about character and leadership. The prayer reinforced the themes shared throughout the sermon and asked for God's guidance in the week ahead.",
+      "keywords": ["prayer", "closing", "reflection", "God's guidance"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

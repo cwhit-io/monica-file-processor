@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: There is Power in the Blood",
+      "start_time": 201,
+      "type": "music",
+      "description": "The choir performs a powerful anthem celebrating the redemptive power of Jesus' blood. The lyrics emphasize core themes of freedom from sin and the transformative nature of faith. The music uplifts the congregation, encouraging reflection on personal salvation.",
+      "keywords": ["choir", "gospel", "redemption", "freedom", "faith"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["There is Power in the Blood"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1461,
+      "type": "prayer",
+      "description": "Pastor Rick leads the congregation in an opening prayer, thanking God for His word and asking for guidance and strength throughout the service. The prayer focuses on spiritual renewal and encouragement for those facing challenges.",
+      "keywords": ["prayer", "guidance", "spirituality", "strength", "community"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Hebrews 12",
+      "start_time": 1391,
+      "type": "scripture",
+      "description": "The congregation reads Hebrews 12:1-2. This scripture serves as the foundation for the sermon, focusing on the themes of endurance in faith and the necessity of running the race set before us. It calls believers to fix their eyes on Jesus.",
+      "keywords": ["scripture", "Hebrews", "faith", "endurance", "race"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Hebrews 12"]
+    },
+    {
+      "title": "Message: Running the Real Race Part 2 (Hebrews 12:1-2)",
+      "start_time": 1590,
+      "type": "sermon",
+      "description": "Pastor Rick delivers a compelling message on how Christians are called to run the race set before them. He discusses the importance of shedding burdens and sin that hinder spiritual progress. Through sports analogies, he illustrates the significance of following God's rules and staying focused on Christ.",
+      "keywords": ["sermon", "race", "burdens", "faith", "endurance"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Hebrews 12:1-2"]
+    },
+    {
+      "title": "Solo: In the Garden",
+      "start_time": 1113,
+      "type": "music",
+      "description": "Starr Brodigan sings the hymn 'In the Garden,' which invites the congregation into a deeper relationship with Christ. The song reflects themes of personal connection and tranquility in faith, creating a serene atmosphere within the service.",
+      "keywords": ["solo", "hymn", "faith", "relationship", "serenity"],
+      "performers": ["Starr Brodigan"],
+      "songs": ["In the Garden"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1489,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer led by Pastor Rick, expressing gratitude for the messages shared and seeking blessings for the congregation as they go out into the world. It reinforces the themes of faithfulness and endurance in their spiritual journey.",
+      "keywords": ["prayer", "closing", "gratitude", "blessing", "faith"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir performs a final song, encouraging and uplifting the congregation as they prepare to depart. The performance creates a sense of community and shared experience through music.",
+      "keywords": ["choir", "music", "community", "worship", "praise"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

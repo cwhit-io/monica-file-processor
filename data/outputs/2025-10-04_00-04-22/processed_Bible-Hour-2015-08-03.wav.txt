@@ -1,0 +1,74 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: [Unknown]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir opens the service with a lively performance, setting an uplifting tone for the gathering. The congregation joins in worship, their voices rising in unison as they sing praises, creating a warm and inviting atmosphere of worship.",
+      "keywords": ["worship", "choir", "praise"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Unknown]",
+      "start_time": 222,
+      "type": "music",
+      "description": "The congregation enthusiastically participates in singing a hymn, fostering a strong sense of community and unity in faith. This segment encourages reflection on the messages of the song, enriching the worship experience.",
+      "keywords": ["hymn", "community", "worship"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown]",
+      "start_time": 745,
+      "type": "music",
+      "description": "A soloist performs a meaningful piece that touches the hearts of the congregation. The performance draws attention to the themes of faith and reliance on God's presence, leading to a moment of contemplation.",
+      "keywords": ["solo", "faith", "contemplation"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Our Identity in Christ (Genesis 1; Ephesians 2)",
+      "start_time": 1960,
+      "type": "sermon",
+      "description": "The sermon explores the concept of identity, focusing on our creation in God's image and our redemption through Christ. It emphasizes understanding one's true worth in Christ and the importance of living out this identity in daily life.",
+      "keywords": ["identity", "Christ", "redemption", "worth"],
+      "performers": ["[Unknown]"],
+      "songs": ["[Unknown]"],
+      "scripture_references": ["Genesis 1", "Ephesians 2"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3001,
+      "type": "prayer",
+      "description": "A heartfelt invitation prayer is offered, encouraging those present to reflect on their own journeys and consider a deeper commitment to their faith. This moment serves as a spiritual pivot for many attending the service.",
+      "keywords": ["invitation", "commitment", "faith"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Let it be Jesus",
+      "start_time": 3123,
+      "type": "music",
+      "description": "The congregation sings 'Let it be Jesus', reinforcing the themes of the service through collective worship. The song's message resonates deeply, leaving attendees with a sense of purpose and connection to Christ.",
+      "keywords": ["let it be Jesus", "worship", "community"],
+      "performers": ["[Unknown]"],
+      "songs": ["Let it be Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3433,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, inviting the congregation to reflect on the day’s messages and take their faith into the week ahead. It serves as a reminder of God's presence and guidance in their lives.",
+      "keywords": ["closing prayer", "reflection", "guidance"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

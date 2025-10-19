@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Upbeat Music",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with an upbeat music segment that sets a positive and welcoming atmosphere for the congregation. This lively music encourages attendees to engage and prepare their hearts for the service ahead.",
+      "keywords": ["music", "upbeat", "welcome", "atmosphere"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Global Leadership Summit",
+      "start_time": 29,
+      "type": "announcement",
+      "description": "An announcement is made regarding the upcoming Global Leadership Summit, emphasizing the importance and excitement surrounding the event. Highlights include the esteemed speakers and the venue change, encouraging registration and participation from the congregation.",
+      "keywords": ["Global Leadership Summit", "announcement", "registration", "speakers"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: New Series: Jesus, According to Jesus",
+      "start_time": 132,
+      "type": "announcement",
+      "description": "Pastor introduces a new sermon series titled 'Jesus, According to Jesus.' This series seeks to explore Jesus' identity and character through His own words, inviting the congregation to discover who He truly is.",
+      "keywords": ["Jesus", "series", "identity", "character"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Assurance of Eternal Life (1 John 5)",
+      "start_time": 241,
+      "type": "sermon",
+      "description": "The sermon focuses on the themes of assurance, prayer, victory over sin, and the genuine believer's identity in Christ. Drawing from 1 John 5, the speaker emphasizes the importance of understanding one's faith and the transformative power of knowing Jesus. With compelling stories and biblical insights, the message calls believers to deeper knowledge and confidence in their eternal life.",
+      "keywords": ["eternal life", "assurance", "prayer", "victory", "identity"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["1 John 5"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 2541,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer. The pastor invites the congregation to reflect on the message and offer their gratitude and supplications to God, reinforcing community prayer as integral to their faith journey.",
+      "keywords": ["closing prayer", "reflection", "gratitude", "community"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Worship Song",
+      "start_time": 2557,
+      "type": "music",
+      "description": "The choir performs a worship song that allows the congregation to express their praise and gratitude. This segment creates a moment for spiritual reflection and communal worship through music.",
+      "keywords": ["worship", "choir", "song", "praise"],
+      "performers": ["Church Choir"],
+      "songs": ["Worship Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: Final Praise",
+      "start_time": 3249,
+      "type": "music",
+      "description": "The congregation joins in singing a final hymn. This moment serves to strengthen the community's bond through shared faith and collective praise, effectively closing the service on a high note.",
+      "keywords": ["congregation", "hymn", "praise", "community"],
+      "performers": [],
+      "songs": ["Final Praise"],
+      "scripture_references": []
+    }
+  ]
+}
+```

@@ -1,0 +1,36 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Message: Envious Contentment (1 Corinthians 13:1-4)",
+      "start_time": 0,
+      "type": "sermon",
+      "description": "The sermon focuses on understanding the concept of contentment, particularly the destructive nature of envy and boasting as they relate to love. The speaker dives into scriptures from 1 Corinthians 13 and Philippians 4 to illustrate how love is selfless, promoting joy and peace. The message emphasizes recognizing jealousy and taking steps towards building true contentment through God's unconditional love.",
+      "keywords": ["contentment", "envy", "love", "Philippians", "1 Corinthians", "jealousy", "comparison", "freedom"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": ["1 Corinthians 13:1-4", "Philippians 4:10-13"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 156,
+      "type": "prayer",
+      "description": "The opening prayer is a moment where the speaker ask for God’s guidance and blessing over the day’s message, focusing on the importance of love and relationships. The prayer sets a tone for receiving the word that will be shared, inviting God’s presence into the service.",
+      "keywords": ["prayer", "God", "guidance", "blessing"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 2030,
+      "type": "prayer",
+      "description": "This invitation prayer serves as a call for those who have understood the gospel message to accept Christ's unconditional love and salvation. It highlights the simplicity of receiving God's love and emphasizes personal reflection on the individual's relationship with Jesus.",
+      "keywords": ["invitation", "gospel", "salvation", "Jesus", "reflection"],
+      "performers": ["[Unknown]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

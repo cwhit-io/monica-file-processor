@@ -1,0 +1,76 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [I Know You're Strong]",
+      "start_time": 60,
+      "type": "music",
+      "description": "The choir lifts the congregation with uplifting songs that emphasize God's strength and healing. The lyrics express a deep reliance on God's abilities to deliver and rescue us from our struggles. This musical segment sets a hopeful tone for the service, inviting everyone to join in worship.",
+      "keywords": ["worship", "choir", "strength", "healing", "deliverance"],
+      "performers": ["choir"],
+      "songs": ["I Know You're Strong"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Blessed Be Your Name]",
+      "start_time": 283,
+      "type": "music",
+      "description": "The choir continues to engage the congregation with the song 'Blessed Be Your Name.' The lyrics reflect gratitude and praise, acknowledging God's blessings in both good and challenging times. This deeply moving performance encourages the participants to turn their hearts towards gratitude and worship.",
+      "keywords": ["praise", "blessing", "gratefulness", "worship", "choir"],
+      "performers": ["choir"],
+      "songs": ["Blessed Be Your Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [For A Thousand Tongues to Sing]",
+      "start_time": 508,
+      "type": "music",
+      "description": "In this segment, the choir sings 'For A Thousand Tongues to Sing,' celebrating the glory and power of God. The song's themes focus on worshipping God and recognizing His redemptive work in our lives. The uplifting melody and passionate delivery enhance the spirit of worship in the service.",
+      "keywords": ["worship", "praise", "choir", "redemption", "celebration"],
+      "performers": ["choir"],
+      "songs": ["For A Thousand Tongues to Sing"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1762,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, inviting God’s presence into the service. The prayer acknowledges the burdens and challenges faced by the congregation and encourages a collective moment of surrender and trust in God’s sovereign plan. It's a reflective moment aimed at centering hearts on God’s will.",
+      "keywords": ["prayer", "community", "surrender", "trust", "faith"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [Romans 9]",
+      "start_time": 1786,
+      "type": "scripture",
+      "description": "A reading from the book of Romans presents a foundational scripture on God’s sovereignty and purpose. The selected verses highlight God's authority and choice in showing mercy. This reading deepens the understanding of God's nature and invites reflection on personal experiences with His sovereignty.",
+      "keywords": ["Scripture", "Romans", "sovereignty", "mercy", "God's plan"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Romans 9"]
+    },
+    {
+      "title": "Message: God, His Sovereignty and Suffering (Various Scriptures)",
+      "start_time": 1761,
+      "type": "sermon",
+      "description": "In this powerful sermon, Pastor Kelly Bird explores the relationship between God's sovereignty and human suffering. He emphasizes that while suffering is a reality of life in a fallen world, God’s sovereign plan is ultimately for our good. Through various scriptures, the message encourages believers to trust God amidst life's difficulties, understanding that there is purpose in pain.",
+      "keywords": ["suffering", "sovereignty", "trust", "faith", "purpose"],
+      "performers": ["Kelly Bird"],
+      "songs": [],
+      "scripture_references": ["Romans 9"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3552,
+      "type": "prayer",
+      "description": "This closing prayer seeks to cement the teachings of the service in the minds and hearts of the congregation. The prayer acknowledges the struggles faced by individuals and asks for God's guidance and healing. It concludes the service with a spirit of hope and encouragement to trust in God's sovereignty.",
+      "keywords": ["closing prayer", "healing", "trust", "encouragement", "faith"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

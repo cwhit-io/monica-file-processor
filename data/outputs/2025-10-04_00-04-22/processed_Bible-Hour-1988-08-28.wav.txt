@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: He Is Jehovah",
+      "start_time": 291,
+      "type": "music",
+      "description": "The sanctuary choir leads the congregation in the Hebrew song 'He Is Jehovah,' celebrating the greatness of God. This powerful piece reminds us of God's everlasting presence and His identity as the eternal I Am. The choir's harmonious rendition lifts the spirits and encourages a collective acknowledgment of divine majesty.",
+      "keywords": ["choir", "Jehovah", "song", "worship", "God"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["He Is Jehovah"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: It Is Well with My Soul",
+      "start_time": 494,
+      "type": "music",
+      "description": "A poignant solo performance of 'It Is Well with My Soul' resonates deeply with the congregation, reflecting themes of inner peace and trust in God through hardship. This hymn encapsulates the comfort and assurance found in faith, encouraging all to find solace even amidst life's storms.",
+      "keywords": ["solo", "hymn", "peace", "trust", "faith"],
+      "performers": ["Susan Toyrak"],
+      "songs": ["It Is Well with My Soul"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Southern Style",
+      "start_time": 746,
+      "type": "music",
+      "description": "In a lively presentation, Susan Toyrak performs a southern-style song, enhancing the service's cultural diversity and musical richness. This piece not only entertains but also conveys a meaningful message, engaging the congregation and highlighting God's presence in various musical expressions.",
+      "keywords": ["solo", "southern", "music", "worship", "God"],
+      "performers": ["Susan Toyrak"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1504,
+      "type": "prayer",
+      "description": "Pastor Rick Hawks leads the congregation in an opening prayer, praising God and seeking forgiveness for individual and collective sins. The prayer emphasizes the need for spiritual renewal and invites God's presence to guide the worship service, setting a tone of reverence and humility.",
+      "keywords": ["prayer", "worship", "forgiveness", "God", "congregation"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Sailing in the Rough Times (Colossians 3:15-17)",
+      "start_time": 1781,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a profound message entitled 'Sailing in the Rough Times' based on Colossians 3:15-17. He explores the importance of peace and gratitude in navigating life's storms and encourages the congregation to find strength in Scripture. The sermon emphasizes reliance on God during turbulent periods, providing practical insights for spiritual resilience.",
+      "keywords": ["sermon", "Colossians", "peace", "gratitude", "strength"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Colossians 3:15-17"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3553,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer, in which participants are invited to acknowledge their need for Christ's forgiveness and guidance. The prayer emphasizes personal spiritual commitment and reflects the day's themes of trust and resilience, inviting attendees to carry the message into their lives.",
+      "keywords": ["closing", "prayer", "forgiveness", "commitment", "God"],
+      "performers": ["Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

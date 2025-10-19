@@ -1,0 +1,74 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with uplifting music that sets a welcoming tone for the congregation. It encourages attendees to focus their hearts and minds on worship. The music serves to prepare the space for the message ahead, increasing anticipation among listeners.",
+      "keywords": ["worship", "service", "music", "congregation", "welcome"],
+      "performers": [" Choir "],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: It Is Well With My Soul",
+      "start_time": 230,
+      "type": "music",
+      "description": "The congregation joins in singing a heartfelt hymn, reflecting the theme of peace and trust in God. The lyrics resonate deeply, as they acknowledge struggles while affirming faith. This communal moment fosters a sense of unity and spiritual connection among attendees.",
+      "keywords": ["hymn", "congregation", "worship", "peace", "faith"],
+      "performers": [],
+      "songs": ["It Is Well With My Soul"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 514,
+      "type": "music",
+      "description": "A soloist captivates the congregation with a powerful performance, inviting a moment of personal reflection and worship. The song emphasizes themes of hope and reliance on God, offering a poignant worship experience that resonates emotionally with the audience.",
+      "keywords": ["solo", "worship", "hope", "reflection", "music"],
+      "performers": ["Corbin", "Tonya"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 570,
+      "type": "prayer",
+      "description": "The pastor leads an opening prayer, inviting God's presence into the service. This moment of prayer focuses on humility and the worship experience's purpose, encouraging attendees to align their hearts in readiness to receive the message.",
+      "keywords": ["prayer", "worship", "humility", "service", "God's presence"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Faith and Works (James 2)",
+      "start_time": 777,
+      "type": "sermon",
+      "description": "The pastor dives into the message from James 2, addressing the interplay between faith and works in a believer's life. Throughout the sermon, he emphasizes the importance of genuine faith demonstrated through actions. Practical application of faith in various life contexts is encouraged, urging listeners to reflect on their own practices and attitudes.",
+      "keywords": ["faith", "works", "James", "sermon", "application"],
+      "performers": ["Kelly"],
+      "songs": [],
+      "scripture_references": ["James 2"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3466,
+      "type": "prayer",
+      "description": "In closing, the pastor leads a prayer of thanksgiving, reflecting on the teachings shared during the service. This prayer requests guidance for the congregation to live out their faith actively and courageously, fostering a commitment to God’s principles in their daily lives.",
+      "keywords": ["closing prayer", "thanksgiving", "guidance", "faith", "service"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 3538,
+      "type": "music",
+      "description": "The service concludes with a joyful choir performance that celebrates the message and uplifts the congregation. This concluding music reinforces the themes of the service, sending attendees out with a sense of hope and motivation to apply what they have learned.",
+      "keywords": ["choir", "celebration", "worship", "joy", "hope"],
+      "performers": ["Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Hosanna",
+      "start_time": 170,
+      "type": "music",
+      "description": "The church's sanctuary choir performed a stirring rendition of 'Hosanna,' inviting the congregation to join in worship. The uplifting atmosphere encouraged participants to praise and reflect on the meaning of the song as it praises the coming of the Lord. This musical segment fostered a sense of community and spiritual connection.",
+      "keywords": ["choir", "Hosanna", "worship", "praise", "music"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Hosanna"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Working with the Builder (Matthew 16:13-19; 24-27)",
+      "start_time": 1829,
+      "type": "sermon",
+      "description": "David Fetser's sermon, titled 'Working with the Builder,' focuses on Christ’s promise to build His church through His disciples. He explores the roles of Jesus and His followers in the church's construction, emphasizing personal responsibility and community involvement in spiritual growth. The message is both a call to action and a testament to the transformative power of faith.",
+      "keywords": ["Jesus", "church", "disciples", "Matthew", "faith"],
+      "performers": ["David Fetser"],
+      "songs": [],
+      "scripture_references": ["Matthew 16:13-19", "Matthew 16:24-27"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3482,
+      "type": "prayer",
+      "description": "In the closing prayer, gratitude is expressed for the opportunity to serve and build the church. The prayer invites those who have not yet accepted Christ to take that step today, reinforcing the sermon’s theme of individual commitment and discipleship. It serves as a poignant wrap-up to the service, solidifying participants' intentions to grow spiritually.",
+      "keywords": ["prayer", "church", "commitment", "Jesus", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

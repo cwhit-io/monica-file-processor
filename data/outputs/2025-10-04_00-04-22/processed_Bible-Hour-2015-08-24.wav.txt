@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Opening Worship",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with a vibrant opening worship led by the choir, inviting congregants to focus on the power and significance of the name of Jesus. The atmosphere is filled with an expectation of transformation through worship.",
+      "keywords": ["worship", "choir", "Jesus", "power", "transformation"],
+      "performers": ["Choir"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    },
+    {
+      "title": "testimony: Kevin's Journey",
+      "start_time": 396,
+      "type": "testimony",
+      "description": "Kevin shares a heartfelt testimony of his life journey, detailing struggles with addiction, family trauma, and spiritual awakening. His narrative emphasizes the importance of community support and personal accountability in finding healing and restoration.",
+      "keywords": ["testimony", "addiction", "family", "healing", "faith"],
+      "performers": ["Kevin"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 851,
+      "type": "prayer",
+      "description": "The congregation unites in an opening prayer led by the pastor, seeking God's guidance and wisdom as they reflect on the teachings of Proverbs. There's a palpable sense of anticipation for the message to come.",
+      "keywords": ["prayer", "guidance", "wisdom", "Proverbs", "congregation"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Pursuing Sexual Purity (Proverbs 5)",
+      "start_time": 859,
+      "type": "sermon",
+      "description": "In this impactful sermon based on Proverbs 5, the pastor discusses strategies for pursuing sexual purity. He emphasizes understanding temptation, establishing protective patterns, seeking biblical teaching, and enjoying God’s gifts within marriage. Highlighting grace and accountability, he calls for honesty and support among believers.",
+      "keywords": ["sermon", "sexual purity", "Proverbs", "accountability", "marriage"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Proverbs 5"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3532,
+      "type": "prayer",
+      "description": "As the sermon concludes, an invitation prayer is offered, encouraging individuals to respond to God’s call for healing and restoration in their lives. The pastor leads the congregation in a hopeful and uplifting prayer, inviting those in need to seek support and community.",
+      "keywords": ["prayer", "invitation", "healing", "support", "restoration"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Closing Worship",
+      "start_time": 3559,
+      "type": "music",
+      "description": "The service wraps up with closing worship, allowing the congregation to respond in praise and honor to God. The music fosters a spirit of unity and celebration, highlighting the themes of hope and transformation discussed throughout the service.",
+      "keywords": ["worship", "closing", "praise", "unity", "transformation"],
+      "performers": ["Choir"],
+      "songs": ["Unknown"],
+      "scripture_references": []
+    }
+  ]
+}
+```

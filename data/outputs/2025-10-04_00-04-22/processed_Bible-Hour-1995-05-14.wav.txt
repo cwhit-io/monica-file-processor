@@ -1,0 +1,54 @@
+{
+  "chapters": [
+    {
+      "title": "Congregational Hymn: [Unspecified Song]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with upbeat music, welcoming the congregation to Black Hawk Baptist Church. It sets a positive tone for worship as members gather, ready to engage in the services of the morning.",
+      "keywords": ["service", "welcome", "worship", "Black Hawk Baptist"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unspecified Song]",
+      "start_time": 62,
+      "type": "music",
+      "description": "The choir performs a heartfelt number that encapsulates themes of love and home. Their harmonies and uplifting message resonate with the congregation, fostering a sense of community and shared purpose.",
+      "keywords": ["choir", "love", "home", "music"],
+      "performers": ["Choir"],
+      "songs": ["Unspecified Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Strong Families (Colossians 3)",
+      "start_time": 687,
+      "type": "sermon",
+      "description": "In this sermon, the speaker emphasizes the importance of strong, godly families. Drawing from Colossians 3, he addresses the roles of wives, husbands, and children, offering practical advice derived from personal anecdotes and biblical principles. The sermon focuses on collective responsibility in family dynamics and encourages mutual support amongst family members.",
+      "keywords": ["family", "Colossians", "roles", "responsibility", "God"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": ["Colossians 3"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3460,
+      "type": "prayer",
+      "description": "The pastor leads a heartfelt invitation prayer, encouraging congregants to accept Jesus as their personal Lord and Savior. This moment highlights the importance of personal faith in establishing a strong family foundation.",
+      "keywords": ["prayer", "invitation", "faith", "Jesus"],
+      "performers": ["Pastor Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Bible Hour Invitation",
+      "start_time": 3480,
+      "type": "announcement",
+      "description": "The service concludes with announcements about the Bible Hour and an invitation to write in with prayer requests or decisions made during the service. It reinforces community support and connection outside of regular services.",
+      "keywords": ["Bible Hour", "announcement", "community", "support"],
+      "performers": ["Jeff Carlson"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

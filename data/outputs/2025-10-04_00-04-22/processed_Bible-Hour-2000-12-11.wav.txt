@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Rise Up, Shepherd and Follow",
+      "start_time": 22,
+      "type": "music",
+      "description": "The choir performs the uplifting song 'Rise Up, Shepherd and Follow,' inviting the congregation to engage with the celebration of the season. The music sets a joyful atmosphere, encouraging everyone to reflect on the message of following the path of faith.",
+      "keywords": ["choir", "worship", "celebration", "joy", "faith"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Rise Up, Shepherd and Follow"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Unknown]",
+      "start_time": 389,
+      "type": "music",
+      "description": "The congregation joins in a hymn, expressing their faith through song. This moment of musical worship allows attendees to collectively praise and reflect on their spiritual journey together, enhancing the community bond within the service.",
+      "keywords": ["hymn", "worship", "congregational", "faith", "community"],
+      "performers": [],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown]",
+      "start_time": 500,
+      "type": "music",
+      "description": "A solo performance enhances the worship experience, providing a moment for contemplation and reflection on the messages being shared through music. This intimate setting encourages deeper personal engagement with the themes of faith and hope.",
+      "keywords": ["solo", "worship", "reflection", "music", "intimacy"],
+      "performers": [],
+      "songs": ["[Unknown]"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Series: Don't Leave the Gift Unopened",
+      "start_time": 662,
+      "type": "announcement",
+      "description": "The church announces the start of a three-week sermon series titled 'Don't Leave the Gift Unopened.' This series aims to explore the significance of Christ's gift and its implications for personal faith, inviting reflection and engagement from both new and seasoned believers.",
+      "keywords": ["series", "announcement", "faith", "Christ", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: He Understands (Philippians 2, Hebrews 2, Hebrews 4)",
+      "start_time": 668,
+      "type": "sermon",
+      "description": "In this powerful message, the pastor emphasizes that Jesus understands the human experience deeply, sharing poignant stories and biblical references to highlight Christ's empathy and sympathy. The sermon explores themes of mercy, compassion, and the importance of drawing near to God in times of need.",
+      "keywords": ["sermon", "understanding", "faith", "mercy", "compassion"],
+      "performers": ["Pastor [Name]"],
+      "songs": [],
+      "scripture_references": ["Philippians 2", "Hebrews 2", "Hebrews 4"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3502,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt invitation prayer, encouraging all to seek a relationship with Christ. This moment reinforces the core message of understanding and compassion shared throughout the service.",
+      "keywords": ["invitation", "prayer", "faith", "community", "Christ"],
+      "performers": ["Pastor [Name]"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

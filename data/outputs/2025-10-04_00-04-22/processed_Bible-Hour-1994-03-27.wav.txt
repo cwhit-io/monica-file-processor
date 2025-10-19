@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Praise of Peace]",
+      "start_time": 124,
+      "type": "music",
+      "description": "The service opens with a beautiful choir performance titled 'Praise of Peace'. The choir expresses themes of love and devotion, inspiring the congregation to focus on the overarching message of peace and worship. The performance aligns with the spirit of the service, uplifting attendees with musical praise.",
+      "keywords": ["choir", "praise", "peace", "worship", "music"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Praise of Peace"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Hosanna]",
+      "start_time": 577,
+      "type": "music",
+      "description": "The congregation joins in a spirited hymn titled 'Hosanna'. The song celebrates the triumphant entry of Jesus into Jerusalem, encouraging everyone to lift their voices in praises. It reflects the joy and anticipation of Easter Week, as attendees connect personally with the message embedded within the lyrics.",
+      "keywords": ["Hosanna", "Congregational", "Easter", "joy", "celebration"],
+      "performers": [],
+      "songs": ["Hosanna"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Triumphal Entry (Matthew 21)",
+      "start_time": 1051,
+      "type": "sermon",
+      "description": "Pastor Moore delivers a profound sermon on the significance of the Triumphal Entry of Jesus into Jerusalem. He explores the contrasting expectations of the crowd with Jesus' true mission: to save humanity from sin. The message highlights themes of misunderstanding, rejection, and the fulfillment of prophecy, urging believers to reflect on their own response to Christ.",
+      "keywords": ["sermon", "triumphal entry", "Jesus", "Matthew", "salvation"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Matthew 21"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3391,
+      "type": "prayer",
+      "description": "Pastor Moore leads the congregation in an opening prayer, focusing on gratitude and the significance of Jesus' sacrifice. This moment invites worship and sets the tone for the service, fostering a spirit of reverence and reflection among attendees as they contemplate the themes of Easter.",
+      "keywords": ["prayer", "opening", "congregation", "Easter", "worship"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3391,
+      "type": "prayer",
+      "description": "The service concludes with a heartfelt closing prayer led by Pastor Moore. He calls upon the congregation to reflect on the message received, encouraging them to live out their faith throughout the Easter season. The prayer emphasizes community and commitment to God’s purposes.",
+      "keywords": ["prayer", "closing", "community", "faith", "commitment"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

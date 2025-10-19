@@ -1,0 +1,64 @@
+{
+  "chapters": [
+    {
+      "title": "Choir: Behold what manner of love",
+      "start_time": 65,
+      "type": "music",
+      "description": "The choir leads the congregation in worship with the song 'Behold what manner of love.' The lyrics reflect on the deep, sacrificial love of God and the redemption offered through Christ. This musical segment sets a reverent tone for the service, inviting all to meditate on the love of God.",
+      "keywords": ["worship", "choir", "love", "God", "song"],
+      "performers": ["Bill Laman", "Lynn Raul"],
+      "songs": ["Behold what manner of love"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: The only hope for the world",
+      "start_time": 530,
+      "type": "music",
+      "description": "A powerful solo performance emphasizes the message that 'The only hope for the world is Jesus.' The song details the need for divine intervention in the world and expresses a heartfelt plea for all people to turn to God. The congregation is encouraged to seek spiritual healing through Christ.",
+      "keywords": ["hope", "Jesus", "salvation", "world", "solo"],
+      "performers": ["Lynn Raul"],
+      "songs": ["The only hope for the world"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 796,
+      "type": "prayer",
+      "description": "The pastor offers an opening prayer, giving thanks for the gathering and asking for God's guidance and presence throughout the service. This moment prepares the hearts of the congregation for worship and the message to follow, creating a spiritual atmosphere.",
+      "keywords": ["prayer", "worship", "guidance", "service", "God"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The Dangers of Loving Money (1 Timothy 6:6-10)",
+      "start_time": 802,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delivers a sermon based on 1 Timothy 6:6-10, discussing the dangers of loving money. He explores how the pursuit of wealth can lead to temptation and destruction, contrasting it with the true contentment found in God. The sermon calls for reflection on one's relationship with money and encourages generosity over greed.",
+      "keywords": ["money", "wealth", "generosity", "contentment", "1 Timothy"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["1 Timothy 6:6-10"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3451,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, where the pastor leads the congregation in thanking God for the message and asking for help to apply it in their lives. This prayer emphasizes the importance of living out faith in practical ways, especially regarding money and possessions.",
+      "keywords": ["prayer", "closing", "message", "faith", "application"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Bible Hour Invitation",
+      "start_time": 3417,
+      "type": "announcement",
+      "description": "An invitation is extended to viewers and attendees to connect with the Bible Hour ministry and participate in upcoming events. The announcement includes a call for those who made spiritual decisions during the service to reach out for support and resources, hinting at community engagement.",
+      "keywords": ["Bible Hour", "invitation", "community", "events", "spiritual"],
+      "performers": ["Ed Richard"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}

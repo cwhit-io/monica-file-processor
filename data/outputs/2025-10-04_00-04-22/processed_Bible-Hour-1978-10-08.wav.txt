@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Redeemed",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir, under the direction of Mr. Rick Halls, performs the uplifting song 'Redeemed.' The lyrics express the joy and solace found in their relationship with Jesus, reinforcing the theme of redemption that is central to the Christian faith.",
+      "keywords": ["choir", "redeemed", "happiness", "Jesus", "worship"],
+      "performers": ["Rick Halls"],
+      "songs": ["Redeemed"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Unknown Title]",
+      "start_time": 787,
+      "type": "music",
+      "description": "A heartfelt solo performance that encapsulates the themes of peace and joy in faith. The soloist's rendition beautifully complements the earlier choir piece, enhancing the worship atmosphere.",
+      "keywords": ["solo", "peace", "joy", "worship", "music"],
+      "performers": ["Beverly Brunky"],
+      "songs": ["[Unknown Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 991,
+      "type": "prayer",
+      "description": "Pastor David Jeremiah leads the congregation in an opening prayer, asking for God's guidance and a receptive heart as they gather to worship and hear His word.",
+      "keywords": ["prayer", "opening", "guidance", "worship", "congregation"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Mark 6",
+      "start_time": 1001,
+      "type": "scripture",
+      "description": "The scripture reading from the sixth chapter of Mark sets the stage for the sermon, highlighting Jesus's compassion for the multitude who sought Him.",
+      "keywords": ["scripture", "Mark", "compassion", "Jesus", "reading"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Mark 6"]
+    },
+    {
+      "title": "Message: Compassion for the Multitude (Mark 6:34)",
+      "start_time": 1041,
+      "type": "sermon",
+      "description": "In a poignant sermon, Pastor David Jeremiah reflects on Jesus's compassion as He teaches the crowds. The message emphasizes the importance of seeing and responding to the needs of others, echoing the themes of commitment and sacrifice in ministry.",
+      "keywords": ["sermon", "compassion", "multitude", "Jesus", "ministry"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": ["Mark 6:34"]
+    },
+    {
+      "title": "Congregational Hymn: Come, Thou Fount of Every Blessing",
+      "start_time": 669,
+      "type": "music",
+      "description": "The congregation joins in singing the beloved hymn 'Come, Thou Fount of Every Blessing'. This hymn invites worshipers to tune their hearts to God's grace and affirms their commitment to worship and service.",
+      "keywords": ["congregational", "hymn", "worship", "blessing", "grace"],
+      "performers": [],
+      "songs": ["Come, Thou Fount of Every Blessing"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3391,
+      "type": "prayer",
+      "description": "As the service draws to a close, Pastor Jeremiah leads a closing prayer, reflecting on the day’s messages and asking for God's continued guidance as the congregation commits to living out their faith.",
+      "keywords": ["closing", "prayer", "commitment", "faith", "guidance"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Future Ministry Opportunities",
+      "start_time": 3530,
+      "type": "announcement",
+      "description": "The service concludes with announcements regarding upcoming ministry opportunities and encouragement for the congregation to engage in the church’s outreach efforts. The pastor emphasizes the importance of commitment to community service.",
+      "keywords": ["announcement", "ministry", "commitment", "outreach", "community"],
+      "performers": ["David Jeremiah"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

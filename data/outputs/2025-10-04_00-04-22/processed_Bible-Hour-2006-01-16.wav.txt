@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Congregational Hymn: [Song Title]",
+      "start_time": 30,
+      "type": "music",
+      "description": "The congregation begins the service with a series of uplifting songs, inviting participation and reflection. Lyrics proclaim the authority of Jesus and the divine mission of making disciples. This segment sets a spiritual tone, encouraging attendees to engage with the themes of faith and community.",
+      "keywords": ["authority", "disciples", "baptizing", "worship", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 130,
+      "type": "prayer",
+      "description": "The opening prayer humbly acknowledges God's greatness, inviting the congregation to lift their hearts in worship. This prayer emphasizes submitting to God and seeking His presence as they gather to worship. It's a moment of collective reverence aimed at connecting with the divine.",
+      "keywords": ["prayer", "worship", "humility", "acknowledgment", "community"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Living Transformed Lives (Romans 12)",
+      "start_time": 1478,
+      "type": "sermon",
+      "description": "The sermon delves into Romans, detailing God's unfolding plan for redemption. The speaker emphasizes the importance of living transformed lives in community, grounded in love and mutual support. Key themes include personal responsibility and how believers are called to embody sincerity, affection, and dedication within their relationships.",
+      "keywords": ["Romans", "transformation", "redemption", "community", "love"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["Romans 1:18", "Romans 2:1", "Romans 3:10", "Romans 3:23", "Romans 4:5", "Romans 5:1", "Romans 6:6", "Romans 7:17", "Romans 8:1", "Romans 10:9", "Romans 10:12", "Romans 12:10-13"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3498,
+      "type": "prayer",
+      "description": "The closing prayer reflects on the sermon’s message, asking for God's help to apply the teachings in daily life. It seeks divine guidance for the church community to embody the principles of love and transformation discussed. This prayer serves as a concluding moment of focus before the session ends.",
+      "keywords": ["prayer", "application", "community", "guidance", "transformation"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 3546,
+      "type": "music",
+      "description": "The choir concludes the service with a powerful musical performance, encouraging reflection and celebration of the message shared. The music encapsulates the themes of worship and unity, inviting all present to leave uplifted and inspired. This segment reinforces the spirit of joy in the congregation.",
+      "keywords": ["worship", "choir", "celebration", "uplift", "unity"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

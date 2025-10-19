@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Shalom",
+      "start_time": 200,
+      "type": "music",
+      "description": "The Sanctuary Choir presents a heartfelt rendition of 'Shalom.' This musical piece conveys a message of peace amidst life's challenges, echoing the biblical theme of comfort and God's presence in times of trouble. The choir's performance encourages the congregation to embrace the tranquility offered by the Lord.",
+      "keywords": ["peace", "shalom", "choir", "comfort", "God"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Shalom"],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: It is Well with My Soul",
+      "start_time": 556,
+      "type": "music",
+      "description": "The congregation joins in singing the well-loved hymn 'It is Well with My Soul.' This hymn reflects deep spiritual assurance and trust in God's sovereignty, even in life's tumultuous moments. The voices of the worshippers blend together, creating an atmosphere of hope and unity as they affirm their faith.",
+      "keywords": ["hymn", "faith", "assurance", "soul", "worship"],
+      "performers": [],
+      "songs": ["It is Well with My Soul"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: He's All You Need",
+      "start_time": 924,
+      "type": "music",
+      "description": "Lynn Roll performs a poignant solo titled 'He's All You Need.' The song beautifully expresses the sufficiency of God's love and presence in every situation, encouraging believers to find solace and strength in their relationship with Him. The emotional delivery resonates with the congregation, inviting reflection.",
+      "keywords": ["solo", "God", "strength", "comfort", "love"],
+      "performers": ["Lynn Roll"],
+      "songs": ["He's All You Need"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1795,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, focusing on the presence of God in times of suffering and joy. The pastor invites the congregation to reflect on personal struggles and victories while thanking God for His unwavering love and support in every circumstance.",
+      "keywords": ["prayer", "presence", "comfort", "worship", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Biblical Economics 3 (Proverbs 6)",
+      "start_time": 113,
+      "type": "sermon",
+      "description": "Pastor Rick Cox delivers a comprehensive sermon on 'Biblical Economics 3,' focusing on the principles of planning, saving, and the wisdom found in Proverbs. He emphasizes the importance of diligence and foresight, urging the congregation to consider the long-term consequences of their financial decisions. Drawing parallels to the industriousness of ants, the message encourages a proactive approach to resource management.",
+      "keywords": ["sermon", "economics", "planning", "wisdom", "Proverbs"],
+      "performers": ["Pastor Rick Cox"],
+      "songs": [],
+      "scripture_references": ["Proverbs 6"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 1944,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, seeking God's guidance and comfort for those facing difficult times. The pastor prays for strength, healing, and encouragement, particularly for individuals in emotional or physical struggle. This prayer serves as a powerful reminder of God's omnipresence and love for His people.",
+      "keywords": ["prayer", "closing", "healing", "strength", "comfort"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

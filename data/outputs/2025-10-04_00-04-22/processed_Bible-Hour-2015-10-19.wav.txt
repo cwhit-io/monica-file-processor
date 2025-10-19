@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Oh No, You Never Let Go",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir leads a heartfelt song expressing faith amidst life's difficulties. The lyrics remind us that even through dark times, God's love surrounds us, providing hope and comfort. The repetition emphasizes reliance on divine strength and the promise of unwavering support.",
+      "keywords": ["choir", "faith", "comfort", "hope", "love"],
+      "performers": ["Choir"],
+      "songs": ["Oh No, You Never Let Go"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: I Have Decided to Follow Jesus",
+      "start_time": 331,
+      "type": "music",
+      "description": "A soloist performs a powerful declaration of commitment to follow Jesus without turning back. The lyrics convey a deep sense of dedication to the Christian faith, highlighting the choice to stand firm in the face of challenges. The song resonates with the theme of unwavering resolve in spiritual journeys.",
+      "keywords": ["solo", "commitment", "dedication", "faith", "Jesus"],
+      "performers": ["Soloist"],
+      "songs": ["I Have Decided to Follow Jesus"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Covenant with Abraham (Genesis 12-17)",
+      "start_time": 1086,
+      "type": "sermon",
+      "description": "The pastor dives into God's covenant with Abraham, emphasizing the significance of faith and obedience. He discusses Abraham's challenges and mistakes while underscoring God's faithfulness. Listeners are encouraged to reflect on their relationship with God and the importance of trust and worship in fulfilling His promises.",
+      "keywords": ["Abraham", "covenant", "faith", "obedience", "promises"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Genesis 12-17"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 3175,
+      "type": "prayer",
+      "description": "The service begins with an opening prayer that sets a focused tone for worship. The pastor honors God's presence and invites the congregation to prepare their hearts for the messages and music. This moment emphasizes the importance of connecting with God at the start of the service.",
+      "keywords": ["prayer", "worship", "connection", "God"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Your Name",
+      "start_time": 3263,
+      "type": "music",
+      "description": "The choir concludes the service with a uplifting anthem, celebrating the power of Jesus' name. The lyrics reflect on the hope and healing that come through faith, inviting the congregation to lift their voices in praise together. It's a grand finale to the service, highlighting communal worship.",
+      "keywords": ["choir", "praise", "Jesus", "worship", "hope"],
+      "performers": ["Choir"],
+      "songs": ["Your Name"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3493,
+      "type": "prayer",
+      "description": "The service closes with a heartfelt prayer, asking for blessings on the congregation as they go about their week. The pastor prays for strength, guidance, and courage to walk in faith, reinforcing the themes of the sermon. It's a reflective moment that provides peace and encouragement.",
+      "keywords": ["prayer", "blessings", "faith", "strength", "guidance"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

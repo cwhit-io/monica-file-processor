@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Exultation",
+      "start_time": 191,
+      "type": "music",
+      "description": "The choir performs a majestic anthem titled 'Exultation,' celebrating God's honor and goodness. This uplifting piece encourages the congregation to rejoice and sing praises, creating an atmosphere of worship. The choir's harmonies emphasize themes of freedom and happiness.",
+      "keywords": ["choir", "exultation", "praise", "worship", "freedom"],
+      "performers": ["Black Hawk Baptist Church Choir"],
+      "songs": ["Exultation"],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: We Must Love Them While We Can",
+      "start_time": 334,
+      "type": "music",
+      "description": "Kathy Hawks performs a touching solo, 'We Must Love Them While We Can.' The song reflects on cherished memories and the importance of loving our parents while they are still with us. It resonates particularly on Mother's Day, reminding the congregation of familial bonds.",
+      "keywords": ["solo", "love", "mother's day", "memories", "family"],
+      "performers": ["Kathy Hawks"],
+      "songs": ["We Must Love Them While We Can"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1155,
+      "type": "prayer",
+      "description": "A heartfelt opening prayer is offered, focusing on mothers and the challenges they face. The pastor prays for comfort for those who are grieving and strength for mothers as they carry out their daily responsibilities. It's a moment of collective gratitude and introspection.",
+      "keywords": ["prayer", "mothers", "thankfulness", "comfort", "strength"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Proverbs 31",
+      "start_time": 2013,
+      "type": "scripture",
+      "description": "The scripture reading focuses on Proverbs 31, a chapter praising the qualities and virtues of a godly woman. This reading sets the foundation for the day's message, highlighting the profound worth and roles women play in their families and communities.",
+      "keywords": ["scripture", "Proverbs", "women", "godly", "worth"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Proverbs 31"]
+    },
+    {
+      "title": "Message: The Worth of a Godly Woman (Proverbs 31)",
+      "start_time": 1720,
+      "type": "sermon",
+      "description": "Pastor Rick Hawks delivers a powerful message on Mother's Day, discussing the worth of a godly woman. Drawing from Proverbs 31, he explores the various roles women play, emphasizing their value and contributions to family and society. His engaging anecdotes and teachings inspire reflection on appreciation and respect for mothers.",
+      "keywords": ["sermon", "mothers", "worth", "Proverbs", "appreciation"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": ["Proverbs 31"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3471,
+      "type": "prayer",
+      "description": "In closing, a prayer is offered for the congregation, focusing on the importance of Christ in their lives. The pastor leads a moment of reflection for anyone seeking spiritual commitment or reconciliation with God. It serves as a heartfelt conclusion to the service.",
+      "keywords": ["prayer", "closing", "commitment", "reflection", "spiritual"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: I Need Thee Every Hour",
+      "start_time": 1240,
+      "type": "music",
+      "description": "The congregation lifts their voices in a heartfelt rendition of 'I Need Thee Every Hour.' This hymn emphasizes the need for God's presence in daily life. It creates a powerful moment of unity and reverence within the worship experience.",
+      "keywords": ["congregational", "hymn", "worship", "unity", "praise"],
+      "performers": [],
+      "songs": ["I Need Thee Every Hour"],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Upcoming Events",
+      "start_time": 691,
+      "type": "announcement",
+      "description": "The pastor shares upcoming events at the Black Hawk Baptist Church, including special services and acknowledgments to the congregation. This section encourages community involvement and highlights the church’s ongoing activities and celebrations, fostering engagement.",
+      "keywords": ["announcement", "events", "church", "community", "involvement"],
+      "performers": ["Pastor Rick Hawks"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

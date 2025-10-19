@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Worship Song",
+      "start_time": 0,
+      "type": "music",
+      "description": "The choir leads a vibrant worship session with uplifting songs, inviting the congregation into a spirit of praise and thanksgiving. The music enhances the atmosphere, helping attendees to connect with God through communal singing.",
+      "keywords": ["worship", "choir", "praise", "song"],
+      "performers": ["Choir"],
+      "songs": ["Worship Song"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: We Will Worship You",
+      "start_time": 194,
+      "type": "music",
+      "description": "The choir continues to lead the congregation in worship with a powerful song, emphasizing themes of glorifying God's grace and majesty. The lyrics encourage attendees to fully engage with heartfelt devotion.",
+      "keywords": ["worship", "choir", "praise", "song"],
+      "performers": ["Choir"],
+      "songs": ["We Will Worship You"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 590,
+      "type": "prayer",
+      "description": "The service transitions to an opening prayer where the pastor expresses gratitude for the gathering and invites God's presence. This prayer sets a reflective tone for the worship and teaching that follows.",
+      "keywords": ["prayer", "worship", "gratitude"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Purposeful Parenting in a Pleasure Driven World (Proverbs 1:32)",
+      "start_time": 611,
+      "type": "sermon",
+      "description": "In this insightful message, the pastor discusses the challenges of parenting in a culture driven by pleasure. He emphasizes the importance of intentional parenting and provides practical advice to help guide children in love and discipline. The sermon includes engaging stories and relevant scripture to support the message, urging parents to be proactive in their approach.",
+      "keywords": ["parenting", "culture", "wisdom", "Proverbs"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": ["Proverbs 1:32"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3536,
+      "type": "prayer",
+      "description": "The closing prayer encapsulates the messages of the service, asking for wisdom and guidance for parents as they navigate the complexities of raising children in today's world. The pastor invites the congregation to commit to supporting one another.",
+      "keywords": ["prayer", "guidance", "community"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Exit Song",
+      "start_time": 3593,
+      "type": "music",
+      "description": "The service concludes with a joyful exit song led by the choir, encouraging the congregation to leave with hearts uplifted and spirits renewed. The music reinforces the messages shared throughout the service, sending attendees forth with hope.",
+      "keywords": ["worship", "choir", "joy", "song"],
+      "performers": ["Choir"],
+      "songs": ["Exit Song"],
+      "scripture_references": []
+    }
+  ]
+}
+```

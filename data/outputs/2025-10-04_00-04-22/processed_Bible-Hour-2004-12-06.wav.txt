@@ -1,0 +1,56 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 30,
+      "type": "music",
+      "description": "The service opens with dramatic music followed by an upbeat performance. The music sets a celebratory tone, reflecting themes of humility and servanthood, drawing attention to the nature of Christ. As the music plays, the congregation is invited to reflect on the story of Christ's humility and how it relates to their lives.",
+      "keywords": ["music", "humility", "servanthood", "celebration"],
+      "performers": ["Choir"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: The genealogy of Christ (Matthew 1)",
+      "start_time": 650,
+      "type": "sermon",
+      "description": "The sermon explores the genealogy of Jesus as recorded in Matthew, emphasizing the significance of His lineage and the grace of God throughout history. The speaker discusses the royal lineage from David to Jesus, highlighting key figures and their stories, and the hope and identity that this genealogy provides for believers today.",
+      "keywords": ["genealogy", "Jesus", "Matthew", "royalty", "grace"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": ["Matthew 1"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1673,
+      "type": "prayer",
+      "description": "The service transitions into an opening prayer, where the leader asks for God's transformative power to affect the hearts and attitudes of the congregation. This prayer serves as a preparation for worship, acknowledging the sovereignty of God and the need for humility among His people.",
+      "keywords": ["prayer", "humility", "transformation", "worship"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: [Song Title]",
+      "start_time": 575,
+      "type": "music",
+      "description": "A solo performance highlights the themes of the service, allowing the congregation to engage with the message of humility through music. The lyrical content encourages reflection on the life of Christ and His embodiment of servanthood, enhancing the overall worship experience.",
+      "keywords": ["solo", "worship", "reflection"],
+      "performers": ["Jenny"],
+      "songs": ["[Song Title]"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3572,
+      "type": "prayer",
+      "description": "The service concludes with a closing prayer, expressing gratitude for God's grace throughout the message. The leader prays for strength to live out the teachings from the sermon and that the congregation remains mindful of their heritage in Christ as they leave.",
+      "keywords": ["prayer", "thanksgiving", "grace"],
+      "performers": ["Unknown"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

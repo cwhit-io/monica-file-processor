@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Joy to the World",
+      "start_time": 167,
+      "type": "music",
+      "description": "The Living Christmas Tree Choir performs the beloved carol 'Joy to the World.' This festive rendition brings joy and celebration as the church gathers in unity to welcome the Christmas season with musical praise.",
+      "keywords": ["joy", "world", "Christmas", "choir", "music"],
+      "performers": ["Living Christmas Tree Choir"],
+      "songs": ["Joy to the World"],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Emmanuel, God with us",
+      "start_time": 522,
+      "type": "music",
+      "description": "The Living Christmas Tree Choir, accompanied by soloist Reed LaFavor, presents the song 'Emmanuel, God with us.' This performance captures the essence of the Christmas story, celebrating the incarnation of Christ and His presence among us.",
+      "keywords": ["Emmanuel", "Christmas", "choir", "Reed LaFavor", "music"],
+      "performers": ["Living Christmas Tree Choir", "Reed LaFavor"],
+      "songs": ["Emmanuel, God with us"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1371,
+      "type": "prayer",
+      "description": "The congregation joins in prayer, reflecting on their blessings and the peace that comes from God. The pastor leads the prayer, asking for guidance and strength for those facing difficulties and celebrating the joy of love and community.",
+      "keywords": ["prayer", "opening", "community", "blessings", "faith"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: Knowing God Through His Commands (1 John 5:1-5)",
+      "start_time": 1602,
+      "type": "sermon",
+      "description": "Dr. Donald Gehrig delivers a sermon focusing on the importance of knowing God better through obeying His commands as outlined in 1 John 5:1-5. He emphasizes that these commands are not burdensome but are a reflection of our love for God and a growth in our faith.",
+      "keywords": ["God", "commands", "1 John", "obedience", "sermon"],
+      "performers": ["Dr. Donald Gehrig"],
+      "songs": [],
+      "scripture_references": ["1 John 5:1-5"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3341,
+      "type": "prayer",
+      "description": "In the closing prayer, the pastor leads the congregation in gratitude for the message and the convicting power of the Scriptures. He asks for strength to be obedient and to grow in faith as members reflect on their relationship with God.",
+      "keywords": ["closing", "prayer", "faith", "obedience", "relationship"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Unspecified]",
+      "start_time": 3513,
+      "type": "music",
+      "description": "The service concludes with a musical segment featuring the choir, offering a final expression of joy and celebration of the Christmas season. The performance underscores the communal spirit of worship as the congregation unites in song.",
+      "keywords": ["music", "choir", "celebration", "community", "worship"],
+      "performers": ["Living Christmas Tree Choir"],
+      "songs": ["[Unspecified]"],
+      "scripture_references": []
+    }
+  ]
+}
+```

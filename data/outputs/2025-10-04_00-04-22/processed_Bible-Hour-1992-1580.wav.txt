@@ -1,0 +1,96 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: His Glorious Church",
+      "start_time": 132,
+      "type": "music",
+      "description": "The sanctuary choir, accompanied by soloists Michelle Smekens and Kevin Rowe, presents a powerful anthem entitled 'His Glorious Church.' The song highlights the beauty and significance of the Church as the bride of Christ, emphasizing themes of His love and sacrifice.",
+      "keywords": ["church", "glorious", "love", "sacrifice", "choir"],
+      "performers": ["Sanctuary Choir", "Michelle Smekens", "Kevin Rowe"],
+      "songs": ["His Glorious Church"],
+      "scripture_references": []
+    },
+    {
+      "title": "interview: Peter Coby on Church Program",
+      "start_time": 363,
+      "type": "interview",
+      "description": "Peter Coby discusses the history and development of the church's musical program. He shares insights into the upcoming events and the hard work behind the scenes to encourage the church community in worship and fellowship.",
+      "keywords": ["Peter Coby", "church program", "music", "events", "community"],
+      "performers": ["Peter Coby"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Solo: Just The Time I Feel",
+      "start_time": 777,
+      "type": "music",
+      "description": "A heartfelt solo performance featuring 'Just The Time I Feel' where the artist reflects on personal struggles and the grace of God in times of need. This song beautifully encapsulates the journey towards knowing God more profoundly.",
+      "keywords": ["grace", "need", "soul", "worship", "solo"],
+      "performers": ["Bev Brunkey"],
+      "songs": ["Just The Time I Feel"],
+      "scripture_references": []
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 981,
+      "type": "prayer",
+      "description": "The service transitions into a solemn opening prayer led by the pastor, inviting the congregation to seek God's presence and guidance. The prayer sets the tone for worship and teaching, emphasizing the importance of a relationship with God.",
+      "keywords": ["prayer", "worship", "guidance", "congregation", "presence"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: Revelation 2",
+      "start_time": 1005,
+      "type": "scripture",
+      "description": "The pastor leads the congregation in a reading from the Book of Revelation, specifically Chapter 2, focusing on the letters to the churches. This passage highlights the challenges and instructions given to the early believers.",
+      "keywords": ["Revelation", "scripture", "church", "letters", "teaching"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Revelation 2"]
+    },
+    {
+      "title": "Message: The Compromising Church (Revelation 2:12-17)",
+      "start_time": 1011,
+      "type": "sermon",
+      "description": "Pastor Russell Moore delves into Revelation 2:12-17, examining the church at Pergamum and its struggles with compromising faith. He emphasizes the importance of maintaining integrity in belief and warnings against subtle sins that can lead to greater fallibility.",
+      "keywords": ["Pergamum", "compromise", "faith", "sermon", "doctrine"],
+      "performers": ["Russell Moore"],
+      "songs": [],
+      "scripture_references": ["Revelation 2:12-17"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3351,
+      "type": "prayer",
+      "description": "The service culminates in an invitation prayer, where individuals are encouraged to respond to the message and consider their relationship with Christ. This moment is filled with open hearts seeking connection and commitment.",
+      "keywords": ["invitation", "prayer", "response", "commitment", "relationship"],
+      "performers": ["Pastor"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "announcement: Closing Remarks",
+      "start_time": 3405,
+      "type": "announcement",
+      "description": "Leaders provide closing remarks and announcements about upcoming services and church events. They emphasize the importance of community and invite attendees to participate in future gatherings.",
+      "keywords": ["announcements", "community", "events", "service", "gatherings"],
+      "performers": ["Ed Richard"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: Closing Hymn",
+      "start_time": 3536,
+      "type": "music",
+      "description": "As the service wraps up, the choir performs a closing hymn, inviting the congregation to join in one last song of praise. This joyful conclusion reinforces the themes of worship and unity in faith.",
+      "keywords": ["hymn", "closing", "worship", "choir", "unity"],
+      "performers": ["Sanctuary Choir"],
+      "songs": ["Closing Hymn"],
+      "scripture_references": []
+    }
+  ]
+}
+```

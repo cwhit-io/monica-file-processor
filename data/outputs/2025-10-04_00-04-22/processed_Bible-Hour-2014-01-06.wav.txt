@@ -1,0 +1,66 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: Unidentified Song",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service opens with a choir performance, setting a joyful and reflective tone for the congregation. The music aims to inspire and prepare the hearts of those present for worship.",
+      "keywords": ["worship", "choir"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 35,
+      "type": "prayer",
+      "description": "An opening prayer is led, expressing gratitude for the opportunity to worship together and seeking divine guidance for the service. The prayer focuses on community and spiritual growth.",
+      "keywords": ["prayer", "community", "gratitude"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Congregational Hymn: Unidentified Song",
+      "start_time": 197,
+      "type": "music",
+      "description": "The congregation joins in singing a hymn that reinforces themes of devotion and praise. This moment encourages collective participation and reflection among attendees.",
+      "keywords": ["hymn", "congregation", "praise"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Message: Real Men Lead (Genesis 22)",
+      "start_time": 1315,
+      "type": "sermon",
+      "description": "In this impactful message, the speaker discusses the qualities of real men as leaders, emphasizing the importance of stepping into confusion, facing fears, and overcoming passivity. He uses the story of Abraham in Genesis as a guiding example.",
+      "keywords": ["leadership", "men", "Abraham", "faith", "fear"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["Genesis 22"]
+    },
+    {
+      "title": "prayer: Invitation Prayer",
+      "start_time": 3085,
+      "type": "prayer",
+      "description": "A heartfelt invitation prayer is offered, encouraging attendees to seek personal connections with God. The prayer focuses on opening hearts to divine guidance and strength for challenges.",
+      "keywords": ["invitation", "prayer", "guidance"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    },
+    {
+      "title": "Choir: Unidentified Song",
+      "start_time": 3534,
+      "type": "music",
+      "description": "The service concludes with the congregation engaging in a powerful choir performance, closing the worship experience on a high note of reflection and praise. It reinforces community and shared faith.",
+      "keywords": ["worship", "choir"],
+      "performers": ["[]"],
+      "songs": ["[]"],
+      "scripture_references": ["[]"]
+    }
+  ]
+}
+```

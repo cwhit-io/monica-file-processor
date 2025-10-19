@@ -1,0 +1,86 @@
+```json
+{
+  "chapters": [
+    {
+      "title": "Choir: [Song Title]",
+      "start_time": 0,
+      "type": "music",
+      "description": "The service begins with the ringing of bells, creating a reverent atmosphere for the congregation. The bells continue to ring, indicating the start of a spiritual journey as people are drawn into worship. This moment sets the stage for the heartfelt worship that follows.",
+      "keywords": ["bells", "worship", "atmosphere", "service"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Acapella Song]",
+      "start_time": 308,
+      "type": "music",
+      "description": "The Handbell Choir performs a beautiful acapella piece that invites the congregation to focus their hearts and minds on the Lord. As the human voices rise in harmony, it inspires worship and reflection. This segment emphasizes the beauty of music in praise.",
+      "keywords": ["choir", "acapella", "worship", "music"],
+      "performers": ["Joanie King", "Handbell Choir"],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Congregational Hymn: [Hymn Title]",
+      "start_time": 466,
+      "type": "music",
+      "description": "The congregation joins together to sing hymn number 249, celebrating the theme of rejoicing in the Lord. This communal act of worship brings everyone together, creating a powerful moment of unity in Christ. The song's stanzas focus on themes of praise and celebration.",
+      "keywords": ["hymn", "congregation", "praise", "rejoice"],
+      "performers": [],
+      "songs": ["Hymn 249"],
+      "scripture_references": []
+    },
+    {
+      "title": "scripture: Scripture Reading: [Philippians 4]",
+      "start_time": 658,
+      "type": "scripture",
+      "description": "The congregation recites the memory verse from Philippians 4:4-5 as a collective declaration of faith and encouragement. This act not only highlights the imperative to rejoice but also serves as a reminder of the nearness of the Lord. It fosters a spirit of unity and purpose among the attendees.",
+      "keywords": ["Philippians", "rejoice", "scripture", "unity"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": ["Philippians 4:4-5"]
+    },
+    {
+      "title": "prayer: Opening Prayer",
+      "start_time": 1351,
+      "type": "prayer",
+      "description": "The opening prayer is a heartfelt plea for God's presence and blessing over the gathered congregation. It acknowledges the need for spiritual devotion and invites God into the worship experience. Throughout this prayer, themes of gratitude and a desire for community are articulated.",
+      "keywords": ["prayer", "worship", "community", "God's presence"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Message: A Good View from a Bad Spot (Colossians 1)",
+      "start_time": 185,
+      "type": "sermon",
+      "description": "Pastor Rick Cox delivers a powerful message drawn from the Book of Colossians, focusing on how Paul maintained perspective while imprisoned. The sermon emphasizes the concept of enduring faith in difficult circumstances, much like a marathon runner. Listeners are encouraged to draw strength from Christ's supreme authority over their lives.",
+      "keywords": ["sermon", "Colossians", "perseverance", "faith", "Paul"],
+      "performers": ["Rick Cox"],
+      "songs": [],
+      "scripture_references": ["Colossians 1"]
+    },
+    {
+      "title": "prayer: Closing Prayer",
+      "start_time": 3509,
+      "type": "prayer",
+      "description": "The closing prayer wraps up the service with gratitude and reflection on the day's message. It invites the congregation to commit their hearts and decisions to the Lord. This communal prayer seeks continued guidance and strength through faith.",
+      "keywords": ["closing prayer", "reflection", "gratitude", "commitment"],
+      "performers": [],
+      "songs": [],
+      "scripture_references": []
+    },
+    {
+      "title": "Choir: [Final Song]",
+      "start_time": 3640,
+      "type": "music",
+      "description": "The service concludes with a musical piece that encapsulates the day's themes of worship and community. This final song invites the congregation to carry the spirit of the messages heard into the world, celebrating their shared faith and fellowship.",
+      "keywords": ["final song", "worship", "community", "celebration"],
+      "performers": ["Choir"],
+      "songs": [],
+      "scripture_references": []
+    }
+  ]
+}
+```

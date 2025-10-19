@@ -1,9 +1,15 @@
 version: '3.8'
 
+# Docker Compose configuration for building from source
+# Use this if you want to build the image locally instead of using the pre-built one
+
 services:
   monica-file-processor:
-    image: cwhitio/monica-file-processor:${DOCKER_TAG:-latest}
-    container_name: monica-file-processor
+    build: 
+      context: .
+      args:
+        GITHUB_BRANCH: ${GITHUB_BRANCH:-main}
+    container_name: monica-file-processor-build
     ports:
       - "3003:3003"
     env_file:

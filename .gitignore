@@ -54,6 +54,8 @@ data/outputs/*
 !data/outputs/.gitkeep
 data/config/*
 !data/config/.gitkeep
+!data/config/models.json
+!data/config/prompts.json
 
 # Legacy directories (if they still exist)
 outputs/*

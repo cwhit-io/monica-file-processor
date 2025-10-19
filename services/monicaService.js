@@ -125,7 +125,9 @@ function trackFileProcessing(filePath) {
 }
 
 // Path to models.json
-const modelsPath = path.join(__dirname, '../data/models.json');
+const { paths } = require('../config/paths');
+
+const modelsPath = paths.models;
 
 // Load model information from JSON
 let modelData = { models: [] };

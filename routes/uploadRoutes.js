@@ -7,11 +7,12 @@ const archiver = require('archiver');
 const { processFile, setTotalFiles, cancelProcessing, getProgress } = require('../services/monicaService');
 const { ensureDirectoryExists } = require('../utils/fileUtils');
 const { logInfo, logError } = require('../utils/logger');
+const { paths } = require('../config/paths');
 // Set up multer storage
 const storage = multer.diskStorage({
   destination: function (req, file, cb) {
     try {
-      const uploadDir = path.join(__dirname, '../uploads');
+      const uploadDir = paths.uploads;
       ensureDirectoryExists(uploadDir);
       console.log(`[MULTER] Upload destination: ${uploadDir}`);
       cb(null, uploadDir);
@@ -158,7 +159,7 @@ router.post('/process-files', upload.array('files'), handleMulterError, async (r
     console.log(`[UPLOAD REQUEST] ${new Date().toISOString()} [ID: ${requestId}]`);
     console.log('='.repeat(80));
     let filesToProcess = [];
-    const uploadDir = path.join(__dirname, '../uploads');
+    const uploadDir = paths.uploads;
     const allowedExtensions = ['.txt', '.md', '.srt'];
     // Handle server folder with relative path support
     const serverFolderInput = req.body.serverFolderPath?.trim();
@@ -263,7 +264,7 @@ router.post('/process-files', upload.array('files'), handleMulterError, async (r
     console.log(`Files: ${filesToProcess.length}`);
     // Create timestamped output folder
     const outputFolderName = createTimestampFolderName();
-    const outputDir = path.join(__dirname, '../outputs', outputFolderName);
+    const outputDir = path.join(paths.outputs, outputFolderName);
     ensureDirectoryExists(outputDir);
     console.log(`\n[OUTPUT]`);
     console.log(`Output folder: ${outputFolderName}`);
@@ -378,39 +379,39 @@ router.post('/process-files', upload.array('files'), handleMulterError, async (r
   }
 });
 // GET route to serve processed files from timestamped folders
-router.get../ data / outputs /: folder /:filename', (req, res) => {
-const folder = req.params.folder;
-const filename = req.params.filename;
-const filePath = path.join(__dirname, '../outputs', folder, filename);
-console.log(`[FILE REQUEST] ${folder}/${filename}`);
-if (fs.existsSync(filePath)) {
-  const stats = fs.statSync(filePath);
-  console.log(`✓ File found: ${(stats.size / 1024).toFixed(2)} KB`);
-  res.sendFile(filePath);
-} else {
-  console.error(`✗ File not found: ${filePath}`);
-  res.status(404).json({
-    success: false,
-    message: 'File not found'
-  });
-}
+router.get('/data/outputs/:folder/:filename', (req, res) => {
+  const folder = req.params.folder;
+  const filename = req.params.filename;
+  const filePath = path.join(paths.outputs, folder, filename);
+  console.log(`[FILE REQUEST] ${folder}/${filename}`);
+  if (fs.existsSync(filePath)) {
+    const stats = fs.statSync(filePath);
+    console.log(`✓ File found: ${(stats.size / 1024).toFixed(2)} KB`);
+    res.sendFile(filePath);
+  } else {
+    console.error(`✗ File not found: ${filePath}`);
+    res.status(404).json({
+      success: false,
+      message: 'File not found'
+    });
+  }
 });
 // GET route to serve processed files (backward compatibility)
-router.get../ data / outputs /:filename', (req, res) => {
-const filename = req.params.filename;
-const filePath = path.join(__dirname, '../outputs', filename);
-console.log(`[FILE REQUEST - LEGACY] ${filename}`);
-if (fs.existsSync(filePath)) {
-  const stats = fs.statSync(filePath);
-  console.log(`✓ File found: ${(stats.size / 1024).toFixed(2)} KB`);
-  res.sendFile(filePath);
-} else {
-  console.error(`✗ File not found: ${filePath}`);
-  res.status(404).json({
-    success: false,
-    message: 'File not found'
-  });
-}
+router.get('/data/outputs/:filename', (req, res) => {
+  const filename = req.params.filename;
+  const filePath = path.join(paths.outputs, filename);
+  console.log(`[FILE REQUEST - LEGACY] ${filename}`);
+  if (fs.existsSync(filePath)) {
+    const stats = fs.statSync(filePath);
+    console.log(`✓ File found: ${(stats.size / 1024).toFixed(2)} KB`);
+    res.sendFile(filePath);
+  } else {
+    console.error(`✗ File not found: ${filePath}`);
+    res.status(404).json({
+      success: false,
+      message: 'File not found'
+    });
+  }
 });
 // GET route to download all files in a folder as a zip
 router.get('/download-all/:folder', (req, res) => {
@@ -418,7 +419,7 @@ router.get('/download-all/:folder', (req, res) => {
   const startTime = Date.now();
   try {
     const folder = req.params.folder;
-    const folderPath = path.join(__dirname, '../outputs', folder);
+    const folderPath = path.join(paths.outputs, folder);
     console.log('\n' + '='.repeat(80));
     console.log(`[ZIP DOWNLOAD] ${new Date().toISOString()} [ID: ${requestId}]`);
     console.log('='.repeat(80));

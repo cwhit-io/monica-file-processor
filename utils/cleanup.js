@@ -1,6 +1,7 @@
 const fs = require('fs').promises;
 const path = require('path');
 const { logInfo, logError } = require('./logger');
+const { paths } = require('../config/paths');
 
 /**
  * Delete files older than the specified age
@@ -18,29 +19,29 @@ async function cleanupOldFiles(directory, maxAgeHours) {
       await fs.mkdir(directory, { recursive: true });
       return 0;
     }
-    
+
     // Get all files in the directory
     const files = await fs.readdir(directory);
-    
+
     if (files.length === 0) {
       logInfo(`No files found in ${directory}`);
       return 0;
     }
-    
+
     // Calculate cutoff time
     const now = Date.now();
     const cutoffTime = now - (maxAgeHours * 60 * 60 * 1000);
-    
+
     let deletedCount = 0;
-    
+
     // Process each file
     for (const file of files) {
       const filePath = path.join(directory, file);
-      
+
       try {
         // Get file stats
         const stats = await fs.stat(filePath);
-        
+
         // Check if file is older than cutoff time
         if (stats.mtimeMs < cutoffTime) {
           await fs.unlink(filePath);
@@ -51,7 +52,7 @@ async function cleanupOldFiles(directory, maxAgeHours) {
         logError(`Error processing file ${filePath}: ${fileError.message}`);
       }
     }
-    
+
     return deletedCount;
   } catch (error) {
     logError(`Error cleaning up directory ${directory}: ${error.message}`);
@@ -65,18 +66,18 @@ async function cleanupOldFiles(directory, maxAgeHours) {
  * @param {number} outputsMaxAgeHours - Maximum age for outputs in hours
  */
 async function cleanup(uploadsMaxAgeHours = 200, outputsMaxAgeHours = 400) {
-  const uploadsDir = path.join(__dirname, '..', 'uploads');
-  const outputsDir = path.join(__dirname, '..', 'outputs');
-  
+  const uploadsDir = paths.uploads;
+  const outputsDir = paths.outputs;
+
   logInfo('Starting cleanup...');
-  
+
   try {
     const deletedUploads = await cleanupOldFiles(uploadsDir, uploadsMaxAgeHours);
     logInfo(`Cleaned up ${deletedUploads} files from uploads directory`);
-    
+
     const deletedOutputs = await cleanupOldFiles(outputsDir, outputsMaxAgeHours);
     logInfo(`Cleaned up ${deletedOutputs} files from outputs directory`);
-    
+
     logInfo('Cleanup completed successfully');
     return {
       uploadsDeleted: deletedUploads,
@@ -94,7 +95,7 @@ if (require.main === module) {
   const args = process.argv.slice(2);
   const uploadsMaxAge = parseInt(args[0]) || 200; // Default 24 hours
   const outputsMaxAge = parseInt(args[1]) || 400; // Default 72 hours
-  
+
   cleanup(uploadsMaxAge, outputsMaxAge)
     .then(result => {
       console.log(`Cleanup completed. Deleted ${result.uploadsDeleted} upload files and ${result.outputsDeleted} output files.`);

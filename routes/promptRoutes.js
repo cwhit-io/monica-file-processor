@@ -3,9 +3,10 @@ const router = express.Router();
 const path = require('path');
 const fs = require('fs').promises;
 const { logInfo, logError } = require('../utils/logger');
+const { paths } = require('../config/paths');
 
 // Path to prompts.json
-const promptsPath = path.join(__dirname, '../data/prompts.json');
+const promptsPath = paths.prompts;
 
 // GET route to serve prompt information
 router.get('/prompts', async (req, res) => {

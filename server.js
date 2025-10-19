@@ -4,9 +4,11 @@ const path = require('path');
 const uploadRoutes = require('./routes/uploadRoutes');
 const modelRoutes = require('./routes/modelRoutes');
 const promptRoutes = require('./routes/promptRoutes');
+const serverRoutes = require('./routes/serverRoutes');
 const { cleanup } = require('./utils/cleanup');
 const { logInfo } = require('./utils/logger');
 const progressRoutes = require('./routes/progressRoutes');
+const { initializePaths } = require('./config/paths');
 
 
 const app = express();
@@ -30,6 +32,7 @@ app.use((req, res, next) => {
 app.use('/api', uploadRoutes);
 app.use('/api', modelRoutes);
 app.use('/api', promptRoutes);
+app.use('/api', serverRoutes);
 
 // Serve the frontend
 app.get('/', (req, res) => {
@@ -160,11 +163,23 @@ process.on('unhandledRejection', (reason, promise) => {
   process.exit(1);
 });
 
-// Start server
-app.listen(PORT, () => {
-  console.log('\n' + '='.repeat(80));
-  console.log(`✓ Server running on port ${PORT}`);
-  console.log(`✓ Environment: ${process.env.NODE_ENV || 'development'}`);
-  console.log(`✓ Cleanup interval: ${CLEANUP_INTERVAL / (60 * 60 * 1000)} hours`);
-  console.log('='.repeat(80) + '\n');
-});
+// Initialize paths and start server
+async function startServer() {
+  try {
+    await initializePaths();
+    console.log('✓ Data directories initialized');
+
+    app.listen(PORT, () => {
+      console.log('\n' + '='.repeat(80));
+      console.log(`✓ Server running on port ${PORT}`);
+      console.log(`✓ Environment: ${process.env.NODE_ENV || 'development'}`);
+      console.log(`✓ Cleanup interval: ${CLEANUP_INTERVAL / (60 * 60 * 1000)} hours`);
+      console.log('='.repeat(80) + '\n');
+    });
+  } catch (error) {
+    console.error('Failed to initialize paths:', error);
+    process.exit(1);
+  }
+}
+
+startServer();

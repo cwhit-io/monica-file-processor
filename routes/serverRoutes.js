@@ -1,3 +1,9 @@
+const express = require('express');
+const router = express.Router();
+const path = require('path');
+const fs = require('fs');
+const { paths } = require('../config/paths');
+
 // GET route to list contents of a specific server folder (for preview)
 router.get('/server-folder-contents', (req, res) => {
     try {
@@ -21,7 +27,7 @@ router.get('/server-folder-contents', (req, res) => {
         const resolvedPath = path.resolve(cwd, normalizedPath);
 
         // Security check: ensure path is within allowed bases and project root
-        const allowedBases = ['server-folders', 'data/inputs', 'uploads/archive'];
+        const allowedBases = ['data/server-folders', 'data/inputs', 'data/uploads/archive'];
         const isAllowed = allowedBases.some(base => {
             const basePath = path.join(cwd, base);
             return resolvedPath.startsWith(basePath);
@@ -84,7 +90,7 @@ router.get('/server-folders', (req, res, next) => {
         console.log('='.repeat(80));
 
         const cwd = process.cwd();
-        const serverFoldersPath = path.join(cwd, 'server-folders');
+        const serverFoldersPath = paths.serverFolders;
 
         console.log(`CWD: ${cwd}`);
         console.log(`Server Folders Path: ${serverFoldersPath}`);
@@ -114,7 +120,7 @@ router.get('/server-folders', (req, res, next) => {
             success: true,
             folders: folders.map(folder => ({
                 name: folder,
-                path: `server-folders/${folder}`
+                path: `data/server-folders/${folder}`
             }))
         });
 
@@ -130,5 +136,5 @@ router.get('/server-folders', (req, res, next) => {
     }
 });
 
-
+module.exports = router;
 module.exports = router;

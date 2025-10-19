@@ -1,12 +1,13 @@
 const express = require('express');
 const router = express.Router();
-const fs = require('fs');
+const fs = require('fs').promises;
 const path = require('path');
+const { paths } = require('../config/paths');
 
 // GET available models from models.json
 router.get('/models', (req, res) => {
   try {
-    const modelsPath = path.join(__dirname, '..', 'data', 'models.json');
+    const modelsPath = paths.models;
 
     console.log(`[MODELS REQUEST] ${new Date().toISOString()}`);
     console.log(`Looking for models at: ${modelsPath}`);

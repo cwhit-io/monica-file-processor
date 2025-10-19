@@ -34,6 +34,15 @@ app.use('/api', modelRoutes);
 app.use('/api', promptRoutes);
 app.use('/api', serverRoutes);
 
+// Health check endpoint for Docker
+app.get('/health', (req, res) => {
+  res.status(200).json({
+    status: 'healthy',
+    timestamp: new Date().toISOString(),
+    uptime: process.uptime()
+  });
+});
+
 // Serve the frontend
 app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'index.html'));
@@ -112,8 +121,9 @@ runCleanup('initial').catch(err => {
   console.error('⚠ Initial cleanup failed, but server will continue...');
 });
 
-// Schedule regular cleanup (every 6 hours)
-const CLEANUP_INTERVAL = 6 * 60 * 60 * 1000; // 6 hours in milliseconds
+// Schedule regular cleanup (configurable via environment)
+const CLEANUP_INTERVAL_HOURS = parseInt(process.env.CLEANUP_INTERVAL_HOURS) || 6;
+const CLEANUP_INTERVAL = CLEANUP_INTERVAL_HOURS * 60 * 60 * 1000; // Convert hours to milliseconds
 setInterval(() => {
   runCleanup('scheduled').catch(err => {
     console.error('⚠ Scheduled cleanup failed, will retry at next interval...');

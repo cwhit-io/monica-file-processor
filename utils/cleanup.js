@@ -65,7 +65,10 @@ async function cleanupOldFiles(directory, maxAgeHours) {
  * @param {number} uploadsMaxAgeHours - Maximum age for uploads in hours
  * @param {number} outputsMaxAgeHours - Maximum age for outputs in hours
  */
-async function cleanup(uploadsMaxAgeHours = 200, outputsMaxAgeHours = 400) {
+async function cleanup(
+  uploadsMaxAgeHours = parseInt(process.env.UPLOADS_MAX_AGE_HOURS) || 200,
+  outputsMaxAgeHours = parseInt(process.env.OUTPUTS_MAX_AGE_HOURS) || 400
+) {
   const uploadsDir = paths.uploads;
   const outputsDir = paths.outputs;
 

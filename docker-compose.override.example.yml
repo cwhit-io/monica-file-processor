@@ -1,0 +1,26 @@
+# Docker Compose Override Example
+# This file shows how users can create custom overrides
+# Save as docker-compose.override.yml for automatic loading
+
+version: '3.8'
+
+services:
+  monica-file-processor:
+    environment:
+      # Override default model
+      - DEFAULT_MODEL=gpt-4o
+      # Override port if needed  
+      - PORT=3004
+      # Add custom cleanup settings
+      - CLEANUP_INTERVAL_HOURS=12
+      - UPLOADS_MAX_AGE_HOURS=48
+      - OUTPUTS_MAX_AGE_HOURS=168
+    ports:
+      # Update port mapping to match PORT override
+      - "3004:3004"
+    # Add custom volume mounts if needed
+    volumes:
+      - monica_data:/app/data
+      # Uncomment to mount specific host directories
+      # - ./custom-configs:/app/data/config:ro
+      # - ./backups:/app/backups

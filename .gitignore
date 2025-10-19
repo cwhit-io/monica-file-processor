@@ -45,7 +45,17 @@ temp/
 # Testing
 coverage/
 
-# Server folders - keep directories but ignore contents
+# Data directory - ignore all contents but keep empty subdirectories
+data/uploads/*
+!data/uploads/.gitkeep
+data/server-folders/*
+!data/server-folders/.gitkeep
+data/outputs/*
+!data/outputs/.gitkeep
+data/config/*
+!data/config/.gitkeep
+
+# Legacy directories (if they still exist)
 outputs/*
 !outputs/.gitkeep
 uploads/*

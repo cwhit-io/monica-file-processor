@@ -1,6 +1,0 @@
-[time=0] (bell ringing)
-[time=30] (upbeat music)
-[time=60] [MUSIC - 127 seconds]
-[time=192] [MUSIC] Be thou my vision [MUSIC] O Lord of my heart [MUSIC] Not be all else to me [MUSIC] Save that thou art [MUSIC] Thou my best thought [MUSIC] By day or by night [MUSIC] Waking or sleeping [MUSIC] Thy presence [MUSIC] My light [MUSIC] Rich as I heed not [MUSIC] Nor man's empty praise [MUSIC] Thou mine inheritance [MUSIC] Now and always [MUSIC] Thou and thou only [MUSIC] First in my heart [MUSIC] High King of heaven [MUSIC] My treasure [MUSIC] Thou art [MUSIC]
-[time=3559] [MUSIC - 38 seconds]
-[time=3607] ♪
